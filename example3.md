@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table
+title: Budapest 1-es választókerület
 permalink: /table/
 ---
 
@@ -10,37 +10,32 @@ permalink: /table/
     <h5>Borderless Table</h5> 
     <div class="row">
           <div class="col s12">
-            <table>
+		  <h3>Budapest 1-es választókerület (V. kerület)</h3>
+            <table class="responsive-table">
               <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
+                    <th>Jelöltek</th>
+                    <th>Várható szavazatarány (átszavazással)</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
-                </tr>
+                  <td>Fidesz - xy</td>
+                  <td>Együtt - Juhász Péter</td>
+                  <td>LMP</td>
+				  <td>Momentum - Fekete-Győr András</td>
+				 </tr>
                 <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
-                </tr>
-                <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
+                  <td>46%</td>
+                  <td>42%</td>
+                  <td>5%</td>
+				  <td>4%</td>
                 </tr>
               </tbody>
             </table>
+			<h4>Várható győztes: Fidesz - xy : 62%-os valószínűség
+			<h4>Legesélyesebb ellenzéki jelölt: Juhász Péter (Együtt): 37%-os győzelmi esély
+			<h5>Becslés hibahatára: +/- 5.2%
           </div>
     </div>
 </div>
