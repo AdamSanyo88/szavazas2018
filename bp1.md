@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Budapest 1-es választókerület
-permalink: /bp1/
+permalink: /bp1
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
