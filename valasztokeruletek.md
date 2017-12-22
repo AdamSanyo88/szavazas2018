@@ -5,17 +5,270 @@ permalink: /valasztokeruletek/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
-
+    
 <div class="section">
-    <h5>Raised</h5> 
-
     <div class="row">
           <div class="col s12">
-                <a class="waves-effect waves-light btn">button</a>
-                <a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>button</a>
-                <a class="waves-effect waves-light btn"><i class="material-icons right">cloud</i>button</a>
+		  <h5>Településlista</h5> 
+<p class="light">Az alábbi táblázat megmutatja, hogy mely települések tartoznak egy-egy választókerületbe. Használd a Ctrl+F billentyűkombinációt a kereséshez.</p>
+            <table class="responsive-table">
+              <thead>
+                <tr>
+                    <th>Választókerület</th>
+                    <th>Települések</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+<td><a href="bp1">Budapesti 1.</td>
+<td><a href="bp2">Budapesti 2.</td>
+<td><a href="bp3">Budapesti 3.</td>
+<td><a href="bp4">Budapesti 4.</td>
+<td><a href="bp5">Budapesti 5.</td>
+<td><a href="bp6">Budapesti 6.</td>
+<td><a href="bp7">Budapesti 7.</td>
+<td><a href="bp8">Budapesti 8.</td>
+<td><a href="bp9">Budapesti 9.</td>
+<td><a href="bp10">Budapesti 10.</td>
+<td><a href="bp11">Budapesti 11.</td>
+<td><a href="bp12">Budapesti 12.</td>
+<td><a href="bp13">Budapesti 13.</td>
+<td><a href="bp14">Budapesti 14.</td>
+<td><a href="bp15">Budapesti 15.</td>
+<td><a href="bp16">Budapesti 16.</td>
+<td><a href="bp17">Budapesti 17.</td>
+<td><a href="bp18">Budapesti 18.</td>
+<td><a href="bk1">Bács-Kiskun megyei 1.</td>
+<td><a href="bk2">Bács-Kiskun megyei 2.</td>
+<td><a href="bk3">Bács-Kiskun megyei 3.</td>
+<td><a href="bk4">Bács-Kiskun megyei 4.</td>
+<td><a href="bk5">Bács-Kiskun megyei 5.</td>
+<td><a href="bk6">Bács-Kiskun megyei 6.</td>
+<td><a href="ba1">Baranya megyei 1.</td>
+<td><a href="ba2">Baranya megyei 2.</td>
+<td><a href="ba3">Baranya megyei 3.</td>
+<td><a href="ba4">Baranya megyei 4.</td>
+<td><a href="ba5">Békés megyei 1.</td>
+<td><a href="be1">Békés megyei 2.</td>
+<td><a href="be2">Békés megyei 3.</td>
+<td><a href="b3">Békés megyei 4.</td>
+<td><a href="baz1">Borsod-Abaúj-Zemplén megyei 1.</td>
+<td><a href="baz2">Borsod-Abaúj-Zemplén megyei 2.</td>
+<td><a href="baz3">Borsod-Abaúj-Zemplén megyei 3.</td>
+<td><a href="baz4">Borsod-Abaúj-Zemplén megyei 4.</td>
+<td><a href="baz5">Borsod-Abaúj-Zemplén megyei 5.</td>
+<td><a href="baz6">Borsod-Abaúj-Zemplén megyei 6.</td>
+<td><a href="baz7">Borsod-Abaúj-Zemplén megyei 7.</td>
+<td><a href="cs1">Csongrád megyei 1.</td>
+<td><a href="cs2">Csongrád megyei 2.</td>
+<td><a href="cs3">Csongrád megyei 3.</td>
+<td><a href="cs4">Csongrád megyei 4.</td>
+<td><a href="fe1">Fejér megyei 1.</td>
+<td><a href="fe2">Fejér megyei 2.</td>
+<td><a href="fe3">Fejér megyei 3.</td>
+<td><a href="fe4">Fejér megyei 4.</td>
+<td><a href="fe5">Fejér megyei 5.</td>
+<td><a href="gy1">Győr-Moson-Sopron megyei 1.</td>
+<td><a href="gy2">Győr-Moson-Sopron megyei 2.</td>
+<td><a href="gy3">Győr-Moson-Sopron megyei 3.</td>
+<td><a href="gy4">Győr-Moson-Sopron megyei 4.</td>
+<td><a href="gy5">Győr-Moson-Sopron megyei 5.</td>
+<td><a href="hb1">Hajdú-Bihar megyei 1.</td>
+<td><a href="hb2">Hajdú-Bihar megyei 2.</td>
+<td><a href="hb3">Hajdú-Bihar megyei 3.</td>
+<td><a href="hb4">Hajdú-Bihar megyei 4.</td>
+<td><a href="hb5">Hajdú-Bihar megyei 5.</td>
+<td><a href="hb6">Hajdú-Bihar megyei 6.</td>
+<td><a href="he1">Heves megyei 1.</td>
+<td><a href="he2">Heves megyei 2.</td>
+<td><a href="he3">Heves megyei 3.</td>
+<td><a href="sz1">Jász-Nagykun-Szolnok megyei 1.</td>
+<td><a href="sz2">Jász-Nagykun-Szolnok megyei 2.</td>
+<td><a href="sz3">Jász-Nagykun-Szolnok megyei 3.</td>
+<td><a href="sz4">Jász-Nagykun-Szolnok megyei 4.</td>
+<td><a href="ke1">Komárom-Esztergom megyei 1.</td>
+<td><a href="ke2">Komárom-Esztergom megyei 2.</td>
+<td><a href="ke3">Komárom-Esztergom megyei 3.</td>
+<td><a href="no1">Nógrád megyei 1.</td>
+<td><a href="no2">Nógrád megyei 2.</td>
+<td><a href="pe1">Pest megyei 1.</td>
+<td><a href="pe2">Pest megyei 2.</td>
+<td><a href="pe3">Pest megyei 3.</td>
+<td><a href="pe4">Pest megyei 4.</td>
+<td><a href="pe5">Pest megyei 5.</td>
+<td><a href="pe6">Pest megyei 6.</td>
+<td><a href="pe7">Pest megyei 7.</td>
+<td><a href="pe8">Pest megyei 8.</td>
+<td><a href="pe9">Pest megyei 9.</td>
+<td><a href="pe10">Pest megyei 10.</td>
+<td><a href="pe11">Pest megyei 11.</td>
+<td><a href="pe12">Pest megyei 12.</td>
+<td><a href="so1">Somogy megyei 1.</td>
+<td><a href="so2">Somogy megyei 2.</td>
+<td><a href="so3">Somogy megyei 3.</td>
+<td><a href="so4">Somogy megyei 4.</td>
+<td><a href="szb1">Szabolcs-Szatmár-Bereg megyei 1.</td>
+<td><a href="szb2">Szabolcs-Szatmár-Bereg megyei 2.</td>
+<td><a href="szb3">Szabolcs-Szatmár-Bereg megyei 3.</td>
+<td><a href="szb4">Szabolcs-Szatmár-Bereg megyei 4.</td>
+<td><a href="szb5">Szabolcs-Szatmár-Bereg megyei 5.</td>
+<td><a href="szb6">Szabolcs-Szatmár-Bereg megyei 6.</td>
+<td><a href="to1">Tolna megyei 1.</td>
+<td><a href="to2">Tolna megyei 2.</td>
+<td><a href="to3">Tolna megyei 3.</td>
+<td><a href="va1">Vas megyei 1.</td>
+<td><a href="va2">Vas megyei 2.</td>
+<td><a href="va3">Vas megyei 3.</td>
+<td><a href="ve1">Veszprém megyei 1.</td>
+<td><a href="ve2">Veszprém megyei 2.</td>
+<td><a href="ve3">Veszprém megyei 3.</td>
+<td><a href="ve4">Veszprém megyei 4.</td>
+<td><a href="za1">Zala megyei 1.</td>
+<td><a href="za2">Zala megyei 2.</td>
+<td><a href="za3">Zala megyei 3.</td>
+
+				 </tr>
+                <tr>
+                  <td>I. kerület egész, V. kerület egész, VIII. és IX. kerület részben</td>
+<td>XI. kerület részben</td>
+<td>XII. kerület egész, II. kerület részben</td>
+<td>II. és III. kerület részben</td>
+<td>VI. és VII. kerület egész</td>
+<td>VIII. és IX. kerület részben</td>
+<td>XIII. kerület részben</td>
+<td>XIV. kerület részben</td>
+<td>X. és XIX. kerület részben</td>
+<td>III. kerület részben</td>
+<td>IV. és XIII. kerület részben</td>
+<td>XV. kerület egész, IV. kerület részben</td>
+<td>XVI. kerüet egész, XIV. kerület részben</td>
+<td>XVII. kerület egész, X. kerület részben</td>
+<td>XVIII. kerület egész</td>
+<td>XX. kerület egész, XIX. kerület részben</td>
+<td>XXI. és XXIII. kerület egész</td>
+<td>XXII. kerület egész, XI. kerület részben</td>
+<td>Felsőlajos, Fülöpháza, Kecskemét egy része, Kerekegyháza, Kunadacs, Kunbaracs, Kunpeszér, Kunszentmiklós, Ladánybene, Lajosmizse, Szabadszállás, Szalkszentmárton, Tass</td>
+<td>Ballószög, Helvécia, Kecskemét egy része, Szentkirály, Tiszakécske, Városföld</td>
+<td>Akasztó, Apostag, Bátya, Csengőd, Drágszél, Dunaegyháza, Dunapataj, Dunaszentbenedek, Dunatetétlen, Dunavecse, Foktő, Géderlak, Harta, Homokmégy, Kalocsa, Kaskantyú, Kiskőrös, Miske, Ordas, Öregcsertő, Páhi, Solt, Soltszentimre, Soltvadkert, Szakmár, Tabdi, Újsolt, Újtelek, Uszód</td>
+<td>Ágasegyháza, Bócsa, Bugac, Bugacpusztaháza, Csólyospálos, Fülöpjakab, Fülöpszállás, Gátér, Izsák, Jakabszállás, Jászszentlászló, Kiskunfélegyháza, Kiskunmajsa, Kömpöc, Kunszállás, Lakitelek, Móricgát, Nyárlőrinc, Orgovány, Pálmonostora, Petőfiszállás, Szank, Tiszaalpár, Tiszaug</td>
+<td>Bácsalmás, Bácsszőlős, Balotaszállás, Borota, Császártöltés, Csikéria, Hajós, Harkakötöny, Imrehegy, Jánoshalma, Kecel, Kelebia, Kéleshalom, Kiskunhalas, Kisszállás, Kunbaja, Kunfehértó, Mélykút, Pirtó, Tataháza, Tázlár, Tompa, Zsana</td>
+<td>Bácsbokod, Bácsborsód, Bácsszentgyörgy, Baja, Bátmonostor, Csátalja, Csávoly, Dávod, Dunafalva, Dusnok, Érsekcsanád, Érsekhalma, Fajsz, Felsőszentiván, Gara, Hercegszántó, Katymár, Madaras, Mátételke, Nagybaracska, Nemesnádudvar, Rém, Sükösd, Szeremle, Vaskút</td>
+<td>Gyód, Keszü, Kökény, Pécs egy része, Pécsudvard, Pogány</td>
+<td>Berkesd, Bogád, Cserkút, Ellend, Hásságy, Komló, Kozármisleny, Kővágószőlős, Lothárd, Magyarsarlós, Mánfa, Nagykozár, Orfű, Pereked, Pécs egy része, Romonya, Szemely, Szilágy</td>
+<td>Ág, Alsómocsolád, Apátvarasd, Babarc, Bár, Belvárdgyula, Beremend, Bezedek, Bikal, Birján, Bóly, Borjád, Dunaszekcső, Egerág, Egyházasharaszti, Egyházaskozár, Erdősmárok, Erdősmecske, Erzsébet, Fazekasboda, Feked, Geresdlak, Görcsönydoboka, Hegyhátmaróc, Hidas, Himesháza, Homorúd, Hosszúhetény, Illocska, Ivánbattyán, Ivándárda, Kárász, Kásád, Kátoly, Kékesd, Kisbudmér, Kisharsány, Kisherend, Kisjakabfalva, Kiskassa, Kislippó, Kisnyárád, Kistapolca, Köblény, Kölked, Lánycsók, Lapáncsa, Lippó, Liptód, Lovászhetény, Mágocs, Magyarbóly, Magyaregregy, Majs, Maráza, Máriakéménd, Márok, Martonfa, Máza, Mecseknádasd, Mekényes, Mohács, Monyoród, Nagybudmér, Nagyhajmás, Nagyharsány, Nagynyárád, Nagypall, Nagytótfalu, Óbánya, Ófalu, Olasz, Old, Palkonya, Palotabozsok, Pécsdevecser, Pécsvárad, Peterd, Pócsa, Sárok, Sátorhely, Siklósnagyfalu, Somberek, Szajk, Szalatnak, Szárász, Szászvár, Szebény, Szederkény, Székelyszabar, Szellő, Szőkéd, Szűr, Tófű, Töttös, Udvar, Újpetre, Vékény, Véménd, Versend, Villány, Villánykövesd, Vokány, Zengővárkony</td>
+<td>Abaliget, Adorjás, Almamellék, Almáskeresztúr, Alsószentmárton, Aranyosgadány, Áta, Babarcszőlős, Bakóca, Bakonya, Baksa, Bánfa, Baranyahídvég, Baranyajenő, Baranyaszentgyörgy, Basal, Besence, Bicsérd, Bisse, Boda, Bodolyabér, Bogádmindszent, Bogdása, Boldogasszonyfa, Bosta, Botykapeterd, Bükkösd, Bürüs, Cún, Csányoszró, Csarnóta, Csebény, Cserdi, Csertő, Csonkamindszent, Dencsháza, Dinnyeberki, Diósviszló, Drávacsehi, Drávacsepely, Drávafok, Drávaiványi, Drávakeresztúr, Drávapalkonya, Drávapiski, Drávaszabolcs, Drávaszerdahely, Drávasztára, Endrőc, Felsőegerszeg, Felsőszentmárton, Garé, Gerde, Gerényes, Gilvánfa, Gordisa, Gödre, Görcsöny, Gyöngyfa, Gyöngyösmellék, Harkány, Hegyszentmárton, Helesfa, Hetvehely, Hirics, Hobol, Horváthertelend, Husztót, Ibafa, Ipacsfa, Kacsóta, Kákics, Katádfa, Kémes, Kemse, Kétújfalu, Királyegyháza, Kisasszonyfa, Kisbeszterce, Kisdér, Kisdobsza, Kishajmás, Kistamási, Kistótfalu, Kisvaszar, Kisszentmárton, Kórós, Kovácshida, Kovácsszénája, Kővágótöttös, Liget, Lúzsok, Magyarhertelend, Magyarlukafa, Magyarmecske, Magyarszék, Magyartelek, Márfa, Markóc, Marócsa, Matty, Mecsekpölöske, Merenye, Meződ, Mindszentgodisa, Molvány, Mozsgó, Nagycsány, Nagydobsza, Nagypeterd, Nagyváty, Nemeske, Nyugotszenterzsébet, Ócsárd, Okorág, Okorvölgy, Oroszló, Ózdfalu, Palé, Páprád, Patapoklosi, Pécsbagota, Pellérd, Pettend, Piskó, Rádfalva, Regenye, Rózsafa, Sámod, Sásd, Sellye, Siklós, Siklósbodony, Somogyapáti, Somogyhárságy, Somogyhatvan, Somogyviszló, Sósvertike, Sumony, Szabadszentkirály, Szágy, Szalánta, Szaporca, Szava, Szentdénes, Szentegát, Szentkatalin, Szentlászló, Szentlőrinc, Szigetvár, Szilvás, Szőke, Szörény, Szulimán, Tarrós, Tékes, Teklafalu, Tengeri, Tésenfa, Téseny, Tormás, Tótszentgyörgy, Túrony, Vajszló, Várad, Varga, Vásárosbéc, Vásárosdombó, Vázsnok, Vejti, Velény, Zádor, Zaláta, Zók</td>
+<td>Békéscsaba, Csabaszabadi, Csorvás, Gerendás, Kétegyháza, Kétsoprony, Kondoros, Szabadkígyós, Telekgerendás, Újkígyós</td>
+<td>Békés, Békésszentandrás, Bucsa, Csabacsűd, Csárdaszállás, Dévaványa, Ecsegfalva, Gyomaendrőd, Hunya, Kamut, Kardos, Kertészsziget, Körösladány, Köröstarcsa, Mezőberény, Murony, Örménykút, Szarvas</td>
+<td>Bélmegyer, Biharugra, Doboz, Elek, Füzesgyarmat, Geszt, Gyula, Körösnagyharsány, Körösújfalu, Kötegyán, Méhkerék, Mezőgyán, Okány, Sarkad, Sarkadkeresztúr, Szeghalom, Tarhos, Újszalonta, Vésztő, Zsadány</td>
+<td>Almáskamarás, Battonya, Békéssámson, Csanádapáca, Dombegyház, Dombiratos, Gádoros, Kardoskút, Kaszaper, Kevermes, Kisdombegyház, Kunágota, Lőkösháza, Magyarbánhegyes, Magyardombegyház, Medgyesegyháza, Medgyesbodzás, Mezőhegyes, Mezőkovácsháza, Nagybánhegyes, Nagykamarás, Nagyszénás, Orosháza, Pusztaföldvár, Pusztaottlaka, Tótkomlós, Végegyháza</td>
+<td>Alsózsolca, Arnót, Felsőzsolca, Miskolc egy része, Sajókeresztúr, Szirmabesenyő</td>
+<td>Miskolc egy része, Parasznya, Radostyán, Sajóbábony, Sajólászlófalva, Varbó</td>
+<td>Aggtelek, Alsószuha, Alsótelekes, Arló, Bánréve, Becskeháza, Bódvalenke, Bódvarákó, Bódvaszilas, Borsodbóta, Borsodnádasd, Borsodszentgyörgy, Bükkmogyorósd, Csernely, Csokvaomány, Domaháza, Dövény, Dubicsány, Égerszög, Farkaslyuk, Felsőkelecsény, Felsőnyárád, Felsőtelekes, Gömörszőlős, Hangony, Hét, Hidvégardó, Imola, Jákfalva, Járdánháza, Jósvafő, Kánó, Kelemér, Királd, Kissikátor, Komjáti, Kurityán, Lénárddaróc, Martonyi, Nekézseny, Ormosbánya, Ózd, Perkupa, Putnok, Ragály, Rudabánya, Sajógalgóc, Sajókaza, Sajómercse, Sajónémeti, Sajópüspöki, Sajóvelezd, Sáta, Serényfalva, Szalonna, Szendrő, Szin, Szinpetri, Szögliget, Szőlősardó, Szuhafő, Szuhogy, Teresztenye, Tornakápolna, Tornanádaska, Tornaszentandrás, Trizs, Uppony, Varbóc, Zádorfalva, Zubogy</td>
+<td>Abaújlak, Abaújszolnok, Abod, Alacska, Alsógagy, Alsóvadász, Baktakék, Balajt, Bánhorváti, Berente, Beret, Boldva, Borsodszirák, Büttös, Csenyéte, Csobád, Damak, Debréte, Dédestapolcsány, Detek, Edelény, Fáj, Fancsal, Felsőgagy, Felsővadász, Forró, Gadna, Gagyapáti, Gagybátor, Gagyvendégi, Galvács, Hangács, Hegymeg, Hernádszentandrás, Homrogd, Ináncs, Irota, Izsófalva, Kány, Kazincbarcika, Kázsmárk, Keresztéte, Kiskinizs, Kondó, Krasznokvajda, Kupa, Ládbesenyő, Lak, Léh, Litka, Mályinka, Meszes, Monaj, Múcsony, Nagybarca, Nyésta, Nyomár, Pamlény, Perecse, Rakaca, Rakacaszend, Rásonysápberencs, Rudolftelep, Sajóecseg, Sajóivánka, Sajókápolna, Sajópálfala, Sajósenye, Sajószentpéter, Sajóvámos, Selyeb, Szakácsi, Szászfa, Szendrőlád, Szuhakálló, Tardona, Tomor, Tornabarakony, Tornaszentjakab, Vadna, Viszló, Ziliz</td>
+<td>Abaújalpár, Abaújkér, Abaújszántó, Abaújvár, Alsóberecki, Alsóregmec, Arka, Baskó, Bodroghalom, Bodrogolaszi, Boldogkőújfalu, Boldogkőváralja, Bózsva, Cigánd, Dámóc, Encs, Erdőbénye, Erdőhorváti, Felsőberecki, Felsődobsza, Felsőregmec, Filkeháza, Fony, Fulókércs, Füzér, Füzérkajata, Füzérkomlós, Füzérradvány, Garadna, Gibárt, Golop, Gönc, Göncruszka, Györgytarló, Háromhuta, Hejce, Hercegkút, Hernádbűd, Hernádcéce, Hernádpetri, Hernádszurdok, Hernádvécse, Hidasnémeti, Hollóháza, Karcsa, Karos, Kéked, Kenézlő, Kishuta, Kisrozvágy, Komlóska, Korlát, Kovácsvágás, Lácacséke, Makkoshotyka, Méra, Mikóháza, Mogyoróska, Nagyhuta, Nagyrozvágy, Novajidrány, Nyíri, Olaszliszka, Pácin, Pálháza, Pányok, Pere, Pusztafalu, Pusztaradvány, Rátka, Regéc, Révleányvár, Ricse, Sárazsadány, Sárospatak, Sátoraljaújhely, Semjén, Sima, Szalaszend, Szegi, Szegilong, Szemere, Tállya, Telkibánya, Tiszacsermely, Tiszakarád, Tolcsva, Tornyosnémeti, Vágáshuta, Vajdácska, Vámosújfalu, Vilmány, Vilyvitány, Viss, Vizsoly, Zalkod, Zemplénagárd, Zsujta</td>
+<td>Alsódobsza, Aszaló, Bekecs, Bodrogkeresztúr, Bodrogkisfalud, Bőcs, Csobaj, Gesztely, Girincs, Halmaj, Hernádkak, Hernádkércs, Hernádnémeti, Kesznyéten, Kiscsécs, Legyesbénye, Mád, Megyaszó, Mezőzombor, Monok, Nagykinizs, Onga, Oszlár, Prügy, Sajóörös, Sajószöged, Sóstófalva, Szentistvánbaksa, Szerencs, Szikszó, Taktabáj, Taktaharkány, Taktakenéz, Taktaszada, Tarcal, Tiszaladány, Tiszalúc, Tiszapalkonya, Tiszatardos, Tiszaújváros, Tokaj, Újcsanálos</td>
+<td>Ároktő, Berzék, Bogács, Borsodgeszt, Borsodivánka, Bükkábrány, Bükkaranyos, Bükkszentkereszt, Bükkzsérc, Cserépfalu, Cserépváralja, Csincse, Egerlövő, Emőd, Gelej, Harsány, Hejőbába, Hejőkeresztúr, Hejőkürt, Hejőpapi, Hejőszalonta, Igrici, Kács, Kisgyőr, Kistokaj, Köröm, Mályi, Mezőcsát, Mezőkeresztes, Mezőkövesd, Mezőnagymihály, Mezőnyárád, Muhi, Nagycsécs, Négyes, Nemesbikk, Nyékládháza, Ónod, Répáshuta, Sajóhídvég, Sajólád, Sajópetri, Sály, Szakáld, Szentistván, Szomolya, Tard, Tibolddaróc, Tiszabábolna, Tiszadorogma, Tiszakeszi, Tiszatarján, Tiszavalk, Vatta</td>
+<td>Deszk, Ferencszállás, Klárafalva, Kübekháza, Szeged egy része, Tiszasziget, Újszentiván</td>
+<td>Ásotthalom, Bordány, Domaszék, Forráskút, Mórahalom, Öttömös, Pusztamérges, Röszke, Ruzsa, Szeged egy része, Üllés, Zákányszék, Zsombó</td>
+<td>Árpádhalom, Baks, Balástya, Csanytelek, Csengele, Csongrád, Derekegyház, Dóc, Eperjes, Fábiánsebestyén, Felgyő, Kistelek, Mindszent, Nagymágocs, Nagytőke, Ópusztaszer, Pusztaszer, Sándorfalva, Szatymaz, Szegvár, Szentes, Tömörkény</td>
+<td>Algyő, Ambrózfalva, Apátfalva, Csanádalberti, Csanádpalota, Földeák, Hódmezővásárhely, Királyhegyes, Kiszombor, Kövegy, Magyarcsanád, Makó, Maroslele, Mártély, Nagyér, Nagylak, Óföldeák, Pitvaros, Székkutas</td>
+<td>Székesfehérvár egy része</td>
+<td>Bakonycsernye, Bakonykúti, Balinka, Bodajk, Csákberény, Csókakő, Csór, Fehérvárcsurgó, Füle, Iszkaszentgyörgy, Isztimér, Jenő, Kincsesbánya, Kőszárhegy, Magyaralmás, Moha, Mór, Nádasdladány, Nagyveleg, Polgárdi, Pusztavám, Sárkeresztes, Sárkeszi, Sárszentmihály, Söréd, Szabadbattyán, Székesfehérvár egy része, Úrhida, Zámoly</td>
+<td>Alcsútdoboz, Baracska, Beloiannisz, Besnyő, Bicske, Bodmér, Csabdi, Csákvár, Etyek, Felcsút, Gánt, Gárdony, Gyúró, Kajászó, Kápolnásnyék, Lovasberény, Mány, Martonvásár, Nadap, Óbarok, Pákozd, Pátka, Pázmánd, Ráckeresztúr, Sukoró, Szár, Tabajd, Tordas, Újbarok, Vál, Velence, Vereb, Vértesacsa, Vértesboglár, Zichyújfalu</td>
+<td>Adony, Dunaújváros, Ercsi, Iváncsa, Kulcs, Nagyvenyim, Perkáta, Pusztaszabolcs, Rácalmás</td>
+<td>Aba, Alap, Alsószentiván, Baracs, Cece, Csősz, Daruszentmiklós, Dég, Előszállás, Enying, Hantos, Igar, Káloz, Kisapostag, Kisláng, Lajoskomárom, Lepsény, Mátyásdomb, Mezőfalva, Mezőkomárom, Mezőszentgyörgy, Mezőszilas, Nagykarácsony, Nagylók, Sárbogárd, Sáregres, Sárkeresztúr, Sárosd, Sárszentágota, Seregélyes, Soponya, Szabadegyháza, Szabadhídvég, Tác, Vajta</td>
+<td>Győr egy része, Kisbajcs, Nagybajcs, Vének</td>
+<td>Bakonygyirót, Bakonypéterd, Bakonyszentlászló, Bőny, Écs, Felpéc, Fenyőfő, Gyömöre, Gönyű, Győr egy része, Győrasszonyfa, Győrság, Győrújbarát, Kajárpéc, Lázi, Mezőörs, Nagyszentjános, Nyalka, Nyúl, Pannonhalma, Pázmándfalu, Pér, Ravazd, Rétalap, Románd, Sikátor, Sokorópátka, Táp, Tápszentmiklós, Tarjánpuszta, Tényő, Töltéstava, Szerecseny, Veszprémvarsány</td>
+<td>Acsalag, Agyagosszergény, Árpás, Babót, Bágyogszovát, Barbacs, Beled, Bezi, Bodonhely, Bogyoszló, Bősárkány, Cirák, Csáfordjánosfa, Csapod, Csér, Csikvánd, Csorna, Dénesfa, Dör, Edve, Egyed, Enese, Farád, Fehértó, Fertőendréd, Gyarmat, Gyóró, Győrsövényház, Győrszemere, Himod, Hövej, Ikrény, Iván, Jobaháza, Kapuvár, Kisbabot, Kisfalud, Koroncó, Kóny, Maglóca, Magyarkeresztúr, Markotabödöge, Mérges, Mihályi, Mórichida, Osli, Páli, Pásztori, Potyond, Pusztacsalád, Rábacsanak, Rábacsécsény, Rábakecöl, Rábapatona, Rábapordány, Rábasebes, Rábaszentandrás, Rábaszentmihály, Rábaszentmiklós, Rábatamási, Répceszemere, Sobor, Sopronnémeti, Szany, Szárföld, Szil, Szilsárkány, Tárnokréti, Tét, Vadosfa, Vág, Vásárosfalu, Veszkény, Vitnyéd, Zsebeháza</td>
+<td>Ágfalva, Ebergőc, Egyházasfalu, Fertőboz, Fertőd, Fertőhomok, Fertőrákos, Fertőszentmiklós, Fertőszéplak, Gyalóka, Harka, Hegykő, Hidegség, Kópháza, Lövő, Nagycenk, Nagylózs, Nemeskér, Pereszteg, Petőháza, Pinnye, Répcevis, Röjtökmuzsaj, Sarród, Sopron, Sopronhorpács, Sopronkövesd, Szakony, Und, Újkér, Völcsej, Zsira</td>
+<td>Abda, Ásványráró, Bezenye, Börcs, Cakóháza, Darnózseli, Dunakiliti, Dunaremete, Dunaszeg, Dunaszentpál, Dunasziget, Feketeerdő, Győrladamér, Győrújfalu, Győrzámoly, Halászi, Hédervár, Hegyeshalom, Jánossomorja, Károlyháza, Kimle, Kisbodak, Kunsziget, Lébény, Levél, Lipót, Máriakálnok, Mecsér, Mosonmagyaróvár, Mosonszentmiklós, Mosonszolnok, Mosonudvar, Öttevény, Püski, Rábcakapi, Rajka, Újrónafő, Vámosszabadi, Várbalog</td>
+<td>Debrecen egy része</td>
+<td>Debrecen egy része</td>
+<td>Álmosd, Bagamér, Bocskaikert, Debrecen egy része, Fülöp, Hajdúhadház, Hajdúsámson, Kokad, Létavértes, Nyírábrány, Nyíracsád, Nyíradony, Nyírmártonfalva, Téglás, Újléta, Vámospércs</td>
+<td>Ártánd, Bakonszeg, Bedő, Berekböszörmény, Berettyóújfalu, Bihardancsháza, Biharkeresztes, Biharnagybajom, Bihartorda, Bojt, Csökmő, Darvas, Derecske, Esztár, Furta, Gáborján, Hajdúbagos, Hencida, Hosszúpályi, Kismarja, Komádi, Konyár, Körösszakál, Körösszegapáti, Magyarhomorog, Mezőpeterd, Mikepércs, Mezősas, Monostorpályi, Nagykereki, Nagyrábé, Pocsaj, Sáp, Sáránd, Szentpéterszeg, Tépe, Told, Újiráz, Váncsod, Vekerd, Zsáka</td>
+<td>Báránd, Ebes, Egyek, Földes, Hajdúszoboszló, Hajdúszovát, Hortobágy, Kaba, Nádudvar, Nagyhegyes, Püspökladány, Sárrétudvari, Szerep, Tetétlen, Tiszacsege</td>
+<td>Balmazújváros, Folyás, Görbeháza, Hajdúböszörmény, Hajdúdorog, Hajdúnánás, Polgár, Tiszagyulaháza, Újszentmargita, Újtikos</td>
+<td>Andornaktálya, Átány, Besenyőtelek, Demjén, Dormánd, Eger, Egerbakta, Egerfarmos, Egerszalók, Egerszólát, Felsőtárkány, Füzesabony, Kerecsend, Kömlő, Maklár, Mezőszemere, Mezőtárkány, Nagytálya, Noszvaj, Novaj, Ostoros, Poroszló, Sarud, Szarvaskő, Szihalom, Tiszanána, Újlőrincfalva</td>
+<td>Abasár, Aldebrő, Balaton, Bátor, Bekölce, Bélapátfalva, Bodony, Bükkszék, Bükkszenterzsébet, Bükkszentmárton, Detk, Domoszló, Egerbocs, Egercsehi, Erdőkövesd, Fedémes, Feldebrő, Gyöngyös, Gyöngyösoroszi, Gyöngyöspata, Gyöngyössolymos, Gyöngyöstarján, Halmajugra, Hevesaranyos, Istenmezeje, Ivád, Kál, Kápolna, Kisfüzes, Kisnána, Kompolt, Markaz, Mátraballa, Mátraderecske, Mátraszentimre, Mikófalva, Mónosbél, Nagyvisnyó, Pálosvörösmart, Parád, Parádsasvár, Pétervására, Recsk, Sirok, Szajla, Szentdomonkos, Szilvásvárad, Szúcs, Tarnalelesz, Tarnaszentmária, Terpes, Tófalu, Váraszó, Vécs, Verpelét, Visonta</td>
+<td>Adács, Apc, Atkár, Boconád, Boldog, Csány, Ecséd, Erdőtelek, Erk, Gyöngyöshalász, Hatvan, Heréd, Heves, Hevesvezekény, Hort, Karácsond, Kerekharaszt, Kisköre, Lőrinci, Ludas, Nagyfüged, Nagykökényes, Nagyréde, Nagyút, Pély, Petőfibánya, Rózsaszentmárton, Szűcsi, Tarnabod, Tarnaméra, Tarnaörs, Tarnaszentmiklós, Tarnazsadány, Tenk, Vámosgyörk, Visznek, Zagyvaszántó, Zaránk</td>
+<td>Besenyszög, Csataszög, Hunyadfalva, Kőtelek, Nagykörű, Rákóczifalva, Rákócziújfalu, Szászberek, Szolnok, Tiszajenő, Tiszavárkony, Tószeg, Vezseny, Zagyvarékas</td>
+<td>Alattyán, Jánoshida, Jászágó, Jászalsószentgyörgy, Jászapáti, Jászárokszállás, Jászberény, Jászboldogháza, Jászdózsa, Jászfelsőszentgyörgy, Jászfényszaru, Jászivány, Jászjákóhalma, Jászkisér, Jászladány, Jászszentandrás, Jásztelek, Pusztamonostor, Tiszasüly, Újszász</td>
+<td>Abádszalók, Berekfürdő, Fegyvernek, Karcag, Kenderes, Kisújszállás, Kunhegyes, Kunmadaras, Nagyiván, Tiszabő, Tiszabura, Tiszaderzs, Tiszafüred, Tiszagyenda, Tiszaigar, Tiszaörs, Tiszaroff, Tiszaszentimre, Tiszaszőlős, Tomajmonostora, Túrkeve</td>
+<td>Cibakháza, Csépa, Cserkeszőlő, Kengyel, Kétpó, Kuncsorba, Kunszentmárton, Martfű, Mesterszállás, Mezőhék, Mezőtúr, Nagyrév, Öcsöd, Örményes, Szajol, Szelevény, Tiszaföldvár, Tiszainoka, Tiszakürt, Tiszapüspöki, Tiszasas, Tiszatenyő, Törökszentmiklós</td>
+<td>Baj, Szárliget, Tata, Tatabánya, Vértesszőlős</td>
+<td>Annavölgy, Bajna, Bajót, Csolnok, Dág, Dorog, Dömös, Epöl, Esztergom, Gyermely, Héreg, Kesztölc, Lábatlan, Leányvár, Máriahalom, Mogyorósbánya, Nagysáp, Nyergesújfalu, Piliscsév, Pilismarót, Sárisáp, Süttő, Szomor, Tardos, Tarján, Tát, Tokod, Tokodaltáró, Úny, Vértestolna</td>
+<td>Ács, Ácsteszér, Aka, Almásfüzitő, Ászár, Bábolna, Bakonybánk, Bakonysárkány, Bakonyszombathely, Bana, Bársonyos, Bokod, Császár, Csatka, Csém, Csép, Dad, Dunaalmás, Dunaszentmiklós, Ete, Kecskéd, Kerékteleki, Kisbér, Kisigmánd, Kocs, Komárom, Kömlőd, Környe, Mocsa, Nagyigmánd, Naszály, Neszmély, Oroszlány, Réde, Súr, Szákszend, Szomód, Tárkány, Várgesztes, Vérteskethely, Vértessomló</td>
+<td>Alsótold, Bárna, Bátonyterenye, Bokor, Buják, Cered, Csécse, Cserhátszentiván, Dorogháza, Ecseg, Egyházasdengeleg, Felsőtold, Garáb, Héhalom, Hollókő, Jobbágyi, Kazár, Kisbágyon, Kisbárkány, Kishartyán, Kozárd, Kutasó, Lucfalva, Márkháza, Mátramindszent, Mátranovák, Mátraszele, Mátraszőlős, Mátraterenye, Mátraverebély, Nagybárkány, Nagykeresztúr, Nemti, Palotás, Pásztó, Rákóczibánya, Salgótarján, Sámsonháza, Somoskőújfalu, Sóshartyán, Szarvasgede, Szilaspogony, Szuha, Szurdokpüspöki, Tar, Vizslás, Zabar</td>
+<td>Alsópetény, Balassagyarmat, Bánk, Becske, Bér, Bercel, Berkenye, Borsosberény, Cserháthaláp, Cserhátsurány, Csesztve, Csitár, Debercsény, Dejtár, Diósjenő, Drégelypalánk, Egyházasgerge, Endrefalva, Erdőkürt, Erdőtarcsa, Érsekvadkert, Etes, Felsőpetény, Galgaguta, Herencsény, Hont, Horpács, Hugyag, Iliny, Ipolyszög, Ipolytarnóc, Ipolyvece, Kálló, Karancsalja, Karancsberény, Karancskeszi, Karancslapujtő, Karancsság, Keszeg, Kétbodony, Kisecset, Legénd, Litke, Ludányhalászi, Magyargéc, Magyarnándor, Mihálygerge, Mohora, Nagylóc, Nagyoroszi, Nézsa, Nógrád, Nógrádkövesd, Nógrádmarcal, Nógrádmegyer, Nógrádsáp, Nógrádsipek, Nógrádszakál, Nőtincs, Őrhalom, Ősagárd, Patak, Patvarc, Piliny, Pusztaberki, Rétság, Rimóc, Romhány, Ságújfalu, Szalmatercs, Szanda, Szátok, Szécsénke, Szécsény, Szécsényfelfalu, Szendehely, Szente, Szirák, Szügy, Terény, Tereske, Tolmács, Vanyarc, Varsány</td>
+<td>Diósd, Érd, Pusztazámor, Sóskút, Tárnok, Törökbálint</td>
+<td>Biatorbágy, Budajenő, Budakeszi, Budaörs, Herceghalom, Nagykovácsi, Páty, Perbál, Piliscsaba, Pilisjászfalu, Pilisszentiván, Remeteszőlős, Solymár, Telki, Tinnye, Zsámbék</td>
+<td>Budakalász, Csobánka, Dunabogdány, Kisoroszi, Leányfalu, Pilisborosjenő, Pilisvörösvár, Pilisszántó, Pilisszentkereszt, Pilisszentlászló, Pócsmegyer, Pomáz, Szentendre, Szigetmonostor, Tahitótfalu, Üröm, Visegrád</td>
+<td>Acsa, Bernecebaráti, Csörög, Csővár, Galgagyörk, Ipolydamásd, Ipolytölgyes, Kemence, Kismaros, Kisnémedi, Kosd, Kóspallag, Letkés, Márianosztra, Nagybörzsöny, Nagymaros, Őrbottyán, Penc, Perőcsény, Püspökhatvan, Püspökszilágy, Rád, Szob, Szokolya, Sződ, Sződliget, Tésa, Vác, Vácduka, Váchartyán, Vácrátót, Vámosmikola, Verőce, Zebegény</td>
+<td>Csomád, Csömör, Dunakeszi, Erdőkertes, Fót, Göd, Veresegyház</td>
+<td>Aszód, Bag, Domony, Galgamácsa, Gödöllő, Hévízgyörk, Iklad, Isaszeg, Kartal, Kerepes, Kistarcsa, Mogyoród, Nagytarcsa, Szada, Vácegres, Váckisújfalu, Verseg</td>
+<td>Ecser, Felsőpakony, Gyál, Gyömrő, Maglód, Pécel, Üllő, Vecsés</td>
+<td>Dunavarsány, Halásztelek, Majosháza, Százhalombatta, Szigetcsép, Szigethalom, Szigetszentmárton, Szigetszentmiklós, Szigetújfalu, Tököl</td>
+<td>Dány, Farmos, Galgahévíz, Kóka, Nagykáta, Sülysáp, Szentlőrinckáta, Szentmártonkáta, Tápióbicske, Tápiógyörgye, Tápióság, Tápiószecső, Tápiószele, Tápiószentmárton, Tápiószőlős, Tóalmás, Tura, Úri, Vácszentlászló, Valkó, Zsámbok</td>
+<td>Albertirsa, Bénye, Ceglédbercel, Csévharaszt, Dánszentmiklós, Gomba, Hernád, Káva, Mende, Mikebuda, Monor, Monorierdő, Nyáregyháza, Örkény, Pánd, Péteri, Pilis, Pusztavacs, Táborfalva, Tatárszentgyörgy, Újhartyán, Újlengyel, Vasad</td>
+<td>Alsónémedi, Apaj, Áporka, Bugyi, Dabas, Délegyháza, Dömsöd, Dunaharaszti, Inárcs, Kakucs, Kiskunlacháza, Lórév, Makád, Ócsa, Ráckeve, Szigetbecse, Taksony</td>
+<td>Abony, Cegléd, Csemő, Jászkarajenő, Kocsér, Kőröstetétlen, Nagykőrös, Nyársapát, Törtel, Újszilvás</td>
+<td>Bőszénfa, Cserénfa, Csoma, Gálosfa, Hajmás, Juta, Kaposgyarmat, Kaposhomok, Kaposkeresztúr, Kaposmérő, Kaposújlak, Kaposszerdahely, Kaposvár, Kercseliget, Mosdós, Nagyberki, Patca, Sántos, Simonfa, Szabadi, Szenna, Szentbalázs, Szilvásszentmárton, Zselickisfalud, Zselickislak, Zselicszentpál</td>
+<td>Babócsa, Bakháza, Barcs, Bárdudvarnok, Bélavár, Beleg, Berzence, Bolhás, Bolhó, Csokonyavisonta, Csököly, Csurgó, Csurgónagymarton, Darány, Drávagárdony, Drávatamási, Gige, Görgeteg, Gyékényes, Háromfa, Hedrehely, Hencse, Heresznye, Homokszentgyörgy, Iharos, Iharosberény, Inke, Istvándi, Jákó, Kadarkút, Kálmáncsa, Kaposfő, Kastélyosdombó, Kaszó, Kisasszond, Kisbajom, Kiskorpád, Komlósd, Kőkút, Kutas, Lábod, Lad, Lakócsa, Mike, Nagyatád, Nagykorpád, Őrtilos, Ötvöskónyi, Patosfa, Péterhida, Pogányszentpéter, Porrog, Porrogszentkirály, Porrogszentpál, Potony, Rinyabesenyő, Rinyakovácsi, Rinyaszentkirály, Rinyaújlak, Rinyaújnép, Segesd, Somogyaracs, Somogybükkösd, Somogycsicsó, Somogyszob, Somogyudvarhely, Szabás, Szenta, Szentborbás, Szulok, Tarany, Tótújfalu, Vése, Visnye, Vízvár, Zákány, Zákányfalu</td>
+<td>Alsóbogát, Balatonberény, Balatonboglár, Balatonfenyves, Balatonkeresztúr, Balatonlelle, Balatonmáriafürdő, Balatonszentgyörgy, Balatonújlak, Bodrog, Böhönye, Buzsák, Csákány, Csombárd, Csömend, Edde, Fonyód, Főnyed, Gadány, Gamás, Gyugy, Hács, Hetes, Hollád, Hosszúvíz, Kelevíz, Kéthely, Kisberény, Látrány, Lengyeltóti, Libickozma, Magyaregres, Marcali, Mesztegnyő, Mezőcsokonya, Nagybajom, Nagyszakácsi, Nemesdéd, Nemeskisfalud, Nemesvid, Nikla, Ordacsehi, Osztopán, Öreglak, Pálmajor, Pamuk, Polány, Pusztakovácsi, Sávoly, Somogyaszaló, Somogyfajsz, Somogygeszti, Somogyjád, Somogysámson, Somogysárd, Somogysimonyi, Somogyszentpál, Somogytúr, Somogyvámos, Somogyvár, Somogyzsitfa, Szegerdő, Szenyér, Szőkedencs, Szőlősgyörök, Tapsony, Táska, Tikos, Újvárfalva, Varászló, Várda</td>
+<td>Ádánd, Andocs, Bábonymegyer, Balatonendréd, Balatonföldvár, Balatonőszöd, Balatonszabadi, Balatonszárszó, Balatonszemes, Balatonvilágos, Bálványos, Baté, Bedegkér, Bonnya, Büssü, Ecseny, Felsőmocsolád, Fiad, Fonó, Gadács, Gölle, Igal, Kánya, Kapoly, Kára, Karád, Kazsok, Kereki, Kisbárapáti, Kisgyalán, Kőröshegy, Kötcse, Lulla, Magyaratád, Mernye, Miklósi, Nágocs, Nagyberény, Nagycsepely, Nyim, Orci, Patalom, Pusztaszemes, Ráksi, Ságvár, Sérsekszőlős, Siófok, Siójut, Som, Somodor, Somogyacsa, Somogybabod, Somogydöröcske, Somogyegres, Somogymeggyes, Somogyszil, Szántód, Szentgáloskér, Szólád, Szorosad, Tab, Taszár, Teleki, Tengőd, Torvaj, Törökkoppány, Visz, Zala, Zamárdi, Zics, Zimány</td>
+<td>Nyíregyháza egy része</td>
+<td>Balsa, Buj, Gávavencsellő, Ibrány, Kálmánháza, Kótaj, Nagycserkesz, Nyíregyháza egy része, Nyírtelek, Paszab, Rakamaz, Szabolcs, Szorgalmatos, Timár, Tiszabercel, Tiszadada, Tiszadob, Tiszaeszlár, Tiszalök, Tiszanagyfalu, Tiszavasvári</td>
+<td>Ajak, Anarcs, Berkesz, Beszterec, Demecser, Dombrád, Döge, Fényeslitke, Gégény, Gemzse, Gyulaháza, Jéke, Kék, Kékcse, Kemecse, Kisvárda, Komoró, Lövőpetri, Mezőladány, Nagyhalász, Napkor, Nyírbogdány, Nyíribrony, Nyírlövő, Nyírpazony, Nyírtass, Nyírtét, Nyírtura, Pap, Pátroha, Ramocsaháza, Rétközberencs, Sényő, Szabolcsbáka, Szabolcsveresmart, Székely, Tiszakanyár, Tiszarád, Tiszatelek, Tornyospálca, Újdombrád, Újkenéz, Vasmegyer</td>
+<td>Aranyosapáti, Barabás, Benk, Beregdaróc, Beregsurány, Botpalád, Cégénydányád, Csaholc, Csaroda, Császló, Csegöld, Darnó, Eperjeske, Fehérgyarmat, Fülesd, Gacsály, Garbolc, Gelénes, Gulács, Győröcske, Gyügye, Gyüre, Hermánszeg, Hetefejércse, Ilk, Jánd, Jánkmajtis, Kérsemjén, Kisar, Kishódos, Kisnamény, Kispalád, Kisvarsány, Kisszekeres, Kölcse, Kömörő, Lónya, Magosliget, Mánd, Mándok, Márokpapi, Mátyus, Méhtelek, Milota, Nábrád, Nagyar, Nagydobos, Nagyhódos, Nagyszekeres, Nagyvarsány, Nemesborzova, Olcsva, Olcsvaapáti, Panyola, Penyige, Rozsály, Sonkád, Szamoskér, Szamossályi, Szamosújlak, Szamosszeg, Szatmárcseke, Tákos, Tarpa, Tiszaadony, Tiszabecs, Tiszabezdéd, Tiszacsécse, Tiszakerecseny, Tiszakóród, Tiszamogyorós, Tiszaszalka, Tiszaszentmárton, Tiszavid, Tisztaberek, Tivadar, Tunyogmatolcs, Túristvándi, Túrricse, Tuzsér, Uszka, Vámosatya, Vámosoroszi, Vásárosnamény, Záhony, Zajta, Zsarolyán, Zsurk</td>
+<td>Apagy, Baktalórántháza, Besenyőd, Csenger, Csengersima, Csengerújfalu, Fülpösdaróc, Géberjén, Győrtelek, Hodász, Jármi, Kántorjánosi, Kocsord, Komlódtótfalu, Laskod, Levelek, Magy, Mátészalka, Nagyecsed, Nyírcsaholy, Nyírjákó, Nyírkarász, Nyírkércs, Nyírmada, Nyírmeggyes, Nyírparasznya, Ófehértó, Ópályi, Ököritófülpös, Őr, Papos, Pátyod, Petneháza, Porcsalma, Pusztadobos, Rápolt, Rohod, Szamosangyalos, Szamosbecs, Szamostatárfalva, Tiborszállás, Tyukod, Ura, Vaja</td>
+<td>Balkány, Bátorliget, Biri, Bököny, Encsencs, Érpatak, Fábiánháza, Geszteréd, Kállósemjén, Kisléta, Máriapócs, Mérk, Nagykálló, Nyírbátor, Nyírbéltek, Nyírbogát, Nyírcsászári, Nyírderzs, Nyírgelse, Nyírgyulaj, Nyírkáta, Nyírlugos, Nyírmihálydi, Nyírpilis, Nyírvasvári, Ömböly, Penészlek, Piricse, Pócspetri, Szakoly, Terem, Újfehértó, Vállaj</td>
+<td>Alsónyék, Báta, Bátaszék, Bogyiszló, Decs, Fácánkert, Fadd, Medina, Őcsény, Pörböly, Sárpilis, Sióagárd, Szedres, Szekszárd, Tengelic, Tolna, Várdomb</td>
+<td>Alsónána, Aparhant, Attala, Bátaapáti, Bonyhád, Bonyhádvarasd, Cikó, Csibrák, Csikóstőttős, Dalmand, Diósberény, Dombóvár, Döbrököz, Dúzs, Értény, Felsőnána, Grábóc, Györe, Gyulaj, Harc, Hőgyész, Izmény, Jágónak, Kakasd, Kalaznó, Kapospula, Kaposszekcső, Kéty, Kisdorog, Kismányok, Kistormás, Kisvejke, Kocsola, Koppányszántó, Kölesd, Kurd, Lápafő, Lengyel, Mórágy, Mőcsény, Mucsfa, Mucsi, Murga, Nagykónyi, Nagymányok, Nagyvejke, Nak, Szakadát, Szakály, Szakcs, Szálka, Tevel, Újireg, Váralja, Várong, Varsád, Závod, Zomba</td>
+<td>Belecska, Bikács, Bölcske, Dunaföldvár, Dunaszentgyörgy, Felsőnyék, Fürged, Gerjen, Gyönk, Györköny, Iregszemcse, Kajdacs, Keszőhidegkút, Kisszékely, Madocsa, Magyarkeszi, Miszla, Nagydorog, Nagyszékely, Nagyszokoly, Németkér, Ozora, Paks, Pálfa, Pári, Pincehely, Pusztahencse, Regöly, Sárszentlőrinc, Simontornya, Szárazd, Tamási, Tolnanémedi, Udvari</td>
+<td>Balogunyom, Bucsu, Dozmat, Felsőcsatár, Horvátlövő, Nárai, Narda, Pornóapáti, Sé, Szombathely, Torony, Vaskeresztes</td>
+<td>Acsád, Bozzai, Bozsok, Bő, Bögöt, Bük, Cák, Celldömölk, Chernelházadamonya, Csánig, Csénye, Csepreg, Csönge, Gencsapáti, Gór, Gyöngyösfalu, Hegyfalu, Horvátzsidány, Iklanberény, Jákfa, Kemenesmagasi, Kemenesmihályfa, Kemenessömjén, Kemenesszentmárton, Kenyeri, Kiszsidány, Kőszeg, Kőszegdoroszló, Kőszegpaty, Kőszegszerdahely, Lócs, Lukácsháza, Mersevát, Mesterháza, Mesteri, Meszlen, Nagygeresd, Nagysimonyi, Nemesbőd, Nemescsó, Nemesládony, Nick, Ólmod, Ostffyasszonyfa, Ölbő, Pápoc, Perenye, Peresznye, Porpác, Pósfa, Pusztacsó, Rábapaty, Répcelak, Répceszentgyörgy, Sajtoskál, Salköveskút, Sárvár, Simaság, Sitke, Söpte, Szeleste, Szergény, Tokorcs, Tompaládony, Tormásliget, Tömörd, Uraiújfalu, Vámoscsalád, Vasasszonyfa, Vasegerszeg, Vassurány, Vasszilvágy, Vát, Velem, Vép, Vönöck, Zsédeny</td>
+<td>Alsószölnök, Alsóújlak, Andrásfa, Apátistvánfalva, Bajánsenye, Bejcgyertyános, Bérbaltavár, Boba, Borgáta, Bögöte, Csákánydoroszló, Csehi, Csehimindszent, Csempeszkopács, Csipkerek, Csörötnek, Daraboshegy, Döbörhegy, Döröske, Duka, Egervölgy, Egyházashetye, Egyházashollós, Egyházasrádóc, Felsőjánosfa, Felsőmarác, Felsőszölnök, Gasztony, Gérce, Gersekarát, Gyanógeregye, Győrvár, Halastó, Halogy, Harasztifalu, Hegyháthodász, Hegyhátsál, Hegyhátszentjakab, Hegyhátszentmárton, Hegyhátszentpéter, Hosszúpereszteg, Ikervár, Ispánk, Ivánc, Ják, Jánosháza, Káld, Kám, Karakó, Katafa, Keléd, Kemeneskápolna, Kemenespálfa, Kemestaródfa, Kenéz, Kercaszomor, Kerkáskápolna, Kétvölgy, Kisrákos, Kissomlyó, Kisunyom, Kondorfa, Köcsk, Körmend, Magyarlak, Magyarnádalja, Magyarszecsőd, Magyarszombatfa, Megyehíd, Meggyeskovácsi, Mikosszéplak, Molnaszecsőd, Nádasd, Nagykölked, Nagymizdó, Nagyrákos, Nagytilaj, Nemeskeresztúr, Nemeskocs, Nemeskolta, Nemesmedves, Nemesrempehollós, Nyőgér, Olaszfa, Orfalu, Oszkó, Őrimagyarósd, Őriszentpéter, Pácsony, Pankasz, Pecöl, Petőmihályfa, Pinkamindszent, Püspökmolnári, Rábagyarmat, Rábahídvég, Rábatöttös, Rádóckölked, Rátót, Rönök, Rum, Sárfimizdó, Sorkifalud, Sorkikápolna, Sorokpolány, Sótony, Szaknyér, Szakonyfalu, Szalafő, Szarvaskend, Szatta, Szemenye, Szentgotthárd, Szentpéterfa, Szőce, Tanakajd, Táplánszentkereszt, Telekes, Vasalja, Vásárosmiske, Vashosszúfalu, Vasvár, Vasszécseny, Vasszentmihály, Velemér, Viszák, Zsennye</td>
+<td>Bakonynána, Bánd, Csehbánya, Csetény, Dudar, Eplény, Hajmáskér, Hárskút, Herend, Jásd, Királyszentistván, Kislőd, Lókút, Márkó, Nemesvámos, Olaszfalu, Öskü, Sóly, Szápár, Szentgál, Tés, Úrkút, Városlőd, Veszprém, Vilonya</td>
+<td>Alsóörs, Aszófő, Balatonakali, Balatonalmádi, Balatoncsicsó, Balatonfőkajár, Balatonfüred, Balatonfűzfő, Balatonhenye, Balatonkenese, Balatonszepezd, Balatonszőlős, Balatonudvari, Barnag, Berhida, Csajág, Csopak, Dörgicse, Felsőörs, Hidegkút, Köveskál, Küngös, Litér, Lovas, Mencshely, Monoszló, Óbudavár, Örvényes, Ősi, Paloznak, Papkeszi, Pécsely, Pétfürdő, Szentantalfa, Szentjakabfa, Szentkirályszabadja, Tagyon, Tihany, Tótvázsony, Várpalota, Vászoly, Veszprémfajsz, Vöröstó, Zánka</td>
+<td>Ábrahámhegy, Ajka, Badacsonytomaj, Badacsonytördemic, Balatonederics, Balatonrendes, Bazsi, Bodorfa, Csabrendek, Dabronc, Gógánfa, Gyepükaján, Gyulakeszi, Halimba, Hegyesd, Hegymagas, Hetyefő, Hosztót, Kapolcs, Káptalanfa, Káptalantóti, Kékkút, Kisapáti, Kővágóörs, Lesencefalu, Lesenceistvánd, Lesencetomaj, Megyer, Mindszentkálla, Monostorapáti, Nagyvázsony, Nemesgulács, Nemeshany, Nemesvita, Nyirád, Öcs, Pula, Pusztamiske, Raposka, Révfülöp, Rigács, Salföld, Sáska, Sümeg, Sümegprága, Szentbékkálla, Szentimrefalva, Szigliget, Szőc, Taliándörögd, Tapolca, Ukk, Uzsa, Veszprémgalsa, Vigántpetend, Zalaerdőd, Zalagyömörő, Zalahaláp, Zalameggyes, Zalaszegvár</td>
+<td>Adásztevel, Adorjánháza, Apácatorna, Bakonybél, Bakonyjákó, Bakonykoppány, Bakonyoszlop, Bakonypölöske, Bakonyság, Bakonyszentiván, Bakonyszentkirály, Bakonyszücs, Bakonytamási, Béb, Békás, Borszörcsök, Borzavár, Csesznek, Csót, Csögle, Dabrony, Dáka, Devecser, Doba, Döbrönte, Egeralja, Egyházaskesző, Farkasgyepű, Ganna, Gecse, Gic, Homokbödöge, Iszkáz, Kamond, Karakószörcsök, Kemeneshőgyész, Kemenesszentpéter, Kerta, Kisberzseny, Kiscsősz, Kispirit, Kisszőlős, Kolontár, Kup, Külsővat, Lovászpatona, Magyargencs, Magyarpolány, Malomsok, Marcalgergelyi, Marcaltő, Mezőlak, Mihályháza, Nagyacsád, Nagyalásony, Nagydém, Nagyesztergár, Nagygyimót, Nagypirit, Nagytevel, Nemesgörzsöny, Nemesszalók, Németbánya, Nóráp, Noszlop, Nyárád, Oroszi, Pápa, Pápadereske, Pápakovácsi, Pápasalamon, Pápateszér, Pénzesgyőr, Porva, Somlójenő, Somlószőlős, Somlóvásárhely, Somlóvecse, Takácsi, Tüskevár, Ugod, Vanyola, Várkesző, Vaszar, Vid, Vinár, Zirc</td>
+<td>Alsószenterzsébet, Babosdöbréte, Baglad, Bagod, Bak, Barlahida, Becsvölgye, Belsősárd, Bocfölde, Boncodfölde, Böde, Bödeháza, Csatár, Csesztreg, Csonkahegyhát, Csöde, Dobronhegy, Felsőszenterzsébet, Gáborjánháza, Gellénháza, Gombosszeg, Gosztola, Hagyárosbörönd, Hernyék, Hottó, Iborfia, Kálócfa, Kávás, Keménfa, Kerkabarabás, Kerkafalva, Kerkakutas, Kiskutas, Kispáli, Kozmadombja, Kustánszeg, Külsősárd, Lendvadedes, Lendvajakabfa, Lenti, Lickóvadamos, Magyarföld, Márokföld, Mikekarácsonyfa, Milejszeg, Nagykutas, Nagylengyel, Nagypáli, Nemesnép, Németfalu, Nova, Ormándlak, Ozmánbük, Pálfiszeg, Petrikeresztúr, Pórszombat, Pusztaapáti, Ramocsa, Rédics, Resznek, Salomvár, Sárhida, Szentgyörgyvölgy, Szijártóháza, Szilvágy, Teskánd, Vaspör, Zalabaksa, Zalaboldogfa, Zalacséb, Zalaegerszeg, Zalaháshágy, Zalalövő, Zalaszentgyörgy, Zalaszombatfa, Zalatárnok</td>
+<td>Alibánfa, Almásháza, Alsónemesapáti, Alsópáhok, Alsórajk, Baktüttös, Balatongyörök, Balatonmagyaród, Batyk, Bezeréd, Bókaháza, Búcsúszentlászló, Cserszegtomaj, Dióskál, Döbröce, Dötk, Egeraracsa, Egervár, Esztergályhorváti, Felsőpáhok, Felsőrajk, Garabonc, Gelse, Gétye, Gősfa, Gyenesdiás, Gyűrűs, Hahót, Hévíz, Kallósd, Karmacs, Kehidakustány, Kemendollár, Kerecseny, Keszthely, Kilimán, Kisbucsa, Kisgörbő, Kisvásárhely, Lakhegy, Ligetfalva, Mihályfa, Misefa, Nagygörbő, Nagykapornak, Nagyrada, Nemesapáti, Nemesbük, Nemeshetés, Nemesrádó, Nemessándorháza, Nemesszentandrás, Óhíd, Orbányosfa, Orosztony, Pacsa, Padár, Pakod, Pethőhenye, Pókaszepetk, Pölöske, Pölöskefő, Pötréte, Rezi, Sármellék, Sénye, Söjtör, Sümegcsehi, Szalapa, Szentgyörgyvár, Szentpéterúr, Tekenye, Tilaj, Türje, Vállus, Várvölgy, Vasboldogasszony, Vindornyafok, Vindornyalak, Vindornyaszőlős, Vonyarcvashegy, Vöckönd, Zalaapáti, Zalabér, Zalacsány, Zalaigrice, Zalaistvánd, Zalakaros, Zalaköveskút, Zalamerenye, Zalaszabar, Zalaszántó, Zalaszentgrót, Zalaszentiván, Zalaszentlászló, Zalaszentlőrinc, Zalaszentmárton, Zalaszentmihály, Zalavár, Zalavég</td>
+<td>Bánokszentgyörgy, Bázakerettye, Becsehely, Belezna, Bocska, Borsfa, Börzönce, Bucsuta, Csapi, Csertalakos, Csömödér, Csörnyeföld, Dobri, Eszteregnye, Fityeház, Fűzvölgy, Galambok, Gelsesziget, Gutorfölde, Homokkomárom, Hosszúvölgy, Iklódbördőce, Kacorlak, Kányavár, Kerkaszentkirály, Kerkateskánd, Kiscsehi, Kisrécse, Kistolmács, Kissziget, Lasztonya, Letenye, Lispeszentadorján, Liszó, Lovászi, Magyarszentmiklós, Magyarszerdahely, Maróc, Miháld, Molnári, Murakeresztúr, Murarátka, Muraszemenye, Nagybakónak, Nagykanizsa, Nagyrécse, Nemespátró, Oltárc, Ortaháza, Páka, Pat, Petrivente, Pördefölde, Pusztaederics, Pusztamagyaród, Pusztaszentlászló, Rigyác, Sand, Semjénháza, Sormás, Surd, Szécsisziget, Szentkozmadombja, Szentliszló, Szentmargitfalva, Szentpéterfölde, Szepetnek, Tófej, Tormafölde, Tornyiszentmiklós, Tótszentmárton, Tótszerdahely, Újudvar, Valkonya, Várfölde, Zajk, Zalakomár, Zalasárszeg, Zalaszentbalázs, Zalaszentjakab, Zalaújlak, Zebecke</td>
+                </tr>
+              </tbody>
+            </table>
           </div>
     </div>
+	
+	<div class="section">
+    <div class="row">
+	
+          <div class="col s12">
+		  <h5>A</h5>
+            <table class="responsive-table">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Várható szavazatarány (átszavazással)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Fidesz - xy</td>
+                  <td>Együtt - Juhász Péter</td>
+                  <td>LMP</td>
+				  <td>Momentum - Fekete-Győr András</td>
+				 </tr>
+                <tr>
+                  <td>46%</td>
+                  <td>42%</td>
+                  <td>5%</td>
+				  <td>4%</td>
+                </tr>
+              </tbody>
+            </table>
+	
 </div>
 <div class="divider"></div>
 <div class="section">
