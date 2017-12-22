@@ -1,11 +1,11 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Taktikai szavazás
+author: Adam Sanyo
+email: adamsanyo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Az út ahhoz, hogy legyen esély leváltani a Fideszt 2018 április 8-án.
+  
 
-twitter_username: macrod68
-github_username:  macrod68
+twitter_username: AdamSanyo
+github_username:  AdamSanyo88
 
 sass:
     style: compressed
