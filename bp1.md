@@ -18,22 +18,27 @@ permalink: /bp1
                 </tr>
               </thead>
               <tbody>
-                <tr>
+             <tr>
                   <td>Fidesz - xy</td>
+				  <td>46%</td>
+			</tr>
+			<tr>
                   <td>Együtt - Juhász Péter</td>
+				  <td>42%</td>
+			</tr>
+			<tr>
                   <td>LMP</td>
+				  <td>5%</td>
+			</tr>
+			<tr>
 				  <td>Momentum - Fekete-Győr András</td>
-				 </tr>
-                <tr>
-                  <td>46%</td>
-                  <td>42%</td>
-                  <td>5%</td>
 				  <td>4%</td>
-                </tr>
+			</tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: Fidesz - xy : 62%-os győzelmi esély</h5>
+			<h5>Várható győztes: Fidesz - xy: 62%-os győzelmi esély</h5>
 			<h6>Legesélyesebb ellenzéki jelölt: Juhász Péter (Együtt): 37%-os győzelmi esély</h6>
+			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>
     </div>

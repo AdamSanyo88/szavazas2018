@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Választókerületek
-permalink: /valasztokeruletek/
+permalink: /valasztokeruletek
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
