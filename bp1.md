@@ -43,3 +43,38 @@ permalink: /bp1
           </div>
     </div>
 </div>
+
+<div class="section">
+    <div class="row">
+          <div class="col s12">
+		  <h5>Budapest 1-es választókerület (V. kerület) - 2014-es eredmények</h5>
+            <table class="responsive-table">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarányok</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Fidesz - xy</td>
+				  <td>45.3%</td>
+			</tr>
+			<tr>
+                  <td>Összefogás</td>
+				  <td>32.6%%</td>
+			</tr>
+			<tr>
+                  <td>LMP</td>
+				  <td>13.7%</td>
+			</tr>
+			<tr>
+				  <td>Jobbik</td>
+				  <td>7.8%</td>
+			</tr>                
+              </tbody>
+            </table>
+			<h5>Győztes: Fidesz, 12.7%-kal</h5>
+          </div>
+    </div>
+</div>
