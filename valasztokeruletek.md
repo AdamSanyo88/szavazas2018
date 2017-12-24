@@ -21,18 +21,18 @@ permalink: /valasztokeruletek
               <tbody>
 <tr><td><a href="../bp1">Budapesti 1.</a></td>	<td>I. kerület, V. kerület, VIII. kerület (Palotanegyed, Kálvin tér - Rákóczi tér között), IX. kerület (Fővám tér - Boráros tér - Klinikák között)</td></tr>
 <tr><td><a href="../bp2">Budapesti 2.</a></td>	<td>XI. kerület (Lágymányos, Kelenföld, Sasad, Gazdagrét, Madárhegy)</td></tr>
-<tr><td><a href="../bp3">Budapesti 3.</a></td>	<td>XII. kerület, II. kerület (Széll Kálmán tér - Margit-híd budai hídfő között)</td></tr>
+<tr><td><a href="../bp3">Budapesti 3.</a></td>	<td>II. kerület (Széll Kálmán tér - Margit-híd budai hídfő között), XII. kerület</td></tr>
 <tr><td><a href="../bp4">Budapesti 4.</a></td>	<td>II. kerület (Rózsadomb, Pasarét, Szépvölgy, Hűvösvölgy), III. kerület (Tímár utca - Szépvölgyi út között, Csillaghegy, Békásmegyer nyugati része)</td></tr>
 <tr><td><a href="../bp5">Budapesti 5.</a></td>	<td>VI. kerület, VII. kerület</td></tr>
-<tr><td><a href="../bp6">Budapesti 6.</a></td>	<td>VIII. kerület (Keleti Pályaudvar - Corvin-negyed - Népliget között) és IX. kerület (Fővám tér - Ferencváros - Határ út között)</td></tr>
+<tr><td><a href="../bp6">Budapesti 6.</a></td>	<td>VIII. kerület (Keleti Pályaudvar - Corvin-negyed - Népliget között), IX. kerület (Fővám tér - Ferencváros - Határ út között)</td></tr>
 <tr><td><a href="../bp7">Budapesti 7.</a></td>	<td>XIII. kerület (Újlipótváros, Vizafogó, Angyalföld déli fele, Jászai Mari tér - Gyöngyösi utca között)</td></tr>
 <tr><td><a href="../bp8">Budapesti 8.</a></td>	<td>XIV. kerület (kivéve Rákosfalva)</td></tr>
 <tr><td><a href="../bp9">Budapesti 9.</a></td>	<td>X. kerület (Népliget - Rákos között), XIX. kerület (Határ út - Kőbánya-Kispest - Kispest északi része között)</td></tr>
 <tr><td><a href="../bp10">Budapesti 10.</a></td>	<td>III. kerület (Flórián tér - Békásmegyer között)</td></tr>
 <tr><td><a href="../bp11">Budapesti 11.</a></td>	<td>IV. kerület (Újpest - Káposztásmegyer között), XIII. kerület (Angyalföld északi fele, Gyöngyösi utca - Újpest között)</td></tr>
 <tr><td><a href="../bp12">Budapesti 12.</a></td>	<td>IV. kerület (Árpád Kórház - Rákospalota-Újpest között), XV. kerület</td></tr>
-<tr><td><a href="../bp13">Budapesti 13.</a></td>	<td>XVI. kerüet, XIV. kerület (Rákosfalva)</td></tr>
-<tr><td><a href="../bp14">Budapesti 14.</a></td>	<td>XVII. kerület, X. kerület (Újhegy - Kőbánya-Kertváros között)</td></tr>
+<tr><td><a href="../bp13">Budapesti 13.</a></td>	<td>XIV. kerület (Rákosfalva), XVI. kerüet</td></tr>
+<tr><td><a href="../bp14">Budapesti 14.</a></td>	<td>X. kerület (Újhegy - Kőbánya-Kertváros között), XVII. kerület</td></tr>
 <tr><td><a href="../bp15">Budapesti 15.</a></td>	<td>XVIII. kerület</td></tr>
 <tr><td><a href="../bp16">Budapesti 16.</a></td>	<td>XIX. kerület (Kispest déli része - M5-ös leágazás között) , XX. kerület</td></tr>
 <tr><td><a href="../bp17">Budapesti 17.</a></td>	<td>XXI. kerület, XXIII. kerület</td></tr>
