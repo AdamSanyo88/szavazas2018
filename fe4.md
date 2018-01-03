@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Budapest 3-as választókerület
-permalink: /bp3
+title: Fejér megye 4-es választókerület
+permalink: /fe4
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -9,7 +9,7 @@ permalink: /bp3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 3-as választókerület (XII. kerület)</h5>
+		  <h5>Fejér megye 4-es választókerület (Dunaújváros)</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -47,7 +47,7 @@ permalink: /bp3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 3-as választókerület (XII. kerület) - 2014-es eredmények</h5>
+		  <h5>Fejér megye 4-es választókerület (Dunaújváros) - 2014-es eredmények</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -56,25 +56,25 @@ permalink: /bp3
                 </tr>
               </thead>
               <tbody>
-             <tr>
-                  <td>Dr. Fónagy János Vilmos - Fidesz-KDNP</td>
-				  <td>46.8%</td>
+			  <tr>
+                  <td>Dr. Galambos Dénes - Fidesz-KDNP</td>
+				  <td>35.9%</td>
 			</tr>
 			<tr>
-                  <td>Bauer Tamás - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
-				  <td>35.0%</td>
+				  <td>Magyar András Tamás - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
+				  <td>29.4%</td>
 			</tr>
 			<tr>
-                  <td>Hajdu Mária - LMP</td>
-				  <td>10.1%</td>
+			      <td>Pintér Tamás - Jobbik</td>
+				  <td>25.2%</td>
 			</tr>
 			<tr>
-				  <td>Szávay István - Jobbik</td>
-				  <td>6.1%</td>
+				  <td>Illéssy István - LMP</td>
+				  <td>4.4%</td>
 			</tr>                
               </tbody>
             </table>
-			<h5>Győztes: Fidesz-KDNP, 11.8%-kal</h5>
+			<h5>Győztes: Fidesz-KDNP, 6.5%-kal</h5>
           </div>
     </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Budapest 3-as választókerület
-permalink: /bp3
+title: Jász-Nagykun-Szolnok megye 4-es választókerület
+permalink: /sz4
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -9,7 +9,7 @@ permalink: /bp3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 3-as választókerület (XII. kerület)</h5>
+		  <h5>Jász-Nagykun-Szolnok megye 4-es választókerület (Törökszentmiklós)</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -47,7 +47,7 @@ permalink: /bp3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 3-as választókerület (XII. kerület) - 2014-es eredmények</h5>
+		  <h5>Jász-Nagykun-Szolnok megye 4-es választókerület (Törökszentmiklós) - 2014-es eredmények</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -57,24 +57,25 @@ permalink: /bp3
               </thead>
               <tbody>
              <tr>
-                  <td>Dr. Fónagy János Vilmos - Fidesz-KDNP</td>
-				  <td>46.8%</td>
+                  <td>Boldog István - Fidesz-KDNP</td>
+				  <td>42.2%</td>
 			</tr>
 			<tr>
-                  <td>Bauer Tamás - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
-				  <td>35.0%</td>
+			      <td>Csányi Tamás - Jobbik</td>
+				  <td>30.6%</td>
 			</tr>
 			<tr>
-                  <td>Hajdu Mária - LMP</td>
-				  <td>10.1%</td>
+			      <td>Rózsa Endre - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
+				  <td>21.4%</td>
+			      
 			</tr>
 			<tr>
-				  <td>Szávay István - Jobbik</td>
-				  <td>6.1%</td>
+				  <td>Sallai Róbert Benedek - LMP</td>
+				  <td>2.6%</td>
 			</tr>                
               </tbody>
             </table>
-			<h5>Győztes: Fidesz-KDNP, 11.8%-kal</h5>
+			<h5>Győztes: Fidesz-KDNP, 11.6%-kal</h5>
           </div>
     </div>
 </div>

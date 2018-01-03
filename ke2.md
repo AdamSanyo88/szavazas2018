@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Budapest 3-as választókerület
-permalink: /bp3
+title: Komárom-Esztergom megye 2-es választókerület
+permalink: /ke2
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -9,7 +9,7 @@ permalink: /bp3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 3-as választókerület (XII. kerület)</h5>
+		  <h5>Komárom-Esztergom megye 2-es választókerület (Esztergom)</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -47,7 +47,7 @@ permalink: /bp3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 3-as választókerület (XII. kerület) - 2014-es eredmények</h5>
+		  <h5>Komárom-Esztergom megye 2-es választókerület (Esztergom) - 2014-es eredmények</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -57,24 +57,25 @@ permalink: /bp3
               </thead>
               <tbody>
              <tr>
-                  <td>Dr. Fónagy János Vilmos - Fidesz-KDNP</td>
-				  <td>46.8%</td>
+                  <td>Dr. Völner Pál - Fidesz-KDNP</td>
+				  <td>45.9%</td>
 			</tr>
 			<tr>
-                  <td>Bauer Tamás - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
-				  <td>35.0%</td>
+			      <td>Dr. Vadai Ágnes - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
+				  <td>27.2%</td>
+			      
 			</tr>
 			<tr>
-                  <td>Hajdu Mária - LMP</td>
-				  <td>10.1%</td>
+			      <td>Nunkovics Tibor - Jobbik</td>
+				  <td>19.8%</td>
 			</tr>
 			<tr>
-				  <td>Szávay István - Jobbik</td>
-				  <td>6.1%</td>
+				  <td>Prommer Mátyás Jenő - LMP</td>
+				  <td>4.3%</td>
 			</tr>                
               </tbody>
             </table>
-			<h5>Győztes: Fidesz-KDNP, 11.8%-kal</h5>
+			<h5>Győztes: Fidesz-KDNP, 18.7%-kal</h5>
           </div>
     </div>
 </div>

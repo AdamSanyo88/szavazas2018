@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Budapest 3-as választókerület
-permalink: /bp3
+title: Nógrád megye 1-es választókerület
+permalink: /no1
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -9,7 +9,7 @@ permalink: /bp3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 3-as választókerület (XII. kerület)</h5>
+		  <h5>Nógrád megye 1-es választókerület (Salgótarján)</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -47,7 +47,7 @@ permalink: /bp3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 3-as választókerület (XII. kerület) - 2014-es eredmények</h5>
+		  <h5>Nógrád megye 1-es választókerület (Salgótarján) - 2014-es eredmények</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -57,24 +57,29 @@ permalink: /bp3
               </thead>
               <tbody>
              <tr>
-                  <td>Dr. Fónagy János Vilmos - Fidesz-KDNP</td>
-				  <td>46.8%</td>
+                  <td>Becsó Zsolt - Fidesz-KDNP</td>
+				  <td>37.6%</td>
 			</tr>
 			<tr>
-                  <td>Bauer Tamás - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
-				  <td>35.0%</td>
+			      <td>Boldvai László Róbert - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
+				  <td>26.9%</td>
+			      
 			</tr>
 			<tr>
-                  <td>Hajdu Mária - LMP</td>
-				  <td>10.1%</td>
+			      <td>Kutas József - Jobbik</td>
+				  <td>23.5%</td>
 			</tr>
 			<tr>
-				  <td>Szávay István - Jobbik</td>
-				  <td>6.1%</td>
-			</tr>                
+				  <td>Komlósi Csaba - LMP</td>
+				  <td>2.6%</td>
+			</tr>  
+            <tr>
+				  <td>Seres Mária - SMS</td>
+				  <td>2.5%</td>
+			</tr> 			
               </tbody>
             </table>
-			<h5>Győztes: Fidesz-KDNP, 11.8%-kal</h5>
+			<h5>Győztes: Fidesz-KDNP, 10.7%-kal</h5>
           </div>
     </div>
 </div>
