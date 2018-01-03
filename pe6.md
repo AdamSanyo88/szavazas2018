@@ -74,7 +74,7 @@ permalink: /pe6
 			</tr>  	
               </tbody>
             </table>
-			<h5>Győztes: Fidesz-KDNP, 10.5%-kal</h5>
+			<h5>Győztes: Fidesz-KDNP, 17.5%-kal</h5>
           </div>
     </div>
 </div>
