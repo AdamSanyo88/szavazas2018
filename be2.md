@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Budapest 1-es választókerület
-permalink: /bp1
+title: Békés megye 2-es választókerület
+permalink: /be2
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -9,7 +9,7 @@ permalink: /bp1
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
+		  <h5>Békés megye 2-es választókerület (Békés)</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -19,25 +19,25 @@ permalink: /bp1
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz jelöltje</td>
-				  <td>46%</td>
+                  <td>Fidesz </td>
+				  <td>xx%</td>
 			</tr>
 			<tr>
-                  <td>Juhász Péter - Együtt </td>
-				  <td>42%</td>
+                  <td>Baloldal</td>
+				  <td>xx%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td>5%</td>
+				  <td>xx%</td>
 			</tr>
 			<tr>
-				  <td>Fekete-Győr András - Momentum</td>
-				  <td>4%</td>
+				  <td>Momentum</td>
+				  <td>xx%</td>
 			</tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: Fidesz jelöltje: 62%-os esély</h5>
-			<h6>Legesélyesebb ellenzéki jelölt: Juhász Péter (Együtt): 37%-os esély</h6>
+			<h5>Várható győztes: xx xx%-os győzelmi esély</h5>
+			<h6>Legesélyesebb ellenzéki jelölt: xx xx%-os győzelmi esély</h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>
@@ -47,7 +47,7 @@ permalink: /bp1
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest 1-es választókerület (V. kerület) - 2014-es eredmények</h5>
+		  <h5>Békés megye 2-es választókerület (Békés) - 2014-es eredmények</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
@@ -57,24 +57,24 @@ permalink: /bp1
               </thead>
               <tbody>
              <tr>
-                  <td>Rogán Antal - Fidesz-KDNP</td>
-				  <td>45.3%</td>
+                  <td>Dankó Béla - Fidesz-KDNP</td>
+				  <td>47.8%</td>
 			</tr>
 			<tr>
-                  <td>Kerék-Bárczy Szabolcs - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
-				  <td>32.6%</td>
+			      <td>Samu Tamás Gergő - Jobbik</td>
+				  <td>26.3%</td>
 			</tr>
 			<tr>
-                  <td>Schiffer András - LMP</td>
-				  <td>13.7%</td>
+			      <td>Rejtő József - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
+				  <td>19.0%</td>
 			</tr>
 			<tr>
-				  <td>Hegedűs Lóránt Gézáné - Jobbik</td>
-				  <td>7.8%</td>
+				  <td>Rigler Miklós - LMP</td>
+				  <td>3.8%</td>
 			</tr>                
               </tbody>
             </table>
-			<h5>Győztes: Fidesz-KDNP, 12.7%-kal</h5>
+			<h5>Győztes: Fidesz-KDNP, 21.5%-kal</h5>
           </div>
     </div>
 </div>
