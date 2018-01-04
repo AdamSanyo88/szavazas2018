@@ -29,7 +29,7 @@ permalink: /mandatumbecsles
 				  <td>96</td>
 				  <td>45</td>
 				  <td>141</td>
-				  <td>71%</td>
+				  <td>71.0%</td>
 			</tr>
 			<tr>
 				  <td>Jobbik</td>
@@ -67,6 +67,7 @@ permalink: /mandatumbecsles
               </tbody>
             </table>
 <h5>Eredmény: A Fidesz 2/3-os többséget szerezne (141 mandátummal)</h5>
+<h6>Utolsó frissítés: 2018. január 4.</h6>
           </div>
     </div>
 	

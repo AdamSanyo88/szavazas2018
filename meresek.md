@@ -15,6 +15,7 @@ permalink: /meresek
 <table class="responsive-table">
               <thead>
                 <tr>
+					<th>Dátum<th>
                     <th>Közvélemény-kutató</th>
                     <th>Mérés típusa</th>
 					<th>Minta és hibahatár</th>
@@ -29,9 +30,10 @@ permalink: /meresek
               </thead>
               <tbody>
              <tr>
+				  <td>'17 dec.</td>
                   <td>Závecz</td>
 				  <td>Országos</td>
-				  <td>1000, 3.1%</td>
+				  <td>1000 fő, +/-3.1%</td>
 				  <td>50%</td>
 				  <td>18%</td>
 				  <td>10%</td>
