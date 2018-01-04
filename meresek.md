@@ -15,7 +15,7 @@ permalink: /meresek
 <table class="responsive-table">
               <thead>
                 <tr>
-					<th>Dátum<th>
+					<th>Dátum</th>
                     <th>Közvélemény-kutató</th>
                     <th>Mérés típusa</th>
 					<th>Minta és hibahatár</th>
