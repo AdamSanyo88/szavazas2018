@@ -41,7 +41,6 @@ permalink: /meresek
 				  <td>7%</td>
 				  <td>3%</td>
 				  <td>4%</td>
-			</tr>
-			</tr>                
+			</tr>               
               </tbody>
             </table>
