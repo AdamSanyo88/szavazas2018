@@ -30,16 +30,16 @@ permalink: /meresek
               </thead>
               <tbody>
              <tr>
-				  <td>'17 dec.</td>
+				  <td><a href="https://zoom.hu/hir/2017/12/21/zavecz-research-versenyt-fut-a-dk-es-az-lmp-megallt-az-mszp-zuhanasa">'17 dec.</a></td>
                   <td>Závecz</td>
 				  <td>Országos</td>
 				  <td>1000 fő, +/-3.1%</td>
-				  <td>50%</td>
-				  <td>18%</td>
-				  <td>10%</td>
+				  <td>52%</td>
+				  <td>14%</td>
+				  <td>12%</td>
 				  <td>8%</td>
 				  <td>7%</td>
-				  <td>3%</td>
+				  <td>2%</td>
 				  <td>4%</td>
 			</tr>               
               </tbody>
