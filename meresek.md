@@ -40,7 +40,20 @@ permalink: /meresek
 				  <td>7%</td>
 				  <td>2%</td>
 				  <td>4%</td>
-			</tr>               
+			</tr>
+			<tr>
+				  <td><a href="http://www.publicus.hu/blog/partok_tamogatottsaga_es_egyes_politikusok_nepszerusege_2017_december/">'17 dec.</a></td>
+                  <td>Publicus</td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>48%</td>
+				  <td>14%</td>
+				  <td>15%</td>
+				  <td>6%</td>
+				  <td>7%</td>
+				  <td>2%</td>
+				  <td>8%</td>
+			</tr>
+		
               </tbody>
             </table>
 			
