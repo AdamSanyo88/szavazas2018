@@ -25,7 +25,7 @@ permalink: /meresek
 					<th>DK</th>
 					<th>LMP</th>
 					<th>Momentum</th>
-					<th>Egyéb párt</th>
+					<th>Egyéb</th>
                 </tr>
               </thead>
               <tbody>
@@ -50,7 +50,7 @@ permalink: /meresek
                 <tr>
 					<th>Dátum</th>
                     <th>Közvélemény-kutató</th>
-					<th>Választókerület</th>
+					<th>Választóker.</th>
 					<th>Minta és hibahatár</th>
 					<th>Fidesz</th>
 					<th>Jobbik</th>
@@ -58,12 +58,12 @@ permalink: /meresek
 					<th>DK</th>
 					<th>LMP</th>
 					<th>Momentum</th>
-					<th>Egyéb párt</th>
+					<th>Egyéb</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
-				  <td><a href="https://zoom.hu/hir/2017/12/21/zavecz-research-versenyt-fut-a-dk-es-az-lmp-megallt-az-mszp-zuhanasa">'17 dec.</a></td>
+				  <td><a href="">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
 				  <td>xxx kerület</td>
 				  <td>300 fő, +/-5.8%</td>
