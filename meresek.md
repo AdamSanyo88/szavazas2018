@@ -113,20 +113,7 @@ permalink: /meresek
 				  <td>7%</td>
 				  <td>1%</td>
 				  <td>2%</td>
-			</tr>	
-			<tr>
-				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
-                  <td>Republikon, 24.hu</td>
-				  <td><a href="../baz2">Borsod 2-es</a></td>
-				  <td>300 fő, +/-5.8%</td>
-				  <td>45%</td>
-				  <td>26%</td>
-				  <td>19%</td>
-				  <td>-%</td>
-				  <td>7%</td>
-				  <td>1%</td>
-				  <td>2%</td>
-			</tr>	
+			</tr>				
 			<tr>
 				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
@@ -166,5 +153,70 @@ permalink: /meresek
 				  <td>-%</td>
 				  <td>-%</td>
 			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/kozelet/2017/12/11/nyomorgo-aprofalvas-videken-is-50-felett-a-fidesz/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../ba4">Baranya 4-es (visszalépésekkel)</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>62%</td>
+				  <td>38%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/kozelet/2017/12/12/vonanak-egyelore-semmi-de-semmi-eselye-gyongyoson/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../he2">Heves 2-es</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>51%</td>
+				  <td>26%</td>
+				  <td>18%</td>
+				  <td>-%</td>
+				  <td>3%</td>
+				  <td>-%</td>
+				  <td>2%</td>
+			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/kozelet/2017/12/12/vonanak-egyelore-semmi-de-semmi-eselye-gyongyoson/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../he2">Heves 2-es (visszalépésekkel)</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>60%</td>
+				  <td>-%</td>
+				  <td>40%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/kozelet/2017/12/13/talaltunk-egy-korzetet-ahol-50-alatt-van-a-fidesz/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../za3">Zala 3-as</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>47%</td>
+				  <td>22%</td>
+				  <td>12%</td>
+				  <td>6%</td>
+				  <td>5%</td>
+				  <td>4%</td>
+				  <td>4%</td>
+			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/kozelet/2017/12/13/talaltunk-egy-korzetet-ahol-50-alatt-van-a-fidesz/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../za3">Zala 3-as (visszalépésekkel)</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>59%</td>
+				  <td>41%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+			</tr>
               </tbody>
             </table>
