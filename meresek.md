@@ -91,7 +91,7 @@ permalink: /meresek
 			<tr>
 				  <td><a href="https://24.hu/belfold/2017/12/08/az-ismeretlen-fideszes-is-nyerne-juhasz-peter-es-fekete-gyor-korzeteben">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
-				  <td><a href="../bp1>Budapest 1-es (visszalépésekkel)</a></td>
+				  <td><a href="../bp1>Budapest 1-es (visszalépésekkel)"</a></td>
 				  <td>300 fő, +/-5.8%</td>
 				  <td>56%</td>
 				  <td>-%</td>
@@ -104,7 +104,7 @@ permalink: /meresek
 			<tr>
 				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
-				  <td><a href="../baz2>Borsod 2-es</a></td>
+				  <td><a href="../baz2>Borsod 2-es"</a></td>
 				  <td>300 fő, +/-5.8%</td>
 				  <td>45%</td>
 				  <td>26%</td>
@@ -117,7 +117,7 @@ permalink: /meresek
 			<tr>
 				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
-				  <td><a href="../baz2>Borsod 2-es</a></td>
+				  <td><a href="../baz2>Borsod 2-es"</a></td>
 				  <td>300 fő, +/-5.8%</td>
 				  <td>45%</td>
 				  <td>26%</td>
@@ -130,7 +130,7 @@ permalink: /meresek
 			<tr>
 				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
-				  <td><a href="../baz2>Borsod 2-es (visszalépésekkel)</a></td>
+				  <td><a href="../baz2>Borsod 2-es (visszalépésekkel)"</a></td>
 				  <td>300 fő, +/-5.8%</td>
 				  <td>55%</td>
 				  <td>45%</td>
@@ -143,7 +143,7 @@ permalink: /meresek
 			<tr>
 				  <td><a href="https://24.hu/kozelet/2017/12/11/nyomorgo-aprofalvas-videken-is-50-felett-a-fidesz/">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
-				  <td><a href="../ba4>Baranya 4-es</a></td>
+				  <td><a href="../ba4>Baranya 4-es"</a></td>
 				  <td>300 fő, +/-5.8%</td>
 				  <td>52%</td>
 				  <td>15%</td>
@@ -156,7 +156,7 @@ permalink: /meresek
 			<tr>
 				  <td><a href="https://24.hu/kozelet/2017/12/11/nyomorgo-aprofalvas-videken-is-50-felett-a-fidesz/">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
-				  <td><a href="../ba4>Baranya 4-es (visszalépésekkel)</a></td>
+				  <td><a href="../ba4>Baranya 4-es (visszalépésekkel)"</a></td>
 				  <td>300 fő, +/-5.8%</td>
 				  <td>62%</td>
 				  <td>38%</td>
