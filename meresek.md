@@ -154,19 +154,6 @@ permalink: /meresek
 				  <td>-%</td>
 			</tr>	
 			<tr>
-				  <td><a href="https://24.hu/kozelet/2017/12/11/nyomorgo-aprofalvas-videken-is-50-felett-a-fidesz/">'17 dec.</a></td>
-                  <td>Republikon, 24.hu</td>
-				  <td><a href="../ba4">Baranya 4-es (visszalépésekkel)</a></td>
-				  <td>300 fő, +/-5.8%</td>
-				  <td>62%</td>
-				  <td>38%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-			</tr>	
-			<tr>
 				  <td><a href="https://24.hu/kozelet/2017/12/12/vonanak-egyelore-semmi-de-semmi-eselye-gyongyoson/">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
 				  <td><a href="../he2">Heves 2-es</a></td>
