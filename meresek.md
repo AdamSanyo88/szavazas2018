@@ -76,17 +76,95 @@ permalink: /meresek
               </thead>
               <tbody>
              <tr>
-				  <td><a href="">'17 dec.</a></td>
+				  <td><a href="https://24.hu/belfold/2017/12/08/az-ismeretlen-fideszes-is-nyerne-juhasz-peter-es-fekete-gyor-korzeteben">'17 dec.</a></td>
                   <td>Republikon, 24.hu</td>
-				  <td>xxx kerület</td>
+				  <td><a href="../bp1>Budapest 1-es</a></td>
 				  <td>300 fő, +/-5.8%</td>
-				  <td>xx%</td>
-				  <td>xx%</td>
-				  <td>xx%</td>
-				  <td>xx%</td>
-				  <td>xx%</td>
-				  <td>xx%</td>
-				  <td>xx%</td>
-			</tr>               
+				  <td>50%</td>
+				  <td>6%</td>
+				  <td>8%</td>
+				  <td>-%</td>
+				  <td>12%</td>
+				  <td>6%</td>
+				  <td>14% (Juhász Péter)%</td>
+			</tr>    
+			<tr>
+				  <td><a href="https://24.hu/belfold/2017/12/08/az-ismeretlen-fideszes-is-nyerne-juhasz-peter-es-fekete-gyor-korzeteben">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../bp1>Budapest 1-es (visszalépésekkel)</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>56%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>44% (Juhász Péter)%</td>
+			</tr>			
+			<tr>
+				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../baz2>Borsod 2-es</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>45%</td>
+				  <td>26%</td>
+				  <td>19%</td>
+				  <td>-%</td>
+				  <td>7%</td>
+				  <td>1%</td>
+				  <td>2%</td>
+			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../baz2>Borsod 2-es</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>45%</td>
+				  <td>26%</td>
+				  <td>19%</td>
+				  <td>-%</td>
+				  <td>7%</td>
+				  <td>1%</td>
+				  <td>2%</td>
+			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../baz2>Borsod 2-es (visszalépésekkel)</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>55%</td>
+				  <td>45%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/kozelet/2017/12/11/nyomorgo-aprofalvas-videken-is-50-felett-a-fidesz/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../ba4>Baranya 4-es</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>52%</td>
+				  <td>15%</td>
+				  <td>14%</td>
+				  <td>5%</td>
+				  <td>5%</td>
+				  <td>2%</td>
+				  <td>7%</td>
+			</tr>	
+			<tr>
+				  <td><a href="https://24.hu/kozelet/2017/12/11/nyomorgo-aprofalvas-videken-is-50-felett-a-fidesz/">'17 dec.</a></td>
+                  <td>Republikon, 24.hu</td>
+				  <td><a href="../ba4>Baranya 4-es (visszalépésekkel)</a></td>
+				  <td>300 fő, +/-5.8%</td>
+				  <td>62%</td>
+				  <td>38%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+				  <td>-%</td>
+			</tr>	
               </tbody>
             </table>
