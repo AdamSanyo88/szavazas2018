@@ -22,8 +22,7 @@ permalink: /sz3
                   <td>Fidesz</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr>
-<td id="id_jobbik">xx%</td></tr>
+			<tr><td>Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Baloldal</td>
 				  <td id="id_baloldal">xx%</td>
