@@ -19,9 +19,12 @@ permalink: /bp1
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz jelöltje</td>
+                  <td>Fidesz</td>
 				  <td id="id_fidesz">46%</td>
 			</tr>
+			<tr>
+<td id="id_fidesz">Jobbik</td>
+<td>xx%</td></tr>
 			<tr>
                   <td>Juhász Péter - Együtt </td>
 				  <td id="id_baloldal">42%</td>
@@ -31,7 +34,7 @@ permalink: /bp1
 				  <td id="id_lmp">5%</td>
 			</tr>
 			<tr>
-				  <td>Fekete-Győr András - Momentum</td>
+				  <td id="id_lmp">Fekete-Győr András - Momentum</td>
 				  <td id="id_momentum">4%</td>
 			</tr>                
               </tbody>

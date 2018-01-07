@@ -20,19 +20,21 @@ permalink: /szb2
               <tbody>
              <tr>
                   <td>Fidesz</td>
-				  <td>xx%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr>
+<td id="id_jobbik">xx%</td></tr>
+<tr>
                   <td>Baloldal</td>
-				  <td>xx%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td>xx%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Momentum</td>
-				  <td>xx%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>                
               </tbody>
             </table>
