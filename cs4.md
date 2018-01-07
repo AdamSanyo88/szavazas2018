@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Csongrád megye 4-es választókerület
-permalink: /cs3
+permalink: /cs4
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -19,7 +19,7 @@ permalink: /cs3
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz </td>
+                  <td>Fidesz</td>
 				  <td>xx%</td>
 			</tr>
 			<tr>

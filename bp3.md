@@ -19,7 +19,7 @@ permalink: /bp3
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz </td>
+                  <td>Fidesz</td>
 				  <td>xx%</td>
 			</tr>
 			<tr>

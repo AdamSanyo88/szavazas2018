@@ -19,19 +19,19 @@ permalink: /bk1
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz </td>
+                  <td>??? - Fidesz </td>
 				  <td>xx%</td>
 			</tr>
 			<tr>
-                  <td>Baloldal</td>
+                  <td>??? - DK</td>
 				  <td>xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>??? - LMP</td>
 				  <td>xx%</td>
 			</tr>
 			<tr>
-				  <td>Momentum</td>
+				  <td>Bodrozsán Alexandra - Momentum</td>
 				  <td>xx%</td>
 			</tr>                
               </tbody>

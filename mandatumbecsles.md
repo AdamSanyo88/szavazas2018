@@ -25,7 +25,7 @@ permalink: /mandatumbecsles
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz </td>
+                  <td>Fidesz</td>
 				  <td>96</td>
 				  <td>45</td>
 				  <td>141</td>
