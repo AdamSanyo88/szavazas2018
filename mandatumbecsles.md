@@ -9,7 +9,7 @@ permalink: /mandatumbecsles
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Ha most vasárnap választanánk, hogy nézne ki az új parlament?</h5> 
+		  <h5>Ha most vasárnap lennének a választások, melyik párt hány képviselőt küldene a parlamentbe?</h5> 
 <p class="light">Az alábbi táblázat összefoglalja a várható egyéni (106) és listás (93) mandátumok kiosztását.</p>
 
 
@@ -76,7 +76,7 @@ permalink: /mandatumbecsles
     <div class="row">
           <div class="col s12">
 		  <h5>Egyéni kerületek sorsa</h5> 
-<p class="light">Az alábbi táblázat megmutatja, hogy az egyéni választókerületekben mely párt és milyen arányban győzedelmeskedne. A lista folyamatosan frissül az új közvélemény-kutatási eredmények tükrében.</p>
+<p class="light">Az alábbi táblázat megmutatja, hogy az egyéni választókerületekben mely párt és milyen arányban győzedelmeskedne. A lista folyamatosan frissül <a href="../meresek>az új közvélemény-kutatási eredmények tükrében.</a></p>
             <table class="bordered">
               <thead>
                 <tr>

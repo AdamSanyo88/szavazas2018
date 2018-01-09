@@ -2,4 +2,4 @@
 layout: home
 ---
 
-"Listára szívvel, egyéniben ésszel."
+"Listára szívvel, egyénire ésszel."

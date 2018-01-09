@@ -10,7 +10,7 @@ permalink: /meresek
     <div class="row">
           <div class="col s12">
 		  <h5>Közvélemény-kutatási adatok</h5> 
-<p class="light">Az alábbi táblázat összefoglalja a közvélemény-kutatók által végzett méréseket. Mindegyik mérésnél jelezve van, hogy országos vagy egyéni kerület adatait mutatja.</p>
+<p class="light">Az alábbi táblázat összefoglalja a közvélemény-kutatók által végzett méréseket. Mindegyik mérésnél jelezve van, hogy országos vagy egyéni kerület adatait mutatja. A lista folyamatosan frissül.</p>
 
 <h5 class="center">Országos mérések</h5>
 <table class="responsive-table">
@@ -52,6 +52,18 @@ permalink: /meresek
 				  <td>7%</td>
 				  <td>2%</td>
 				  <td>8%</td>
+			</tr>
+			<tr>
+				  <td><a href="http://hvg.hu/itthon/20180109_iranytu_partok_tamogatottsaga_december">'17 dec.</a></td>
+                  <td>Iránytű</td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>50%</td>
+				  <td>21%</td>
+				  <td>8%</td>
+				  <td>7%</td>
+				  <td>7%</td>
+				  <td>3%</td>
+				  <td>3%</td>
 			</tr>
 		
               </tbody>
