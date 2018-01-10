@@ -2,4 +2,4 @@
 layout: home
 ---
 
-"Válaszd az esélyesebb ellenzéki jelöltet!"
+Válaszd az esélyesebb ellenzéki jelöltet!
