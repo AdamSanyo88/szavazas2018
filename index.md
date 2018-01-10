@@ -2,4 +2,4 @@
 layout: home
 ---
 
-"Listára szívvel, egyénire ésszel."
+"Válaszd az esélyesebb ellenzéki jelöltet!"
