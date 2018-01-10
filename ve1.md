@@ -45,6 +45,46 @@ permalink: /ve1
     </div>
 </div>
 
+
+<div class="section">
+    <div class="row">
+          <div class="col s12">
+		  <h5>Veszprém megye 1-es választókerület (Veszprém) - 2015 február 22-i időközi választás</h5>
+            <table class="responsive-table">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarányok</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Kész Zoltán - Független</td>
+				  <td>42.6%</td>
+			</tr>
+			<tr>
+			      <td>Némedi Lajos István - Fidesz-KDNP</td>
+				  <td>33.8%</td>  
+			</tr>
+			<tr>
+			      <td>Dr. Varga-Damm Andrea - Jobbik</td>
+				  <td>14.1%</td>
+			</tr>
+			<tr>
+				  <td>Gerstmár Ferenc - LMP</td>
+				  <td>4.6%</td>
+			</tr>
+			<tr>
+				  <td>Dr. Bősze Ferenc Imre	- Független</td>
+				  <td>2.8%</td>
+			</tr>		
+              </tbody>
+            </table>
+			<h5>Győztes: Kész Zoltán, 8.8%-kal</h5>
+          </div>
+    </div>
+</div>
+
 <div class="section">
     <div class="row">
           <div class="col s12">

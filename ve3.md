@@ -48,6 +48,42 @@ permalink: /ve3
 <div class="section">
     <div class="row">
           <div class="col s12">
+		  <h5>Veszprém megye 3-as választókerület (Tapolca) - 2015 április 12-i időközi választás</h5>
+            <table class="responsive-table">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarányok</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Rig Lajos - Jobbik</td>
+				  <td>35.5%</td>
+			</tr>
+			<tr>
+			      <td>Fenyvesi Zoltán Mihály - Fidesz-KDNP</td>
+				  <td>34.3%</td>  
+			</tr>
+			<tr>
+			      <td>Pad Ferenc - MSZP-DK</td>
+				  <td>26.2%</td>
+			</tr>
+			<tr>
+				  <td>Sallee Barbara - LMP</td>
+				  <td>2.0%</td>
+			</tr>  	
+              </tbody>
+            </table>
+			<h5>Győztes: Fidesz-KDNP, 15.8%-kal</h5>
+          </div>
+    </div>
+</div>
+
+
+<div class="section">
+    <div class="row">
+          <div class="col s12">
 		  <h5>Veszprém megye 3-as választókerület (Tapolca) - 2014-es eredmények</h5>
             <table class="responsive-table">
               <thead>
