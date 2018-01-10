@@ -75,7 +75,7 @@ permalink: /ve3
 			</tr>  	
               </tbody>
             </table>
-			<h5>Győztes: Fidesz-KDNP, 15.8%-kal</h5>
+			<h5>Győztes: Jobbik, 1.2%-kal</h5>
           </div>
     </div>
 </div>
