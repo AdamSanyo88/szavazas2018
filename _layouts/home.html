@@ -9,7 +9,7 @@ layout: default
       <div class="row center">
         <h5 class="header col s12 light">{{ content }}</h5>
       </div>
-       
+
     </div>
   </div>
 
@@ -19,7 +19,7 @@ layout: default
       <!--   Selection  -->
 	  <div class="row">
         <div class="col s12">
-          
+
             <h5 class="center">Mi az oldal célja?</h5>
 
             <p class="light"><strong>Ez az oldal a 2018 áprilisi országgyűlési választásokon kiosztandó 106 egyéni mandátum sorsáról mutat előrejelzéseket.</strong> Emellett az oldal <strong>segítséget nyújt minden választó számára, aki szeretné a Fidesz kormányt leváltani 2018-ban</strong>, és az egyéni képviselő-jelöltre adható szavazatának leghatékonyabb módját keresi.</p>
@@ -34,7 +34,13 @@ layout: default
             <h5 class="center">Választókerületi kereső</h5>
 
             <p class="light">Ebben a mezőben megadhatod a településed nevét (Budapesten kerületét), hogy lásd, mely jelöltek esélyesek az adott kerületben. Nagyobb városoknál és Budapesten olykor több választás is lehetséges (például "Budapest XIII. kerület (Vizafogó, Újlipótváros)" vagy "Debrecen (Nagyerdő)". Az összes kerület listája <a href="../valasztokeruletek">itt érhető el</a>.</p>
-			<p class="light">Település:</p>
+
+            <p>Település:
+            <input id="project" class="ui-autocomplete-input" autocomplete="off">
+            <input type="hidden" id="project-id"></p>
+            <p>Választókerület:&nbsp; <a id="project-url" href="#"><span id="project-description"></span>
+            <img id="project-icon" src="images/transparent_1x1.png" class="ui-state-default" alt=""></a></p>
+
           </div>
         </div>
 
@@ -48,10 +54,10 @@ layout: default
       </div>
 
     </div>
-	
+
 	<div class="row">
         <div class="col s12">
-          
+
             <h5 class="center">Szoros választókerületek</h5>
 
             <p class="light">Az alábbi lista tartalmazza azokat a választókerületeket, ahol szoros verseny várható két jelölt között.</p>
@@ -68,34 +74,33 @@ layout: default
 <tr><td>Kerület</td>
 <td id="id_xxx">Győztes</td>
 <td id="id_zzzz">Második</td>
-<td id="id_yyy">Különbség</td></tr>	
+<td id="id_yyy">Különbség</td></tr>
 <tr><td>Kerület</td>
 <td id="id_xxx">Győztes</td>
 <td id="id_zzzz">Második</td>
-<td id="id_yyy">Különbség</td></tr>	
+<td id="id_yyy">Különbség</td></tr>
 <tr><td>Kerület</td>
 <td id="id_xxx">Győztes</td>
 <td id="id_zzzz">Második</td>
-<td id="id_yyy">Különbség</td></tr>	
+<td id="id_yyy">Különbség</td></tr>
 <tr><td>Kerület</td>
 <td id="id_xxx">Győztes</td>
 <td id="id_zzzz">Második</td>
-<td id="id_yyy">Különbség</td></tr>	
+<td id="id_yyy">Különbség</td></tr>
 <tr><td>Kerület</td>
 <td id="id_xxx">Győztes</td>
 <td id="id_zzzz">Második</td>
-<td id="id_yyy">Különbség</td></tr>	
+<td id="id_yyy">Különbség</td></tr>
 <tr><td>Kerület</td>
 <td id="id_xxx">Győztes</td>
 <td id="id_zzzz">Második</td>
-<td id="id_yyy">Különbség</td></tr>	
+<td id="id_yyy">Különbség</td></tr>
 <tr><td>Kerület</td>
 <td id="id_xxx">Győztes</td>
 <td id="id_zzzz">Második</td>
-<td id="id_yyy">Különbség</td></tr>	
+<td id="id_yyy">Különbség</td></tr>
               </tbody>
             </table>
           </div>
         </div>
-      
-  
+
