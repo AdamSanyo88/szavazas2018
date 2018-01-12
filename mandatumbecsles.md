@@ -140,7 +140,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../bp18">Budapesti 18.</a></td>
 <td id="id_xxx">Győztes</td>
 <td id="id_yyy">Különbség</td></tr>	
-<tr><td><a href="../bk">Bács-Kiskun megyei 1.</a></td>
+<tr><td><a href="../bk1">Bács-Kiskun megyei 1.</a></td>
 <td id="id_xxx">Győztes</td>
 <td id="id_yyy">Különbség</td></tr>	
 <tr><td><a href="../bk2">Bács-Kiskun megyei 2.</a></td>

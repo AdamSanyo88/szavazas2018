@@ -48,7 +48,7 @@ permalink: /ve3
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Veszprém megye 3-as választókerület (Tapolca) - 2015 április 12-i időközi választás</h5>
+		  <h5>Veszprém megye 3-as választókerület (Tapolca) - 2015. április 12-i időközi választás</h5>
             <table class="responsive-table">
               <thead>
                 <tr>

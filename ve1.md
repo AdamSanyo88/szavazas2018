@@ -49,7 +49,7 @@ permalink: /ve1
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Veszprém megye 1-es választókerület (Veszprém) - 2015 február 22-i időközi választás</h5>
+		  <h5>Veszprém megye 1-es választókerület (Veszprém) - 2015. február 22-i időközi választás</h5>
             <table class="responsive-table">
               <thead>
                 <tr>
