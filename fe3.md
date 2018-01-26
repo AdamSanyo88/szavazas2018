@@ -19,10 +19,10 @@ permalink: /fe3
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz</td>
+                  <td>Tessely Zoltán - Fidesz</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Varga László Béla - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Baloldal</td>
 				  <td id="id_baloldal">xx%</td>
@@ -32,13 +32,17 @@ permalink: /fe3
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Momentum</td>
+				  <td>Molnár Tamás - Momentum</td>
 				  <td id="id_momentum">xx%</td>
-			</tr>                
+			</tr>
+<tr>
+<td>Együtt</td>
+<td id="id_egyutt">xx%</td>
+</tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: xx xx%-os győzelmi esély</h5>
-			<h6>Legesélyesebb ellenzéki jelölt: xx xx%-os győzelmi esély</h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -19,16 +19,12 @@ permalink: /bp1
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz</td>
+                  <td>Hollik István  - Fidesz</td>
 				  <td id="id_fidesz">46%</td>
 			</tr>
 			<tr>
-<td id="id_fidesz">Jobbik</td>
+<td id="id_jobbik">Losonczy Pál - Jobbik</td>
 <td>xx%</td></tr>
-			<tr>
-                  <td>Juhász Péter - Együtt </td>
-				  <td id="id_baloldal">42%</td>
-			</tr>
 			<tr>
                   <td>LMP</td>
 				  <td id="id_lmp">5%</td>
@@ -36,11 +32,15 @@ permalink: /bp1
 			<tr>
 				  <td id="id_lmp">Fekete-Győr András - Momentum</td>
 				  <td id="id_momentum">4%</td>
-			</tr>                
+			</tr>
+<tr>
+                  <td>Juhász Péter - Együtt </td>
+				  <td id="id_egyutt">42%</td>
+			</tr>			
               </tbody>
             </table>
-			<h5>Várható győztes: Fidesz jelöltje: 62%-os esély</h5>
-			<h6>Legesélyesebb ellenzéki jelölt: Juhász Péter (Együtt): 37%-os esély</h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -19,12 +19,12 @@ permalink: /bk5
               </thead>
               <tbody>
              <tr>
-                  <td>Fidesz</td>
+                  <td>Bányai Gábor Elemér - Fidesz</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Farkas Gergely - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Molnár László - DK</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -32,13 +32,17 @@ permalink: /bk5
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Momentum</td>
+				  <td>Takács Zoltán - Momentum</td>
 				  <td id="id_momentum">xx%</td>
-			</tr>                
+			</tr>
+<tr>
+<td>Együtt</td>
+<td id="id_egyutt">xx%</td>
+</tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: xx xx%-os győzelmi esély</h5>
-			<h6>Legesélyesebb ellenzéki jelölt: xx xx%-os győzelmi esély</h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>
