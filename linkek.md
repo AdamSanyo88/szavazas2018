@@ -21,6 +21,3 @@ permalink: /linkek
 <p><a href="https://merce.hu/2018/01/10/gulyas-marton-bejelentette-ezekben-a-korzetekben-keszit-felmereseket-a-kozos-orszag-mozgalom/">Gulyás Mártonék tíz körzetben megmérik, ki a legesélyesebb ellenzéki képviselőjelölt</a> - Mérce, 2018. január 10.<p>
 <p><a href="https://hirtv.hu/ahirtvhirei/valasztokerulet-hatarozo-ezeken-a-keruleteken-mulhat-a-fidesz-tobbsege-2438849">Választókerület-határozó: Ezeken a kerületeken múlhat a Fidesz többsége</a> - Hír TV, 2018. január 9.</p>
 <p><a href="https://mno.hu/velemeny/a-fideszes-eropolitika-egyetlen-ellenszere-2438286">A fideszes erőpolitika egyetlen ellenszere</a> - Magyar Nemzet Online, 2018. január 7.</p>
-</div>     
-          </div>
-    </div>

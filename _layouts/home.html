@@ -34,7 +34,12 @@ layout: default
             <h5 class="center">Választókerületi kereső</h5>
 
             <p class="light">Ebben a mezőben megadhatod a településed nevét (Budapesten kerületét), hogy lásd, mely jelöltek esélyesek az adott kerületben. Nagyobb városoknál és Budapesten olykor több választás is lehetséges (például "Budapest XIII. kerület (Vizafogó, Újlipótváros)" vagy "Debrecen (Nagyerdő)". Az összes kerület listája <a href="../valasztokeruletek">itt érhető el</a>.</p>
-			<p class="light">Település:</p>
+
+			<p>Település:
+            <input id="project" class="ui-autocomplete-input" autocomplete="off">
+            <input type="hidden" id="project-id"></p>
+            <p>Választókerület:&nbsp; <a id="project-url" href="#"><span id="project-description"></span>
+            <img id="project-icon" src="images/transparent_1x1.png" class="ui-state-default" alt=""></a></p>
           </div>
         </div>
 
