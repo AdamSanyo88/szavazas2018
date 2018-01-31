@@ -26,7 +26,7 @@ permalink: /ba1
 <td>Fogarasi Gábor - Jobbik</td>
 <td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Mellár Tamás - független</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

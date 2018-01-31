@@ -29,6 +29,42 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			  <tr>
+				  <td><a href="https://mno.hu/belfold/publicus-a-tobbseg-kormanyvaltast-szeretne-2441591">'18 jan.</a></td>
+                  <td>Publicus</td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>49%</td>
+				  <td>16%</td>
+				  <td>17%</td>
+				  <td>5%</td>
+				  <td>7%</td>
+				  <td>1%</td>
+				  <td>3%</td>
+			</tr>
+			<tr>
+				  <td><a href="https://kozvelemenykutatok.hu/2018-januari-kutatasi-eredmenyek-zri-zavecz/">'18 jan.</a></td>
+                  <td>Závecz</td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>50%</td>
+				  <td>16%</td>
+				  <td>13%</td>
+				  <td>8%</td>
+				  <td>7%</td>
+				  <td>1%</td>
+				  <td>1%</td>
+			</tr>
+			<tr>
+				  <td><a href="https://zoom.hu/hir/2017/12/21/zavecz-research-versenyt-fut-a-dk-es-az-lmp-megallt-az-mszp-zuhanasa">'18 jan.</a></td>
+                  <td>Závecz</td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>52%</td>
+				  <td>14%</td>
+				  <td>12%</td>
+				  <td>8%</td>
+				  <td>7%</td>
+				  <td>2%</td>
+				  <td>4%</td>
+			</tr>
              <tr>
 				  <td><a href="https://zoom.hu/hir/2017/12/21/zavecz-research-versenyt-fut-a-dk-es-az-lmp-megallt-az-mszp-zuhanasa">'17 dec.</a></td>
                   <td>Závecz</td>
