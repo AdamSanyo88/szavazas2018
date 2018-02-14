@@ -20,29 +20,29 @@ permalink: /va1
               <tbody>
              <tr>
                   <td>dr. Hende Csaba - Fidesz</td>
-				  <td id="id_fidesz">49.3% </td>
+				  <td id="id_fidesz">49.3%</td>
 			</tr>
-			<tr><td>Balassa Péter - Jobbik</td><td id="id_jobbik">8.2% </td></tr>
+			<tr><td>Balassa Péter - Jobbik</td><td id="id_jobbik">8.2%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">38.1% </td>
+				  <td id="id_baloldal">38.1%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.2% </td>
+				  <td id="lmp">2.2%</td>
 			</tr>
 			<tr>
 				  <td>Taoufik Roland - Momentum</td>
-				  <td id="momentum">2.2% </td>
+				  <td id="momentum">2.2%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0% </td>
+<td id="egyutt">0.0%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">97.3% </span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">2.7% </span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">97.3%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">2.7%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

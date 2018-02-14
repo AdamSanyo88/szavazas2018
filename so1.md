@@ -20,29 +20,29 @@ permalink: /so1
               <tbody>
              <tr>
                   <td>Gelencsér Attila - Fidesz</td>
-				  <td id="id_fidesz">45.2% </td>
+				  <td id="id_fidesz">45.2%</td>
 			</tr>
-			<tr><td>Miháldinecz Gábor - Jobbik</td><td id="id_jobbik">11.6% </td></tr>
+			<tr><td>Miháldinecz Gábor - Jobbik</td><td id="id_jobbik">11.6%</td></tr>
 <tr>
                   <td>László Imre - DK</td>
-				  <td id="id_baloldal">39.2% </td>
+				  <td id="id_baloldal">39.2%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.0% </td>
+				  <td id="lmp">2.0%</td>
 			</tr>
 			<tr>
 				  <td>Berg Dániel - Momentum</td>
-				  <td id="momentum">2.0% </td>
+				  <td id="momentum">2.0%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0% </td>
+<td id="egyutt">0.0%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">84.7% </span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">15.3% </span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">84.7%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">15.3%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

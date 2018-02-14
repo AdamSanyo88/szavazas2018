@@ -39,8 +39,8 @@ permalink: /bp1
 			</tr>			
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">93.8% </span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">6.2% </span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">93.8%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">6.2%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

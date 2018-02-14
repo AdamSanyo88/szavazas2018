@@ -20,29 +20,29 @@ permalink: /bp4
               <tbody>
              <tr>
                   <td>Varga Mihály - Fidesz</td>
-				  <td id="id_fidesz">50.7% </td>
+				  <td id="id_fidesz">50.7%</td>
 			</tr>
-			<tr><td>Kovács Tamás - Jobbik</td><td id="id_jobbik">1.6% </td></tr>
+			<tr><td>Kovács Tamás - Jobbik</td><td id="id_jobbik">1.6%</td></tr>
 <tr>
                   <td>Niedermüller Péter - DK</td>
-				  <td id="id_baloldal">43.1% </td>
+				  <td id="id_baloldal">43.1%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.7% </td>
+				  <td id="lmp">2.7%</td>
 			</tr>
 			<tr>
 				  <td>Benedek Márton - Momentum</td>
-				  <td id="momentum">1.8% </td>
+				  <td id="momentum">1.8%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0% </td>
+<td id="egyutt">0.0%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">90.4% </span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">9.6% </span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">90.4%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">9.6%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

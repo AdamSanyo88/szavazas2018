@@ -20,29 +20,29 @@ permalink: /ba2
               <tbody>
              <tr>
                   <td>dr. Hoppál Péter - Fidesz</td>
-				  <td id="id_fidesz">57.4% </td>
+				  <td id="id_fidesz">57.4%</td>
 			</tr>
-			<tr><td>Gyimesi Gábor - Jobbik</td><td id="id_jobbik">10.6% </td></tr>
+			<tr><td>Gyimesi Gábor - Jobbik</td><td id="id_jobbik">10.6%</td></tr>
 <tr>
                   <td>Nagy Ferenc - DK</td>
-				  <td id="id_baloldal">28.6% </td>
+				  <td id="id_baloldal">28.6%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7% </td>
+				  <td id="lmp">1.7%</td>
 			</tr>
 			<tr>
 				  <td>Körömi Attila - Momentum</td>
-				  <td id="momentum">1.7% </td>
+				  <td id="momentum">1.7%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0% </td>
+<td id="egyutt">0.0%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0% </span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">0.0% </span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

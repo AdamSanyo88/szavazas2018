@@ -20,29 +20,29 @@ permalink: /baz5
               <tbody>
              <tr>
                   <td>dr. Hörcsik Richárd - Fidesz</td>
-				  <td id="id_fidesz">49.9% </td>
+				  <td id="id_fidesz">49.9%</td>
 			</tr>
-			<tr><td>Mikola Gergely - Jobbik</td><td id="id_jobbik">13.3% </td></tr>
+			<tr><td>Mikola Gergely - Jobbik</td><td id="id_jobbik">13.3%</td></tr>
 <tr>
                   <td>Zaveczki Tibor - DK</td>
-				  <td id="id_baloldal">33.6% </td>
+				  <td id="id_baloldal">33.6%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.5% </td>
+				  <td id="lmp">1.5%</td>
 			</tr>
 			<tr>
 				  <td>Pencz András - Momentum</td>
-				  <td id="momentum">1.6% </td>
+				  <td id="momentum">1.6%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0% </td>
+<td id="egyutt">0.0%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.7% </span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">0.3% </span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.7%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.3%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

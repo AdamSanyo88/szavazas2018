@@ -20,29 +20,29 @@ permalink: /bk6
               <tbody>
              <tr>
                   <td>Zsigó Róbert - Fidesz</td>
-				  <td id="id_fidesz">56.2% </td>
+				  <td id="id_fidesz">56.2%</td>
 			</tr>
-			<tr><td>Grünfelder Zoltán - Jobbik</td><td id="id_jobbik">9.0% </td></tr>
+			<tr><td>Grünfelder Zoltán - Jobbik</td><td id="id_jobbik">9.0%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">30.9% </td>
+				  <td id="id_baloldal">30.9%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.0% </td>
+				  <td id="lmp">2.0%</td>
 			</tr>
 			<tr>
 				  <td>Béni Kornél - Momentum</td>
-				  <td id="momentum">2.0% </td>
+				  <td id="momentum">2.0%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0% </td>
+<td id="egyutt">0.0%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0% </span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">0.0% </span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>
