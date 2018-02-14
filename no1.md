@@ -20,29 +20,29 @@ permalink: /no1
               <tbody>
              <tr>
                   <td>dr. Becsó Zsolt - Fidesz</td>
-				  <td id="id_fidesz">44.2%</td>
+				  <td id="id_fidesz">44.2% </td>
 			</tr>
-			<tr><td>Cseresznyés István - Jobbik</td><td id="id_jobbik">13.0%</td></tr>
+			<tr><td>Cseresznyés István - Jobbik</td><td id="id_jobbik">13.0% </td></tr>
 <tr>
                   <td>Kovács Zsolt - DK</td>
-				  <td id="id_baloldal">39.4%</td>
+				  <td id="id_baloldal">39.4% </td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.7% </td>
 			</tr>
 			<tr>
 				  <td>Barta László - Momentum</td>
-				  <td id="momentum">1.8%</td>
+				  <td id="momentum">1.8% </td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td id="egyutt">0.0% </td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely">79.6%</span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal</span><span id="esely2">20.4%</span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">79.6% </span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">20.4% </span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

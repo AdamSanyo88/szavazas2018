@@ -20,29 +20,29 @@ permalink: /be2
               <tbody>
              <tr>
                   <td>Dankó Béla - Fidesz</td>
-				  <td id="id_fidesz">51.9%</td>
+				  <td id="id_fidesz">51.9% </td>
 			</tr>
-			<tr><td>Samu Tamás Gergő - Jobbik</td><td id="id_jobbik">13.1%</td></tr>
+			<tr><td>Samu Tamás Gergő - Jobbik</td><td id="id_jobbik">13.1% </td></tr>
 <tr>
                   <td>Kondé Gábor - DK</td>
-				  <td id="id_baloldal">31.6%</td>
+				  <td id="id_baloldal">31.6% </td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.7% </td>
 			</tr>
 			<tr>
 				  <td>Szatmári Péter - Momentum</td>
-				  <td id="momentum">1.8%</td>
+				  <td id="momentum">1.8% </td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td id="egyutt">0.0% </td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely">100.0%</span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal</span><span id="esely2">0.0%</span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0% </span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">0.0% </span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

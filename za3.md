@@ -20,29 +20,29 @@ permalink: /za3
               <tbody>
              <tr>
                   <td>Cseresnyés Péter - Fidesz</td>
-				  <td id="id_fidesz">44.0%</td>
+				  <td id="id_fidesz">44.0% </td>
 			</tr>
-			<tr><td>Zakó László - Jobbik</td><td id="id_jobbik">14.1%</td></tr>
+			<tr><td>Zakó László - Jobbik</td><td id="id_jobbik">14.1% </td></tr>
 <tr>
                   <td>Horváth Jácint - DK</td>
-				  <td id="id_baloldal">38.4%</td>
+				  <td id="id_baloldal">38.4% </td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.7% </td>
 			</tr>
 			<tr>
 				  <td>dr. Polónyi Tamás - Momentum</td>
-				  <td id="momentum">1.8%</td>
+				  <td id="momentum">1.8% </td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td id="egyutt">0.0% </td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely">83.1%</span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal</span><span id="esely2">16.9%</span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">83.1% </span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">16.9% </span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

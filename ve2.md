@@ -20,29 +20,29 @@ permalink: /ve2
               <tbody>
              <tr>
                   <td>Kontrát Károly - Fidesz</td>
-				  <td id="id_fidesz">50.0%</td>
+				  <td id="id_fidesz">50.0% </td>
 			</tr>
-			<tr><td>Kepli Lajos - Jobbik</td><td id="id_jobbik">10.0%</td></tr>
+			<tr><td>Kepli Lajos - Jobbik</td><td id="id_jobbik">10.0% </td></tr>
 <tr>
                   <td>Deák Istvánné - DK</td>
-				  <td id="id_baloldal">36.1%</td>
+				  <td id="id_baloldal">36.1% </td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.0%</td>
+				  <td id="lmp">2.0% </td>
 			</tr>
 			<tr>
 				  <td>Baán Barnabás - Momentum</td>
-				  <td id="momentum">2.0%</td>
+				  <td id="momentum">2.0% </td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td id="egyutt">0.0% </td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely">99.2%</span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal</span><span id="esely2">0.8%</span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.2% </span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">0.8% </span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

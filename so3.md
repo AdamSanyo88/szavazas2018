@@ -20,29 +20,29 @@ permalink: /so3
               <tbody>
              <tr>
                   <td>Móring József Attila - Fidesz</td>
-				  <td id="id_fidesz">51.8%</td>
+				  <td id="id_fidesz">51.8% </td>
 			</tr>
-			<tr><td>Dr. Steinmetz Ádám - Jobbik</td><td id="id_jobbik">11.6%</td></tr>
+			<tr><td>Dr. Steinmetz Ádám - Jobbik</td><td id="id_jobbik">11.6% </td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">33.2%</td>
+				  <td id="id_baloldal">33.2% </td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.7% </td>
 			</tr>
 			<tr>
 				  <td>Fábián László - Momentum</td>
-				  <td id="momentum">1.7%</td>
+				  <td id="momentum">1.7% </td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td id="egyutt">0.0% </td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely">99.9%</span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal</span><span id="esely2">0.1%</span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.9% </span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal, </span><span id="esely2">0.1% </span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>
