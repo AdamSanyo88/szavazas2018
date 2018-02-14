@@ -20,29 +20,29 @@ permalink: /sz4
               <tbody>
              <tr>
                   <td>Boldog István - Fidesz</td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">46.3%</td>
 			</tr>
-			<tr><td>Csányi Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Csányi Tamás - Jobbik</td><td id="id_jobbik">15.3%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">xx%</td>
+				  <td id="id_baloldal">35.2%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="id_lmp">xx%</td>
+				  <td id="lmp">1.5%</td>
 			</tr>
 			<tr>
 				  <td>Papp Gergő - Momentum</td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="momentum">1.6%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="id_egyutt">xx%</td>
+<td id="egyutt">0.0%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>%-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>%-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely">97.3%</span><span>%-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Baloldal</span><span id="esely2">2.7%</span><span>%-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>
