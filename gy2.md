@@ -20,12 +20,12 @@ permalink: /gy2
               <tbody>
              <tr>
                   <td>Kara Ákos - Fidesz</td>
-				  <td id="id_fidesz">58.7%</td>
+				  <td id="id_fidesz">57.9%</td>
 			</tr>
-			<tr><td>Dr. Menyhárt Miklós - Jobbik</td><td id="id_jobbik">8.7%</td></tr>
+			<tr><td>Dr. Menyhárt Miklós - Jobbik</td><td id="id_jobbik">18.4%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">29.0%</td>
+				  <td id="id_baloldal">20.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -33,7 +33,7 @@ permalink: /gy2
 			</tr>
 			<tr>
 				  <td>Liszi Norbert - Momentum</td>
-				  <td id="momentum">1.9%</td>
+				  <td id="momentum">1.8%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

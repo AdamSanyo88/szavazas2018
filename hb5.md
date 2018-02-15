@@ -20,12 +20,12 @@ permalink: /hb5
               <tbody>
              <tr>
                   <td>Bodó Sándor - Fidesz</td>
-				  <td id="id_fidesz">50.0%</td>
+				  <td id="id_fidesz">50.2%</td>
 			</tr>
-			<tr><td>Rigán István - Jobbik</td><td id="id_jobbik">14.2%</td></tr>
+			<tr><td>Rigán István - Jobbik</td><td id="id_jobbik">26.2%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">32.5%</td>
+				  <td id="id_baloldal">20.3%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /hb5
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.9%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.1%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

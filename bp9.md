@@ -20,16 +20,16 @@ permalink: /bp9
               <tbody>
              <tr>
                   <td>György István - Fidesz</td>
-				  <td id="id_fidesz">44.2%</td>
+				  <td id="id_fidesz">46.4%</td>
 			</tr>
-			<tr><td>Tubák István - Jobbik</td><td id="id_jobbik">3.5%</td></tr>
+			<tr><td>Tubák István - Jobbik</td><td id="id_jobbik">3.7%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">48.0%</td>
+				  <td id="id_baloldal">45.4%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.5%</td>
+				  <td id="lmp">2.6%</td>
 			</tr>
 			<tr>
 				  <td>Tölcsér Borbála - Momentum</td>
@@ -41,8 +41,8 @@ permalink: /bp9
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP/DK, </span><span id="esely">74.1%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Fidesz, </span><span id="esely2">25.9%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">56.5%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">43.5%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

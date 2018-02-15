@@ -20,12 +20,12 @@ permalink: /baz2
               <tbody>
              <tr>
                   <td>Hubay György - Fidesz</td>
-				  <td id="id_fidesz">35.0%</td>
+				  <td id="id_fidesz">34.3%</td>
 			</tr>
-			<tr><td>Pakusza Zoltán - Jobbik</td><td id="id_jobbik">16.2%</td></tr>
+			<tr><td>Pakusza Zoltán - Jobbik</td><td id="id_jobbik">31.5%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">45.3%</td>
+				  <td id="id_baloldal">30.8%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /baz2
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP/DK, </span><span id="esely">96.2%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Fidesz, </span><span id="esely2">3.8%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">68.7%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">31.3%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -20,12 +20,12 @@ permalink: /hb4
               <tbody>
              <tr>
                   <td>dr. Vitányi István József - Fidesz</td>
-				  <td id="id_fidesz">51.0%</td>
+				  <td id="id_fidesz">51.3%</td>
 			</tr>
-			<tr><td>Keresztesy Gergő - Jobbik</td><td id="id_jobbik">14.1%</td></tr>
+			<tr><td>Keresztesy Gergő - Jobbik</td><td id="id_jobbik">25.8%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">31.7%</td>
+				  <td id="id_baloldal">19.7%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -42,7 +42,7 @@ permalink: /hb4
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

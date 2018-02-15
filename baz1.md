@@ -20,12 +20,12 @@ permalink: /baz1
               <tbody>
              <tr>
                   <td>Csöbör Katalin - Fidesz</td>
-				  <td id="id_fidesz">38.0%</td>
+				  <td id="id_fidesz">37.5%</td>
 			</tr>
-			<tr><td>Jakab Péter - Jobbik</td><td id="id_jobbik">16.0%</td></tr>
+			<tr><td>Jakab Péter - Jobbik</td><td id="id_jobbik">30.6%</td></tr>
 <tr>
                   <td>Debreczeni József - DK</td>
-				  <td id="id_baloldal">42.5%</td>
+				  <td id="id_baloldal">28.5%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /baz1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP/DK, </span><span id="esely">78.5%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Fidesz, </span><span id="esely2">21.5%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">88.1%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">11.9%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

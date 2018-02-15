@@ -20,20 +20,20 @@ permalink: /bp6
               <tbody>
              <tr>
                   <td>Kocsis Máté - Fidesz</td>
-				  <td id="id_fidesz">44.5%</td>
+				  <td id="id_fidesz">46.6%</td>
 			</tr>
-			<tr><td>Dúró Dóra - Jobbik</td><td id="id_jobbik">3.3%</td></tr>
+			<tr><td>Dúró Dóra - Jobbik</td><td id="id_jobbik">3.5%</td></tr>
 <tr>
                   <td>Ara-Kovács Attila - DK</td>
-				  <td id="id_baloldal">47.5%</td>
+				  <td id="id_baloldal">45.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.8%</td>
+				  <td id="lmp">2.9%</td>
 			</tr>
 			<tr>
 				  <td>Cseh Katalin - Momentum</td>
-				  <td id="momentum">1.9%</td>
+				  <td id="momentum">2.0%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /bp6
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP/DK, </span><span id="esely">69.3%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Fidesz, </span><span id="esely2">30.7%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">60.6%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">39.4%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

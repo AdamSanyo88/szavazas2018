@@ -20,20 +20,20 @@ permalink: /ba2
               <tbody>
              <tr>
                   <td>dr. Hoppál Péter - Fidesz</td>
-				  <td id="id_fidesz">57.4%</td>
+				  <td id="id_fidesz">63.6%</td>
 			</tr>
-			<tr><td>Gyimesi Gábor - Jobbik</td><td id="id_jobbik">10.6%</td></tr>
+			<tr><td>Gyimesi Gábor - Jobbik</td><td id="id_jobbik">11.8%</td></tr>
 <tr>
                   <td>Nagy Ferenc - DK</td>
-				  <td id="id_baloldal">28.6%</td>
+				  <td id="id_baloldal">20.8%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.8%</td>
 			</tr>
 			<tr>
 				  <td>Körömi Attila - Momentum</td>
-				  <td id="momentum">1.7%</td>
+				  <td id="momentum">1.9%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

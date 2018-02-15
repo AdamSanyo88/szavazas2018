@@ -20,20 +20,20 @@ permalink: /bk3
               <tbody>
              <tr>
                   <td>Font Sándor - Fidesz</td>
-				  <td id="id_fidesz">55.6%</td>
+				  <td id="id_fidesz">61.4%</td>
 			</tr>
-			<tr><td>Suhajda Krisztián - Jobbik</td><td id="id_jobbik">9.8%</td></tr>
+			<tr><td>Suhajda Krisztián - Jobbik</td><td id="id_jobbik">10.8%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">30.8%</td>
+				  <td id="id_baloldal">23.5%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.9%</td>
+				  <td id="lmp">2.1%</td>
 			</tr>
 			<tr>
 				  <td>Környei Balázs - Momentum</td>
-				  <td id="momentum">1.9%</td>
+				  <td id="momentum">2.1%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

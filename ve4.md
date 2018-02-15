@@ -20,12 +20,12 @@ permalink: /ve4
               <tbody>
              <tr>
                   <td>dr. Kovács Zoltán - Fidesz</td>
-				  <td id="id_fidesz">54.1%</td>
+				  <td id="id_fidesz">53.7%</td>
 			</tr>
-			<tr><td>Töreki Milán - Jobbik</td><td id="id_jobbik">11.3%</td></tr>
+			<tr><td>Töreki Milán - Jobbik</td><td id="id_jobbik">22.2%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">31.3%</td>
+				  <td id="id_baloldal">21.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -33,7 +33,7 @@ permalink: /ve4
 			</tr>
 			<tr>
 				  <td>Benedek Szilveszter - Momentum</td>
-				  <td id="momentum">1.7%</td>
+				  <td id="momentum">1.6%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -42,7 +42,7 @@ permalink: /ve4
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

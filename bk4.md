@@ -20,20 +20,20 @@ permalink: /bk4
               <tbody>
              <tr>
                   <td>Lezsák Sándor - Fidesz</td>
-				  <td id="id_fidesz">49.0%</td>
+				  <td id="id_fidesz">54.5%</td>
 			</tr>
-			<tr><td>Kollár László - Jobbik</td><td id="id_jobbik">10.8%</td></tr>
+			<tr><td>Kollár László - Jobbik</td><td id="id_jobbik">12.0%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">36.6%</td>
+				  <td id="id_baloldal">29.6%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.9%</td>
 			</tr>
 			<tr>
 				  <td>Hegedűs Barnabás - Momentum</td>
-				  <td id="momentum">1.8%</td>
+				  <td id="momentum">2.0%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /bk4
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">98.4%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">1.6%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

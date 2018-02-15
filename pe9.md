@@ -20,12 +20,12 @@ permalink: /pe9
               <tbody>
              <tr>
                   <td>Czerván György - Fidesz</td>
-				  <td id="id_fidesz">53.8%</td>
+				  <td id="id_fidesz">53.7%</td>
 			</tr>
-			<tr><td>Bozsik József - Jobbik</td><td id="id_jobbik">12.2%</td></tr>
+			<tr><td>Bozsik József - Jobbik</td><td id="id_jobbik">23.2%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">30.7%</td>
+				  <td id="id_baloldal">19.8%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -33,7 +33,7 @@ permalink: /pe9
 			</tr>
 			<tr>
 				  <td>Kiss Zoltán - Momentum</td>
-				  <td id="momentum">1.7%</td>
+				  <td id="momentum">1.6%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -42,7 +42,7 @@ permalink: /pe9
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -20,12 +20,12 @@ permalink: /baz3
               <tbody>
              <tr>
                   <td>Riz Gábor - Fidesz</td>
-				  <td id="id_fidesz">43.0%</td>
+				  <td id="id_fidesz">42.7%</td>
 			</tr>
-			<tr><td>Farkas Péter Barnabás - Jobbik</td><td id="id_jobbik">15.5%</td></tr>
+			<tr><td>Farkas Péter Barnabás - Jobbik</td><td id="id_jobbik">29.0%</td></tr>
 <tr>
                   <td>Varga Gergő - DK</td>
-				  <td id="id_baloldal">38.5%</td>
+				  <td id="id_baloldal">25.3%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /baz3
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">78.4%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">21.6%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.1%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.9%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

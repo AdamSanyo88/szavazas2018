@@ -20,12 +20,12 @@ permalink: /gy5
               <tbody>
              <tr>
                   <td>Dr. Nagy István - Fidesz</td>
-				  <td id="id_fidesz">55.0%</td>
+				  <td id="id_fidesz">54.2%</td>
 			</tr>
-			<tr><td>Jávor Miklós - Jobbik</td><td id="id_jobbik">9.7%</td></tr>
+			<tr><td>Jávor Miklós - Jobbik</td><td id="id_jobbik">20.3%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">31.5%</td>
+				  <td id="id_baloldal">21.7%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>

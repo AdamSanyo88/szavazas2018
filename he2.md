@@ -20,12 +20,12 @@ permalink: /he2
               <tbody>
              <tr>
                   <td>Horváth László - Fidesz</td>
-				  <td id="id_fidesz">40.9%</td>
+				  <td id="id_fidesz">41.2%</td>
 			</tr>
-			<tr><td>Vona Gábor - Jobbik</td><td id="id_jobbik">17.8%</td></tr>
+			<tr><td>Vona Gábor - Jobbik</td><td id="id_jobbik">32.0%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">38.2%</td>
+				  <td id="id_baloldal">23.6%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /he2
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">67.9%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">32.1%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">94.3%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">5.7%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

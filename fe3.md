@@ -20,12 +20,12 @@ permalink: /fe3
               <tbody>
              <tr>
                   <td>Tessely Zoltán - Fidesz</td>
-				  <td id="id_fidesz">55.3%</td>
+				  <td id="id_fidesz">54.6%</td>
 			</tr>
-			<tr><td>Varga László Béla - Jobbik</td><td id="id_jobbik">9.3%</td></tr>
+			<tr><td>Varga László Béla - Jobbik</td><td id="id_jobbik">19.8%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">31.2%</td>
+				  <td id="id_baloldal">21.4%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>

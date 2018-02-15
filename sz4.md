@@ -20,12 +20,12 @@ permalink: /sz4
               <tbody>
              <tr>
                   <td>Boldog István - Fidesz</td>
-				  <td id="id_fidesz">46.3%</td>
+				  <td id="id_fidesz">46.5%</td>
 			</tr>
-			<tr><td>Csányi Tamás - Jobbik</td><td id="id_jobbik">15.3%</td></tr>
+			<tr><td>Csányi Tamás - Jobbik</td><td id="id_jobbik">28.1%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">35.2%</td>
+				  <td id="id_baloldal">22.3%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /sz4
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">97.3%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">2.7%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.9%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.1%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

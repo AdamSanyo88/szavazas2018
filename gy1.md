@@ -20,20 +20,20 @@ permalink: /gy1
               <tbody>
              <tr>
                   <td>Simon Róbert Balázs - Fidesz</td>
-				  <td id="id_fidesz">52.7%</td>
+				  <td id="id_fidesz">50.8%</td>
 			</tr>
-			<tr><td>Fodor Roland - Jobbik</td><td id="id_jobbik">7.5%</td></tr>
+			<tr><td>Fodor Roland - Jobbik</td><td id="id_jobbik">18.7%</td></tr>
 <tr>
                   <td>Glázer Tímea - DK</td>
-				  <td id="id_baloldal">35.6%</td>
+				  <td id="id_baloldal">26.4%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.1%</td>
+				  <td id="lmp">2.0%</td>
 			</tr>
 			<tr>
 				  <td>Molnár József - Momentum</td>
-				  <td id="momentum">2.1%</td>
+				  <td id="momentum">2.0%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /gy1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.8%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.2%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

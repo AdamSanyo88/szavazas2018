@@ -20,12 +20,12 @@ permalink: /bp7
               <tbody>
              <tr>
                   <td>Harrach Tamás - Fidesz</td>
-				  <td id="id_fidesz">35.0%</td>
+				  <td id="id_fidesz">36.1%</td>
 			</tr>
-			<tr><td>Magvasi Adrián - Jobbik</td><td id="id_jobbik">2.2%</td></tr>
+			<tr><td>Magvasi Adrián - Jobbik</td><td id="id_jobbik">2.3%</td></tr>
 <tr>
                   <td>Hiszékeny Dezső - MSZP</td>
-				  <td id="id_baloldal">58.2%</td>
+				  <td id="id_baloldal">57.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -33,7 +33,7 @@ permalink: /bp7
 			</tr>
 			<tr>
 				  <td>Hajnal Miklós - Momentum</td>
-				  <td id="momentum">1.8%</td>
+				  <td id="momentum">1.9%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

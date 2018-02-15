@@ -20,12 +20,12 @@ permalink: /fe4
               <tbody>
              <tr>
                   <td>dr. Galambos Dénes - Fidesz</td>
-				  <td id="id_fidesz">40.7%</td>
+				  <td id="id_fidesz">39.8%</td>
 			</tr>
-			<tr><td>Pintér Tamás - Jobbik</td><td id="id_jobbik">13.5%</td></tr>
+			<tr><td>Pintér Tamás - Jobbik</td><td id="id_jobbik">27.4%</td></tr>
 <tr>
                   <td>Mezei Zsolt - DK</td>
-				  <td id="id_baloldal">41.8%</td>
+				  <td id="id_baloldal">28.9%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -33,7 +33,7 @@ permalink: /fe4
 			</tr>
 			<tr>
 				  <td>Kaszó Róbert - Momentum</td>
-				  <td id="momentum">2.0%</td>
+				  <td id="momentum">1.9%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /fe4
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP/DK, </span><span id="esely">57.6%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Fidesz, </span><span id="esely2">42.4%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">97.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">3.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -20,12 +20,12 @@ permalink: /gy3
               <tbody>
              <tr>
                   <td>Gyopáros Alpár - Fidesz</td>
-				  <td id="id_fidesz">61.4%</td>
+				  <td id="id_fidesz">61.3%</td>
 			</tr>
-			<tr><td>Magyar Zoltán - Jobbik</td><td id="id_jobbik">9.7%</td></tr>
+			<tr><td>Magyar Zoltán - Jobbik</td><td id="id_jobbik">18.9%</td></tr>
 <tr>
                   <td>Szabó Zoltán - DK</td>
-				  <td id="id_baloldal">25.7%</td>
+				  <td id="id_baloldal">16.7%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -42,7 +42,7 @@ permalink: /gy3
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

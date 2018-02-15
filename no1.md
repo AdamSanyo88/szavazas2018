@@ -20,12 +20,12 @@ permalink: /no1
               <tbody>
              <tr>
                   <td>dr. Becsó Zsolt - Fidesz</td>
-				  <td id="id_fidesz">44.2%</td>
+				  <td id="id_fidesz">43.2%</td>
 			</tr>
-			<tr><td>Cseresznyés István - Jobbik</td><td id="id_jobbik">13.0%</td></tr>
+			<tr><td>Cseresznyés István - Jobbik</td><td id="id_jobbik">26.1%</td></tr>
 <tr>
                   <td>Kovács Zsolt - DK</td>
-				  <td id="id_baloldal">39.4%</td>
+				  <td id="id_baloldal">27.2%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /no1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">79.6%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">20.4%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.7%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.3%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -20,20 +20,20 @@ permalink: /bk5
               <tbody>
              <tr>
                   <td>Bányai Gábor Elemér - Fidesz</td>
-				  <td id="id_fidesz">55.5%</td>
+				  <td id="id_fidesz">61.7%</td>
 			</tr>
-			<tr><td>Farkas Gergely - Jobbik</td><td id="id_jobbik">10.3%</td></tr>
+			<tr><td>Farkas Gergely - Jobbik</td><td id="id_jobbik">11.5%</td></tr>
 <tr>
                   <td>Molnár László - DK</td>
-				  <td id="id_baloldal">30.2%</td>
+				  <td id="id_baloldal">22.5%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.0%</td>
+				  <td id="lmp">2.2%</td>
 			</tr>
 			<tr>
 				  <td>Takács Zoltán - Momentum</td>
-				  <td id="momentum">2.0%</td>
+				  <td id="momentum">2.2%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

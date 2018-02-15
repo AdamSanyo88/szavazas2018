@@ -20,20 +20,20 @@ permalink: /be1
               <tbody>
              <tr>
                   <td>Herczeg Tamás - Fidesz</td>
-				  <td id="id_fidesz">46.2%</td>
+				  <td id="id_fidesz">51.8%</td>
 			</tr>
-			<tr><td>Kocziha Tünde - Jobbik</td><td id="id_jobbik">11.1%</td></tr>
+			<tr><td>Kocziha Tünde - Jobbik</td><td id="id_jobbik">12.5%</td></tr>
 <tr>
                   <td>Nagy-Huszein Tibor - DK</td>
-				  <td id="id_baloldal">38.4%</td>
+				  <td id="id_baloldal">30.9%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.2%</td>
+				  <td id="lmp">2.4%</td>
 			</tr>
 			<tr>
 				  <td>Almási István - Momentum</td>
-				  <td id="momentum">2.2%</td>
+				  <td id="momentum">2.4%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /be1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">91.1%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">8.9%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

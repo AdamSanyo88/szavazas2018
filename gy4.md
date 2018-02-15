@@ -20,16 +20,16 @@ permalink: /gy4
               <tbody>
              <tr>
                   <td>Barcza Attila - Fidesz</td>
-				  <td id="id_fidesz">54.7%</td>
+				  <td id="id_fidesz">53.6%</td>
 			</tr>
-			<tr><td>Dr. Brenner Koloman - Jobbik</td><td id="id_jobbik">8.6%</td></tr>
+			<tr><td>Dr. Brenner Koloman - Jobbik</td><td id="id_jobbik">19.3%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">32.4%</td>
+				  <td id="id_baloldal">22.9%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.2%</td>
+				  <td id="lmp">2.1%</td>
 			</tr>
 			<tr>
 				  <td>Supka-Kovácsné Holzhofer Tünde - Momentum</td>

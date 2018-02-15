@@ -20,20 +20,20 @@ permalink: /be3
               <tbody>
              <tr>
                   <td>dr. Kovács József - Fidesz</td>
-				  <td id="id_fidesz">53.9%</td>
+				  <td id="id_fidesz">59.5%</td>
 			</tr>
-			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik</td><td id="id_jobbik">10.0%</td></tr>
+			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik</td><td id="id_jobbik">11.0%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">32.6%</td>
+				  <td id="id_baloldal">25.7%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.9%</td>
 			</tr>
 			<tr>
 				  <td>Nagy Zoltán - Momentum</td>
-				  <td id="momentum">1.8%</td>
+				  <td id="momentum">2.0%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

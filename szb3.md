@@ -20,12 +20,12 @@ permalink: /szb3
               <tbody>
              <tr>
                   <td>dr. Seszták Miklós - Fidesz</td>
-				  <td id="id_fidesz">52.8%</td>
+				  <td id="id_fidesz">52.9%</td>
 			</tr>
-			<tr><td>Dr. Gyüre Csaba - Jobbik</td><td id="id_jobbik">13.3%</td></tr>
+			<tr><td>Dr. Gyüre Csaba - Jobbik</td><td id="id_jobbik">24.5%</td></tr>
 <tr>
                   <td>Rakóczki Dénesné - DK</td>
-				  <td id="id_baloldal">31.0%</td>
+				  <td id="id_baloldal">19.6%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -42,7 +42,7 @@ permalink: /szb3
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

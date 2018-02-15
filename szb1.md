@@ -20,16 +20,16 @@ permalink: /szb1
               <tbody>
              <tr>
                   <td>dr. Szabó Tünde - Fidesz</td>
-				  <td id="id_fidesz">40.6%</td>
+				  <td id="id_fidesz">39.3%</td>
 			</tr>
-			<tr><td>Lengyel Máté - Jobbik</td><td id="id_jobbik">12.4%</td></tr>
+			<tr><td>Lengyel Máté - Jobbik</td><td id="id_jobbik">26.3%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">43.2%</td>
+				  <td id="id_baloldal">30.8%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.9%</td>
+				  <td id="lmp">1.8%</td>
 			</tr>
 			<tr>
 				  <td>Babosi György - Momentum</td>
@@ -41,8 +41,8 @@ permalink: /szb1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP/DK, </span><span id="esely">67.1%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Fidesz, </span><span id="esely2">32.9%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">92.8%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">7.2%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

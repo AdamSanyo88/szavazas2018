@@ -20,12 +20,12 @@ permalink: /za3
               <tbody>
              <tr>
                   <td>Cseresnyés Péter - Fidesz</td>
-				  <td id="id_fidesz">44.0%</td>
+				  <td id="id_fidesz">43.5%</td>
 			</tr>
-			<tr><td>Zakó László - Jobbik</td><td id="id_jobbik">14.1%</td></tr>
+			<tr><td>Zakó László - Jobbik</td><td id="id_jobbik">27.3%</td></tr>
 <tr>
                   <td>Horváth Jácint - DK</td>
-				  <td id="id_baloldal">38.4%</td>
+				  <td id="id_baloldal">25.8%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /za3
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">83.1%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">16.9%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.7%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.3%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

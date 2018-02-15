@@ -20,16 +20,16 @@ permalink: /ve1
               <tbody>
              <tr>
                   <td>Ovádi Péter - Fidesz</td>
-				  <td id="id_fidesz">51.4%</td>
+				  <td id="id_fidesz">49.8%</td>
 			</tr>
-			<tr><td>Dr. Varga-Damm Andrea - Jobbik</td><td id="id_jobbik">8.6%</td></tr>
+			<tr><td>Dr. Varga-Damm Andrea - Jobbik</td><td id="id_jobbik">20.1%</td></tr>
 <tr>
                   <td>Kész Zoltán - független</td>
-				  <td id="id_baloldal">35.7%</td>
+				  <td id="id_baloldal">25.9%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.2%</td>
+				  <td id="lmp">2.1%</td>
 			</tr>
 			<tr>
 				  <td>dr. Meződi János - Momentum</td>
@@ -41,8 +41,8 @@ permalink: /ve1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.6%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.4%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

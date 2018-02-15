@@ -20,16 +20,16 @@ permalink: /va2
               <tbody>
              <tr>
                   <td>Ágh Péter - Fidesz</td>
-				  <td id="id_fidesz">56.1%</td>
+				  <td id="id_fidesz">54.9%</td>
 			</tr>
-			<tr><td>Rába Kálmán - Jobbik</td><td id="id_jobbik">8.7%</td></tr>
+			<tr><td>Rába Kálmán - Jobbik</td><td id="id_jobbik">19.1%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">31.6%</td>
+				  <td id="id_baloldal">22.5%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.8%</td>
+				  <td id="lmp">1.7%</td>
 			</tr>
 			<tr>
 				  <td>Kovács Attila - Momentum</td>

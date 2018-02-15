@@ -20,12 +20,12 @@ permalink: /bp3
               <tbody>
              <tr>
                   <td>dr. Gulyás Gergely - Fidesz</td>
-				  <td id="id_fidesz">52.2%</td>
+				  <td id="id_fidesz">53.3%</td>
 			</tr>
 			<tr><td>Gyöngyösi Márton - Jobbik</td><td id="id_jobbik">1.5%</td></tr>
 <tr>
                   <td>Bauer Tamás - DK</td>
-				  <td id="id_baloldal">41.3%</td>
+				  <td id="id_baloldal">40.1%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /bp3
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">97.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">3.0%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">98.8%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">1.2%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

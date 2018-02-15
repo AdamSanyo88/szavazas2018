@@ -20,12 +20,12 @@ permalink: /szb2
               <tbody>
              <tr>
                   <td>dr. Vinnai Győző - Fidesz</td>
-				  <td id="id_fidesz">47.8%</td>
+				  <td id="id_fidesz">47.6%</td>
 			</tr>
-			<tr><td>Dr. Fülöp Erik - Jobbik</td><td id="id_jobbik">14.1%</td></tr>
+			<tr><td>Dr. Fülöp Erik - Jobbik</td><td id="id_jobbik">26.5%</td></tr>
 <tr>
                   <td>Helmeczy László - DK</td>
-				  <td id="id_baloldal">34.9%</td>
+				  <td id="id_baloldal">22.7%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /szb2
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">98.7%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">1.3%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -20,12 +20,12 @@ permalink: /pe4
               <tbody>
              <tr>
                   <td>Rétvári Bence - Fidesz</td>
-				  <td id="id_fidesz">51.5%</td>
+				  <td id="id_fidesz">50.5%</td>
 			</tr>
-			<tr><td>Fehér Zsolt - Jobbik</td><td id="id_jobbik">10.4%</td></tr>
+			<tr><td>Fehér Zsolt - Jobbik</td><td id="id_jobbik">21.8%</td></tr>
 <tr>
                   <td>Krauze István - DK</td>
-				  <td id="id_baloldal">34.3%</td>
+				  <td id="id_baloldal">24.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /pe4
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.8%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.2%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

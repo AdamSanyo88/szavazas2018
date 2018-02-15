@@ -20,12 +20,12 @@ permalink: /pe7
               <tbody>
              <tr>
                   <td>dr. Szűcs Lajos - Fidesz</td>
-				  <td id="id_fidesz">47.6%</td>
+				  <td id="id_fidesz">46.2%</td>
 			</tr>
-			<tr><td>Sas Zoltán - Jobbik</td><td id="id_jobbik">10.4%</td></tr>
+			<tr><td>Sas Zoltán - Jobbik</td><td id="id_jobbik">22.7%</td></tr>
 <tr>
                   <td>Nyeste Andrea - DK</td>
-				  <td id="id_baloldal">38.2%</td>
+				  <td id="id_baloldal">27.4%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -33,7 +33,7 @@ permalink: /pe7
 			</tr>
 			<tr>
 				  <td>Kalasovszky Bernadett - Momentum</td>
-				  <td id="momentum">2.0%</td>
+				  <td id="momentum">1.9%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /pe7
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">94.7%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">5.3%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.9%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.1%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

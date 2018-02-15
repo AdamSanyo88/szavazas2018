@@ -20,16 +20,16 @@ permalink: /ke2
               <tbody>
              <tr>
                   <td>dr. Völner Pál - Fidesz</td>
-				  <td id="id_fidesz">50.0%</td>
+				  <td id="id_fidesz">48.8%</td>
 			</tr>
-			<tr><td>Nunkovics Tibor - Jobbik</td><td id="id_jobbik">10.3%</td></tr>
+			<tr><td>Nunkovics Tibor - Jobbik</td><td id="id_jobbik">22.0%</td></tr>
 <tr>
                   <td>Vadai Ágnes - DK</td>
-				  <td id="id_baloldal">35.9%</td>
+				  <td id="id_baloldal">25.5%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.9%</td>
+				  <td id="lmp">1.8%</td>
 			</tr>
 			<tr>
 				  <td>Cserép János - Momentum</td>
@@ -41,8 +41,8 @@ permalink: /ke2
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.2%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.8%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

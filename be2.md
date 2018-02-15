@@ -20,20 +20,20 @@ permalink: /be2
               <tbody>
              <tr>
                   <td>Dankó Béla - Fidesz</td>
-				  <td id="id_fidesz">51.9%</td>
+				  <td id="id_fidesz">58.7%</td>
 			</tr>
-			<tr><td>Samu Tamás Gergő - Jobbik</td><td id="id_jobbik">13.1%</td></tr>
+			<tr><td>Samu Tamás Gergő - Jobbik</td><td id="id_jobbik">14.8%</td></tr>
 <tr>
                   <td>Kondé Gábor - DK</td>
-				  <td id="id_baloldal">31.6%</td>
+				  <td id="id_baloldal">22.6%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.9%</td>
 			</tr>
 			<tr>
 				  <td>Szatmári Péter - Momentum</td>
-				  <td id="momentum">1.8%</td>
+				  <td id="momentum">2.0%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

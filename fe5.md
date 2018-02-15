@@ -20,12 +20,12 @@ permalink: /fe5
               <tbody>
              <tr>
                   <td>Varga Gábor - Fidesz</td>
-				  <td id="id_fidesz">52.2%</td>
+				  <td id="id_fidesz">52.9%</td>
 			</tr>
-			<tr><td>Árgyelán János - Jobbik</td><td id="id_jobbik">14.6%</td></tr>
+			<tr><td>Árgyelán János - Jobbik</td><td id="id_jobbik">26.0%</td></tr>
 <tr>
                   <td>Szilveszterné Nyúli Ilona - DK</td>
-				  <td id="id_baloldal">30.1%</td>
+				  <td id="id_baloldal">17.9%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -42,7 +42,7 @@ permalink: /fe5
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

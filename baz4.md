@@ -20,12 +20,12 @@ permalink: /baz4
               <tbody>
              <tr>
                   <td>Demeter Zoltán - Fidesz</td>
-				  <td id="id_fidesz">41.9%</td>
+				  <td id="id_fidesz">41.2%</td>
 			</tr>
-			<tr><td>Egyed Zsolt - Jobbik</td><td id="id_jobbik">14.6%</td></tr>
+			<tr><td>Egyed Zsolt - Jobbik</td><td id="id_jobbik">28.3%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">40.3%</td>
+				  <td id="id_baloldal">27.4%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /baz4
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">61.2%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">38.8%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">98.7%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">1.3%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

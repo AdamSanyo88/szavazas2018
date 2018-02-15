@@ -20,12 +20,12 @@ permalink: /pe8
               <tbody>
              <tr>
                   <td>Bóna Zoltán - Fidesz</td>
-				  <td id="id_fidesz">44.6%</td>
+				  <td id="id_fidesz">42.9%</td>
 			</tr>
-			<tr><td>Lupa János - Jobbik</td><td id="id_jobbik">9.9%</td></tr>
+			<tr><td>Lupa János - Jobbik</td><td id="id_jobbik">22.9%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">41.4%</td>
+				  <td id="id_baloldal">30.3%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -33,7 +33,7 @@ permalink: /pe8
 			</tr>
 			<tr>
 				  <td>Tótok József - Momentum</td>
-				  <td id="momentum">2.1%</td>
+				  <td id="momentum">2.0%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /pe8
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">71.3%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">28.7%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">98.5%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">1.5%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

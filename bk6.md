@@ -20,20 +20,20 @@ permalink: /bk6
               <tbody>
              <tr>
                   <td>Zsigó Róbert - Fidesz</td>
-				  <td id="id_fidesz">56.2%</td>
+				  <td id="id_fidesz">61.8%</td>
 			</tr>
-			<tr><td>Grünfelder Zoltán - Jobbik</td><td id="id_jobbik">9.0%</td></tr>
+			<tr><td>Grünfelder Zoltán - Jobbik</td><td id="id_jobbik">9.9%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">30.9%</td>
+				  <td id="id_baloldal">24.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.0%</td>
+				  <td id="lmp">2.2%</td>
 			</tr>
 			<tr>
 				  <td>Béni Kornél - Momentum</td>
-				  <td id="momentum">2.0%</td>
+				  <td id="momentum">2.2%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

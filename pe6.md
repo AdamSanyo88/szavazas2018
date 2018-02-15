@@ -20,16 +20,16 @@ permalink: /pe6
               <tbody>
              <tr>
                   <td>Vécsey László József - Fidesz</td>
-				  <td id="id_fidesz">48.6%</td>
+				  <td id="id_fidesz">47.6%</td>
 			</tr>
-			<tr><td>Víg János - Jobbik</td><td id="id_jobbik">10.3%</td></tr>
+			<tr><td>Víg János - Jobbik</td><td id="id_jobbik">22.4%</td></tr>
 <tr>
                   <td>Rehó Sándor - DK</td>
-				  <td id="id_baloldal">36.5%</td>
+				  <td id="id_baloldal">25.6%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.3%</td>
+				  <td id="lmp">2.2%</td>
 			</tr>
 			<tr>
 				  <td>Momentum</td>
@@ -41,8 +41,8 @@ permalink: /pe6
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">98.2%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">1.8%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

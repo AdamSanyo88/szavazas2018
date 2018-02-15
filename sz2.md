@@ -20,12 +20,12 @@ permalink: /sz2
               <tbody>
              <tr>
                   <td>Pócs János - Fidesz</td>
-				  <td id="id_fidesz">47.5%</td>
+				  <td id="id_fidesz">47.7%</td>
 			</tr>
-			<tr><td>Budai Lóránt - Jobbik</td><td id="id_jobbik">15.1%</td></tr>
+			<tr><td>Budai Lóránt - Jobbik</td><td id="id_jobbik">27.7%</td></tr>
 <tr>
                   <td>Gedei József - Baloldal</td>
-				  <td id="id_baloldal">34.3%</td>
+				  <td id="id_baloldal">21.5%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /sz2
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">98.9%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">1.1%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

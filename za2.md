@@ -20,12 +20,12 @@ permalink: /za2
               <tbody>
              <tr>
                   <td>Manninger Jenő - Fidesz</td>
-				  <td id="id_fidesz">53.2%</td>
+				  <td id="id_fidesz">53.1%</td>
 			</tr>
-			<tr><td>Dr. Weller-Jakus Tamás - Jobbik</td><td id="id_jobbik">12.1%</td></tr>
+			<tr><td>Dr. Weller-Jakus Tamás - Jobbik</td><td id="id_jobbik">23.1%</td></tr>
 <tr>
                   <td>Kovács Viktória - DK</td>
-				  <td id="id_baloldal">31.2%</td>
+				  <td id="id_baloldal">20.2%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -42,7 +42,7 @@ permalink: /za2
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

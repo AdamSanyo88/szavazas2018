@@ -20,22 +20,22 @@ permalink: /bk1
               <tbody>
              <tr>
                   <td>Salacz László - Fidesz</td>
-				  <td id="id_fidesz">42.1%</td>
+				  <td id="id_fidesz">46.9%</td>
 			</tr>
 			<tr>
 <td>Lejer Zoltán - Jobbik</td>
-<td id="id_jobbik">9.2%</td></tr>
+<td id="id_jobbik">10.2%</td></tr>
 			<tr>
                   <td>Szőkéné Kopping Rita - DK</td>
-				  <td id="id_baloldal">43.4%</td>
+				  <td id="id_baloldal">37.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.7%</td>
+				  <td id="lmp">3.0%</td>
 			</tr>
 			<tr>
 				  <td>Bodrozsán Alexandra - Momentum</td>
-				  <td id="momentum">2.6%</td>
+				  <td id="momentum">2.9%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -43,8 +43,8 @@ permalink: /bk1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP/DK, </span><span id="esely">59.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Fidesz, </span><span id="esely2">41.0%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">95.6%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">4.4%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -20,16 +20,16 @@ permalink: /va3
               <tbody>
              <tr>
                   <td>V. Németh Zsolt - Fidesz</td>
-				  <td id="id_fidesz">56.1%</td>
+				  <td id="id_fidesz">54.9%</td>
 			</tr>
-			<tr><td>Bana Tibor - Jobbik</td><td id="id_jobbik">8.7%</td></tr>
+			<tr><td>Bana Tibor - Jobbik</td><td id="id_jobbik">19.1%</td></tr>
 <tr>
                   <td>Balogh Tibor - DK</td>
-				  <td id="id_baloldal">31.6%</td>
+				  <td id="id_baloldal">22.5%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.8%</td>
+				  <td id="lmp">1.7%</td>
 			</tr>
 			<tr>
 				  <td>Gerencsér Mária - Momentum</td>

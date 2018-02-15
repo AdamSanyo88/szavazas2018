@@ -20,12 +20,12 @@ permalink: /sz3
               <tbody>
              <tr>
                   <td>Kovács Sándor - Fidesz</td>
-				  <td id="id_fidesz">55.6%</td>
+				  <td id="id_fidesz">55.8%</td>
 			</tr>
-			<tr><td>Dr. Lukács László - Jobbik</td><td id="id_jobbik">12.6%</td></tr>
+			<tr><td>Dr. Lukács László - Jobbik</td><td id="id_jobbik">23.1%</td></tr>
 <tr>
                   <td>Bodó Jánosné - DK</td>
-				  <td id="id_baloldal">28.9%</td>
+				  <td id="id_baloldal">18.1%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -42,7 +42,7 @@ permalink: /sz3
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

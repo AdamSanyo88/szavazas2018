@@ -20,12 +20,12 @@ permalink: /cs4
               <tbody>
              <tr>
                   <td>Lázár János - Fidesz</td>
-				  <td id="id_fidesz">48.8%</td>
+				  <td id="id_fidesz">48.9%</td>
 			</tr>
-			<tr><td>Dr. Kiss Attila - Jobbik</td><td id="id_jobbik">12.9%</td></tr>
+			<tr><td>Dr. Kiss Attila - Jobbik</td><td id="id_jobbik">25.0%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">33.9%</td>
+				  <td id="id_baloldal">21.7%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /cs4
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.5%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.5%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

@@ -20,12 +20,12 @@ permalink: /ve3
               <tbody>
              <tr>
                   <td>Fenyvesi Zoltán - Fidesz</td>
-				  <td id="id_fidesz">47.3%</td>
+				  <td id="id_fidesz">46.3%</td>
 			</tr>
-			<tr><td>Rig Lajos - Jobbik</td><td id="id_jobbik">12.1%</td></tr>
+			<tr><td>Rig Lajos - Jobbik</td><td id="id_jobbik">24.5%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">37.2%</td>
+				  <td id="id_baloldal">25.9%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /ve3
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">95.8%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">4.2%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

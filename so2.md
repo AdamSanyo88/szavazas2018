@@ -20,12 +20,12 @@ permalink: /so2
               <tbody>
              <tr>
                   <td>Szászfalvi László - Fidesz</td>
-				  <td id="id_fidesz">51.4%</td>
+				  <td id="id_fidesz">50.9%</td>
 			</tr>
-			<tr><td>Ander Balázs - Jobbik</td><td id="id_jobbik">12.3%</td></tr>
+			<tr><td>Ander Balázs - Jobbik</td><td id="id_jobbik">23.8%</td></tr>
 <tr>
                   <td>Remes Gábor - DK</td>
-				  <td id="id_baloldal">33.1%</td>
+				  <td id="id_baloldal">22.1%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -41,8 +41,8 @@ permalink: /so2
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.9%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.1%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

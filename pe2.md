@@ -20,20 +20,20 @@ permalink: /pe2
               <tbody>
              <tr>
                   <td>Csenger-Zalán Zsolt - Fidesz</td>
-				  <td id="id_fidesz">52.1%</td>
+				  <td id="id_fidesz">50.4%</td>
 			</tr>
-			<tr><td>Császárné Kollár Tímea - Jobbik</td><td id="id_jobbik">6.2%</td></tr>
+			<tr><td>Császárné Kollár Tímea - Jobbik</td><td id="id_jobbik">17.5%</td></tr>
 <tr>
                   <td>Tóth Zoltán - DK</td>
-				  <td id="id_baloldal">35.9%</td>
+				  <td id="id_baloldal">26.5%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">3.0%</td>
+				  <td id="lmp">2.9%</td>
 			</tr>
 			<tr>
 				  <td>Szemző Áron - Momentum</td>
-				  <td id="momentum">2.8%</td>
+				  <td id="momentum">2.7%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /pe2
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.7%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.3%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

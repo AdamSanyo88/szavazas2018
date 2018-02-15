@@ -20,22 +20,22 @@ permalink: /ba1
               <tbody>
              <tr>
                   <td>Csízi Péter - Fidesz</td>
-				  <td id="id_fidesz">54.5%</td>
+				  <td id="id_fidesz">60.8%</td>
 			</tr>
 			<tr>
 <td>Fogarasi Gábor - Jobbik</td>
-<td id="id_jobbik">11.4%</td></tr>
+<td id="id_jobbik">12.7%</td></tr>
 <tr>
                   <td>Mellár Tamás - független</td>
-				  <td id="id_baloldal">30.7%</td>
+				  <td id="id_baloldal">22.7%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.7%</td>
+				  <td id="lmp">1.9%</td>
 			</tr>
 			<tr>
 				  <td>Nemes Balázs - Momentum</td>
-				  <td id="momentum">1.7%</td>
+				  <td id="momentum">1.9%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

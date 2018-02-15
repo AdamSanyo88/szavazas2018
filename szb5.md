@@ -20,12 +20,12 @@ permalink: /szb5
               <tbody>
              <tr>
                   <td>Kovács Sándor - Fidesz</td>
-				  <td id="id_fidesz">54.3%</td>
+				  <td id="id_fidesz">54.5%</td>
 			</tr>
-			<tr><td>Dr. Apáti István - Jobbik</td><td id="id_jobbik">13.2%</td></tr>
+			<tr><td>Dr. Apáti István - Jobbik</td><td id="id_jobbik">24.1%</td></tr>
 <tr>
                   <td>Csomáliné Rácz Erika - DK</td>
-				  <td id="id_baloldal">29.8%</td>
+				  <td id="id_baloldal">18.7%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -42,7 +42,7 @@ permalink: /szb5
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

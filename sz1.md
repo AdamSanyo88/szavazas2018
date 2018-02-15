@@ -20,12 +20,12 @@ permalink: /sz1
               <tbody>
              <tr>
                   <td>Bene Ildikó - Fidesz</td>
-				  <td id="id_fidesz">41.9%</td>
+				  <td id="id_fidesz">41.0%</td>
 			</tr>
-			<tr><td>Dr. Csikós Attila - Jobbik</td><td id="id_jobbik">13.5%</td></tr>
+			<tr><td>Dr. Csikós Attila - Jobbik</td><td id="id_jobbik">27.2%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">40.7%</td>
+				  <td id="id_baloldal">28.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -33,7 +33,7 @@ permalink: /sz1
 			</tr>
 			<tr>
 				  <td>Szekeres Éva - Momentum</td>
-				  <td id="momentum">2.0%</td>
+				  <td id="momentum">1.9%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
@@ -41,8 +41,8 @@ permalink: /sz1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">57.7%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">42.3%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">98.8%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">1.2%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

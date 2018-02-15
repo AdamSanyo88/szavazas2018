@@ -20,20 +20,20 @@ permalink: /ba4
               <tbody>
              <tr>
                   <td>Nagy Csaba - Fidesz</td>
-				  <td id="id_fidesz">53.7%</td>
+				  <td id="id_fidesz">58.9%</td>
 			</tr>
-			<tr><td>Andrics Alíz - Jobbik</td><td id="id_jobbik">9.0%</td></tr>
+			<tr><td>Andrics Alíz - Jobbik</td><td id="id_jobbik">9.9%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">33.5%</td>
+				  <td id="id_baloldal">27.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.9%</td>
+				  <td id="lmp">2.1%</td>
 			</tr>
 			<tr>
 				  <td>Gergely Attila - Momentum</td>
-				  <td id="momentum">1.9%</td>
+				  <td id="momentum">2.1%</td>
 			</tr>
 <tr>
 <td>Együtt</td>

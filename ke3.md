@@ -20,16 +20,16 @@ permalink: /ke3
               <tbody>
              <tr>
                   <td>dr. Czunyiné Bertalan Judit - Fidesz</td>
-				  <td id="id_fidesz">51.5%</td>
+				  <td id="id_fidesz">50.5%</td>
 			</tr>
-			<tr><td>Tóth Endre - Jobbik</td><td id="id_jobbik">10.3%</td></tr>
+			<tr><td>Tóth Endre - Jobbik</td><td id="id_jobbik">21.8%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">34.4%</td>
+				  <td id="id_baloldal">24.0%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.9%</td>
+				  <td id="lmp">1.8%</td>
 			</tr>
 			<tr>
 				  <td>Lakatos Béla - Momentum</td>
@@ -41,8 +41,8 @@ permalink: /ke3
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.8%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.2%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>
