@@ -20,29 +20,29 @@ permalink: /fe1
               <tbody>
              <tr>
                   <td>Vargha Tamás János - Fidesz</td>
-				  <td id="id_fidesz">46.7%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Tóth Nóra Tímea - Jobbik</td><td id="id_jobbik">21.0%</td></tr>
+			<tr><td>Tóth Nóra Tímea - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Ráczné Földi Judit - DK</td>
-				  <td id="id_baloldal">28.0%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.1%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Pintér András Gábor - Momentum</td>
-				  <td id="momentum">2.1%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99.9%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.1%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

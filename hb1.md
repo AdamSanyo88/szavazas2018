@@ -20,29 +20,29 @@ permalink: /hb1
               <tbody>
              <tr>
                   <td>Kósa Lajos - Fidesz</td>
-				  <td id="id_fidesz">50.1%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Herpergel Róbert - Jobbik</td><td id="id_jobbik">20.6%</td></tr>
+			<tr><td>Herpergel Róbert - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
-				  <td id="id_baloldal">25.4%</td>
+                  <td>Gurmai Zita - MSZP-Párbeszéd</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">2.0%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Horváth Zoltán - Momentum</td>
-				  <td id="momentum">2.0%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td>dr. Szegedi István - Együtt</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

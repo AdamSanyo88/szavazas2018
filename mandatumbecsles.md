@@ -11,6 +11,7 @@ permalink: /mandatumbecsles
           <div class="col s12">
 		  <h5>Ha most vasárnap lennének a választások, melyik párt hány képviselőt küldene a parlamentbe?</h5> 
 <p class="light">Az alábbi táblázat összefoglalja a várható egyéni (106) és listás (93) mandátumok kiosztását.</p>
+<h6>Az első becslés várható időpontja: 2018. március 5.</h6>
 
 
 <table class="responsive-table">
@@ -26,48 +27,48 @@ permalink: /mandatumbecsles
               <tbody>
              <tr>
                   <td>Fidesz</td>
-				  <td>96</td>
-				  <td>45</td>
-				  <td>141</td>
-				  <td>71.0%</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>xx%</td>
 			</tr>
 			<tr>
 				  <td>Jobbik</td>
-				  <td>0</td>
-				  <td>22</td>
-				  <td>22</td>
-	              <td>11.0%</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>xx%</td>
 			</tr>
 			<tr>
                   <td>MSZP</td>
-				  <td>6</td>
-				  <td>11</td>
-				  <td>17</td>
-				  <td>8.5%</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>xx%</td>
 			</tr>
 			<tr>
 			      <td>DK</td>
-                  <td>4</td>
-				  <td>8</td>
-				  <td>12</td>
-				  <td>6.0%</td> 
+                  <td>x</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>xx%</td>
 			</tr>
 			<tr>
 				 <td>LMP</td>
-				 <td>0</td>
-				 <td>7</td>
-				  <td>7</td>
-				  <td>3.5%</td>
+				<td>x</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>xx%</td>
 			</tr>  
 			<td>Momentum</td>
-				 <td>0</td>
-				 <td>0</td>
-				  <td>0</td>
-				  <td>0.0%</td>
+				<td>x</td>
+				  <td>x</td>
+				  <td>x</td>
+				  <td>xx%</td>
               </tbody>
             </table>
-<h5>Eredmény: A Fidesz 2/3-os többséget szerezne (141 mandátummal)</h5>
-<h6>Utolsó frissítés: 2018. január 4.</h6>
+<h5>Eredmény: xxx</h5>
+<h6>Utolsó frissítés: xxx</h6>
           </div>
     </div>
 	

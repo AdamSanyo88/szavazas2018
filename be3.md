@@ -20,29 +20,29 @@ permalink: /be3
               <tbody>
              <tr>
                   <td>dr. Kovács József - Fidesz</td>
-				  <td id="id_fidesz">59.5%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik</td><td id="id_jobbik">11.0%</td></tr>
+			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">25.7%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.9%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Nagy Zoltán - Momentum</td>
-				  <td id="momentum">2.0%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
 <td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100.0%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">0.0%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>

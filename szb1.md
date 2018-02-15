@@ -20,29 +20,29 @@ permalink: /szb1
               <tbody>
              <tr>
                   <td>dr. Szabó Tünde - Fidesz</td>
-				  <td id="id_fidesz">39.3%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Lengyel Máté - Jobbik</td><td id="id_jobbik">26.3%</td></tr>
+			<tr><td>Lengyel Máté - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Baloldal</td>
-				  <td id="id_baloldal">30.8%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				  <td id="lmp">1.8%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Babosi György - Momentum</td>
-				  <td id="momentum">1.9%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
-<td id="egyutt">0.0%</td>
+<td>Lővei Csaba - Együtt</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">92.8%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP/DK, </span><span id="esely2">7.2%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
           </div>
