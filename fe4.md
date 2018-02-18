@@ -19,7 +19,7 @@ permalink: /fe4
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Galambos Dénes - Fidesz</td>
+                  <td>dr. Galambos Dénes - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Pintér Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>

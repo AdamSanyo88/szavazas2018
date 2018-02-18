@@ -19,7 +19,7 @@ permalink: /fe5
               </thead>
               <tbody>
              <tr>
-                  <td>Varga Gábor - Fidesz</td>
+                  <td>Varga Gábor - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Árgyelán János - Jobbik</td><td id="id_jobbik">xx%</td></tr>

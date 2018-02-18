@@ -19,7 +19,7 @@ permalink: /ve3
               </thead>
               <tbody>
              <tr>
-                  <td>Fenyvesi Zoltán - Fidesz</td>
+                  <td>Fenyvesi Zoltán - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Rig Lajos - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /hb6
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Tiba István Csaba - Fidesz</td>
+                  <td>dr. Tiba István Csaba - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Demeter Pál - Jobbik</td><td id="id_jobbik">xx%</td></tr>
@@ -52,7 +52,7 @@ permalink: /hb6
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Hajdú-Bihar megye 5-ös választókerület (Hajdúböszörmény) - 2014-es eredmények</h5>
+		  <h5>Hajdú-Bihar megye 6-os választókerület (Hajdúböszörmény) - 2014-es eredmények</h5>
             <table class="responsive-table">
               <thead>
                 <tr>

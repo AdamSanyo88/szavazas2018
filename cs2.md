@@ -19,7 +19,7 @@ permalink: /cs2
               </thead>
               <tbody>
              <tr>
-                  <td>B. Nagy László - Fidesz</td>
+                  <td>B. Nagy László - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Fackelmann István - Jobbik</td><td id="id_jobbik">xx%</td></tr>

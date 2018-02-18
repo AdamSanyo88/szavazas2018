@@ -19,7 +19,7 @@ permalink: /bk5
               </thead>
               <tbody>
              <tr>
-                  <td>Bányai Gábor Elemér - Fidesz</td>
+                  <td>Bányai Gábor Elemér - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Farkas Gergely - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /to3
               </thead>
               <tbody>
              <tr>
-                  <td>Süli János - Fidesz</td>
+                  <td>Süli János - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Bencze János - Jobbik</td><td id="id_jobbik">xx%</td></tr>

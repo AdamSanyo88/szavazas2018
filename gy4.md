@@ -19,7 +19,7 @@ permalink: /gy4
               </thead>
               <tbody>
              <tr>
-                  <td>Barcza Attila - Fidesz</td>
+                  <td>Barcza Attila - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Brenner Koloman - Jobbik</td><td id="id_jobbik">xx%</td></tr>

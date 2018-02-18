@@ -19,7 +19,7 @@ permalink: /gy1
               </thead>
               <tbody>
              <tr>
-                  <td>Simon Róbert Balázs - Fidesz</td>
+                  <td>Simon Róbert Balázs - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Fodor Roland - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /ke3
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Czunyiné Bertalan Judit - Fidesz</td>
+                  <td>dr. Czunyiné Bertalan Judit - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Tóth Endre - Jobbik</td><td id="id_jobbik">xx%</td></tr>

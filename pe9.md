@@ -19,7 +19,7 @@ permalink: /pe9
               </thead>
               <tbody>
              <tr>
-                  <td>Czerván György - Fidesz</td>
+                  <td>Czerván György - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Bozsik József - Jobbik</td><td id="id_jobbik">xx%</td></tr>

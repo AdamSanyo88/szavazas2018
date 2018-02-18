@@ -19,7 +19,7 @@ permalink: /baz4
               </thead>
               <tbody>
              <tr>
-                  <td>Demeter Zoltán - Fidesz</td>
+                  <td>Demeter Zoltán - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Egyed Zsolt - Jobbik</td><td id="id_jobbik">xx%</td></tr>

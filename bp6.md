@@ -19,7 +19,7 @@ permalink: /bp6
               </thead>
               <tbody>
              <tr>
-                  <td>Kocsis Máté - Fidesz</td>
+                  <td>Kocsis Máté - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dúró Dóra - Jobbik</td><td id="id_jobbik">xx%</td></tr>

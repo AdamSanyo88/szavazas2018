@@ -19,7 +19,7 @@ permalink: /ve2
               </thead>
               <tbody>
              <tr>
-                  <td>Kontrát Károly - Fidesz</td>
+                  <td>Kontrát Károly - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Kepli Lajos - Jobbik</td><td id="id_jobbik">xx%</td></tr>

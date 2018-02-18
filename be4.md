@@ -19,7 +19,7 @@ permalink: /be4
               </thead>
               <tbody>
              <tr>
-                  <td>Simonka György - Fidesz</td>
+                  <td>Simonka György - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Szabó Ervin - Jobbik</td><td id="id_jobbik">xx%</td></tr>

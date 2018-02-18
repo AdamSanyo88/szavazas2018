@@ -19,7 +19,7 @@ permalink: /fe2
               </thead>
               <tbody>
              <tr>
-                  <td>Törő Gábor - Fidesz</td>
+                  <td>Törő Gábor - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Fazakas Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>

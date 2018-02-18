@@ -19,7 +19,7 @@ permalink: /pe7
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Szűcs Lajos - Fidesz</td>
+                  <td>dr. Szűcs Lajos - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Sas Zoltán - Jobbik</td><td id="id_jobbik">xx%</td></tr>

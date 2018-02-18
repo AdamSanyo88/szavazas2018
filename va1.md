@@ -19,7 +19,7 @@ permalink: /va1
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Hende Csaba - Fidesz</td>
+                  <td>dr. Hende Csaba - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Balassa Péter - Jobbik</td><td id="id_jobbik">xx%</td></tr>

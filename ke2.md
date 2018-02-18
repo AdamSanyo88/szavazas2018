@@ -19,7 +19,7 @@ permalink: /ke2
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Völner Pál - Fidesz</td>
+                  <td>dr. Völner Pál - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Nunkovics Tibor - Jobbik</td><td id="id_jobbik">xx%</td></tr>

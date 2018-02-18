@@ -19,7 +19,7 @@ permalink: /hb5
               </thead>
               <tbody>
              <tr>
-                  <td>Bodó Sándor - Fidesz</td>
+                  <td>Bodó Sándor - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Rigán István - Jobbik</td><td id="id_jobbik">xx%</td></tr>

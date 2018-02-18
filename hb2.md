@@ -19,7 +19,7 @@ permalink: /hb2
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Pósán László - Fidesz</td>
+                  <td>dr. Pósán László - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Kőszeghy Ábel - Jobbik</td><td id="id_jobbik">xx%</td></tr>

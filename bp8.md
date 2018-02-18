@@ -19,7 +19,7 @@ permalink: /bp8
               </thead>
               <tbody>
              <tr>
-                  <td>Jelen Tamás - Fidesz</td>
+                  <td>Jelen Tamás - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Szávay István - Jobbik</td><td id="id_jobbik">xx%</td></tr>

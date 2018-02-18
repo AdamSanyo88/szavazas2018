@@ -19,7 +19,7 @@ permalink: /sz1
               </thead>
               <tbody>
              <tr>
-                  <td>Bene Ildikó - Fidesz</td>
+                  <td>Bene Ildikó - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Csikós Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>

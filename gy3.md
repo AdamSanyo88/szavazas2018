@@ -19,7 +19,7 @@ permalink: /gy3
               </thead>
               <tbody>
              <tr>
-                  <td>Gyopáros Alpár - Fidesz</td>
+                  <td>Gyopáros Alpár - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Magyar Zoltán - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /bp4
               </thead>
               <tbody>
              <tr>
-                  <td>Varga Mihály - Fidesz</td>
+                  <td>Varga Mihály - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Kovács Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>

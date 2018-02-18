@@ -19,7 +19,7 @@ permalink: /bk3
               </thead>
               <tbody>
              <tr>
-                  <td>Font Sándor - Fidesz</td>
+                  <td>Font Sándor - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Suhajda Krisztián - Jobbik</td><td id="id_jobbik">xx%</td></tr>

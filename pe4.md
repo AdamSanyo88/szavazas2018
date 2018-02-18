@@ -19,7 +19,7 @@ permalink: /pe4
               </thead>
               <tbody>
              <tr>
-                  <td>Rétvári Bence - Fidesz</td>
+                  <td>Rétvári Bence - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Fehér Zsolt - Jobbik</td><td id="id_jobbik">xx%</td></tr>

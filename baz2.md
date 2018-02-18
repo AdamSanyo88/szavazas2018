@@ -19,7 +19,7 @@ permalink: /baz2
               </thead>
               <tbody>
              <tr>
-                  <td>Hubay György - Fidesz</td>
+                  <td>Hubay György - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Pakusza Zoltán - Jobbik</td><td id="id_jobbik">xx%</td></tr>

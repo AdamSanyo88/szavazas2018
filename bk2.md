@@ -19,7 +19,7 @@ permalink: /bk2
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Zombor Gábor - Fidesz</td>
+                  <td>dr. Zombor Gábor - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Radics Tivadar - Jobbik</td><td id="id_jobbik">xx%</td></tr>

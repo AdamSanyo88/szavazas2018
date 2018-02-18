@@ -19,7 +19,7 @@ permalink: /baz3
               </thead>
               <tbody>
              <tr>
-                  <td>Riz Gábor - Fidesz</td>
+                  <td>Riz Gábor - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Farkas Péter Barnabás - Jobbik</td><td id="id_jobbik">xx%</td></tr>

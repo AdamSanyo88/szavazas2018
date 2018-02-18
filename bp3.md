@@ -19,7 +19,7 @@ permalink: /bp3
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Gulyás Gergely - Fidesz</td>
+                  <td>dr. Gulyás Gergely - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Gyöngyösi Márton - Jobbik</td><td id="id_jobbik">xx%</td></tr>

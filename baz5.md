@@ -19,7 +19,7 @@ permalink: /baz5
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Hörcsik Richárd - Fidesz</td>
+                  <td>dr. Hörcsik Richárd - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Mikola Gergely - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /hb3
               </thead>
               <tbody>
              <tr>
-                  <td>Tasó László - Fidesz</td>
+                  <td>Tasó László - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Csikai József - Jobbik</td><td id="id_jobbik">xx%</td></tr>

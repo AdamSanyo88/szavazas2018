@@ -19,7 +19,7 @@ permalink: /ke1
               </thead>
               <tbody>
              <tr>
-                  <td>Bencsik János - Fidesz</td>
+                  <td>Bencsik János - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Boda Bánk László - Jobbik</td><td id="id_jobbik">xx%</td></tr>

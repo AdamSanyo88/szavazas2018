@@ -19,7 +19,7 @@ permalink: /he3
               </thead>
               <tbody>
              <tr>
-                  <td>Szabó Zsolt - Fidesz</td>
+                  <td>Szabó Zsolt - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Sneider Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>

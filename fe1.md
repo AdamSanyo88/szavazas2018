@@ -19,7 +19,7 @@ permalink: /fe1
               </thead>
               <tbody>
              <tr>
-                  <td>Vargha Tamás János - Fidesz</td>
+                  <td>Vargha Tamás János - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Tóth Nóra Tímea - Jobbik</td><td id="id_jobbik">xx%</td></tr>

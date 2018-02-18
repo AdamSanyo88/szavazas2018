@@ -19,7 +19,7 @@ permalink: /szb3
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Seszták Miklós - Fidesz</td>
+                  <td>dr. Seszták Miklós - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Gyüre Csaba - Jobbik</td><td id="id_jobbik">xx%</td></tr>

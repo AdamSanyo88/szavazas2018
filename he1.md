@@ -19,7 +19,7 @@ permalink: /he1
               </thead>
               <tbody>
              <tr>
-                  <td>Nyitrai Zsolt Péter - Fidesz</td>
+                  <td>Nyitrai Zsolt Péter - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Mirkóczki Ádám - Jobbik</td><td id="id_jobbik">xx%</td></tr>

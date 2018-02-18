@@ -19,7 +19,7 @@ permalink: /so4
               </thead>
               <tbody>
              <tr>
-                  <td>Witzmann Mihály - Fidesz</td>
+                  <td>Witzmann Mihály - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Potocskáné Kőrösi Anita - Jobbik</td><td id="id_jobbik">xx%</td></tr>

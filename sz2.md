@@ -19,7 +19,7 @@ permalink: /sz2
               </thead>
               <tbody>
              <tr>
-                  <td>Pócs János - Fidesz</td>
+                  <td>Pócs János - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Budai Lóránt - Jobbik</td><td id="id_jobbik">xx%</td></tr>

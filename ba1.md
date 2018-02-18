@@ -19,7 +19,7 @@ permalink: /ba1
               </thead>
               <tbody>
              <tr>
-                  <td>Csízi Péter - Fidesz</td>
+                  <td>Csízi Péter - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr>

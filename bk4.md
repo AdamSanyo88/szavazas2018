@@ -19,7 +19,7 @@ permalink: /bk4
               </thead>
               <tbody>
              <tr>
-                  <td>Lezsák Sándor - Fidesz</td>
+                  <td>Lezsák Sándor - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Kollár László - Jobbik</td><td id="id_jobbik">xx%</td></tr>

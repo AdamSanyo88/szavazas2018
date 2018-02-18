@@ -19,7 +19,7 @@ permalink: /so3
               </thead>
               <tbody>
              <tr>
-                  <td>Móring József Attila - Fidesz</td>
+                  <td>Móring József Attila - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Steinmetz Ádám - Jobbik</td><td id="id_jobbik">xx%</td></tr>

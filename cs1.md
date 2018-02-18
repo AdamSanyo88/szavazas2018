@@ -19,7 +19,7 @@ permalink: /cs1
               </thead>
               <tbody>
              <tr>
-                  <td>Bartók Csaba - Fidesz</td>
+                  <td>Bartók Csaba - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Tóth Péter - Jobbik</td><td id="id_jobbik">xx%</td></tr>

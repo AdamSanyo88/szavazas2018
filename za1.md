@@ -19,7 +19,7 @@ permalink: /za1
               </thead>
               <tbody>
              <tr>
-                  <td>Vígh László - Fidesz</td>
+                  <td>Vígh László - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Benke Richárd - Jobbik</td><td id="id_jobbik">xx%</td></tr>

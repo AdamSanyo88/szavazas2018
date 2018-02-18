@@ -19,7 +19,7 @@ permalink: /szb5
               </thead>
               <tbody>
              <tr>
-                  <td>Kovács Sándor - Fidesz</td>
+                  <td>Kovács Sándor - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Apáti István - Jobbik</td><td id="id_jobbik">xx%</td></tr>

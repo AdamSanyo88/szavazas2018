@@ -19,7 +19,7 @@ permalink: /pe2
               </thead>
               <tbody>
              <tr>
-                  <td>Csenger-Zalán Zsolt - Fidesz</td>
+                  <td>Csenger-Zalán Zsolt - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Császárné Kollár Tímea - Jobbik</td><td id="id_jobbik">xx%</td></tr>
