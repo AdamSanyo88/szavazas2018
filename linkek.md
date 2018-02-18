@@ -13,9 +13,9 @@ permalink: /linkek
 <p class="light">Ezen az oldalon a különböző átszavazást támogató szervezetek weboldalai, illetve az átszavazással foglalkozó cikkek és anyagok érhetők el.</p>
 
 <h5>Szervezetek</h5>
-<h6><a href="https://kozosorszagmozgalom.hu/"><img src="images/kom_logo.png">Közös Ország Mozgalom</a></h6>
+<h5><a href="https://kozosorszagmozgalom.hu/">Közös Ország Mozgalom</a></h5>
 <p> </p>
-<h6><a href="http://viszlatketharmad.blog.hu/"><img src="images/visz23_logo.png">Viszlát, Kétharmad!</a></h6>
+<h5><a href="http://viszlatketharmad.blog.hu/">Viszlát, Kétharmad!</a></h5>
 <p> </p>
 <h5>Cikkek és anyagok</h5>
 <p><a href="https://mno.hu/belfold/hivatalosan-is-elstartol-a-2018-as-valasztasi-kampany-2447938">Hivatalosan is elstartol a 2018-as választási kampány</a> - Magyar Nemzet Online, 2018. február 17.</p>
