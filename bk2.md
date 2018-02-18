@@ -24,7 +24,7 @@ permalink: /bk2
 			</tr>
 			<tr><td>Radics Tivadar - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Dancs Zsolt - MSZP-Párbeszéd</td>
+                  <td>Király József - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -32,11 +32,11 @@ permalink: /bk2
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Csontos Gábor - Momentum</td>
+				  <td>Szarvas Koppány Bengegúz - Momentum</td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Somodi Klára - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

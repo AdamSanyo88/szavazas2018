@@ -24,7 +24,7 @@ permalink: /baz6
 			</tr>
 			<tr><td>Bíró László - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Pap Zsolt - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

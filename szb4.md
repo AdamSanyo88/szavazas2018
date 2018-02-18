@@ -24,7 +24,7 @@ permalink: /szb4
 			</tr>
 			<tr><td>Adorján Béla - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Bihari Miklós - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

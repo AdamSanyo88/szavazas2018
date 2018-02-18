@@ -24,7 +24,7 @@ permalink: /hb4
 			</tr>
 			<tr><td>Keresztesy Gergő - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Nagy Attila - MSZP-Párbeszéd</td>
+                  <td>Lencsésné Gál Mária Éva - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /hb4
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Rutz Tamás - Együtt</td>
+<td>Oláh Lajos - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -24,7 +24,7 @@ permalink: /to3
 			</tr>
 			<tr><td>Bencze János - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Heringes Anita - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

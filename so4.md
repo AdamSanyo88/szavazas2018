@@ -24,7 +24,7 @@ permalink: /so4
 			</tr>
 			<tr><td>Potocskáné Kőrösi Anita - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Magyar György - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

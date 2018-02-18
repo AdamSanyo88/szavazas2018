@@ -24,7 +24,7 @@ permalink: /cs2
 			</tr>
 			<tr><td>Fackelmann István - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Joób Márton - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

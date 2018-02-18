@@ -24,7 +24,7 @@ permalink: /sz4
 			</tr>
 			<tr><td>Csányi Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Rózsa Endre - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -32,7 +32,7 @@ permalink: /sz4
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Papp Gergő - Momentum</td>
+				  <td>??? Papp Gergő - Momentum</td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>

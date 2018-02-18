@@ -24,7 +24,7 @@ permalink: /bk4
 			</tr>
 			<tr><td>Kollár László - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>xxx - MSZP-Párbeszéd</td>
+                  <td>Horváth Tamás - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /bk4
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Bükkösi Zoltán - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

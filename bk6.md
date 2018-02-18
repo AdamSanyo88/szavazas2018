@@ -24,7 +24,7 @@ permalink: /bk6
 			</tr>
 			<tr><td>Grünfelder Zoltán - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Hajdú Miklós - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /bk6
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Brachinger Tamás - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

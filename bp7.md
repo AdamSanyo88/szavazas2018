@@ -36,7 +36,7 @@ permalink: /bp7
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Spat Judit - Együtt</td>
+<td>Pető Fanni - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

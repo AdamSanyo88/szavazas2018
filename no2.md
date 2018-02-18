@@ -24,7 +24,7 @@ permalink: /no2
 			</tr>
 			<tr><td>Dobrocsi Lénárd - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Csukáné Szerémy Andrea</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

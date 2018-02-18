@@ -24,7 +24,7 @@ permalink: /ke1
 			</tr>
 			<tr><td>Boda Bánk László - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Fekete Miklós - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

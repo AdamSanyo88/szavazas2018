@@ -24,7 +24,7 @@ permalink: /ke3
 			</tr>
 			<tr><td>Tóth Endre - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Sólyon Jöran - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /ke3
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Kiss Imre - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

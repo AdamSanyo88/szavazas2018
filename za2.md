@@ -36,7 +36,7 @@ permalink: /za2
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Sági Tamás - Együtt</td>
+<td>Kárász Márton - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

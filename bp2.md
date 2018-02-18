@@ -19,7 +19,7 @@ permalink: /bp2
               </thead>
               <tbody>
              <tr>
-                  <td>dr.Simicskó István - Fidesz-KDNP</td>
+                  <td>dr. Simicskó István - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Bardócz-Tódor András - Jobbik</td><td id="id_jobbik">xx%</td></tr>
@@ -36,7 +36,7 @@ permalink: /bp2
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Kóber György - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -36,7 +36,7 @@ permalink: /be2
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Németh Judit - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

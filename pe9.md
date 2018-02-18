@@ -24,7 +24,7 @@ permalink: /pe9
 			</tr>
 			<tr><td>Bozsik József - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Török Zsolt - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

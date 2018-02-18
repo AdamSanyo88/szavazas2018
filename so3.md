@@ -24,7 +24,7 @@ permalink: /so3
 			</tr>
 			<tr><td>Dr. Steinmetz Ádám - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Mészáros Géza - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

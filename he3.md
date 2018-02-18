@@ -24,7 +24,7 @@ permalink: /he3
 			</tr>
 			<tr><td>Sneider Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Tóth Norbert - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

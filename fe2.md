@@ -24,7 +24,7 @@ permalink: /fe2
 			</tr>
 			<tr><td>Fazakas Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Horváth András - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /fe2
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Bucher Franciska - Együtt</td>
+<td>Bucher Fanni - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

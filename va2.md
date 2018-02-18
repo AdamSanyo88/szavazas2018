@@ -24,7 +24,7 @@ permalink: /va2
 			</tr>
 			<tr><td>Rába Kálmán - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Horváth Attila - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

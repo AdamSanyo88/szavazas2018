@@ -24,7 +24,7 @@ permalink: /bp8
 			</tr>
 			<tr><td>Szávay István - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Tóth Csaba - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /bp8
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Szigetvári Viktor - Együtt</td>
+<td>Kratochwill György - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

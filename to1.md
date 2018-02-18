@@ -36,7 +36,7 @@ permalink: /to1
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>??? - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -24,7 +24,7 @@ permalink: /za1
 			</tr>
 			<tr><td>Benke Richárd - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Góra Balázs - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /za1
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Hujber Ádám - Együtt</td>
+<td>Sági Tamás - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

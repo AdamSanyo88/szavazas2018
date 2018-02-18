@@ -24,7 +24,7 @@ permalink: /pe6
 			</tr>
 			<tr><td>Víg János - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Rehó Sándor - DK</td>
+                  <td>Makrai Zoltán - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

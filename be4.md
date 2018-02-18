@@ -24,7 +24,7 @@ permalink: /be4
 			</tr>
 			<tr><td>Dr. Szabó Ervin - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Grószné Zsóri Irén - MSZP-Párbeszéd</td>
+                  <td>Füvesi Sándor - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

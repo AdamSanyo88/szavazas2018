@@ -24,7 +24,7 @@ permalink: /gy5
 			</tr>
 			<tr><td>Jávor Miklós - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Bogyai Zsolt - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

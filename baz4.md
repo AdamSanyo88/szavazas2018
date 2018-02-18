@@ -24,7 +24,7 @@ permalink: /baz4
 			</tr>
 			<tr><td>Egyed Zsolt - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Derdák Tibor - MSZP-Párbeszéd</td>
+                  <td>Gúr Nándor - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /baz4
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Vajsz Eleonóra - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

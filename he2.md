@@ -24,7 +24,7 @@ permalink: /he2
 			</tr>
 			<tr><td>Vona Gábor - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>xxx - MSZP-Párbeszéd</td>
+                  <td>Orosz Bálint - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -32,7 +32,7 @@ permalink: /he2
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Bakó Béla - Momentum</td>
+				  <td>Scherer Zsuzsa - Momentum</td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>

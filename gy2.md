@@ -24,7 +24,7 @@ permalink: /gy2
 			</tr>
 			<tr><td>Dr. Menyhárt Miklós - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Greguss András - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

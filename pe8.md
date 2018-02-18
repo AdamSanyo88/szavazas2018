@@ -24,7 +24,7 @@ permalink: /pe8
 			</tr>
 			<tr><td>Lupa János - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Stefanik Zsolt - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /pe8
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Orosz László - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

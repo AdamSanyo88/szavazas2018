@@ -19,12 +19,12 @@ permalink: /sz1
               </thead>
               <tbody>
              <tr>
-                  <td>Bene Ildikó - Fidesz-KDNP</td>
+                  <td>Kállai Mária - Fidesz-KDNP</td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Csikós Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Györfi Mihály - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

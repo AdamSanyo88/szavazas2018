@@ -24,7 +24,7 @@ permalink: /gy4
 			</tr>
 			<tr><td>Dr. Brenner Koloman - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Póczik Roland - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

@@ -24,7 +24,7 @@ permalink: /cs1
 			</tr>
 			<tr><td>Tóth Péter - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Szabó Sándor - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /cs1
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>visszalépett - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -32,11 +32,11 @@ permalink: /ke2
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Cserép János - Momentum</td>
+				  <td>Tóth Kornél - Momentum</td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kis Imre - Együtt</td>
+<td>visszalépett - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

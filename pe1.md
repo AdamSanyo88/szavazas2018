@@ -24,7 +24,7 @@ permalink: /pe1
 			</tr>
 			<tr><td>Vágó Sebestyén - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Dr. Kaltenbach Jenő - MSZP-Párbeszéd</td>
+                  <td>Tóbiás József - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

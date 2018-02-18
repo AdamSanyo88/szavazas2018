@@ -36,7 +36,7 @@ permalink: /fe5
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Rétfalvi Norbert - Együtt</td>
+<td>Hegedűs Norbert - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -24,7 +24,7 @@ permalink: /baz7
 			</tr>
 			<tr><td>Lukács Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Kormos Anna - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /baz7
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Huzsvári Erzsébet - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

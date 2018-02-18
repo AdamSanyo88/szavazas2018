@@ -24,7 +24,7 @@ permalink: /ba4
 			</tr>
 			<tr><td>Andrics Alíz - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Vass Péter - független</td>
+                  <td>Vass Péter - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -36,7 +36,7 @@ permalink: /ba4
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Együtt</td>
+<td>Vass Péterné - Együtt</td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

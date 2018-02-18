@@ -32,7 +32,7 @@ permalink: /hb5
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Kovács Imre Krisztián - Momentum</td>
+				  <td>Gyuris Dóra - Momentum</td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>

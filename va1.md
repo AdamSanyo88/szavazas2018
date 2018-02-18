@@ -24,7 +24,7 @@ permalink: /va1
 			</tr>
 			<tr><td>Balassa Péter - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Nemény András - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -32,7 +32,7 @@ permalink: /va1
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Taoufik Roland - Momentum</td>
+				  <td>Falta Péter - Momentum</td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>

@@ -24,7 +24,7 @@ permalink: /ve3
 			</tr>
 			<tr><td>Rig Lajos - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Kárpáti Lajos - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>

@@ -24,7 +24,7 @@ permalink: /ve4
 			</tr>
 			<tr><td>Töreki Milán - Jobbik</td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Baloldal</td>
+                  <td>Gőgös Zoltán - MSZP-Párbeszéd</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
