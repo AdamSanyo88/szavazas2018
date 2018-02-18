@@ -11,16 +11,16 @@ permalink: /mandatumbecsles
           <div class="col s12">
 		  <h5>Ha most vasárnap lennének a választások, melyik párt hány képviselőt küldene a parlamentbe?</h5> 
 <p class="light">Az alábbi táblázat összefoglalja a várható egyéni (106) és listás (93) mandátumok kiosztását.</p>
-<h6>Az első becslés várható időpontja: 2018. március 5.</h6>
+<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
 
 
 <table class="responsive-table">
               <thead>
                 <tr>
                     <th>Pártok</th>
-                    <th>Egyéni mandátumok</th>
-					<th>Listás mandátumok</th>
-					<th>Összes mandátumok</th>
+                    <th>Egyéni mandátum</th>
+					<th>Listás mandátum</th>
+					<th>Összes mandátum</th>
 					<th>Mandátumarány</th>
                 </tr>
               </thead>

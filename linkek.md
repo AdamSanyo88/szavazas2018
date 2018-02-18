@@ -13,10 +13,24 @@ permalink: /linkek
 <p class="light">Ezen az oldalon a különböző átszavazást támogató szervezetek weboldalai, illetve az átszavazással foglalkozó cikkek és anyagok érhetők el.</p>
 
 <h5>Szervezetek</h5>
-<h5><a href="https://kozosorszagmozgalom.hu/">Közös Ország Mozgalom</a></h5>
-<p> </p>
-<h5><a href="http://viszlatketharmad.blog.hu/">Viszlát, Kétharmad!</a></h5>
-<p> </p>
+<div class="row">
+        <div class="col m6">
+          <div class="icon-block">
+            <h5 class="center"><a href="https://kozosorszagmozgalom.hu/">Közös Ország Mozgalom</a></h5>
+
+            <p class="light">Gulyás Márton civil aktivista által életre hívott kezdeményezés. A mozgalom célja, hogy megtalálja a legesélyesebb ellenzéki jelöltet minél több választókerületben.</p>			
+          </div>
+        </div>
+
+        <div class="col m6">
+          <div class="icon-block">
+            <h5 class="center"><a href="http://viszlatketharmad.blog.hu/">Viszlát, Kétharmad!</a></h5>
+
+            <p class="light">Pápay György volt Magyar Nemzetnél dolgozó újságíró által vezetett blog és platform. Céljuk, hogy minél több emberhez juttassák el a taktikai szavazás fontosságát, hogy ezzel megakadályozzák a Fidesz kétharmados túlhatalmát.</p>
+          </div>
+        </div>
+      </div>
+
 <h5>Cikkek és anyagok</h5>
 <p><a href="https://mno.hu/belfold/hivatalosan-is-elstartol-a-2018-as-valasztasi-kampany-2447938">Hivatalosan is elstartol a 2018-as választási kampány</a> - Magyar Nemzet Online, 2018. február 17.</p>
 <p><a href="https://merce.hu/2018/02/11/a-kozos-orszag-mozgalom-star-wars-animacioval-szemlelteti-az-egyeni-valasztokorzetek-fontossagat">A Közös Ország Mozgalom Star Wars animációval szemlélteti az egyéni választókörzetek fontosságát</a> - Mérce, 2018. február 10.</p>
