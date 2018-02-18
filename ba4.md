@@ -19,7 +19,7 @@ permalink: /ba4
               </thead>
               <tbody>
              <tr>
-                  <td>Nagy Csaba - Fidesz-KDNP</td>
+                  <td>Nagy Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Andrics Alíz - Jobbik</td><td id="id_jobbik">xx%</td></tr>

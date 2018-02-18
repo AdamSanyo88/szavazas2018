@@ -19,7 +19,7 @@ permalink: /no1
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Becsó Zsolt - Fidesz-KDNP</td>
+                  <td>dr. Becsó Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Cseresznyés István - Jobbik</td><td id="id_jobbik">xx%</td></tr>

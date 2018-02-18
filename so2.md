@@ -19,7 +19,7 @@ permalink: /so2
               </thead>
               <tbody>
              <tr>
-                  <td>Szászfalvi László - Fidesz-KDNP</td>
+                  <td>Szászfalvi László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Ander Balázs - Jobbik</td><td id="id_jobbik">xx%</td></tr>

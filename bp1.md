@@ -19,7 +19,7 @@ permalink: /bp1
               </thead>
               <tbody>
              <tr>
-                  <td>Hollik István  - Fidesz-KDNP</td>
+                  <td>Hollik István  - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr>

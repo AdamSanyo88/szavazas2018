@@ -19,7 +19,7 @@ permalink: /gy2
               </thead>
               <tbody>
              <tr>
-                  <td>Kara Ákos - Fidesz-KDNP</td>
+                  <td>Kara Ákos - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Menyhárt Miklós - Jobbik</td><td id="id_jobbik">xx%</td></tr>

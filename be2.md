@@ -19,7 +19,7 @@ permalink: /be2
               </thead>
               <tbody>
              <tr>
-                  <td>Dankó Béla - Fidesz-KDNP</td>
+                  <td>Dankó Béla - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Samu Tamás Gergő - Jobbik</td><td id="id_jobbik">xx%</td></tr>

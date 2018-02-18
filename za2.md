@@ -19,7 +19,7 @@ permalink: /za2
               </thead>
               <tbody>
              <tr>
-                  <td>Manninger Jenő - Fidesz-KDNP</td>
+                  <td>Manninger Jenő - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Weller-Jakus Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>

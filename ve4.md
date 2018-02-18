@@ -19,7 +19,7 @@ permalink: /ve4
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Kovács Zoltán - Fidesz-KDNP</td>
+                  <td>dr. Kovács Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Töreki Milán - Jobbik</td><td id="id_jobbik">xx%</td></tr>

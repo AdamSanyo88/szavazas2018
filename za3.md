@@ -19,7 +19,7 @@ permalink: /za3
               </thead>
               <tbody>
              <tr>
-                  <td>Cseresnyés Péter - Fidesz-KDNP</td>
+                  <td>Cseresnyés Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Zakó László - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /szb1
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Szabó Tünde - Fidesz-KDNP</td>
+                  <td>dr. Szabó Tünde - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Lengyel Máté - Jobbik</td><td id="id_jobbik">xx%</td></tr>

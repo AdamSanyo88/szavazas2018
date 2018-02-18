@@ -19,7 +19,7 @@ permalink: /baz7
               </thead>
               <tbody>
              <tr>
-                  <td>Tállai András - Fidesz-KDNP</td>
+                  <td>Tállai András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Lukács Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>

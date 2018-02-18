@@ -19,7 +19,7 @@ permalink: /be3
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Kovács József - Fidesz-KDNP</td>
+                  <td>dr. Kovács József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik</td><td id="id_jobbik">xx%</td></tr>

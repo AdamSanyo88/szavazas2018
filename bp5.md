@@ -19,7 +19,7 @@ permalink: /bp5
               </thead>
               <tbody>
              <tr>
-                  <td>Bajkai István - Fidesz-KDNP</td>
+                  <td>Bajkai István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Stummer János - Jobbik</td><td id="id_jobbik">xx%</td></tr>

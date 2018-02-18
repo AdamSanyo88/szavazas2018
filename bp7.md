@@ -19,7 +19,7 @@ permalink: /bp7
               </thead>
               <tbody>
              <tr>
-                  <td>Harrach Tamás - Fidesz-KDNP</td>
+                  <td>Harrach Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Magvasi Adrián - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /baz1
               </thead>
               <tbody>
              <tr>
-                  <td>Csöbör Katalin - Fidesz-KDNP</td>
+                  <td>Csöbör Katalin - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Jakab Péter - Jobbik</td><td id="id_jobbik">xx%</td></tr>

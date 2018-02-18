@@ -19,7 +19,7 @@ permalink: /gy5
               </thead>
               <tbody>
              <tr>
-                  <td>Dr. Nagy István - Fidesz-KDNP</td>
+                  <td>Dr. Nagy István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Jávor Miklós - Jobbik</td><td id="id_jobbik">xx%</td></tr>

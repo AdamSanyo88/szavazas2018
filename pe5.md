@@ -19,7 +19,7 @@ permalink: /pe5
               </thead>
               <tbody>
              <tr>
-                  <td>Tuzson Bence - Fidesz-KDNP</td>
+                  <td>Tuzson Bence - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Varga Zoltán Péter - Jobbik</td><td id="id_jobbik">xx%</td></tr>

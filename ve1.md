@@ -19,7 +19,7 @@ permalink: /ve1
               </thead>
               <tbody>
              <tr>
-                  <td>Ovádi Péter - Fidesz-KDNP</td>
+                  <td>Ovádi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Varga-Damm Andrea - Jobbik</td><td id="id_jobbik">xx%</td></tr>

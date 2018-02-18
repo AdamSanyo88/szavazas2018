@@ -19,7 +19,7 @@ permalink: /szb4
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Tilki Attila - Fidesz-KDNP</td>
+                  <td>dr. Tilki Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Adorján Béla - Jobbik</td><td id="id_jobbik">xx%</td></tr>

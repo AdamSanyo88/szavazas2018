@@ -19,7 +19,7 @@ permalink: /pe1
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Aradszki András - Fidesz-KDNP</td>
+                  <td>dr. Aradszki András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Vágó Sebestyén - Jobbik</td><td id="id_jobbik">xx%</td></tr>

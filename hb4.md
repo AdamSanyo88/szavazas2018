@@ -19,7 +19,7 @@ permalink: /hb4
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Vitányi István József - Fidesz-KDNP</td>
+                  <td>dr. Vitányi István József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Keresztesy Gergő - Jobbik</td><td id="id_jobbik">xx%</td></tr>

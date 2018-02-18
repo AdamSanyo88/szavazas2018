@@ -19,7 +19,7 @@ permalink: /so1
               </thead>
               <tbody>
              <tr>
-                  <td>Gelencsér Attila - Fidesz-KDNP</td>
+                  <td>Gelencsér Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Miháldinecz Gábor - Jobbik</td><td id="id_jobbik">xx%</td></tr>

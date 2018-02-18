@@ -19,7 +19,7 @@ permalink: /ba2
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Hoppál Péter - Fidesz-KDNP</td>
+                  <td>dr. Hoppál Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Gyimesi Gábor - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /bk6
               </thead>
               <tbody>
              <tr>
-                  <td>Zsigó Róbert - Fidesz-KDNP</td>
+                  <td>Zsigó Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Grünfelder Zoltán - Jobbik</td><td id="id_jobbik">xx%</td></tr>

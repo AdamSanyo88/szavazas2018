@@ -19,7 +19,7 @@ permalink: /bp9
               </thead>
               <tbody>
              <tr>
-                  <td>György István - Fidesz-KDNP</td>
+                  <td>György István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Tubák István - Jobbik</td><td id="id_jobbik">xx%</td></tr>

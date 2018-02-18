@@ -19,7 +19,7 @@ permalink: /he2
               </thead>
               <tbody>
              <tr>
-                  <td>Horváth László - Fidesz-KDNP</td>
+                  <td>Horváth László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Vona Gábor - Jobbik</td><td id="id_jobbik">xx%</td></tr>

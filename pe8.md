@@ -19,7 +19,7 @@ permalink: /pe8
               </thead>
               <tbody>
              <tr>
-                  <td>Bóna Zoltán - Fidesz-KDNP</td>
+                  <td>Bóna Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Lupa János - Jobbik</td><td id="id_jobbik">xx%</td></tr>

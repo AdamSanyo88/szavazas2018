@@ -19,7 +19,7 @@ permalink: /cs3
               </thead>
               <tbody>
              <tr>
-                  <td>Farkas Sándor - Fidesz-KDNP</td>
+                  <td>Farkas Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Szabó Zoltán Ferenc - Jobbik</td><td id="id_jobbik">xx%</td></tr>

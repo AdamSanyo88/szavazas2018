@@ -19,7 +19,7 @@ permalink: /bp2
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Simicskó István - Fidesz-KDNP</td>
+                  <td>dr. Simicskó István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Bardócz-Tódor András - Jobbik</td><td id="id_jobbik">xx%</td></tr>

@@ -19,7 +19,7 @@ permalink: /ba3
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Hargitai János - Fidesz-KDNP</td>
+                  <td>dr. Hargitai János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Szőcs Norbert - Jobbik</td><td id="id_jobbik">xx%</td></tr>

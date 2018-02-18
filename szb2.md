@@ -19,7 +19,7 @@ permalink: /szb2
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Vinnai Győző - Fidesz-KDNP</td>
+                  <td>dr. Vinnai Győző - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Dr. Fülöp Erik - Jobbik</td><td id="id_jobbik">xx%</td></tr>

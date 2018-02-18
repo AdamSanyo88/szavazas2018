@@ -19,7 +19,7 @@ permalink: /fe3
               </thead>
               <tbody>
              <tr>
-                  <td>Tessely Zoltán - Fidesz-KDNP</td>
+                  <td>Tessely Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Varga László Béla - Jobbik</td><td id="id_jobbik">xx%</td></tr>

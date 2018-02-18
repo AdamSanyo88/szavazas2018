@@ -19,7 +19,7 @@ permalink: /szb6
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Simon Miklós - Fidesz-KDNP</td>
+                  <td>dr. Simon Miklós - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Kész Géza - Jobbik</td><td id="id_jobbik">xx%</td></tr>

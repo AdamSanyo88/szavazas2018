@@ -19,7 +19,7 @@ permalink: /va2
               </thead>
               <tbody>
              <tr>
-                  <td>Ágh Péter - Fidesz-KDNP</td>
+                  <td>Ágh Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Rába Kálmán - Jobbik</td><td id="id_jobbik">xx%</td></tr>

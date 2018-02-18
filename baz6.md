@@ -19,7 +19,7 @@ permalink: /baz6
               </thead>
               <tbody>
              <tr>
-                  <td>Koncz Ferenc - Fidesz-KDNP</td>
+                  <td>Koncz Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Bíró László - Jobbik</td><td id="id_jobbik">xx%</td></tr>

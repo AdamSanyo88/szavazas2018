@@ -19,7 +19,7 @@ permalink: /hb6
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Tiba István Csaba - Fidesz-KDNP</td>
+                  <td>dr. Tiba István Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Demeter Pál - Jobbik</td><td id="id_jobbik">xx%</td></tr>

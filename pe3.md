@@ -19,7 +19,7 @@ permalink: /pe3
               </thead>
               <tbody>
              <tr>
-                  <td>Hadházy Sándor - Fidesz-KDNP</td>
+                  <td>Hadházy Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Pál Gábor - Jobbik</td><td id="id_jobbik">xx%</td></tr>

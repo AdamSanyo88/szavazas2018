@@ -19,7 +19,7 @@ permalink: /bk1
               </thead>
               <tbody>
              <tr>
-                  <td>Salacz László - Fidesz-KDNP</td>
+                  <td>Salacz László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr>

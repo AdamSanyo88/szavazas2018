@@ -19,7 +19,7 @@ permalink: /to2
               </thead>
               <tbody>
              <tr>
-                  <td>Potápi Árpád - Fidesz-KDNP</td>
+                  <td>Potápi Árpád - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Fenyvesi Csaba - Jobbik</td><td id="id_jobbik">xx%</td></tr>

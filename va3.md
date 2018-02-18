@@ -19,7 +19,7 @@ permalink: /va3
               </thead>
               <tbody>
              <tr>
-                  <td>V. Németh Zsolt - Fidesz-KDNP</td>
+                  <td>V. Németh Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr><td>Bana Tibor - Jobbik</td><td id="id_jobbik">xx%</td></tr>
