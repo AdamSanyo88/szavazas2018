@@ -35,6 +35,7 @@ permalink: /linkek
 <p><a href="https://mno.hu/belfold/hivatalosan-is-elstartol-a-2018-as-valasztasi-kampany-2447938">Hivatalosan is elstartol a 2018-as választási kampány</a> - Magyar Nemzet Online, 2018. február 17.</p>
 <p><a href="https://hirtv.hu/ahirtvhirei/gulyaseknak-ujabb-korzetekre-jott-ossze-a-penz-2447350">Gulyás Mártonéknak újabb körzetekre jött össze a pénz</a> - Hír TV, 2018. február 17.</p>
 <p><a href="https://merce.hu/2018/02/11/a-kozos-orszag-mozgalom-star-wars-animacioval-szemlelteti-az-egyeni-valasztokorzetek-fontossagat">A Közös Ország Mozgalom Star Wars animációval szemlélteti az egyéni választókörzetek fontosságát</a> - Mérce, 2018. február 10.</p>
+<p><a href="https://24.hu/belfold/2018/02/08/okos-ellenzeki-egyuttmukodes-nelkul-sima-fidesz-ketharmad-lesz/">Okos ellenzéki együttműködés nélkül sima Fidesz-kétharmad lesz</a> - 24.hu, 2018. február 8.</p>
 <p><a href="http://168ora.hu/itthon/mesterhazy-attila-visszalepett-kesz-zoltan-javara-144637">Mesterházy Attila visszalépett Kész Zoltán javára</a> - 168 óra, 2018. február 1.<p>
 <p><a href="http://nyugatifeny.hu/2018/01/30/ertelmisegiek-kozos-levelben-szolitjak-fel-a-partokat-hogy-mindenhol-lepjenek-vissza-a-legeselyesebb-javara">26 értelmiségi közösen szólítja fel az ellenzéket, hogy mindenhol lépjenek vissza a legesélyesebb jelölt javára</a> - Nyugati Fény, 2018. január 30.<p>
 <p><a href="http://hvg.hu/itthon/20180126_Iianymutatast_adott_ki_az_nvb">Iránymutatást adott ki az NVB, nehezebb lesz az ellenzéki koordináció</a> - HVG.hu, 2018. január 26.<p>
