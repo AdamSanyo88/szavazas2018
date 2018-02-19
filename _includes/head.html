@@ -5,15 +5,15 @@
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
 	
-	    <link href="https://fonts.googleapis.com/icon?family=MaterialIcons" rel="stylesheet">
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ "/assets/materialize.css" | relative_url }}" />
     <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
-    <link rel="alternate" type="application/rssxml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}" />
 
-      <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
      <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
      <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
      <script>
@@ -50,14 +50,14 @@
            $( "#project" ).val( ui.item.label );
            $( "#project-url" ).attr("href", ui.item.value );
            $( "#project-description" ).html( ui.item.desc );
-           $( "#project-icon" ).attr( "src", "images/vk/"  ui.item.icon );
+           $( "#project-icon" ).attr( "src", "images/vk/" + ui.item.icon );
  
            return false;
          }
        })
        .autocomplete( "instance" )._renderItem = function( ul, item ) {
          return $( "<li>" )
-           .append( "<div>"  item.label  "<br>"  item.desc  "</div>" )
+           .append( "<div>" + item.label + "<br>" + item.desc + "</div>" )
            .appendTo( ul );
        };
      } );
