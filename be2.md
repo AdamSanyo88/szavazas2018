@@ -22,21 +22,21 @@ permalink: /be2
                   <td>Dankó Béla - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Samu Tamás Gergő - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Samu Tamás Gergő - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Kondé Gábor - DK</td>
+                  <td>Kondé Gábor - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Szatmári Péter - Momentum</td>
+				  <td>Szatmári Péter - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Németh Judit - Együtt</td>
+<td>Németh Judit -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

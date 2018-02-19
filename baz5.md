@@ -22,21 +22,21 @@ permalink: /baz5
                   <td>dr. Hörcsik Richárd - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Mikola Gergely - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Mikola Gergely - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Zaveczki Tibor - DK</td>
+                  <td>Zaveczki Tibor - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Pencz András - Momentum</td>
+				  <td>Pencz András - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Szabó Mihály - Együtt</td>
+<td>Szabó Mihály -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

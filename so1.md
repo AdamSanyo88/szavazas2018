@@ -22,21 +22,21 @@ permalink: /so1
                   <td>Gelencsér Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Miháldinecz Gábor - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Miháldinecz Gábor - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>László Imre - DK</td>
+                  <td>László Imre - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Berg Dániel - Momentum</td>
+				  <td>Berg Dániel - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kerepesi Tibor - Együtt</td>
+<td>Kerepesi Tibor -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

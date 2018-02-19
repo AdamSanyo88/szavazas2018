@@ -22,21 +22,21 @@ permalink: /fe3
                   <td>Tessely Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Varga László Béla - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Varga László Béla - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Szilágyi László - MSZP-Párbeszéd</td>
+                  <td>Szilágyi László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Molnár Tamás - Momentum</td>
+				  <td>Molnár Tamás - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kulcsár Miklós - Együtt</td>
+<td>Kulcsár Miklós -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

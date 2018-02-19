@@ -22,21 +22,21 @@ permalink: /ve2
                   <td>Kontrát Károly - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Kepli Lajos - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Kepli Lajos - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Deák Istvánné - DK</td>
+                  <td>Deák Istvánné - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Baán Barnabás - Momentum</td>
+				  <td>Baán Barnabás - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Nógrádi Nóra - Együtt</td>
+<td>Nógrádi Nóra -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

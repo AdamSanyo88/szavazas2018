@@ -22,21 +22,21 @@ permalink: /to1
                   <td>Horváth István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Szabó Balázs - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Szabó Balázs - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Harangozó Tamás - MSZP-Párbeszéd</td>
+                  <td>Harangozó Tamás - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>Hadházy Ákos - LMP</td>
+                  <td>Hadházy Ákos - LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Rácz Norbert - Momentum</td>
+				  <td>Rácz Norbert - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>??? - Együtt</td>
+<td>??? -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

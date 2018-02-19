@@ -22,21 +22,21 @@ permalink: /sz1
                   <td>Kállai Mária - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Csikós Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dr. Csikós Attila - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Györfi Mihály - MSZP-Párbeszéd</td>
+                  <td>Györfi Mihály - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Szekeres Éva - Momentum</td>
+				  <td>Szekeres Éva - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Nagy Attila - Együtt</td>
+<td>Nagy Attila -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

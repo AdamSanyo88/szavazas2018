@@ -22,21 +22,21 @@ permalink: /to2
                   <td>Potápi Árpád - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Fenyvesi Csaba - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Fenyvesi Csaba - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Gecséné Slárku Szilvia - DK</td>
+                  <td>Gecséné Slárku Szilvia - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Zaránd Péter - Momentum</td>
+				  <td>Zaránd Péter - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Ádám Csaba - Együtt</td>
+<td>Ádám Csaba -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -22,21 +22,21 @@ permalink: /no1
                   <td>dr. Becsó Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Cseresznyés István - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Cseresznyés István - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Kovács Zsolt - DK</td>
+                  <td>Kovács Zsolt - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Barta László - Momentum</td>
+				  <td>Barta László - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Árvainé Faludi Erzsébet - Együtt</td>
+<td>Árvainé Faludi Erzsébet -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

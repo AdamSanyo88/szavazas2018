@@ -22,21 +22,21 @@ permalink: /pe2
                   <td>Csenger-Zalán Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Császárné Kollár Tímea - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Tóth Zoltán - DK</td>
+                  <td>Tóth Zoltán - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>Szél Bernadett - LMP</td>
+                  <td>Szél Bernadett - LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Szemző Áron - Momentum</td>
+				  <td>Szemző Áron - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>??? - Együtt</td>
+<td>??? -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

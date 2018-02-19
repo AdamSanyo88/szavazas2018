@@ -22,21 +22,21 @@ permalink: /bp2
                   <td>dr. Simicskó István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Bardócz-Tódor András - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dr. Bardócz-Tódor András - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Gy. Németh Erzsébet - DK</td>
+                  <td>Gy. Németh Erzsébet - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Bedő Dávid - Momentum</td>
+				  <td>Bedő Dávid - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kóber György - Együtt</td>
+<td>Kóber György -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

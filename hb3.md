@@ -22,21 +22,21 @@ permalink: /hb3
                   <td>Tasó László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Csikai József - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Csikai József - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Káposznyák István - DK</td>
+                  <td>Káposznyák István - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Lakatos Árpád - Momentum</td>
+				  <td>Lakatos Árpád - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kosztin Mihály - Együtt</td>
+<td>Kosztin Mihály -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

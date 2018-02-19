@@ -22,21 +22,21 @@ permalink: /za3
                   <td>Cseresnyés Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Zakó László - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Zakó László - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Horváth Jácint - DK</td>
+                  <td>Horváth Jácint - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>dr. Polónyi Tamás - Momentum</td>
+				  <td>dr. Polónyi Tamás - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Jellinek János - Együtt</td>
+<td>Jellinek János -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

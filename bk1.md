@@ -23,22 +23,22 @@ permalink: /bk1
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr>
-<td>Lejer Zoltán - Jobbik</td>
+<td>Lejer Zoltán - Jobbik <img src="images/jobbik_logo.png"></td>
 <td id="id_jobbik">xx%</td></tr>
 			<tr>
-                  <td>Szőkéné Kopping Rita - DK</td>
+                  <td>Szőkéné Kopping Rita - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>Vágó Gábor - LMP</td>
+                  <td>Vágó Gábor - LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Bodrozsán Alexandra - Momentum</td>
+				  <td>Bodrozsán Alexandra - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kacsó Balázs - Együtt</td>
+<td>Kacsó Balázs -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

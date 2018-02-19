@@ -22,21 +22,21 @@ permalink: /hb2
                   <td>dr. Pósán László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Kőszeghy Ábel - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Kőszeghy Ábel - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Varga Zoltán - DK</td>
+                  <td>Varga Zoltán - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Mándi László - Momentum</td>
+				  <td>Mándi László - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>dr. Orosz Tamás - Együtt</td>
+<td>dr. Orosz Tamás -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

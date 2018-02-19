@@ -22,21 +22,21 @@ permalink: /sz3
                   <td>Kovács Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Lukács László - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dr. Lukács László - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Bodó Jánosné - DK</td>
+                  <td>Bodó Jánosné - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Szincsák Gergő Bendegúz - Momentum</td>
+				  <td>Szincsák Gergő Bendegúz - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kammerer Gábor - Együtt</td>
+<td>Kammerer Gábor -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

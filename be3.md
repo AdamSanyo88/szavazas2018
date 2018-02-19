@@ -22,21 +22,21 @@ permalink: /be3
                   <td>dr. Kovács József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Pluhár László - MSZP-Párbeszéd</td>
+                  <td>Pluhár László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Nagy Zoltán - Momentum</td>
+				  <td>Nagy Zoltán - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kovács István - Együtt</td>
+<td>Kovács István -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

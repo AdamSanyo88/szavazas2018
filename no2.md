@@ -22,21 +22,21 @@ permalink: /no2
                   <td>Balla Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dobrocsi Lénárd - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dobrocsi Lénárd - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Csukáné Szerémy Andrea</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Benkó Tamás - Momentum</td>
+				  <td>Benkó Tamás - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Sütő Dezső - Együtt</td>
+<td>Sütő Dezső -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

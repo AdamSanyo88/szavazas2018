@@ -22,21 +22,21 @@ permalink: /baz1
                   <td>Csöbör Katalin - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Jakab Péter - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Jakab Péter - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Debreczeni József - DK</td>
+                  <td>Debreczeni József - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Szopkó Tibor - Momentum</td>
+				  <td>Szopkó Tibor - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Juhász Jánosné Pandák Margit - Együtt</td>
+<td>Juhász Jánosné Pandák Margit -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

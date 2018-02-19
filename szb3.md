@@ -22,21 +22,21 @@ permalink: /szb3
                   <td>dr. Seszták Miklós - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Gyüre Csaba - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dr. Gyüre Csaba - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Rakóczki Dénesné - DK</td>
+                  <td>Rakóczki Dénesné - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Papp Csaba - Momentum</td>
+				  <td>Papp Csaba - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Herczku Tímea - Együtt</td>
+<td>Herczku Tímea -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

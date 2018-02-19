@@ -22,21 +22,21 @@ permalink: /baz7
                   <td>Tállai András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Lukács Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Lukács Attila - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Kormos Anna - MSZP-Párbeszéd</td>
+                  <td>Kormos Anna - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Lengyel Ádám - Momentum</td>
+				  <td>Lengyel Ádám - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Huzsvári Erzsébet - Együtt</td>
+<td>Huzsvári Erzsébet -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

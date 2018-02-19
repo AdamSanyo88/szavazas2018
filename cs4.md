@@ -22,21 +22,21 @@ permalink: /cs4
                   <td>Lázár János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Kiss Attila - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dr. Kiss Attila - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Rója István - MSZP-Párbeszéd</td>
+                  <td>Rója István - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Jakab Tamás - Momentum</td>
+				  <td>Jakab Tamás - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Wéber Katalin - Együtt</td>
+<td>Wéber Katalin -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

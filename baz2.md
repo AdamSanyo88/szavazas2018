@@ -22,21 +22,21 @@ permalink: /baz2
                   <td>Hubay György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Pakusza Zoltán - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Varga László - MSZP-Párbeszéd</td>
+                  <td>Varga László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>Doszpoly Botond - LMP</td>
+                  <td>Doszpoly Botond - LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Prokaj Tamás - Momentum</td>
+				  <td>Prokaj Tamás - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>visszalépett - Együtt</td>
+<td>visszalépett -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

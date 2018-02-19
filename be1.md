@@ -22,21 +22,21 @@ permalink: /be1
                   <td>Herczeg Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Kocziha Tünde - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Nagy-Huszein Tibor - DK</td>
+                  <td>Nagy-Huszein Tibor - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Almási István - Momentum</td>
+				  <td>Almási István - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Körömi János - Együtt</td>
+<td>Körömi János -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

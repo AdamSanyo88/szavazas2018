@@ -22,21 +22,21 @@ permalink: /bk5
                   <td>Bányai Gábor Elemér - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Farkas Gergely - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Farkas Gergely - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Molnár László - DK</td>
+                  <td>Molnár László - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Takács Zoltán - Momentum</td>
+				  <td>Takács Zoltán - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Tóth Zoltán - Együtt</td>
+<td>Tóth Zoltán -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

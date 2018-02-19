@@ -22,21 +22,21 @@ permalink: /bk6
                   <td>Zsigó Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Grünfelder Zoltán - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Grünfelder Zoltán - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Hajdú Miklós - MSZP-Párbeszéd</td>
+                  <td>Hajdú Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Béni Kornél - Momentum</td>
+				  <td>Béni Kornél - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Brachinger Tamás - Együtt</td>
+<td>Brachinger Tamás -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

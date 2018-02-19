@@ -22,21 +22,21 @@ permalink: /bp4
                   <td>Varga Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Kovács Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Kovács Tamás - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Niedermüller Péter - DK</td>
+                  <td>Niedermüller Péter - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>Ungár Péter - LMP</td>
+                  <td>Ungár Péter - LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Benedek Márton - Momentum</td>
+				  <td>Benedek Márton - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Mihalik Zoltán - Együtt</td>
+<td>Mihalik Zoltán -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

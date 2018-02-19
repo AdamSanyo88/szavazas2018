@@ -22,21 +22,21 @@ permalink: /va3
                   <td>V. Németh Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Bana Tibor - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Bana Tibor - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Balogh Tibor - DK</td>
+                  <td>Balogh Tibor - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Gerencsér Mária - Momentum</td>
+				  <td>Gerencsér Mária - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Szabó Judit - Együtt</td>
+<td>Szabó Judit -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

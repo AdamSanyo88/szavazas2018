@@ -22,21 +22,21 @@ permalink: /gy1
                   <td>Simon Róbert Balázs - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Fodor Roland - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Fodor Roland - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Glázer Tímea - DK</td>
+                  <td>Glázer Tímea - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Molnár József - Momentum</td>
+				  <td>Molnár József - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Varga Márk - Együtt</td>
+<td>Varga Márk -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -22,21 +22,21 @@ permalink: /ke2
                   <td>dr. Völner Pál - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Nunkovics Tibor - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Nunkovics Tibor - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Vadai Ágnes - DK</td>
+                  <td>Vadai Ágnes - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Tóth Kornél - Momentum</td>
+				  <td>Tóth Kornél - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>visszalépett - Együtt</td>
+<td>visszalépett -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

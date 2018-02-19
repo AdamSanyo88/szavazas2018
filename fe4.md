@@ -22,21 +22,21 @@ permalink: /fe4
                   <td>dr. Galambos Dénes - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Pintér Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Pintér Tamás - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Mezei Zsolt - DK</td>
+                  <td>Mezei Zsolt - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Kaszó Róbert - Momentum</td>
+				  <td>Kaszó Róbert - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Mihalik Zoltán - Együtt</td>
+<td>Mihalik Zoltán -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -22,21 +22,21 @@ permalink: /sz4
                   <td>Boldog István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Csányi Tamás - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Csányi Tamás - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Rózsa Endre - MSZP-Párbeszéd</td>
+                  <td>Rózsa Endre - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>??? Papp Gergő - Momentum</td>
+				  <td>??? Papp Gergő - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Lőrincz Gábor - Együtt</td>
+<td>Lőrincz Gábor -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

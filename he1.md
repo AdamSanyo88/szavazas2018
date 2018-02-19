@@ -22,21 +22,21 @@ permalink: /he1
                   <td>Nyitrai Zsolt Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Mirkóczki Ádám - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Mirkóczki Ádám - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Kertészné Kormos Noémi - DK</td>
+                  <td>Kertészné Kormos Noémi - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Tóth Zoltán - Momentum</td>
+				  <td>Tóth Zoltán - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Derda Ádám - Együtt</td>
+<td>Derda Ádám -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

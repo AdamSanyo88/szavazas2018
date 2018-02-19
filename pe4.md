@@ -22,21 +22,21 @@ permalink: /pe4
                   <td>Rétvári Bence - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Fehér Zsolt - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Fehér Zsolt - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Krauze István - DK</td>
+                  <td>Krauze István - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Juhász Béla - Momentum</td>
+				  <td>Juhász Béla - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Jakab Zoltán - Együtt</td>
+<td>Jakab Zoltán -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

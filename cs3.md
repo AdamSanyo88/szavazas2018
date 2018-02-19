@@ -22,21 +22,21 @@ permalink: /cs3
                   <td>Farkas Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Szabó Zoltán Ferenc - Jobbik</td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Szabó Zoltán Ferenc - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Eörsi Mátyás - DK</td>
+                  <td>Eörsi Mátyás - DK <img src="images/dk_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP</td>
+                  <td>LMP <img src="images/lmp_logo.png"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Csányi Balázs - Momentum</td>
+				  <td>Csányi Balázs - Momentum <img src="images/momentum_logo.png"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Dombi Gábor - Együtt</td>
+<td>Dombi Gábor -  Együtt <img src="images/egyutt_logo.png"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
