@@ -32,6 +32,8 @@ permalink: /linkek
       </div>
 
 <h5>Cikkek és anyagok</h5>
+<p><a href="https://merce.hu/2018/02/20/aprilis-nyolcadika-legfontosabb-tetjei/">Április nyolcadika legfontosabb tétjei</a> - Mérce, 2018. február 20.</p>
+<p><a href="https://index.hu/belfold/2018/valasztas/2018/02/19/hataron_tuli_magyarok_szavazas/">Áprilisban még nagyobbat tolhatnak a Fidesz biciklijén a határon túli szavazók</a> - Index.hu, 2018. február 19.</p>
 <p><a href="https://mno.hu/belfold/hivatalosan-is-elstartol-a-2018-as-valasztasi-kampany-2447938">Hivatalosan is elstartol a 2018-as választási kampány</a> - Magyar Nemzet Online, 2018. február 17.</p>
 <p><a href="https://hirtv.hu/ahirtvhirei/gulyaseknak-ujabb-korzetekre-jott-ossze-a-penz-2447350">Gulyás Mártonéknak újabb körzetekre jött össze a pénz</a> - Hír TV, 2018. február 17.</p>
 <p><a href="https://merce.hu/2018/02/11/a-kozos-orszag-mozgalom-star-wars-animacioval-szemlelteti-az-egyeni-valasztokorzetek-fontossagat">A Közös Ország Mozgalom Star Wars animációval szemlélteti az egyéni választókörzetek fontosságát</a> - Mérce, 2018. február 10.</p>
