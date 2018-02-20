@@ -11,13 +11,16 @@
       </ul>
 	  
   <ul id="nav-mobile" class="side-nav">
-  <li><a href="#">Főoldal</a></li>
-  <li><a href="../valasztokeruletek">Választókerületek</a></li>
-  <li><a href="../metodologia">Metodológia</a></li>
-  <li><a href="../mandatumbecsles">Mandátumbecslés</a></li>
-  <li><a href="../meresek">Mérések</a></li>
-  <li><a href="../linkek">Hasznos linkek</a></li>
-      </ul>
+			<li><a href="#"></a></li>
+				{% if page_paths %}
+					{% for path in page_paths %}
+					{% assign my_page = site.pages | where: "path", path | first %}
+					{% if my_page.title %}
+					<li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+					{% endif %}
+					{% endfor %}
+				{% endif %} 
+            </ul>     
     
   
         <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
