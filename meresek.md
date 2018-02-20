@@ -13,7 +13,7 @@ permalink: /meresek
 <p class="light">Az alábbi táblázat összefoglalja a közvélemény-kutatók által végzett méréseket. Mindegyik mérésnél jelezve van, hogy országos vagy egyéni kerület adatait mutatja. A lista folyamatosan frissül.</p>
 
 <h5 class="center">Országos mérések</h5>
-<table class="stripped">
+<table class="striped">
               <thead>
                 <tr>
 					<th>Dátum</th>
@@ -94,7 +94,7 @@ permalink: /meresek
             </table>
 			
 <h5 class="center">Választókerületi mérések</h5>
-<table class="stripped">
+<table class="striped">
               <thead>
                 <tr>
 					<th>Dátum</th>
