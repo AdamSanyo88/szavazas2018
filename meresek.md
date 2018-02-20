@@ -119,10 +119,10 @@ permalink: /meresek
 				  <td>50%</td>
 				  <td>6%</td>
 				  <td>8%</td>
-				  <td>-%</td>
+				  <td>__</td>
 				  <td>12%</td>
 				  <td>6%</td>
-				  <td>14% (Juhász Péter)%</td>
+				  <td>14% (Juhász Péter)</td>
 			</tr>    
 			<tr>
 				  <td><a href="https://24.hu/belfold/2017/12/08/az-ismeretlen-fideszes-is-nyerne-juhasz-peter-es-fekete-gyor-korzeteben">'17 dec.</a></td>
@@ -130,12 +130,12 @@ permalink: /meresek
 				  <td><a href="../bp1">Budapest 1-es (visszalépésekkel)</a></td>
 				  <td>300 fő, +/-5.8%</td>
 				  <td>56%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>44% (Juhász Péter)%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>44% (Juhász Péter)</td>
 			</tr>			
 			<tr>
 				  <td><a href="https://24.hu/belfold/2017/12/07/mar-acelvaros-is-narancssarga-igy-ne-lenne-ujabb-ketharmad/">'17 dec.</a></td>
@@ -145,7 +145,7 @@ permalink: /meresek
 				  <td>45%</td>
 				  <td>26%</td>
 				  <td>19%</td>
-				  <td>-%</td>
+				  <td>__</td>
 				  <td>7%</td>
 				  <td>1%</td>
 				  <td>2%</td>
@@ -157,11 +157,11 @@ permalink: /meresek
 				  <td>300 fő, +/-5.8%</td>
 				  <td>55%</td>
 				  <td>45%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
 			</tr>	
 			<tr>
 				  <td><a href="https://24.hu/kozelet/2017/12/11/nyomorgo-aprofalvas-videken-is-50-felett-a-fidesz/">'17 dec.</a></td>
@@ -183,11 +183,11 @@ permalink: /meresek
 				  <td>300 fő, +/-5.8%</td>
 				  <td>62%</td>
 				  <td>38%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
 			</tr>	
 			<tr>
 				  <td><a href="https://24.hu/kozelet/2017/12/12/vonanak-egyelore-semmi-de-semmi-eselye-gyongyoson/">'17 dec.</a></td>
@@ -197,9 +197,9 @@ permalink: /meresek
 				  <td>51%</td>
 				  <td>26%</td>
 				  <td>18%</td>
-				  <td>-%</td>
+				  <td>__</td>
 				  <td>3%</td>
-				  <td>-%</td>
+				  <td>__</td>
 				  <td>2%</td>
 			</tr>	
 			<tr>
@@ -208,12 +208,12 @@ permalink: /meresek
 				  <td><a href="../he2">Heves 2-es (visszalépésekkel)</a></td>
 				  <td>300 fő, +/-5.8%</td>
 				  <td>60%</td>
-				  <td>-%</td>
+				  <td>__</td>
 				  <td>40%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
 			</tr>	
 			<tr>
 				  <td><a href="https://24.hu/kozelet/2017/12/13/talaltunk-egy-korzetet-ahol-50-alatt-van-a-fidesz/">'17 dec.</a></td>
@@ -235,11 +235,11 @@ permalink: /meresek
 				  <td>300 fő, +/-5.8%</td>
 				  <td>59%</td>
 				  <td>41%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
-				  <td>-%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
 			</tr>
               </tbody>
             </table>

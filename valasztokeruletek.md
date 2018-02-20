@@ -11,7 +11,7 @@ permalink: /valasztokeruletek
           <div class="col s12">
 		  <h5>Településlista</h5> 
 <p class="light">Az alábbi táblázat megmutatja, hogy mely települések tartoznak egy-egy választókerületbe. Használd a Ctrl+F billentyűkombinációt a kereséshez.</p>
-            <table class="bordered">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Választókerület</th>
