@@ -13,6 +13,7 @@ permalink: /meresek
 <p class="light">Az alábbi táblázat összefoglalja a közvélemény-kutatók által végzett méréseket. Mindegyik mérésnél jelezve van, hogy országos vagy egyéni kerület adatait mutatja. A lista folyamatosan frissül.</p>
 
 <h5 class="center">Országos mérések</h5>
+<h6>Az <strong>Egyéb</strong> pártok oszlop az Együtt, Párbeszéd, Magyar Liberális Párt, Magyar Kétfarkú Kutya Párt eredményeit tartalmazzák</h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -24,11 +25,24 @@ permalink: /meresek
 					<th>MSZP</th>
 					<th>DK</th>
 					<th>LMP</th>
-					<th>Momentum</th>
+					<th>MoMo</th>
 					<th>Egyéb</th>
+					
                 </tr>
               </thead>
               <tbody>
+			  <tr>
+				  <td><a href="http://www.publicus.hu/blog/partok_tamogatottsaga_es_egyes_politikusok_nepszersege_2018_februar/">'18 feb.</a></td>
+                  <td>Publicus</td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>48%</td>
+				  <td>16%</td>
+				  <td>18%</td>
+				  <td>5%</td>
+				  <td>8%</td>
+				  <td>1%</td>
+				  <td>4%</td>
+			</tr>
 			  <tr>
 				  <td><a href="https://mno.hu/belfold/publicus-a-tobbseg-kormanyvaltast-szeretne-2441591">'18 jan.</a></td>
                   <td>Publicus</td>
@@ -106,7 +120,7 @@ permalink: /meresek
 					<th>MSZP</th>
 					<th>DK</th>
 					<th>LMP</th>
-					<th>Momentum</th>
+					<th>MoMo</th>
 					<th>Egyéb</th>
                 </tr>
               </thead>
