@@ -10,7 +10,7 @@ permalink: /baz4
     <div class="row">
           <div class="col s12">
 		  <h5>Borsod-Abaúj-Zemplén megye 4-es választókerület (Kazincbarcika)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /baz4
     <div class="row">
           <div class="col s12">
 		  <h5>Borsod-Abaúj-Zemplén megye 4-es választókerület (Kazincbarcika) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

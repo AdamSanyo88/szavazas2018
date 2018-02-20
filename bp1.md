@@ -10,7 +10,7 @@ permalink: /bp1
     <div class="row">
           <div class="col s12">
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -54,7 +54,7 @@ permalink: /bp1
     <div class="row">
           <div class="col s12">
 		  <h5>Budapest 1-es választókerület (V. kerület) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

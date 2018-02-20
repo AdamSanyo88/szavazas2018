@@ -10,7 +10,7 @@ permalink: /szb3
     <div class="row">
           <div class="col s12">
 		  <h5>Szabolcs-Szatmár-Bereg megye 3-as választókerület (Kisvárda)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /szb3
     <div class="row">
           <div class="col s12">
 		  <h5>Szabolcs-Szatmár-Bereg megye 3-as választókerület (Kisvárda) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

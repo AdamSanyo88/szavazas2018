@@ -10,7 +10,7 @@ permalink: /be2
     <div class="row">
           <div class="col s12">
 		  <h5>Békés megye 2-es választókerület (Békés)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /be2
     <div class="row">
           <div class="col s12">
 		  <h5>Békés megye 2-es választókerület (Békés) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

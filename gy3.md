@@ -10,7 +10,7 @@ permalink: /gy3
     <div class="row">
           <div class="col s12">
 		  <h5>Győr-Moson-Sopron megye 3-as választókerület (Csorna)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /gy3
     <div class="row">
           <div class="col s12">
 		  <h5>Győr-Moson-Sopron megye 3-as választókerület (Csorna) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

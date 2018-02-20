@@ -10,7 +10,7 @@ permalink: /za1
     <div class="row">
           <div class="col s12">
 		  <h5>Zala megye 1-es választókerület (Zalaegerszeg)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /za1
     <div class="row">
           <div class="col s12">
 		  <h5>Zala megye 1-es választókerület (Zalaegerszeg) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

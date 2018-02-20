@@ -10,7 +10,7 @@ permalink: /be3
     <div class="row">
           <div class="col s12">
 		  <h5>Békés megye 3-as választókerület (Gyula)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /be3
     <div class="row">
           <div class="col s12">
 		  <h5>Békés megye 3-as választókerület (Gyula) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

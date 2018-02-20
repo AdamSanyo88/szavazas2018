@@ -10,7 +10,7 @@ permalink: /to2
     <div class="row">
           <div class="col s12">
 		  <h5>Tolna megye 2-es választókerület (Dombóvár)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /to2
     <div class="row">
           <div class="col s12">
 		  <h5>Tolna megye 2-es választókerület (Dombóvár) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

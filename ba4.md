@@ -10,7 +10,7 @@ permalink: /ba4
     <div class="row">
           <div class="col s12">
 		  <h5>Baranya megye 4-es választókerület (Szigetvár)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /ba4
     <div class="row">
           <div class="col s12">
 		  <h5>Baranya megye 4-es választókerület (Szigetvár) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

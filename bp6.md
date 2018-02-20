@@ -10,7 +10,7 @@ permalink: /bp6
     <div class="row">
           <div class="col s12">
 		  <h5>Budapest 6-os választókerület (VIII. kerület)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /bp6
     <div class="row">
           <div class="col s12">
 		  <h5>Budapest 6-os választókerület (VIII. kerület) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

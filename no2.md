@@ -10,7 +10,7 @@ permalink: /no2
     <div class="row">
           <div class="col s12">
 		  <h5>Nógrád megye 2-es választókerület (Balassagyarmat)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /no2
     <div class="row">
           <div class="col s12">
 		  <h5>Nógrád megye 2-es választókerület (Balassagyarmat) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

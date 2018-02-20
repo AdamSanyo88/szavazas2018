@@ -10,7 +10,7 @@ permalink: /fe2
     <div class="row">
           <div class="col s12">
 		  <h5>Fejér megye 2-es választókerület (Székesfehérvár)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /fe2
     <div class="row">
           <div class="col s12">
 		  <h5>Fejér megye 2-es választókerület (Székesfehérvár) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

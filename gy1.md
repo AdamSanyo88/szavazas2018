@@ -10,7 +10,7 @@ permalink: /gy1
     <div class="row">
           <div class="col s12">
 		  <h5>Győr-Moson-Sopron megye 1-es választókerület (Győr)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /gy1
     <div class="row">
           <div class="col s12">
 		  <h5>Győr-Moson-Sopron megye 1-es választókerület (Győr) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

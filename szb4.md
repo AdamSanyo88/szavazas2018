@@ -10,7 +10,7 @@ permalink: /szb4
     <div class="row">
           <div class="col s12">
 		  <h5>Szabolcs-Szatmár-Bereg megye 4-es választókerület (Vásárosnamény)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /szb4
     <div class="row">
           <div class="col s12">
 		  <h5>Szabolcs-Szatmár-Bereg megye 4-es választókerület (Vásárosnamény) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

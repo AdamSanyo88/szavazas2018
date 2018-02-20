@@ -10,7 +10,7 @@ permalink: /bk4
     <div class="row">
           <div class="col s12">
 		  <h5>Bács-Kiskun megye 4-es választókerület (Kiskunfélegyháza)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /bk4
     <div class="row">
           <div class="col s12">
 		  <h5>Bács-Kiskun megye 4-es választókerület (Kiskunfélegyháza) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

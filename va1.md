@@ -10,7 +10,7 @@ permalink: /va1
     <div class="row">
           <div class="col s12">
 		  <h5>Vas megye 1-es választókerület (Szombathely)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /va1
     <div class="row">
           <div class="col s12">
 		  <h5>Vas megye 1-es választókerület (Szombathely) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

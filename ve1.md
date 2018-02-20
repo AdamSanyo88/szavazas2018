@@ -10,7 +10,7 @@ permalink: /ve1
     <div class="row">
           <div class="col s12">
 		  <h5>Veszprém megye 1-es választókerület (Veszprém)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -54,7 +54,7 @@ permalink: /ve1
     <div class="row">
           <div class="col s12">
 		  <h5>Veszprém megye 1-es választókerület (Veszprém) - 2015. február 22-i időközi választás</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -93,7 +93,7 @@ permalink: /ve1
     <div class="row">
           <div class="col s12">
 		  <h5>Veszprém megye 1-es választókerület (Veszprém) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

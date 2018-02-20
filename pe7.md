@@ -10,7 +10,7 @@ permalink: /pe7
     <div class="row">
           <div class="col s12">
 		  <h5>Pest megye 7-es választókerület (Vecsés)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /pe7
     <div class="row">
           <div class="col s12">
 		  <h5>Pest megye 7-es választókerület (Vecsés) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

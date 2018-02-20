@@ -10,7 +10,7 @@ permalink: /cs4
     <div class="row">
           <div class="col s12">
 		  <h5>Csongrád megye 4-es választókerület (Hódmezővásárhely)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /cs4
     <div class="row">
           <div class="col s12">
 		  <h5>Csongrád megye 4-es választókerület (Hódmezővásárhely) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

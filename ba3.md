@@ -10,7 +10,7 @@ permalink: /ba3
     <div class="row">
           <div class="col s12">
 		  <h5>Baranya megye 3-as választókerület (Mohács)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /ba3
     <div class="row">
           <div class="col s12">
 		  <h5>Baranya megye 3-as választókerület (Mohács) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

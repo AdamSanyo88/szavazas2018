@@ -10,7 +10,7 @@ permalink: /hb3
     <div class="row">
           <div class="col s12">
 		  <h5>Hajdú-Bihar megye 3-as választókerület (Debrecen)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /hb3
     <div class="row">
           <div class="col s12">
 		  <h5>Hajdú-Bihar megye 3-as választókerület (Debrecen) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

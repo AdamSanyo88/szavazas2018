@@ -10,7 +10,7 @@ permalink: /ba2
     <div class="row">
           <div class="col s12">
 		  <h5>Baranya megye 2-es választókerület (Pécs)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /ba2
     <div class="row">
           <div class="col s12">
 		  <h5>Baranya megye 2-es választókerület (Pécs) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

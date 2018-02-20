@@ -10,7 +10,7 @@ permalink: /pe9
     <div class="row">
           <div class="col s12">
 		  <h5>Pest megye 9-es választókerület (Nagykáta)</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -53,7 +53,7 @@ permalink: /pe9
     <div class="row">
           <div class="col s12">
 		  <h5>Pest megye 9-es választókerület (Nagykáta) - 2014-es eredmények</h5>
-            <table class="responsive-table">
+            <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
