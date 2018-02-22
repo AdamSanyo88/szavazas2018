@@ -15,7 +15,8 @@ permalink: /linkek
 <h5>Szervezetek</h5>
 <div class="row">
         <div class="col m6">
-          <div class="icon-block">
+          <div class="icon-block center">
+		  <img src="images/kom_logo.jpg">
             <h5 class="center"><a href="https://kozosorszagmozgalom.hu/">Közös Ország Mozgalom</a></h5>
 
             <p class="light">Gulyás Márton civil aktivista által életre hívott kezdeményezés. A mozgalom célja, hogy megtalálja a legesélyesebb ellenzéki jelöltet minél több választókerületben.</p>			
@@ -23,7 +24,8 @@ permalink: /linkek
         </div>
 
         <div class="col m6">
-          <div class="icon-block">
+          <<div class="icon-block center">
+		  <img src="images/visz23_logo.jpg">
             <h5 class="center"><a href="http://viszlatketharmad.blog.hu/">Viszlát, Kétharmad!</a></h5>
 
             <p class="light">Pápay György volt Magyar Nemzetnél dolgozó újságíró által vezetett blog és platform. Céljuk, hogy minél több emberhez juttassák el a taktikai szavazás fontosságát, hogy ezzel megakadályozzák a Fidesz kétharmados túlhatalmát.</p>
