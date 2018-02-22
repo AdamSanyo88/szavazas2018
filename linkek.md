@@ -16,7 +16,7 @@ permalink: /linkek
 <div class="row">
         <div class="col m6">
           <div class="icon-block center">
-		  <img src="images/kom_logo.jpg">
+		  <img src="images/kom_logo.png">
             <h5 class="center"><a href="https://kozosorszagmozgalom.hu/">Közös Ország Mozgalom</a></h5>
 
             <p class="light">Gulyás Márton civil aktivista által életre hívott kezdeményezés. A mozgalom célja, hogy megtalálja a legesélyesebb ellenzéki jelöltet minél több választókerületben.</p>			
