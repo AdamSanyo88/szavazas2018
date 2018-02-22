@@ -24,7 +24,7 @@ permalink: /linkek
         </div>
 
         <div class="col m6">
-          <<div class="icon-block center">
+          <div class="icon-block center">
 		  <img src="images/visz23_logo.jpg">
             <h5 class="center"><a href="http://viszlatketharmad.blog.hu/">Viszlát, Kétharmad!</a></h5>
 
