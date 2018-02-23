@@ -24,7 +24,7 @@ permalink: /bp7
 			</tr>
 			<tr><td>Magvasi Adrián - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Hiszékeny Dezső - MSZP</td>
+                  <td>Hiszékeny Dezső - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
