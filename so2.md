@@ -8,7 +8,8 @@ permalink: /so2
 
 <div class="section">
     <div class="row">
-          <div class="col s12">
+          <div class="col s12"><
+<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
 		  <h5>Somogy megye 2-es választókerület (Barcs)</h5>
             <table class="striped">
               <thead>

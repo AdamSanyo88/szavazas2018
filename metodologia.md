@@ -4,7 +4,7 @@ title: Metodológia
 permalink: /metodologia
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
+<h1 class="page-title">{{ page.title | escape }}</h1> xx
     
 <div class="section">
     <div class="row">

@@ -8,7 +8,8 @@ permalink: /bk4
 
 <div class="section">
     <div class="row">
-          <div class="col s12">
+          <div class="col s12"><
+<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
 		  <h5>Bács-Kiskun megye 4-es választókerület (Kiskunfélegyháza)</h5>
             <table class="striped">
               <thead>

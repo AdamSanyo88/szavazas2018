@@ -8,7 +8,8 @@ permalink: /va1
 
 <div class="section">
     <div class="row">
-          <div class="col s12">
+          <div class="col s12"><
+<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
 		  <h5>Vas megye 1-es választókerület (Szombathely)</h5>
             <table class="striped">
               <thead>

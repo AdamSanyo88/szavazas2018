@@ -8,7 +8,8 @@ permalink: /szb5
 
 <div class="section">
     <div class="row">
-          <div class="col s12">
+          <div class="col s12"><
+<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
 		  <h5>Szabolcs-Szatmár-Bereg megye 5-ös választókerület (Mátészalka)</h5>
             <table class="striped">
               <thead>
