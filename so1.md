@@ -8,8 +8,7 @@ permalink: /so1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><
-<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
+          <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Somogy megye 1-es választókerület (Kaposvár)</h5>
             <table class="striped">
               <thead>

@@ -8,8 +8,7 @@ permalink: /gy3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><
-<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
+          <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Győr-Moson-Sopron megye 3-as választókerület (Csorna)</h5>
             <table class="striped">
               <thead>

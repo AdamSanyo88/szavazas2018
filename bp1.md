@@ -8,8 +8,7 @@ permalink: /bp1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><
-<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
+          <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
             <table class="striped">
               <thead>

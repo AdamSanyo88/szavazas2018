@@ -4,14 +4,14 @@ title: Mandátumbecslés
 permalink: /mandatumbecsles
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1> xx
+<h1 class="page-title">{{ page.title | escape }}</h1>
 
 <div class="section">
     <div class="row">
           <div class="col s12">
 		  <h5>Ha most vasárnap lennének a választások, melyik párt hány képviselőt küldene a parlamentbe?</h5> 
 <p class="light">Az alábbi táblázat összefoglalja a várható egyéni (106) és listás (93) mandátumok kiosztását.</p>
-<h5>Az első becslés várható időpontja: 2018. március 5.</h5>
+<h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 
 
 <table class="striped">
