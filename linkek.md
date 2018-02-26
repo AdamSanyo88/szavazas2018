@@ -9,10 +9,10 @@ permalink: /linkek
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Hasznos linkek</h5> 
+		  <h5 class="center">Hasznos linkek</h5> 
 <p class="light">Ezen az oldalon a különböző átszavazást támogató szervezetek weboldalai, illetve az átszavazással foglalkozó cikkek és anyagok érhetők el.</p>
 
-<h5>Szervezetek</h5>
+<h5 class="center">Szervezetek</h5>
 <div class="row">
         <div class="col m6">
           <div class="icon-block center">
@@ -33,7 +33,7 @@ permalink: /linkek
         </div>
       </div>
 
-<h5>Cikkek és anyagok</h5>
+<h5 class="center">Cikkek és anyagok</h5>
 <p><a href="https://merce.hu/2018/02/26/hodmezovasarhely-uzeni-szavaz-a-legerosebb-ellenzeki-jeloltre/">Hódmezővásárhely üzeni: szavazz a legerősebb ellenzéki jelöltre!</a> -  Mérce, 2018. február 26.</p>
 <p><a href="http://hvg.hu/itthon/20180225_Karacsony_Ha_Hodmezovasarhelyen_le_lehet_gyozni_a_Fideszt_akkor_barhol_le_lehet">Karácsony: Ha Hódmezővásárhelyen le lehet győzni a Fideszt, akkor bárhol le lehet</a> -  HVG.hu, 2018. február 25.</p>
 <p><a href="https://444.hu/2018/02/22/karacsony-ha-40-korzetet-visz-az-ellenzek-akkor-orban-nem-tud-kormanyt-alakitani">Karácsony: Ha 40 körzetet visz az ellenzék, akkor Orbán nem tud kormányt alakítani</a> -  444.hu, 2018. február 22.</p>

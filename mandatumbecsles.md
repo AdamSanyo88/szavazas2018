@@ -40,7 +40,7 @@ permalink: /mandatumbecsles
 				  <td>xx%</td>
 			</tr>
 			<tr>
-                  <td>MSZP</td>
+                  <td>MSZP-Párbeszéd</td>
 				  <td>x</td>
 				  <td>x</td>
 				  <td>x</td>
