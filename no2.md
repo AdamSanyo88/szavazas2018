@@ -19,24 +19,24 @@ permalink: /no2
               </thead>
               <tbody>
              <tr>
-                  <td>Balla Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>Balla Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dobrocsi Lénárd - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dobrocsi Lénárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Csukáné Szerémy Andrea</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Benkó Tamás - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Benkó Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Sütő Dezső -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Sütő Dezső -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

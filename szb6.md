@@ -19,24 +19,24 @@ permalink: /szb6
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Simon Miklós - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>dr. Simon Miklós - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Kész Géza - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Kész Géza - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Baloldal</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Bankus Tibor János - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Bankus Tibor János - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Hegyháti Szilvia -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Hegyháti Szilvia -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

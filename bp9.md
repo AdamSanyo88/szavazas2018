@@ -19,24 +19,24 @@ permalink: /bp9
               </thead>
               <tbody>
              <tr>
-                  <td>György István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>György István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Tubák István - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Tubák István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Burány Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
+                  <td>Burány Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Tölcsér Borbála - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Tölcsér Borbála - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Tábi Attila -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Tábi Attila -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

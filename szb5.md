@@ -19,24 +19,24 @@ permalink: /szb5
               </thead>
               <tbody>
              <tr>
-                  <td>Kovács Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>Kovács Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Apáti István - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dr. Apáti István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Csomáliné Rácz Erika - DK <img src="images/dk_logo.png"></td>
+                  <td>Csomáliné Rácz Erika - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Magyar Péter - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Magyar Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Máté Miklós Domonkos -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Máté Miklós Domonkos -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

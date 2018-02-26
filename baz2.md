@@ -19,24 +19,24 @@ permalink: /baz2
               </thead>
               <tbody>
              <tr>
-                  <td>Hubay György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>Hubay György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Varga László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
+                  <td>Varga László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>Doszpoly Botond - LMP <img src="images/lmp_logo.png"></td>
+                  <td>Doszpoly Botond - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Prokaj Tamás - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Prokaj Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>visszalépett -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

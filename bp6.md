@@ -19,24 +19,24 @@ permalink: /bp6
               </thead>
               <tbody>
              <tr>
-                  <td>Kocsis Máté - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>Kocsis Máté - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Ara-Kovács Attila - DK <img src="images/dk_logo.png"></td>
+                  <td>Ara-Kovács Attila - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Cseh Katalin - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Cseh Katalin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

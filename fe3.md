@@ -19,24 +19,24 @@ permalink: /fe3
               </thead>
               <tbody>
              <tr>
-                  <td>Tessely Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>Tessely Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Varga László Béla - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Varga László Béla - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Szilágyi László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
+                  <td>Szilágyi László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Molnár Tamás - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Molnár Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kulcsár Miklós -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Kulcsár Miklós -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

@@ -19,24 +19,24 @@ permalink: /bp4
               </thead>
               <tbody>
              <tr>
-                  <td>Varga Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>Varga Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Kovács Tamás - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Kovács Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Niedermüller Péter - DK <img src="images/dk_logo.png"></td>
+                  <td>Niedermüller Péter - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>Ungár Péter - LMP <img src="images/lmp_logo.png"></td>
+                  <td>Ungár Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Benedek Márton - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Benedek Márton - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Mihalik Zoltán -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Mihalik Zoltán -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

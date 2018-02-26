@@ -19,24 +19,24 @@ permalink: /ke1
               </thead>
               <tbody>
              <tr>
-                  <td>Bencsik János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>Bencsik János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Boda Bánk László - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Boda Bánk László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Fekete Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
+                  <td>Fekete Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Novák László - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Novák László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Balogh József -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Balogh József -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

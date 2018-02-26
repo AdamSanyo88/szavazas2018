@@ -19,24 +19,24 @@ permalink: /so4
               </thead>
               <tbody>
              <tr>
-                  <td>Witzmann Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>Witzmann Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Potocskáné Kőrösi Anita - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Potocskáné Kőrösi Anita - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Magyar György - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png"></td>
+                  <td>Magyar György - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Tóth Péter - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Tóth Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Zsiga Csaba -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Zsiga Csaba -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

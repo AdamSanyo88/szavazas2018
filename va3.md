@@ -19,24 +19,24 @@ permalink: /va3
               </thead>
               <tbody>
              <tr>
-                  <td>V. Németh Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png"></td>
+                  <td>V. Németh Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Bana Tibor - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Bana Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Balogh Tibor - DK <img src="images/dk_logo.png"></td>
+                  <td>Balogh Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png"></td>
+                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Gerencsér Mária - Momentum <img src="images/momentum_logo.png"></td>
+				  <td>Gerencsér Mária - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Szabó Judit -  Együtt <img src="images/egyutt_logo.png"></td>
+<td>Szabó Judit -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
