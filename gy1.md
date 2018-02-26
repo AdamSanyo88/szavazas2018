@@ -24,7 +24,7 @@ permalink: /gy1
 			</tr>
 			<tr><td>Fodor Roland - Jobbik <img src="images/jobbik_logo.png"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Glázer Tímea - DK <img src="images/dk_logo.png"></td>
+                  <td>Glázer Tímea - DK <img src="images/dk_logo_2.jpg"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
