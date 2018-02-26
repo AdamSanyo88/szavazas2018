@@ -34,7 +34,8 @@ permalink: /linkek
       </div>
 
 <h5>Cikkek és anyagok</h5>
-
+<p><a href="https://merce.hu/2018/02/26/hodmezovasarhely-uzeni-szavaz-a-legerosebb-ellenzeki-jeloltre/">Hódmezővásárhely üzeni: szavazz a legerősebb ellenzéki jelöltre!</a> -  Mérce, 2018. február 26.</p>
+<p><a href="http://hvg.hu/itthon/20180225_Karacsony_Ha_Hodmezovasarhelyen_le_lehet_gyozni_a_Fideszt_akkor_barhol_le_lehet">Karácsony: Ha Hódmezővásárhelyen le lehet győzni a Fideszt, akkor bárhol le lehet</a> -  HVG.hu, 2018. február 25.</p>
 <p><a href="https://444.hu/2018/02/22/karacsony-ha-40-korzetet-visz-az-ellenzek-akkor-orban-nem-tud-kormanyt-alakitani">Karácsony: Ha 40 körzetet visz az ellenzék, akkor Orbán nem tud kormányt alakítani</a> -  444.hu, 2018. február 22.</p>
 <p><a href="https://nepszava.hu/cikk/1153471-atszavazas-es-politikai-tudas">Átszavazás és politikai tudás</a> - Népszava, 2018. február 22.</p>
 <p><a href="https://index.hu/belfold/valasztas/2018/02/21/a_momentum_targyalni_fog_az_lmp-vel_a_valasztasi_egyuttmukodesrol/">A Momentum tárgyalni fog az LMP-vel a választási együttműködésről</a> - Index.hu, 2018. február 21.</p> 
