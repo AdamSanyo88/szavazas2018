@@ -11,7 +11,7 @@ permalink: /meresek
           <div class="col s12">
 		  <h5>Közvélemény-kutatási adatok</h5> 
 <p class="light">Az alábbi táblázat összefoglalja a közvélemény-kutatók által végzett méréseket. Mindegyik mérésnél jelezve van, hogy országos vagy egyéni kerület adatait mutatja. A lista folyamatosan frissül.</p>
-
+<br/>
 <h5 class="center">Országos mérések</h5>
 <h6>Az <strong>Egyéb</strong> pártok oszlop az Együtt, Párbeszéd, Magyar Liberális Párt, Magyar Kétfarkú Kutya Párt eredményeit tartalmazzák</h6>
 <table class="striped">
@@ -106,7 +106,7 @@ permalink: /meresek
 		
               </tbody>
             </table>
-			
+<br/>
 <h5 class="center">Választókerületi mérések</h5>
 <table class="striped">
               <thead>

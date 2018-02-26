@@ -8,10 +8,9 @@ permalink: /linkek
     
 <div class="section">
     <div class="row">
-          <div class="col s12">
-		  <h5 class="center">Hasznos linkek</h5> 
+          <div class="col s12"> 
 <p class="light">Ezen az oldalon a különböző átszavazást támogató szervezetek weboldalai, illetve az átszavazással foglalkozó cikkek és anyagok érhetők el.</p>
-
+<br/><br/>
 <h5 class="center">Szervezetek</h5>
 <div class="row">
         <div class="col m6">
@@ -32,7 +31,7 @@ permalink: /linkek
           </div>
         </div>
       </div>
-
+<br/><br/>
 <h5 class="center">Cikkek és anyagok</h5>
 <p><a href="https://merce.hu/2018/02/26/hodmezovasarhely-uzeni-szavaz-a-legerosebb-ellenzeki-jeloltre/">Hódmezővásárhely üzeni: szavazz a legerősebb ellenzéki jelöltre!</a> -  Mérce, 2018. február 26.</p>
 <p><a href="http://hvg.hu/itthon/20180225_Karacsony_Ha_Hodmezovasarhelyen_le_lehet_gyozni_a_Fideszt_akkor_barhol_le_lehet">Karácsony: Ha Hódmezővásárhelyen le lehet győzni a Fideszt, akkor bárhol le lehet</a> -  HVG.hu, 2018. február 25.</p>
