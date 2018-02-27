@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Metodológia
+title: Módszertan
 permalink: /metodologia
 ---
 

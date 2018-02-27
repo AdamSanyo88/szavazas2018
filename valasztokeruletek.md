@@ -10,7 +10,7 @@ permalink: /valasztokeruletek
     <div class="row">
           <div class="col s12">
 		  <h5>Településlista</h5> 
-<p class="light">Az alábbi táblázat megmutatja, hogy mely települések tartoznak egy-egy választókerületbe. Kereséshez használd a <strong>Ctrl+F</strong> billentyűkombinációt vagy válaszd a <strong>Keresés az oldalon</strong> opciót okostelefonról és tabletről.</p>
+<p class="light">Az alábbi táblázat megmutatja, hogy mely települések tartoznak egy-egy választókerülethez. Ha egy adott településre vagy budapesti kerületre keresésnél, használd a <strong>Ctrl+F</strong> billentyűkombinációt vagy válaszd a <strong>Keresés az oldalon</strong> opciót okostelefonról és tabletről.</p>
             <table class="striped">
               <thead>
                 <tr>
