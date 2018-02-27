@@ -28,7 +28,7 @@ permalink: /ba4
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>Angyal Károly - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Angyal Károly Tibor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>

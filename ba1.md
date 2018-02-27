@@ -26,11 +26,11 @@ permalink: /ba1
 <td>Fogarasi Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
 <td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Mellár Tamás - független</td>
+                  <td>Dr. Mellár Tamás - független</td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Dr.Keresztes László Lóránt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
@@ -38,7 +38,7 @@ permalink: /ba1
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Együtt - visszalépett <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
