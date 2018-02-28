@@ -13,7 +13,9 @@ permalink: /meresek
 <p class="light">Az alábbi táblázat összefoglalja a közvélemény-kutatók által végzett méréseket. Mindegyik mérésnél jelezve van, hogy országos vagy egyéni kerület adatait mutatja. A lista folyamatosan frissül.</p>
 <br/>
 <h5 class="center">Országos mérések</h5>
-<h6>Az <strong>Egyéb</strong> pártok oszlop az Együtt, Párbeszéd, Magyar Liberális Párt, Magyar Kétfarkú Kutya Párt eredményeit tartalmazzák</h6>
+<h6>Minden országos mérésben a <strong>választani tudó biztos pártválasztók</strong> arányát mutatja a táblázat.</h6>
+<h6>Az <strong>Egyéb</strong> pártok oszlop az Együtt, Párbeszéd, Magyar Liberális Párt, Magyar Kétfarkú Kutya Párt eredményeit tartalmazzák.</h6>
+<h6><strong>A csillaggal (*)</strong> jelölt mérések az MSZP-Párbeszéd közös lista támogatottságát mutatják.</h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -31,6 +33,18 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			   <tr>
+				  <td><a href="http://hvg.hu/itthon/20180228_Ket_honap_alatt_9_szazalekot_esett_a_Fidesz">'18 feb.</a></td>
+                  <td>Republikon</td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>48%</td>
+				  <td>19%</td>
+				  <td>17%*</td>
+				  <td>6%</td>
+				  <td>5%</td>
+				  <td>2%</td>
+				  <td>3%</td>
+			</tr>
 			  <tr>
 				  <td><a href="http://www.publicus.hu/blog/partok_tamogatottsaga_es_egyes_politikusok_nepszersege_2018_februar/">'18 feb.</a></td>
                   <td>Publicus</td>
