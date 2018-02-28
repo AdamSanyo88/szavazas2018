@@ -13,6 +13,7 @@ permalink: /meresek
 <p class="light">Az alábbi táblázat összefoglalja a közvélemény-kutatók által végzett méréseket. Mindegyik mérésnél jelezve van, hogy országos vagy egyéni kerület adatait mutatja. A lista folyamatosan frissül.</p>
 <br/>
 <h5 class="center">Országos mérések</h5>
+<br/>
 <h6>Minden országos mérésben a <strong>választani tudó biztos pártválasztók</strong> arányát mutatja a táblázat.</h6>
 <h6>Az <strong>Egyéb</strong> pártok oszlop az Együtt, Párbeszéd, Magyar Liberális Párt, Magyar Kétfarkú Kutya Párt eredményeit tartalmazzák.</h6>
 <h6><strong>A csillaggal (*)</strong> jelölt mérések az MSZP-Párbeszéd közös lista támogatottságát mutatják.</h6>
@@ -122,6 +123,7 @@ permalink: /meresek
             </table>
 <br/>
 <h5 class="center">Választókerületi mérések</h5>
+<br/>
 <table class="striped">
               <thead>
                 <tr>
