@@ -122,8 +122,9 @@ permalink: /meresek
               </tbody>
             </table>
 <br/>
-<h5 class="center">Választókerületi mérések</h5>
+<h5 class="center">Választókerületi mérések (egyéni jelöltek)</h5>
 <br/>
+<h6>Minden választókerületi mérés a <strong>visszalépések nélküli</strong> és az <strong>összes párt visszalépése</strong> esetén várható szavazatarányokat mutatja. A részletes elemzések a dátum oszlopban található linkekről elérhetők.</h6>
 <table class="striped">
               <thead>
                 <tr>

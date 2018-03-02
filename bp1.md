@@ -10,7 +10,7 @@ permalink: /bp1
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
-<h6><strong>Választókerületi profil: <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -47,6 +47,7 @@ permalink: /bp1
 			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés hibahatára: +/- 5.8%</h6>
+<br/><h6>Megjegyzés a kerülethez:</h6>
           </div>
     </div>
 </div>

@@ -13,7 +13,6 @@ permalink: /mandatumbecsles
 <p class="light">Az alábbi táblázat összefoglalja a várható egyéni (106) és listás (93) mandátumok kiosztását.</p>
 <h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 
-
 <table class="striped">
               <thead>
                 <tr>
@@ -78,6 +77,10 @@ permalink: /mandatumbecsles
           <div class="col s12">
 		  <h5>Egyéni kerületek sorsa</h5> 
 <p class="light">Az alábbi táblázat megmutatja, hogy az egyéni választókerületekben mely párt és milyen arányban győzedelmeskedne. A lista folyamatosan frissül <a href="/meresek">az új közvélemény-kutatási eredmények tükrében.</a></p>
+<br/>
+<img src="oevk_eredmeny.png">
+<br/>
+<br/>
             <table class="striped">
               <thead>
                 <tr>
