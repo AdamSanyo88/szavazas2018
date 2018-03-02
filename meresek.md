@@ -174,7 +174,7 @@ permalink: /meresek
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>46%</td>
 				  <td>17%</td>
-				  <td>__%</td>
+				  <td>__</td>
 				  <td>12</td>
 				  <td>20%</td>
 				  <td>5%</td>
@@ -186,8 +186,8 @@ permalink: /meresek
 				  <td><a href="../pe2">Pest 2-es (visszalépésekkel)</a></td>
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>57%</td>
-				  <td>__%</td>
-				  <td>__%</td>
+				  <td>__</td>
+				  <td>__</td>
 				  <td>__</td>
 				  <td>43%</td>
 				  <td>__</td>

@@ -10,7 +10,7 @@ permalink: /szb1
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Szabolcs-Szatmár-Bereg megye 1-es választókerület (Nyíregyháza)</h5>
-            <table class="striped">
+<h6><strong>Választókerületi profil: <span id="profil">xx</span></strong></h6>
               <thead>
                 <tr>
                     <th>Jelöltek</th>
