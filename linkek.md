@@ -34,7 +34,8 @@ permalink: /linkek
 <br/><br/>
 <h5 class="center">Cikkek és anyagok</h5>
 <p><a href="http://hvg.hu/itthon/20180302_DK_Szel_Bernadett_Varga_Mihaly_Fidesz_LMP_Kozos_Orszag_Mozgalom">A DK szorongathatja meg Varga Mihályt, körzetében Szél Bernadett esélyes kihívó</a> - HVG.hu, 2018. március 2.</p>
-<p><a href="http://hvg.hu/itthon/20180228_orban_takarodj_gomperz_hodmezovasarhely">Amikor azt üzenik: Orbán, takarodj!</a> -  HVG,hu, 2018. február 28.</p>
+<p><a href="https://index.hu/belfold/valasztas/2018/02/28/osszefogas_allasa/">gy áll most a nagy ellenzéki összefogás</a> -  Index.hu, 2018. február 28.</p>
+<p><a href="http://hvg.hu/itthon/20180228_orban_takarodj_gomperz_hodmezovasarhely">Amikor azt üzenik: Orbán, takarodj!</a> -  HVG.hu, 2018. február 28.</p>
 <p><a href="https://merce.hu/2018/02/26/hodmezovasarhely-uzeni-szavaz-a-legerosebb-ellenzeki-jeloltre/">Hódmezővásárhely üzeni: szavazz a legerősebb ellenzéki jelöltre!</a> -  Mérce, 2018. február 26.</p>
 <p><a href="http://hvg.hu/itthon/20180225_Karacsony_Ha_Hodmezovasarhelyen_le_lehet_gyozni_a_Fideszt_akkor_barhol_le_lehet">Karácsony: Ha Hódmezővásárhelyen le lehet győzni a Fideszt, akkor bárhol le lehet</a> -  HVG.hu, 2018. február 25.</p>
 <p><a href="https://444.hu/2018/02/22/karacsony-ha-40-korzetet-visz-az-ellenzek-akkor-orban-nem-tud-kormanyt-alakitani">Karácsony: Ha 40 körzetet visz az ellenzék, akkor Orbán nem tud kormányt alakítani</a> -  444.hu, 2018. február 22.</p>
