@@ -11,6 +11,7 @@ permalink: /to3
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Tolna megye 3-as választókerület (Paks)</h5>
 <h6><strong>Választókerületi profil: <span id="profil">xx</span></strong></h6>
+<table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

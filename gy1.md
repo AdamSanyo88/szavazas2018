@@ -11,6 +11,7 @@ permalink: /gy1
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Győr-Moson-Sopron megye 1-es választókerület (Győr)</h5>
 <h6><strong>Választókerületi profil: <span id="profil">xx</span></strong></h6>
+<table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
