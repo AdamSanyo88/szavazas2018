@@ -78,7 +78,7 @@ permalink: /mandatumbecsles
 		  <h5>Egyéni kerületek sorsa</h5> 
 <p class="light">Az alábbi táblázat megmutatja, hogy az egyéni választókerületekben mely párt és milyen arányban győzedelmeskedne. A lista folyamatosan frissül <a href="/meresek">az új közvélemény-kutatási eredmények tükrében.</a></p>
 <br/>
-<img src="oevk_eredmeny.png">
+<img src="images/oevk_eredmeny.png" img="" style="height: 100%; width: 100%; object-fit: contain">
 <br/>
 <br/>
             <table class="striped">
