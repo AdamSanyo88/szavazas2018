@@ -10,7 +10,7 @@ permalink: /za1
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Zala megye 1-es választókerület (Zalaegerszeg)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,29 +21,29 @@ permalink: /za1
               <tbody>
              <tr>
                   <td>Vígh László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">47.6%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Benke Richárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">15.1%</td></tr>
+			<tr><td>Benke Richárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Góra Balázs - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">30.3%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.3%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Sencz András - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.1%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
 <td>Sági Tamás -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.5%</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">0%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés megbízhatósága: Valószínű</h6>
 <br/><h6>Megjegyzés a kerülethez: A Fidesz stabil győzelme várható, az átszavazás csak ennek mértékét csökkentheti.</h6>

@@ -10,7 +10,7 @@ permalink: /bp6
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Budapest 6-os választókerület (VIII. kerület)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz-baloldal)</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,29 +21,29 @@ permalink: /bp6
               <tbody>
              <tr>
                   <td>Kocsis Máté - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">38.3%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">8.1%</td></tr>
+			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Ara-Kovács Attila - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">42.4%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">6.3%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Cseh Katalin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.7%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
 <td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.1%</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">81%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">81%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés megbízhatósága: Valószínű</h6>
 <br/><h6>Megjegyzés a kerülethez: Klasszikus kétesélyes kerület, ahol a Fidesz megszoríthatja az ellenzéki jelöltet.</h6>

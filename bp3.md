@@ -10,7 +10,7 @@ permalink: /bp3
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Budapest 3-as választókerület (XII. kerület)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal, erős LMP)</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,29 +21,29 @@ permalink: /bp3
               <tbody>
              <tr>
                   <td>dr. Gulyás Gergely - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">45.0%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">3.6%</td></tr>
+			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Bauer Tamás - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">7.6%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">38.8%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Kádár Barnabás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.0%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
 <td>Bényi Hajnal -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.9%</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">88%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">12%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés megbízhatósága: Kérdéses</h6>
 <br/><h6>Megjegyzés a kerülethez: A kerületben az országos átlagánál erősebb az LMP is, úgyhogy pártok közti koordináció keretében az LMP is lehet esélyes jelölt.</h6>

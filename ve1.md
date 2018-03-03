@@ -10,7 +10,7 @@ permalink: /ve1
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Veszprém megye 1-es választókerület (Veszprém)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén baloldali</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,29 +21,29 @@ permalink: /ve1
               <tbody>
              <tr>
                   <td>Ovádi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">34.9%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Dr. Varga-Damm Andrea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">10.2%</td></tr>
+			<tr><td>Dr. Varga-Damm Andrea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Kész Zoltán - független</td>
-				  <td id="id_baloldal">49.3%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">2.2%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>dr. Meződi János - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">0.8%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
 <td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.5%</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Kész Zoltán, </span><span id="esely">99%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Kész Zoltán, </span><span id="esely2">99%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés megbízhatósága: Valószínű</h6>
 <br/><h6>Megjegyzés a kerülethez: Kész Zoltán független jelölt javára várhatóan a legtöbb ellenzéki párt vissza fog lépni, így magabiztosan nyeri majd a kerületet.</h6>

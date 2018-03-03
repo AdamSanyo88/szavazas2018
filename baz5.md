@@ -10,7 +10,7 @@ permalink: /baz5
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Borsod-Abaúj-Zemplén megye 5-ös választókerület (Sátoraljaújhely)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,29 +21,29 @@ permalink: /baz5
               <tbody>
              <tr>
                   <td>dr. Hörcsik Richárd - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">48.9%</td>
+				  <td id="id_fidesz">xx%</td>
 			</tr>
-			<tr><td>Mikola Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">33.6%</td></tr>
+			<tr><td>Mikola Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
                   <td>Zaveczki Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">13.5%</td>
+				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
                   <td>Köteles László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">2.3%</td>
+				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
 				  <td>Pencz András - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.0%</td>
+				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
 <td>Szabó Mihály -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.7%</td>
+<td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100%</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0%</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
 			<br/>
 			<h6>Becslés megbízhatósága: Valószínű</h6>
 <br/><h6>Megjegyzés a kerülethez: Magas átszavazás mellett szorosabb eredmény várható (de jelenleg a Fidesz magabiztosan vezet).</h6>
