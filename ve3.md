@@ -10,7 +10,7 @@ permalink: /ve3
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Veszprém megye 3-as választókerület (Tapolca)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz-Jobbik)</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,32 +21,32 @@ permalink: /ve3
               <tbody>
              <tr>
                   <td>Fenyvesi Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">35.5%</td>
 			</tr>
-			<tr><td>Rig Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Rig Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">44.9%</td></tr>
 <tr>
                   <td>Kárpáti Lajos - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">xx%</td>
+				  <td id="id_baloldal">15.6%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="id_lmp">xx%</td>
+				  <td id="lmp">2.4%</td>
 			</tr>
 			<tr>
 				  <td>Csermák Éva - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="id_momentum">0.8%</td>
 			</tr>
 <tr>
 <td>Molnár Tibor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">xx%</td>
+<td id="id_egyutt">0.8%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Jobbik, </span><span id="esely">43%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">43%</span><span>-os győzelmi esély</span></h6>
 			<br/>
-			<h6>Becslés hibahatára: +/- 5.8%</h6>
-<br/><h6>Megjegyzés a kerülethez:</h6>
+			<h6>Becslés megbízhatósága: Kérdéses</h6>
+<br/><h6>Megjegyzés a kerülethez: A 2015-ös időközi választás után a Jobbik erősödött meg a kerületben. Ha további szavazók állnak be a jelölt mögé, akkor viszonylag stabil Jobbik győzelem várható.</h6>
           </div>
     </div>
 </div>

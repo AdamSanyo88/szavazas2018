@@ -10,7 +10,7 @@ permalink: /baz2
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Borsod-Abaúj-Zemplén megye 2-es választókerület (Miskolc)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Háromesélyes</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,33 +21,32 @@ permalink: /baz2
               <tbody>
              <tr>
                   <td>Hubay György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">33.6%</td>
 			</tr>
-			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.2%</td></tr>
 <tr>
                   <td>Varga László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">xx%</td>
+				  <td id="id_baloldal">37.0%</td>
 			</tr>
 			<tr>
                   <td>Doszpoly Botond László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="id_lmp">xx%</td>
+				  <td id="lmp">3.2%</td>
 			</tr>
 			<tr>
 				  <td>Prokaj Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
 <td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">xx%</td>
+<td id="id_egyutt">1.8%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">78%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">78%</span><span>-os győzelmi esély</span></h6>
 			<br/>
-			<h6>Becslés hibahatára: +/- 5.8%</h6>
-<br/><h6>Megjegyzés a kerülethez:</h6>
-          </div>
+			<h6>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</h6>
+<br/><h6>Megjegyzés a kerülethez: Ezt a körzetet a Fidesz, az MSZP-Párbeszéd, és Jobbik is megnyerheti. Ez a kerület része lehet egy koordinált megállapodásnak (ahol a baloldal ezt a körzetet, a Jobbik pedig a másik miskolci körzetet kapná).</h6>
     </div>
 </div>
 

@@ -10,7 +10,7 @@ permalink: /bp1
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal, erős LMP)</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,7 +21,7 @@ permalink: /bp1
               <tbody>
              <tr>
                   <td>Hollik István  - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">41.3%</td>
 			</tr>
 			<tr>
 <td id="id_jobbik">Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
@@ -31,23 +31,23 @@ permalink: /bp1
 <td>xx%</td></tr>
 			<tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="id_lmp">xx%</td>
+				  <td id="lmp">13.9%</td>
 			</tr>
 			<tr>
 				  <td id="id_lmp">Fekete-Győr András - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="id_momentum">4.7%</td>
 			</tr>
 <tr>
                   <td>Juhász Péter -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-				  <td id="id_egyutt">xx%</td>
+				  <td id="id_egyutt">28.8%</td>
 			</tr>			
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">94%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Együtt, </span><span id="esely2">6%</span><span>-os győzelmi esély</span></h6>
 			<br/>
-			<h6>Becslés hibahatára: +/- 5.8%</h6>
-<br/><h6>Megjegyzés a kerülethez:</h6>
+			<h6>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</h6>
+<br/><h6>Megjegyzés a kerülethez: Ez a kerület hagyományosan több jobboldali szavazót foglal magába, főleg az I. és V. kerületi részein. A fenti becslés akkor valósul meg, ha az LMP és az MSZP-Párbeszéd jelöltje is nagyobb részt Juhász Péterre szavaznak át. Azonban ez az átszavazás is még kevés a Fidesz legyőzéséhez.</h6>
           </div>
     </div>
 </div>

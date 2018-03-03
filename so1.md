@@ -10,7 +10,7 @@ permalink: /so1
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Somogy megye 1-es választókerület (Kaposvár)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,32 +21,32 @@ permalink: /so1
               <tbody>
              <tr>
                   <td>Gelencsér Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">42.5%</td>
 			</tr>
-			<tr><td>Miháldinecz Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Miháldinecz Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">13.9%</td></tr>
 <tr>
                   <td>László Imre - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">xx%</td>
+				  <td id="id_baloldal">35.7%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="id_lmp">xx%</td>
+				  <td id="lmp">4.7%</td>
 			</tr>
 			<tr>
 				  <td>Berg Dániel - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
 <td>Kerepesi Tibor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">xx%</td>
+<td id="id_egyutt">1.8%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">91%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">9%</span><span>-os győzelmi esély</span></h6>
 			<br/>
-			<h6>Becslés hibahatára: +/- 5.8%</h6>
-<br/><h6>Megjegyzés a kerülethez:</h6>
+			<h6>Becslés megbízhatósága: Valószínű</h6>
+<br/><h6>Megjegyzés a kerülethez: A DK-s jelölt megszoríthatja a Fideszt, de jelenleg még stabil a Fidesz előnye.</h6>
           </div>
     </div>
 </div>

@@ -10,7 +10,7 @@ permalink: /szb2
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Szabolcs-Szatmár-Bereg megye 2-es választókerület (Nyíregyháza)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,32 +21,32 @@ permalink: /szb2
               <tbody>
              <tr>
                   <td>dr. Vinnai Győző - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">47.0%</td>
 			</tr>
-			<tr><td>Dr. Fülöp Erik - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Dr. Fülöp Erik - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">35.6%</td></tr>
 <tr>
                   <td>Helmeczy László - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">xx%</td>
+				  <td id="id_baloldal">13.6%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="id_lmp">xx%</td>
+				  <td id="lmp">2.2%</td>
 			</tr>
 			<tr>
 				  <td>Szántó Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
 <td>Ambrus Magdolna -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">xx%</td>
+<td id="id_egyutt">0.7%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99%</span><span>-os győzelmi esély</span></h5>
+			<h6>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">1%</span><span>-os győzelmi esély</span></h6>
 			<br/>
-			<h6>Becslés hibahatára: +/- 5.8%</h6>
-<br/><h6>Megjegyzés a kerülethez:</h6>
+			<h6>Becslés megbízhatósága: Valószínű</h6>
+<br/><h6>Megjegyzés a kerülethez: A Jobbik erősödhet átszavazás esetén, így ez a körzet szorosabbá válhat.</h6>
           </div>
     </div>
 </div>
