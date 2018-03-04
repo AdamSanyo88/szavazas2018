@@ -86,6 +86,7 @@ permalink: /mandatumbecsles
           <div class="col s12">
 		  <h5>Egyéni kerületek sorsa</h5> 
 <p class="light">Az alábbi táblázat megmutatja, hogy az egyéni választókerületekben mely párt és milyen arányban győzedelmeskedne. A lista folyamatosan frissül <a href="/meresek">az új közvélemény-kutatási eredmények tükrében.</a></p>
+<p class="light">A térképen az egyes pártok győztes kerületei láthatók. A kis színes körök az ellenzék számára nyerhető körzeteket mutatják.</p>
 <br/>
 <img src="images/oevk_eredmeny.png" img="" style="height: 100%; width: 100%; object-fit: contain">
 <br/>
@@ -133,7 +134,7 @@ permalink: /mandatumbecsles
 <td id="kulonbseg_bp8">8.6%</td></tr>	
 <tr><td><a href="../bp9">Budapesti 9.</a></td>
 <td id="gyoztes_bp9">MSZP-Párbeszéd/DK</td>
-<td id="masodik_bp9">Fidesz/DK</td>
+<td id="masodik_bp9">Fidesz</td>
 <td id="kulonbseg_bp9">4.8%</td></tr>	
 <tr><td><a href="../bp10">Budapesti 10.</a></td>
 <td id="gyoztes_bp10">MSZP-Párbeszéd/DK</td>
