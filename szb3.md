@@ -48,7 +48,6 @@ permalink: /szb3
 			<h6><strong>Becslés megbízhatósága: Biztos</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Biztos Fideszes győzelem, a koordináció sem segítene.</h6>
           </div>
-          </div>
     </div>
 </div>
 
