@@ -21,7 +21,7 @@ permalink: /metodologia
 </ul>
 <p><strong>Fontos:</strong> A becslés a szoros versenyek végkimenetelét nem tudja biztosra megmondani, csupán egy százalékos valószínűséget ad arra, hogy ki és milyen eséllyel nyerheti meg az adott választókerületet. Minél kevesebb az elérhető adat és minél szorosabb a verseny a pártok között, annál bizonytalanabb a becslés.</p>
 <br/>
-<h6><strong>Március 5-i becslés módszertana és leírása</strong></h6>
+<h5>Március 5-i becslés módszertana és leírása</strong></h5>
 
 <p><strong>Összefoglaló</strong></p>
 
