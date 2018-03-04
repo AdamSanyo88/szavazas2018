@@ -30,19 +30,19 @@ permalink: /bp5
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">10.0%</td>
+				  <td id="lmp">9.0%</td>
 			</tr>
 			<tr>
 				  <td>Soproni Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.6%</td>
+				  <td id="id_momentum">2.6%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.1%</td>
+<td id="id_egyutt">1.6%</td>
 </tr>    
 <tr>
 <td>Dr. Bokros Lajos -  MoMa <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.1%</td>
+<td id="egyeb">2.5%</td>
 </tr>              
               </tbody>
             </table>
