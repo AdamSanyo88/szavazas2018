@@ -43,9 +43,9 @@ permalink: /cs4
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
-			<h6>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</h6>
+			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: A február végi hódmezővásárhelyi győzelem után látható, hogy a szavazók hajlandóak egy erős jelölt mögé beállni. Ebben a kerületben ez a Jobbik jelöltje lenne, ám a győzelméhez fontos, hogy magas legyen az átszavazási hajlandóság a többi ellenzéki szavazó részéről.</h6>
           </div>
     </div>

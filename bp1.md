@@ -44,10 +44,10 @@ permalink: /bp1
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
-			<h6>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</h6>
-<br/><h6>Megjegyzés a kerülethez: Ez a kerület hagyományosan több jobboldali szavazót foglal magába, főleg az I. és V. kerületi részein. A fenti becslés akkor valósul meg, ha az LMP és az MSZP-Párbeszéd jelöltje is nagyobb részt Juhász Péterre szavaznak át. Azonban ez az átszavazás is még kevés a Fidesz legyőzéséhez.</h6>
+			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
+<br/><h6>Megjegyzés a kerülethez: Ez a kerület hagyományosan több jobboldali szavazót foglal magába, főleg az I. és V. kerületi részein. A fenti becslés akkor valósul meg, ha az LMP és az MSZP-Párbeszéd támogatói is nagyobb részt Juhász Péterre szavaznak át. Azonban ez az átszavazás is még kevés a Fidesz legyőzéséhez.</h6>
           </div>
     </div>
 </div>

@@ -43,9 +43,9 @@ permalink: /baz1
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
-			<h6>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</h6>
+			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Ezt a körzetet a Fidesz, DK, és Jobbik is megnyerheti. Ez a kerület része lehet egy koordinált megállapodásnak (ahol a Jobbik ezt a körzetet, a baloldal pedig a másik miskolci körzetet kapná).</h6>
           </div>
     </div>

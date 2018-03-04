@@ -43,9 +43,9 @@ permalink: /no1
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
-			<h6>Becslés megbízhatósága: Kérdéses</h6>
+			<h6><strong>Becslés megbízhatósága: Kérdéses</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: A kerületben mind a Jobbik, mind a DK jelöltje erős lehet. Ebben a becslésben a DK-ra szavaztak át a választók, viszont nem elég arányban ahhoz, hogy megközelítse a Fideszes jelöltet. Ellenzéki koordináció esetén nyerhető ez a körzet.</h6>
           </div>
     </div>

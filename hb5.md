@@ -43,9 +43,9 @@ permalink: /hb5
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></h6>
+			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
-			<h6>Becslés megbízhatósága: Valószínű</h6>
+			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Stabil Fideszes győzelem várható.</h6>
           </div>
     </div>
