@@ -11,7 +11,7 @@ permalink: /mandatumbecsles
           <div class="col s12">
 		  <h5>Ha most vasárnap lennének a választások, melyik párt hány képviselőt küldene a parlamentbe?</h5> 
 <p class="light">Az alábbi táblázat összefoglalja a várható egyéni (106) és listás (93) mandátumok kiosztását.</p>
-<h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
+<h6><span><strong>A következő becslés várható időpontja: 2018. március 5.</strong></span></h6>
 
 
 <table class="striped">
@@ -72,7 +72,6 @@ permalink: /mandatumbecsles
 				  <td>0</td>
 				  <td>2</td>
 				  <td>1%</td>
-			</tr>	
               </tbody>
             </table>
 <h5>Eredmény: A Fidesz stabil többséget szerez a parlamentben 125 mandátummal. Magasabb átszavazási hajlandóság és koordináció mellett a Fidesz várható mandátumainak száma 107-re csökken.</h5>
