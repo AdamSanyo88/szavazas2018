@@ -29,15 +29,16 @@ permalink: /be3
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Szabó László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;">
+				  </td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Nagy Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Kovács István -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

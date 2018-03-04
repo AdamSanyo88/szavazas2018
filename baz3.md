@@ -37,7 +37,7 @@ permalink: /baz3
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Báder József -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

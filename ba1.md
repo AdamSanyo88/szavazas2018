@@ -20,7 +20,7 @@ permalink: /ba1
               </thead>
               <tbody>
              <tr>
-                  <td>Csízi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                  <td>Csizi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">xx%</td>
 			</tr>
 			<tr>
@@ -35,7 +35,7 @@ permalink: /ba1
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Nemes Balázs - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul / Nemes Balázs - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>

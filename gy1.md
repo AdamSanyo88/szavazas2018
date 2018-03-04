@@ -29,7 +29,7 @@ permalink: /gy1
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Jenei Ferenc - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>

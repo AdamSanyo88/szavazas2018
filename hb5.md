@@ -33,11 +33,11 @@ permalink: /hb5
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Gyuris Dóra - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Kovács Imre Krisztián - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Rutz Tamás -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Szemők Zoltán -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

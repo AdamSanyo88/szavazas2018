@@ -33,7 +33,7 @@ permalink: /ba2
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Körömi Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>

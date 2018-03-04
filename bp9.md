@@ -29,15 +29,15 @@ permalink: /bp9
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Demeter Márta - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Tölcsér Borbála - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Tábi Attila -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
@@ -45,8 +45,8 @@ permalink: /bp9
 			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
 			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
-			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
-<br/><h6>Megjegyzés a kerülethez: Inkább baloldali kerület, amelyben az átszavazás mértéke dönti majd el, hogy milyen szoros lesz az eredmény.</h6>
+			<h6><strong>Becslés megbízhatósága: Kérdéses</strong></h6>
+<br/><h6>Megjegyzés a kerülethez: Inkább baloldali kerület, amelyben az átszavazás mértéke dönti majd el, hogy milyen szoros lesz az eredmény. Az LMP erős jelöltje is esélyes lehet koordináció esetén.</h6>
           </div>
     </div>
 </div>

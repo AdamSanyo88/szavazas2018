@@ -33,11 +33,11 @@ permalink: /baz5
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Pencz András - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul / Pencz András Soma - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Szabó Mihály -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

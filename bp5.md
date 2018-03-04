@@ -25,7 +25,7 @@ permalink: /bp5
 			</tr>
 			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
 <tr>
-                  <td>Oláh Lajos - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+                  <td>Dr. Oláh Lajos - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
@@ -37,9 +37,13 @@ permalink: /bp5
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Nyri Gábor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
-</tr>                
+</tr>    
+<tr>
+<td>Dr. Bokros Lajos -  MoMa <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">xx%</td>
+</tr>              
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>

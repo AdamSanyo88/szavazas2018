@@ -29,15 +29,15 @@ permalink: /no1
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Dömsödi Gábor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Barta László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Tóth Csaba - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Árvainé Faludi Erzsébet -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Nógrádi Nóra -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>

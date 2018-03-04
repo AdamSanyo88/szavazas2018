@@ -29,15 +29,15 @@ permalink: /fe5
 				  <td id="id_baloldal">xx%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Lapos Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="id_lmp">xx%</td>
 			</tr>
 			<tr>
-				  <td>Bálint Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">xx%</td>
 			</tr>
 <tr>
-<td>Hegedűs Norbert -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Szigetvári Viktor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">xx%</td>
 </tr>                
               </tbody>
@@ -46,7 +46,7 @@ permalink: /fe5
 			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
-<br/><h6>Megjegyzés a kerülethez: Viszonylag sima Fidesz győzelem várható</h6>
+<br/><h6>Megjegyzés a kerülethez: Viszonylag sima Fidesz győzelem várható. Az Együtt egyik erős jelöltje ebben a körzetben indul.</h6>
           </div>
     </div>
 </div>
