@@ -10,7 +10,7 @@ permalink: /ba1
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Baranya megye 1-es választókerület (Pécs)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal)</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,31 +21,31 @@ permalink: /ba1
               <tbody>
              <tr>
                   <td>Csizi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">37.4%</td>
 			</tr>
 			<tr>
 <td>Fogarasi Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-<td id="id_jobbik">xx%</td></tr>
+<td id="id_jobbik">10.1%</td></tr>
 <tr>
                   <td>Dr. Mellár Tamás - független</td>
-				  <td id="id_baloldal">xx%</td>
+				  <td id="id_baloldal">39.9%</td>
 			</tr>
 			<tr>
                   <td>Dr.Keresztes László Lóránt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="id_lmp">xx%</td>
+				  <td id="lmp">8.8%</td>
 			</tr>
 			<tr>
 				  <td>nem indul / Nemes Balázs - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="id_momentum">1.8%</td>
 			</tr>
 <tr>
 <td>Együtt - visszalépett <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">xx%</td>
+<td id="id_egyutt">2.0%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
+			<h5>Várható győztes: <span id="gyoztes">Dr. Mellár Tamás, </span><span id="esely">64%</span><span>-os győzelmi esély</span></h5>
+			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Dr. Mellár Tamás, </span><span id="esely2">64%</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Szoros eredmény mellett, de várhatóan Mellár Tamásé lesz a mandátum. Valószínű, hogy nagyobb arányú lesz az átszavazás az ő javára.</h6>

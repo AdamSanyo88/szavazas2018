@@ -10,7 +10,7 @@ permalink: /pe2
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Pest megye 2-es választókerület (Budakeszi)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős LMP)</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,29 +21,29 @@ permalink: /pe2
               <tbody>
              <tr>
                   <td>Csenger-Zalán Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">45.2%</td>
 			</tr>
-			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">6.6%</td></tr>
 <tr>
-                  <td>Tóth Zoltán - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">xx%</td>
+                  <td>dr. Tóth Zoltán - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				  <td id="id_baloldal">6.1%</td>
 			</tr>
 			<tr>
-                  <td>Szél Bernadett - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="id_lmp">xx%</td>
+                  <td>dr. Szél Bernadett - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				  <td id="lmp">38.4%</td>
 			</tr>
 			<tr>
 				  <td>Szemző Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="id_momentum">2.1%</td>
 			</tr>
 <tr>
-<td>??? -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">xx%</td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">1.5%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">90%</span><span>-os győzelmi esély</span></h5>
+			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">10%</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: A kerületben átlagon felül teljesített a Fidesz és az LMP is 2014-ben. Figyelembe véve, hogy az LMP erős jelöltet indít a körzetben, egy ellenzéki koordináció esetén az LMP-s jelölt lenne a legesélyesebb. Azonban így sem biztos, hogy legyőzné a Fidesz jelöltjét (de mindenképp közelebb kerülne hozzá).</h6>

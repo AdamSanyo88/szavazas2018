@@ -10,7 +10,7 @@ permalink: /he3
     <div class="row">
           <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
 		  <h5>Heves megye 3-as választókerület (Hatvan)</h5>
-<h6><strong>Választókerületi profil (2014-ben): <span id="profil">xx</span></strong></h6>
+<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik)</span></strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -21,29 +21,29 @@ permalink: /he3
               <tbody>
              <tr>
                   <td>Szabó Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">xx%</td>
+				  <td id="id_fidesz">44.7%</td>
 			</tr>
-			<tr><td>Sneider Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">xx%</td></tr>
+			<tr><td>Sneider Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">39.7%</td></tr>
 <tr>
                   <td>Tóth Norbert - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">xx%</td>
+				  <td id="id_baloldal">12.0%</td>
 			</tr>
 			<tr>
                   <td>Tóth Norbert - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="id_lmp">xx%</td>
+				  <td id="lmp">2.2%</td>
 			</tr>
 			<tr>
 				  <td>Déri Tibor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">xx%</td>
+				  <td id="id_momentum">0.8%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">xx%</td>
+<td id="id_egyutt">0.6%</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">xx</span><span id="esely">xx</span><span>-os győzelmi esély</span></h5>
-			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="eselyes">xx</span><span id="esely2">xx</span><span>-os győzelmi esély</span></strong></h6>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">83%</span><span>-os győzelmi esély</span></h5>
+			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">17%</span><span>-os győzelmi esély</span></strong></h6>
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: A Jobbik esélyes kihívó, de több átszavazóra van szüksége ahhoz, hogy megnyerje ezt a kerületet.</h6>
