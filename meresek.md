@@ -142,6 +142,45 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			  	   <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bar01/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../ba01">Baranya 1-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>43%</td>
+				  <td>16%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>13%</td>
+				  <td>3%</td>
+				  <td>26% (Mellár)</td>
+			</tr>    
+			   <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bar01/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../ba01">Baranya 1-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>42%</td>
+				  <td>12%</td>
+				  <td>26</td>
+				  <td>__</td>
+				  <td>9%</td>
+				  <td>4%</td>
+				  <td>8% (Együtt)</td>
+			</tr>    
+			 <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud18/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../bp18">Baranya 1-es (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>51%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>49% (Mellár)</td>
+			</tr>    
 			  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud18/">'18 feb.</a></td>
                   <td>Závecz, KOM</td>
