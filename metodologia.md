@@ -70,7 +70,7 @@ permalink: /metodologia
 <p>Az egyéni választókerületi mérések segítenek majd abban, hogy lássuk, van-e lényeges eltérés a pártok 2014-es helyi eredményei és a most mért helyi támogatottsága között. Például, erősebb-e a Jobbik a kistelepüléses körzetekben mint 4 éve, gyengült-e az MSZP a budapesti körzetekben az LMP irányába, stb.</p>
 
 <p><strong>3. "Márki-Zay hatás"</strong>
-A február végi hódmezővásárhelyi választás lehetséges, hogy megnövelte a szavazók átszavazási hajlandóságát. Emiatt meg kell vizsgálni, hogy a 30-40%-os maximális átszavazási limit nem túl alacsony-e.</p>
+<p>A február végi hódmezővásárhelyi választás lehetséges, hogy megnövelte a szavazók átszavazási hajlandóságát. Emiatt meg kell vizsgálni, hogy a 30-40%-os maximális átszavazási limit nem túl alacsony-e.</p>
 
 <p><strong>4. A szorosabb kerületekben magasabb legyen az átszavazási hajlandóság</strong></p>
 
