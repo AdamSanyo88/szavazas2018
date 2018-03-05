@@ -143,6 +143,32 @@ permalink: /meresek
               </thead>
               <tbody>
 			  <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud18/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../bp18">Budapest 18-as</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>42%</td>
+				  <td>12%</td>
+				  <td>26</td>
+				  <td>__</td>
+				  <td>9%</td>
+				  <td>4%</td>
+				  <td>8% (Együtt)</td>
+			</tr>    
+			<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud04/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../bp18">Budapest 18-as (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>57%</td>
+				  <td>__</td>
+				  <td>43%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>    
+			  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud04/">'18 feb.</a></td>
                   <td>Závecz, KOM</td>
 				  <td><a href="../bp4">Budapest 4-es</a></td>

@@ -11,6 +11,8 @@ permalink: /so4
           <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Somogy megye 4-es választókerület (Siófok)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
+<br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -47,7 +49,7 @@ permalink: /so4
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Nagyobb átszavazási hajlandóság mellett ez egy szorosabb körzet is lehet, jelenleg a Fidesz magabiztosan vezet.</h6>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

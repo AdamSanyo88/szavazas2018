@@ -11,6 +11,8 @@ permalink: /fe4
           <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Fejér megye 4-es választókerület (Dunaújváros)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal-Jobbik)</span></strong></h6>
+<br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -47,7 +49,7 @@ permalink: /fe4
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Ebben a kerületben a DK és a Jobbik jelöltjei is erős kihívónak tekinthető. Ebben a becslésben a Jobbik szavazók inkább átszavaztak a baloldali jelöltre, így alakult ki a szoros eredmény. Pártok közti koordináció esetén ez egy nyerhető kerület az ellenzék számára.</h6>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

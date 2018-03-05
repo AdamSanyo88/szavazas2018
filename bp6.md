@@ -11,6 +11,8 @@ permalink: /bp6
           <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Budapest 6-os választókerület (VIII. kerület)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz-baloldal)</span></strong></h6>
+<br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -47,7 +49,7 @@ permalink: /bp6
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Klasszikus kétesélyes kerület, ahol a Fidesz megszoríthatja az ellenzéki jelöltet.</h6>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

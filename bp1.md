@@ -11,6 +11,8 @@ permalink: /bp1
           <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal, erős LMP)</span></strong></h6>
+<br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -48,7 +50,7 @@ permalink: /bp1
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Ez a kerület hagyományosan több jobboldali szavazót foglal magába, főleg az I. és V. kerületi részein. A fenti becslés akkor valósul meg, ha az LMP és az MSZP-Párbeszéd támogatói is nagyobb részt Juhász Péterre szavaznak át. Azonban ez az átszavazás is még kevés a Fidesz legyőzéséhez.</h6>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

@@ -11,6 +11,8 @@ permalink: /pe2
           <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Pest megye 2-es választókerület (Budakeszi)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős LMP)</span></strong></h6>
+<br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6>
 <table class="striped">
               <thead>
                 <tr>
@@ -47,7 +49,7 @@ permalink: /pe2
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: A kerületben átlagon felül teljesített a Fidesz és az LMP is 2014-ben. Figyelembe véve, hogy az LMP erős jelöltet indít a körzetben, egy ellenzéki koordináció esetén az LMP-s jelölt lenne a legesélyesebb. Azonban így sem biztos, hogy legyőzné a Fidesz jelöltjét (de mindenképp közelebb kerülne hozzá).</h6>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>
