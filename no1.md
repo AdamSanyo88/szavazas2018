@@ -22,7 +22,7 @@ permalink: /no1
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Becsó Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                  <td>dr. Becsó Károly Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">42.9%</td>
 			</tr>
 			<tr><td>Cseresznyés István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.5%</td></tr>
