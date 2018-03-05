@@ -8,7 +8,7 @@ permalink: /baz1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Borsod-Abaúj-Zemplén megye 1-es választókerület (Miskolc)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Háromesélyes</span></strong></h6>
 <table class="striped">
@@ -47,6 +47,7 @@ permalink: /baz1
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Ezt a körzetet a Fidesz, DK, és Jobbik is megnyerheti. Ez a kerület része lehet egy koordinált megállapodásnak (ahol a Jobbik ezt a körzetet, a baloldal pedig a másik miskolci körzetet kapná).</h6>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
           </div>
     </div>
 </div>

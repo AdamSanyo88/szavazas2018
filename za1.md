@@ -8,7 +8,7 @@ permalink: /za1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Zala megye 1-es választókerület (Zalaegerszeg)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <table class="striped">
@@ -47,6 +47,7 @@ permalink: /za1
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: A Fidesz stabil győzelme várható, az átszavazás csak ennek mértékét csökkentheti.</h6>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
           </div>
     </div>
 </div>

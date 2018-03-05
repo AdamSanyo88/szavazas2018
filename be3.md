@@ -8,7 +8,7 @@ permalink: /be3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Békés megye 3-as választókerület (Gyula)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <table class="striped">
@@ -48,6 +48,7 @@ permalink: /be3
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Biztos</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Biztos Fideszes győzelem, a koordináció sem segítene.</h6>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
           </div>
     </div>
 </div>

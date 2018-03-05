@@ -8,7 +8,7 @@ permalink: /za3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Zala megye 3-as választókerület (Nagykanizsa)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik-baloldal)</span></strong></h6>
 <table class="striped">
@@ -47,6 +47,7 @@ permalink: /za3
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: A Jobbik és DK jelöltje is erős a körzetben, de ha a baloldali szavazóbb nagyobb része átszavaz a Jobbikra, a kerület szoros lehet.</h6>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
           </div>
     </div>
 </div>

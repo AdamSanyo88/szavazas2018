@@ -8,7 +8,7 @@ permalink: /bp1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>Az első becslés várható időpontja: 2018. március 5.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal, erős LMP)</span></strong></h6>
 <table class="striped">
@@ -25,10 +25,10 @@ permalink: /bp1
 			</tr>
 			<tr>
 <td id="id_jobbik">Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-<td>xx%</td></tr>
+<td>4.3%</td></tr>
 			<tr>
-<td id="id_jobbik">Váradiné Naszály Márta - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-<td>xx%</td></tr>
+<td id="id_baloldal">Váradiné Naszály Márta - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+<td>6.8%</td></tr>
 			<tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">13.9%</td>
@@ -48,6 +48,7 @@ permalink: /bp1
 			<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
 <br/><h6>Megjegyzés a kerülethez: Ez a kerület hagyományosan több jobboldali szavazót foglal magába, főleg az I. és V. kerületi részein. A fenti becslés akkor valósul meg, ha az LMP és az MSZP-Párbeszéd támogatói is nagyobb részt Juhász Péterre szavaznak át. Azonban ez az átszavazás is még kevés a Fidesz legyőzéséhez.</h6>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a></p>
           </div>
     </div>
 </div>
