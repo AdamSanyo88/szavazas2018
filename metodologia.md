@@ -21,7 +21,7 @@ permalink: /metodologia
 </ul>
 <p><strong>Fontos:</strong> A becslés a szoros versenyek végkimenetelét nem tudja biztosra megmondani, csupán egy százalékos valószínűséget ad arra, hogy ki és milyen eséllyel nyerheti meg az adott választókerületet. Minél kevesebb az elérhető adat és minél szorosabb a verseny a pártok között, annál bizonytalanabb a becslés.</p>
 <br/>
-<h5 id="0305">Március 5-i becslés módszertana és leírása</strong></h5>
+<h5 id="0305">Március 5-i becslés módszertana és leírása</h5>
 
 <p><strong>Összefoglaló</strong></p>
 
@@ -56,7 +56,7 @@ permalink: /metodologia
 <h6>MSZP/DK-ról Jobbikra 40%</h6>
 <h6>LMP-ről MSZP/DK-ra 40%</h6>
 <h6>LMP-ről Jobbikra 40%</h6>
-<h6>MSZP/DK-ról LMP-re 70%</h6>
+<h6>MSZP/DK-ról LMP-re 80% (formális visszalépés)</h6>
 <h6>Momentumról bárkire 30%</h6>
 
 <p><strong>A modell az alábbi dolgokat nem vette még figyelembe</strong>, és a jövőben finomhangolásra szorul:</p>
