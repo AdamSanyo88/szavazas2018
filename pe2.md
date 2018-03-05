@@ -17,7 +17,7 @@ permalink: /pe2
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
                 </tr>
               </thead>
               <tbody>
@@ -45,10 +45,12 @@ permalink: /pe2
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">90%</span><span>-os győzelmi esély</span></h5>
-			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">10%</span><span>-os győzelmi esély</span></strong></h6>
-			<br/>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">10%</span><span>-os győzelmi esély</span></strong></p>
+			
+<p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
+<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
-<br/><h6>Megjegyzés a kerülethez: A kerületben átlagon felül teljesített a Fidesz és az LMP is 2014-ben. Figyelembe véve, hogy az LMP erős jelöltet indít a körzetben, egy ellenzéki koordináció esetén az LMP-s jelölt lenne a legesélyesebb. Azonban így sem biztos, hogy legyőzné a Fidesz jelöltjét (de mindenképp közelebb kerülne hozzá).</h6>
+<p>Megjegyzés a kerülethez: A kerületben átlagon felül teljesített a Fidesz és az LMP is 2014-ben. Figyelembe véve, hogy az LMP erős jelöltet indít a körzetben, egy ellenzéki koordináció esetén az LMP-s jelölt lenne a legesélyesebb. Azonban így sem biztos, hogy legyőzné a Fidesz jelöltjét (de mindenképp közelebb kerülne hozzá).</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>

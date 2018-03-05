@@ -17,7 +17,7 @@ permalink: /baz5
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
                 </tr>
               </thead>
               <tbody>
@@ -45,10 +45,12 @@ permalink: /baz5
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100%</span><span>-os győzelmi esély</span></h5>
-			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0%</span><span>-os győzelmi esély</span></strong></h6>
-			<br/>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">0%</span><span>-os győzelmi esély</span></strong></p>
+			
+<p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
+<br/>
 			<h6><strong>Becslés megbízhatósága: Valószínű</strong></h6>
-<br/><h6>Megjegyzés a kerülethez: Magas átszavazás mellett szorosabb eredmény várható (de jelenleg a Fidesz magabiztosan vezet).</h6>
+<p>Megjegyzés a kerülethez: Magas átszavazás mellett szorosabb eredmény várható (de jelenleg a Fidesz magabiztosan vezet).</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>

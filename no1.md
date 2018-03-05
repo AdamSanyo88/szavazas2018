@@ -17,7 +17,7 @@ permalink: /no1
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
                 </tr>
               </thead>
               <tbody>
@@ -45,10 +45,12 @@ permalink: /no1
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">96%</span><span>-os győzelmi esély</span></h5>
-			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">4%</span><span>-os győzelmi esély</span></strong></h6>
-			<br/>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">4%</span><span>-os győzelmi esély</span></strong></p>
+			
+<p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
+<br/>
 			<h6><strong>Becslés megbízhatósága: Kérdéses</strong></h6>
-<br/><h6>Megjegyzés a kerülethez: A kerületben mind a Jobbik, mind a DK jelöltje erős lehet. Ebben a becslésben a DK-ra szavaztak át a választók, viszont nem elég arányban ahhoz, hogy megközelítse a Fideszes jelöltet. Ellenzéki koordináció esetén nyerhető ez a körzet.</h6>
+<p>Megjegyzés a kerülethez: A kerületben mind a Jobbik, mind a DK jelöltje erős lehet. Ebben a becslésben a DK-ra szavaztak át a választók, viszont nem elég arányban ahhoz, hogy megközelítse a Fideszes jelöltet. Ellenzéki koordináció esetén nyerhető ez a körzet.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>

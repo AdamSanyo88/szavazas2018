@@ -17,7 +17,7 @@ permalink: /baz1
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
                 </tr>
               </thead>
               <tbody>
@@ -45,10 +45,12 @@ permalink: /baz1
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Jobbik, </span><span id="esely">71%</span><span>-os győzelmi esély</span></h5>
-			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">71%</span><span>-os győzelmi esély</span></strong></h6>
-			<br/>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2">71%</span><span>-os győzelmi esély</span></strong></p>
+			
+<p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
+<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
-<br/><h6>Megjegyzés a kerülethez: Ezt a körzetet a Fidesz, DK, és Jobbik is megnyerheti. Ez a kerület része lehet egy koordinált megállapodásnak (ahol a Jobbik ezt a körzetet, a baloldal pedig a másik miskolci körzetet kapná).</h6>
+<p>Megjegyzés a kerülethez: Ezt a körzetet a Fidesz, DK, és Jobbik is megnyerheti. Ez a kerület része lehet egy koordinált megállapodásnak (ahol a Jobbik ezt a körzetet, a baloldal pedig a másik miskolci körzetet kapná).</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>

@@ -17,7 +17,7 @@ permalink: /to1
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
                 </tr>
               </thead>
               <tbody>
@@ -45,10 +45,12 @@ permalink: /to1
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">67%</span><span>-os győzelmi esély</span></h5>
-			<h6><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">33%</span><span>-os győzelmi esély</span></strong></h6>
-			<br/>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">33%</span><span>-os győzelmi esély</span></strong></p>
+			
+<p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
+<br/>
 			<h6><strong>Becslés megbízhatósága: Feltételhez kötött (lásd alább)</strong></h6>
-<br/><h6>Megjegyzés a kerülethez: Az LMP erős körzetében erős körzetet indít, így várható az, hogy a pártok koordinációja során ő lesz az esélyes jelölt. Ha ez megtörténik, akkor nagyon szoros eredmény várható (akár az LMP is megnyerheti a mandátumot).</h6>
+<p>Megjegyzés a kerülethez: Az LMP erős körzetében erős körzetet indít, így várható az, hogy a pártok koordinációja során ő lesz az esélyes jelölt. Ha ez megtörténik, akkor nagyon szoros eredmény várható (akár az LMP is megnyerheti a mandátumot).</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
