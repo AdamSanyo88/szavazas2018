@@ -25,14 +25,14 @@ permalink: /bp5
                   <td>Bajkai István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">35.8%</td>
 			</tr>
-			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">6.0%</td></tr>
+			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">5.7%</td></tr>
 <tr>
                   <td>Dr. Oláh Lajos - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">42.5%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">10.0%</td>
+				  <td id="lmp">9.0%</td>
 			</tr>
 			<tr>
 				  <td>Soproni Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -40,11 +40,11 @@ permalink: /bp5
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.1%</td>
+<td id="id_egyutt">1.5%</td>
 </tr>    
 <tr>
 <td>Dr. Bokros Lajos -  MoMa <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="egyeb">2.5%</td>
+<td id="egyeb">2.0%</td>
 </tr>              
               </tbody>
             </table>
