@@ -51,7 +51,7 @@ permalink: /to1
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Feltételhez kötött (lásd alább)</strong> </h6>
 <br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: Az LMP erős körzetében erős körzetet indít, így várható az, hogy a pártok koordinációja során ő lesz az esélyes jelölt. Ha ez megtörténik, akkor nagyon szoros eredmény várható (akár az LMP is megnyerheti a mandátumot).</p>
+<p>Megjegyzés a kerülethez: Az LMP erős körzetében erős jelöltet indít, így várható az, hogy a pártok koordinációja során ő lesz az esélyes jelölt (a fenti becslés is ezt a visszalépést veszi figyelembe). Ha ez megtörténik, akkor nagyon szoros eredmény várható (akár az LMP is megnyerheti a mandátumot).</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
