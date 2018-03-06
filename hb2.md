@@ -25,7 +25,7 @@ permalink: /hb2
                   <td>dr. Pósán László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">46.5%</td>
 			</tr>
-			<tr><td>nem indul / Kőszeghy Ábel - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">15.3%</td></tr>
+			<tr><td>Kőszeghy Ábel - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">15.3%</td></tr>
 <tr>
                   <td>Varga Zoltán - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">29.5%</td>
