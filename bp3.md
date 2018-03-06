@@ -49,7 +49,8 @@ permalink: /bp3
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<h6><strong>Becslés megbízhatósága: Kérdéses</strong></h6>
+			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Kérdéses</strong> </h6>
+<br/><h6>Becslés megbízhatósága a legesélyesebb jelöltről: </h6>
 <p>Megjegyzés a kerülethez: A kerületben az országos átlagánál erősebb az LMP is, úgyhogy pártok közti koordináció keretében az LMP is lehet esélyes jelölt.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>

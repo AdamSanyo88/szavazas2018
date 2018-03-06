@@ -49,7 +49,8 @@ permalink: /no1
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<h6><strong>Becslés megbízhatósága: Kérdéses</strong></h6>
+			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Kérdéses</strong> </h6>
+<br/><h6>Becslés megbízhatósága a legesélyesebb jelöltről: </h6>
 <p>Megjegyzés a kerülethez: A kerületben mind a Jobbik, mind a DK jelöltje erős lehet. Ebben a becslésben a DK-ra szavaztak át a választók, viszont nem elég arányban ahhoz, hogy megközelítse a Fideszes jelöltet. Ellenzéki koordináció esetén nyerhető ez a körzet.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
