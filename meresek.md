@@ -143,6 +143,32 @@ permalink: /meresek
               </thead>
               <tbody>
 			  <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_tol01/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../to1">Tolna 1-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>47%</td>
+				  <td>16%</td>
+				  <td>18</td>
+				  <td>__</td>
+				  <td>15%</td>
+				  <td>4%</td>
+				  <td>__</td>
+			</tr>    
+			<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_tol01/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../to1">Tolna 1-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>63%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>37%</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>    
+			  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud15/">'18 feb.</a></td>
                   <td>Závecz, KOM</td>
 				  <td><a href="../bp15">Budapest 15-ös</a></td>
@@ -153,7 +179,7 @@ permalink: /meresek
 				  <td>__</td>
 				  <td>14%</td>
 				  <td>3%</td>
-				  <td>3</td>
+				  <td>3%</td>
 			</tr>    
 			<tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud15/">'18 feb.</a></td>
