@@ -85,7 +85,7 @@ permalink: /ba1
 				  <td>16.5%</td>
 			</tr>
 			<tr>
-				  <td>Ikotity István - LMP</td>
+				  <td>Dr. Kóbor József - LMP</td>
 				  <td>8.9%</td>
 			</tr>                
               </tbody>
