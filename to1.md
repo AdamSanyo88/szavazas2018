@@ -17,7 +17,7 @@ permalink: /to1
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE</th>
                 </tr>
               </thead>
               <tbody>
@@ -28,11 +28,11 @@ permalink: /to1
 			<tr><td>Szabó Balázs György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">12.0%</td></tr>
 <tr>
                   <td>dr. Harangozó Tamás - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">6.0%</td>
+				  <td id="id_baloldal">10.4%</td>
 			</tr>
 			<tr>
                   <td>dr. Hadházy Ákos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">38.2%</td>
+				  <td id="lmp">33.7%</td>
 			</tr>
 			<tr>
 				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -44,14 +44,14 @@ permalink: /to1
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">67%</span><span>-os győzelmi esély</span></h5>
-			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">33%</span><span>-os győzelmi esély</span></strong></p>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">91%</span><span>-os győzelmi esély</span></h5>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">9%</span><span>-os győzelmi esély</span></strong></p>
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Feltételhez kötött (lásd alább)</strong> </h6>
 <br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: Az LMP erős körzetében erős jelöltet indít, így várható az, hogy a pártok koordinációja során ő lesz az esélyes jelölt (a fenti becslés is ezt a visszalépést veszi figyelembe). Ha ez megtörténik, akkor nagyon szoros eredmény várható (akár az LMP is megnyerheti a mandátumot).</p>
+<p>Megjegyzés a kerülethez: Az LMP erős körzetében erős jelöltet indít, így várható az, hogy a pártok koordinációja során ő lesz az esélyes jelölt (a fenti becslés is ezt a visszalépést veszi figyelembe). Ha ez megtörténik, akkor nagyon szoros eredmény várható.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
