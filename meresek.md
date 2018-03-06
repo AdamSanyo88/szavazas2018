@@ -149,7 +149,7 @@ permalink: /meresek
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>47%</td>
 				  <td>16%</td>
-				  <td>18</td>
+				  <td>18%</td>
 				  <td>__</td>
 				  <td>15%</td>
 				  <td>4%</td>
@@ -175,7 +175,7 @@ permalink: /meresek
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>34%</td>
 				  <td>30%</td>
-				  <td>16</td>
+				  <td>16%</td>
 				  <td>__</td>
 				  <td>14%</td>
 				  <td>3%</td>
@@ -227,7 +227,7 @@ permalink: /meresek
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>42%</td>
 				  <td>12%</td>
-				  <td>26</td>
+				  <td>26%</td>
 				  <td>__</td>
 				  <td>9%</td>
 				  <td>4%</td>
