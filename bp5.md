@@ -32,15 +32,15 @@ permalink: /bp5
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">9.0%</td>
+				  <td id="lmp">10.0%</td>
 			</tr>
 			<tr>
 				  <td>Soproni Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.6%</td>
+				  <td id="id_momentum">3.6%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.6%</td>
+<td id="id_egyutt">2.1%</td>
 </tr>    
 <tr>
 <td>Dr. Bokros Lajos -  MoMa <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
@@ -54,7 +54,7 @@ permalink: /bp5
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Valószínű</strong> </h6>
-<br/><h6>Becslés megbízhatósága a legesélyesebb jelöltről: </h6>
+<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
 <p>Megjegyzés a kerülethez: A kerületben az országos átlagánál erősebb az LMP is, úgyhogy pártok közti koordináció keretében az LMP is lehet esélyes jelölt.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>

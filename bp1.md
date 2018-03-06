@@ -26,17 +26,17 @@ permalink: /bp1
 				  <td id="id_fidesz">41.3%</td>
 			</tr>
 			<tr>
-<td id="id_jobbik">Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-<td>4.3%</td></tr>
+<td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
+<td id="id_jobbik">4.3%</td></tr>
 			<tr>
-<td id="id_baloldal">Váradiné Naszály Márta - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-<td>6.8%</td></tr>
+<td>Váradiné Naszály Márta - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+<td id="id_baloldal">6.8%</td></tr>
 			<tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">13.9%</td>
 			</tr>
 			<tr>
-				  <td id="id_lmp">nincs jelölt - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Fekete-Győr András</td>
 				  <td id="id_momentum">4.7%</td>
 			</tr>
 <tr>
@@ -51,7 +51,7 @@ permalink: /bp1
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Feltételhez kötött (lásd alább)</strong> </h6>
-<br/><h6>Becslés megbízhatósága a legesélyesebb jelöltről: </h6>
+<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
 <p>Megjegyzés a kerülethez: Ez a kerület hagyományosan több jobboldali szavazót foglal magába, főleg az I. és V. kerületi részein. A fenti becslés akkor valósul meg, ha az LMP és az MSZP-Párbeszéd támogatói is nagyobb részt Juhász Péterre szavaznak át. Azonban ez az átszavazás is még kevés a Fidesz legyőzéséhez.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>

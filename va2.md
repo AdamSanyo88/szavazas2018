@@ -50,7 +50,7 @@ permalink: /va2
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Szinte biztos</strong> </h6>
-<br/><h6>Becslés megbízhatósága a legesélyesebb jelöltről: </h6>
+<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
 <p>Megjegyzés a kerülethez: Biztos Fideszes győzelem, koordinált indulással sem győzhetne az ellenzék.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>

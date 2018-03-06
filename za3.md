@@ -50,7 +50,7 @@ permalink: /za3
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Valószínű</strong> </h6>
-<br/><h6>Becslés megbízhatósága a legesélyesebb jelöltről: </h6>
+<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
 <p>Megjegyzés a kerülethez: A Jobbik és DK jelöltje is erős a körzetben, de ha a baloldali szavazóbb nagyobb része átszavaz a Jobbikra, a kerület szoros lehet.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
