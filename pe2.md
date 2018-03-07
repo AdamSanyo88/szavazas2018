@@ -40,8 +40,12 @@ permalink: /pe2
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.5%</td>
+<td id="id_egyutt">__</td>
 </tr>                
+<tr>
+<td>Betlehem Csaba - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>  
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">90%</span><span>-os győzelmi esély</span></h5>

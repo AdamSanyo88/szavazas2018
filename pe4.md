@@ -39,7 +39,7 @@ permalink: /pe4
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul / dr. Jakab Zoltán Attila -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.5%</td>
 </tr>                
               </tbody>

@@ -35,13 +35,17 @@ permalink: /pe6
 				  <td id="lmp">7.0%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul / Molnár László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.5%</td>
 			</tr>
 <tr>
 <td>Kis Imre -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.6%</td>
-</tr>                
+</tr>           
+<tr>
+<td>Bősze Gábor - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>       
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99%</span><span>-os győzelmi esély</span></h5>
