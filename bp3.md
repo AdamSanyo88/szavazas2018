@@ -42,6 +42,10 @@ permalink: /bp3
 <td>Bényi Hajnal -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.9%</td>
 </tr>                
+<tr>
+                  <td>Kovács Gergely - MKKP</td>
+				  <td id="id_egyeb">__</td>
+			</tr>		
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">88%</span><span>-os győzelmi esély</span></h5>

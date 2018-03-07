@@ -35,13 +35,17 @@ permalink: /bp9
 				  <td id="lmp">5.1%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Tölcsér Borbála - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">2.4%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Tábi Attila -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">2.2%</td>
-</tr>                
+</tr>         
+<tr>
+<td>Iván Klára Ilona -  MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>       
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">82%</span><span>-os győzelmi esély</span></h5>

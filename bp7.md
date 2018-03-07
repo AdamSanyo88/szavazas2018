@@ -40,8 +40,12 @@ permalink: /bp7
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.6%</td>
-</tr>                
+<td id="id_egyutt">__</td>
+</tr> 
+<tr>
+<td>Sebő Ferenc -  MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>               
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">100%</span><span>-os győzelmi esély</span></h5>

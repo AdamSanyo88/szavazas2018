@@ -31,7 +31,7 @@ permalink: /bp5
 				  <td id="id_baloldal">42.5%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Moldován László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">9.0%</td>
 			</tr>
 			<tr>
@@ -39,13 +39,17 @@ permalink: /bp5
 				  <td id="id_momentum">3.6%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Nyíri Gábor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.5%</td>
 </tr>    
 <tr>
-<td>Dr. Bokros Lajos -  MoMa <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Dr. Bokros Lajos -  MoMa</td>
 <td id="egyeb">2.0%</td>
-</tr>              
+</tr>  
+<tr>
+<td>Döme Zsuzsanna -  MKKP</td>
+<td id="egyeb2">2.0%</td>
+</tr>            
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">87%</span><span>-os győzelmi esély</span></h5>

@@ -41,7 +41,11 @@ permalink: /bp4
 <tr>
 <td>Mihalik Zoltán -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">2.0%</td>
-</tr>                
+</tr>    
+<tr>
+                  <td>Juhász Veronika -  MKKP</td>
+				  <td id="id_egyeb">__</td>
+			</tr>		            
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">76%</span><span>-os győzelmi esély</span></h5>
