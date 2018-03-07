@@ -40,7 +40,7 @@ permalink: /baz2
 			</tr>
 <tr>
 <td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.8%</td>
+<td id="id_egyutt">__%</td>
 </tr>                
               </tbody>
             </table>

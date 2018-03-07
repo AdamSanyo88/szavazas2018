@@ -39,7 +39,7 @@ permalink: /baz7
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul / Kiss Tamás -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">0.5%</td>
 </tr>                
               </tbody>

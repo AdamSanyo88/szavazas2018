@@ -36,11 +36,11 @@ permalink: /baz6
 			</tr>
 			<tr>
 				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.0%</td>
+				  <td id="id_momentum">__</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.7%</td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table>
