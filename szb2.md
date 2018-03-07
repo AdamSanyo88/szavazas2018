@@ -35,13 +35,17 @@ permalink: /szb2
 				  <td id="lmp">2.2%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul / Szántó Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.7%</td>
-</tr>                
+<td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">__</td>
+</tr>       
+<tr>
+<td>nem indul / Kovács Andrea - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>         
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99%</span><span>-os győzelmi esély</span></h5>

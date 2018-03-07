@@ -31,7 +31,7 @@ permalink: /szb1
 				  <td id="id_baloldal">39.1%</td>
 			</tr>
 			<tr>
-                  <td>nincs jelölt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>dr. Szoboszlay György Csaba - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">3.7%</td>
 			</tr>
 			<tr>
@@ -40,8 +40,12 @@ permalink: /szb1
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.0%</td>
-</tr>                
+<td id="id_egyutt">__</td>
+</tr>             
+<tr>
+<td>nem indul / Vajas Károly - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>   
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">54%</span><span>-os győzelmi esély</span></h5>

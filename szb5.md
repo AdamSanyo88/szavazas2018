@@ -39,8 +39,8 @@ permalink: /szb5
 				  <td id="id_momentum">0.6%</td>
 			</tr>
 <tr>
-<td>Máté Miklós Domonkos -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.5%</td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table>

@@ -39,7 +39,7 @@ permalink: /szb4
 				  <td id="id_momentum">0.7%</td>
 			</tr>
 <tr>
-<td>Ritter Ottó -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Jóczik Bálint -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">0.4%</td>
 </tr>                
               </tbody>
