@@ -37,7 +37,7 @@ permalink: /bk1
 				  <td id="lmp">6.3%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Szarvas Koppány Bendegúz - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.4%</td>
 			</tr>
 <tr>

@@ -35,7 +35,7 @@ permalink: /pe5
 				  <td id="lmp">7.6%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Kohut Ákos - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.6%</td>
 			</tr>
 <tr>

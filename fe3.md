@@ -35,7 +35,7 @@ permalink: /fe3
 				  <td id="lmp">7.1%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Molnár Dániel - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.5%</td>
 			</tr>
 <tr>

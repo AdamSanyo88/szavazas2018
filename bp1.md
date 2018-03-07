@@ -36,7 +36,7 @@ permalink: /bp1
 				  <td id="lmp">13.9%</td>
 			</tr>
 			<tr>
-				  <td>Fekete-Győr András</td>
+				  <td>Fekete-Győr András - Momentum</td>
 				  <td id="id_momentum">4.7%</td>
 			</tr>
 <tr>

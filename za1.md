@@ -35,7 +35,7 @@ permalink: /za1
 				  <td id="lmp">4.3%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Fodor Zsolt - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.1%</td>
 			</tr>
 <tr>

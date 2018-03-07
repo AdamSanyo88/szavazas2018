@@ -35,7 +35,7 @@ permalink: /va2
 				  <td id="lmp">3.7%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Kovács Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.0%</td>
 			</tr>
 <tr>

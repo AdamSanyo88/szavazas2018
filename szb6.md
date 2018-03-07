@@ -35,7 +35,7 @@ permalink: /szb6
 				  <td id="lmp">1.3%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Bankus Tibor János - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.7%</td>
 			</tr>
 <tr>

@@ -35,7 +35,7 @@ permalink: /sz3
 				  <td id="lmp">2.3%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Mikle Richárd - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>

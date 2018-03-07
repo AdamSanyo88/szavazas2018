@@ -35,7 +35,7 @@ permalink: /ve4
 				  <td id="lmp">2.8%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Iker Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.8%</td>
 			</tr>
 <tr>
