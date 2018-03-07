@@ -27,7 +27,7 @@ permalink: /be2
 			</tr>
 			<tr><td>Samu Tamás Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">33.3%</td></tr>
 <tr>
-                  <td>Kondé Gábor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+                  <td>dr. Kondé Gábor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">10.9%</td>
 			</tr>
 			<tr>
@@ -35,12 +35,12 @@ permalink: /be2
 				  <td id="lmp">4.2%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul / Babinszki Bence - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.5%</td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table>

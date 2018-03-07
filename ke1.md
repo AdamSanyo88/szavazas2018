@@ -35,13 +35,17 @@ permalink: /ke1
 				  <td id="lmp">4.6%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Novák László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.4%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.9%</td>
-</tr>                
+</tr>          
+<tr>
+<td>Barna Alexandra - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>        
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">93%</span><span>-os győzelmi esély</span></h5>

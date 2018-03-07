@@ -31,7 +31,7 @@ permalink: /bk3
 				  <td id="id_baloldal">13.0%</td>
 			</tr>
 			<tr>
-                  <td>nincs jelölt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Kerpács Rezső - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">3.8%</td>
 			</tr>
 			<tr>
@@ -40,7 +40,7 @@ permalink: /bk3
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.6%</td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table>

@@ -43,7 +43,7 @@ permalink: /bp7
 <td id="id_egyutt">__</td>
 </tr> 
 <tr>
-<td>Sebő Ferenc -  MKKP</td>
+<td>Sebő Ferenc - MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>               
               </tbody>

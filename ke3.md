@@ -22,7 +22,7 @@ permalink: /ke3
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Czunyiné Bertalan Judit - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                  <td>Czunyiné dr. Bertalan Judit - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">49.0%</td>
 			</tr>
 			<tr><td>Tóth Endre - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">13.0%</td></tr>
@@ -41,7 +41,11 @@ permalink: /ke3
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.5%</td>
-</tr>                
+</tr>              
+<tr>
+<td>Velki Dávid - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>    
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100%</span><span>-os győzelmi esély</span></h5>

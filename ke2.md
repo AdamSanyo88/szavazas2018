@@ -41,7 +41,15 @@ permalink: /ke2
 <tr>
 <td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.6%</td>
-</tr>                
+</tr>        
+<tr>
+<td>Papp László - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>     
+<tr>
+<td>Cserép János - független</td>
+<td id="id_egyeb2">__</td>
+</tr>       
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99%</span><span>-os győzelmi esély</span></h5>

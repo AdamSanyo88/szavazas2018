@@ -35,12 +35,16 @@ permalink: /be1
 				  <td id="lmp">6.0%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul / Almási István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.6%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.7%</td>
+</tr>   
+<tr>
+<td>Babiniszki Péter - MKKP</td>
+<td id="id_egyeb">__</td>
 </tr>                
               </tbody>
             </table>
