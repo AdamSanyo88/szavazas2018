@@ -25,7 +25,7 @@ permalink: /ba4
                   <td>Nagy Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">47.4%</td>
 			</tr>
-			<tr><td>Andrics Alíz Mária- Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">13.4%</td></tr>
+			<tr><td>Andrics Alíz Mária - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">13.4%</td></tr>
 <tr>
                   <td>dr. Vass Péter - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">33.2%</td>
@@ -35,13 +35,17 @@ permalink: /ba4
 				  <td id="lmp">3.1%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul / Gergely Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul / Rajnai Attila -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.7%</td>
-</tr>                
+</tr>      
+<tr>
+<td>Iván Petra -  MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>          
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">99%</span><span>-os győzelmi esély</span></h5>

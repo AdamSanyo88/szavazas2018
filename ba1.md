@@ -33,17 +33,21 @@ permalink: /ba1
 				  <td id="id_baloldal">39.9%</td>
 			</tr>
 			<tr>
-                  <td>Dr.Keresztes László Lóránt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Dr. Keresztes László Lóránt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">8.8%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Nemes Balázs - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Nemes Balázs - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.8%</td>
 			</tr>
 <tr>
 <td>Együtt - visszalépett <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">2.0%</td>
-</tr>                
+</tr>            
+<tr>
+<td>Nagy Richárd - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>    
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Dr. Mellár Tamás, </span><span id="esely">64%</span><span>-os győzelmi esély</span></h5>
