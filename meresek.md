@@ -142,6 +142,32 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			    <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_cso01/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../cs1">Csongrád 1-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>35%</td>
+				  <td>21%</td>
+				  <td>30%</td>
+				  <td>__</td>
+				  <td>8%</td>
+				  <td>6%</td>
+				  <td>__</td>
+			</tr>    
+			  <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_cso01/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../cs1">Csongrád 1-es (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>53%</td>
+				  <td>__</td>
+				  <td>47%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>    
 			  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_tol01/">'18 feb.</a></td>
                   <td>Závecz, KOM</td>

@@ -17,22 +17,22 @@ permalink: /cs1
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Bartók Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">34.8%</td>
+				  <td id="id_fidesz">37.4%</td>
 			</tr>
-			<tr><td>Tóth Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">9.1%</td></tr>
+			<tr><td>Tóth Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">13.7%</td></tr>
 <tr>
                   <td>Szabó Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">45.1%</td>
+				  <td id="id_baloldal">42.9%</td>
 			</tr>
 			<tr>
                   <td>Bodrog Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">7.0%</td>
+				  <td id="lmp">4.3%</td>
 			</tr>
 			<tr>
 				  <td>Mihálik Edvin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -40,18 +40,18 @@ permalink: /cs1
 			</tr>
 <tr>
 <td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.3%</td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">99%</span><span>-os győzelmi esély</span></h5>
-			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">99%</span><span>-os győzelmi esély</span></strong></p>
+			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">85%</span><span>-os győzelmi esély</span></h5>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">85%</span><span>-os győzelmi esély</span></strong></p>
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Valószínű</strong> </h6>
 <br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
-<p>Megjegyzés a kerülethez: A szegedi körzet alapvetően baloldali és várhatóan az MSZP-Párbeszéd jelöltje fog nyerni.</p>
+<p>Megjegyzés a kerülethez: A szegedi körzet alapvetően baloldali és várhatóan az MSZP-Párbeszéd jelöltje fog nyerni, ám ehhez szüksége van a Jobbiktól átszavazókra is.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
