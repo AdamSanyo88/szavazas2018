@@ -35,7 +35,7 @@ permalink: /cs2
 				  <td id="lmp">5.9%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Boros-Gyevi Gergely - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Boros-Gyevi Gergely - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.4%</td>
 			</tr>
 <tr>

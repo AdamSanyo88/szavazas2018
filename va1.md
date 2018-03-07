@@ -35,12 +35,12 @@ permalink: /va1
 				  <td id="lmp">5.6%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Falka Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.3%</td>
 			</tr>
 <tr>
 <td>nem indul - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.8%</td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table>

@@ -31,7 +31,7 @@ permalink: /za2
 				  <td id="id_baloldal">12.1%</td>
 			</tr>
 			<tr>
-                  <td>nincs jelölt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Temesváry Tibor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">4.4%</td>
 			</tr>
 			<tr>
@@ -39,7 +39,7 @@ permalink: /za2
 				  <td id="id_momentum">1.0%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Csontos Gábor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">0.6%</td>
 </tr>                
               </tbody>
