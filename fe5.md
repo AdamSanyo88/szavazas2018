@@ -25,7 +25,7 @@ permalink: /fe5
                   <td>Varga Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">51.3%</td>
 			</tr>
-			<tr><td>Árgyelán János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">36.0%</td></tr>
+			<tr><td>Árgyelán János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">33.0%</td></tr>
 <tr>
                   <td>Szilveszterné Nyúli Ilona - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">8.4%</td>
@@ -35,12 +35,12 @@ permalink: /fe5
 				  <td id="lmp">3.0%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>nem indul / Bálint Zoltán László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
 <td>Szigetvári Viktor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.4%</td>
+<td id="id_egyutt">3.4%</td>
 </tr>                
               </tbody>
             </table>

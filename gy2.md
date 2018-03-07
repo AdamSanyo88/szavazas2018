@@ -41,7 +41,11 @@ permalink: /gy2
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.3%</td>
-</tr>                
+</tr>     
+<tr>
+<td>nem indul / Rózsa Regina - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>           
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100%</span><span>-os győzelmi esély</span></h5>

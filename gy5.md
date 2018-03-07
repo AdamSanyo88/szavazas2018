@@ -36,12 +36,16 @@ permalink: /gy5
 			</tr>
 			<tr>
 				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.2%</td>
+				  <td id="id_momentum">__</td>
 			</tr>
 <tr>
 <td>Deschelák Károly Ferenc -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.4%</td>
 </tr>                
+<tr>
+<td>Nagy Péter Krisztián - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr> 
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100%</span><span>-os győzelmi esély</span></h5>

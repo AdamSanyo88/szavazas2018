@@ -41,7 +41,11 @@ permalink: /gy1
 <tr>
 <td>Varga Márk -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">1.7%</td>
-</tr>                
+</tr>            
+<tr>
+<td>Szalai-Németh Máté - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>    
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">100%</span><span>-os győzelmi esély</span></h5>

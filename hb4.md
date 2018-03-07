@@ -31,16 +31,16 @@ permalink: /hb4
 				  <td id="id_baloldal">9.7%</td>
 			</tr>
 			<tr>
-                  <td>nincs jelölt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Dr. Majoros Imre - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">2.9%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Buzinkay György - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.5%</td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table>

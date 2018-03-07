@@ -31,7 +31,7 @@ permalink: /hb5
 				  <td id="id_baloldal">10.1%</td>
 			</tr>
 			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Radics Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">3.1%</td>
 			</tr>
 			<tr>

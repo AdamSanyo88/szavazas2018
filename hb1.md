@@ -31,7 +31,7 @@ permalink: /hb1
 				  <td id="id_baloldal">32.6%</td>
 			</tr>
 			<tr>
-                  <td>nincs jelölt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Murguly Mátyás - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">5.2%</td>
 			</tr>
 			<tr>

@@ -31,7 +31,7 @@ permalink: /fe3
 				  <td id="id_baloldal">26.6%</td>
 			</tr>
 			<tr>
-                  <td>nincs jelölt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Szatmári Ildikó - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">7.1%</td>
 			</tr>
 			<tr>
@@ -40,7 +40,7 @@ permalink: /fe3
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.3%</td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table>
