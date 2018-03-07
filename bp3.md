@@ -17,7 +17,7 @@ permalink: /bp3
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE </th>
                 </tr>
               </thead>
               <tbody>
@@ -28,19 +28,19 @@ permalink: /bp3
 			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">3.6%</td></tr>
 <tr>
                   <td>Bauer Tamás - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">7.6%</td>
+				  <td id="id_baloldal">37.9%</td>
 			</tr>
 			<tr>
                   <td>Hajdu Mária - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">38.8%</td>
+				  <td id="lmp">10.0%</td>
 			</tr>
 			<tr>
 				  <td>Kádár Barnabás Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.0%</td>
+				  <td id="id_momentum">1.5%</td>
 			</tr>
 <tr>
 <td>Bényi Hajnal -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.9%</td>
+<td id="id_egyutt">2.0%</td>
 </tr>                
 <tr>
                   <td>Kovács Gergely - MKKP</td>
@@ -48,14 +48,14 @@ permalink: /bp3
 			</tr>		
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">88%</span><span>-os győzelmi esély</span></h5>
-			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP, </span><span id="esely2">12%</span><span>-os győzelmi esély</span></strong></p>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">90%</span><span>-os győzelmi esély</span></h5>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">DK, </span><span id="esely2">10%</span><span>-os győzelmi esély</span></strong></p>
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Kérdéses</strong> </h6>
 <br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: A kerületben az országos átlagánál erősebb az LMP is, úgyhogy pártok közti koordináció keretében az LMP is lehet esélyes jelölt.</p>
+<p>Megjegyzés a kerülethez: A kerületben az országos átlagánál erősebb az LMP is, így nehéz megmondani, hogy végül a szavazóik milyen arányban szavaznak át a DK-s jelöltre.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>

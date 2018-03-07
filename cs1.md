@@ -42,6 +42,10 @@ permalink: /cs1
 <td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">__</td>
 </tr>                
+<tr>
+<td>Pál Anna -  MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>
               </tbody>
             </table>
 			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">85%</span><span>-os győzelmi esély</span></h5>

@@ -109,8 +109,8 @@ permalink: /mandatumbecsles
 <td id="kulonbseg_bp2">3.6%</td></tr>	
 <tr><td><a href="../bp3">Budapesti 3.</a></td>
 <td id="gyoztes_bp3">Fidesz</td>
-<td id="masodik_bp3">LMP</td>
-<td id="kulonbseg_bp3">6.1%</td></tr>	
+<td id="masodik_bp3">DK</td>
+<td id="kulonbseg_bp3">7.1%</td></tr>	
 <tr><td><a href="../bp4">Budapesti 4.</a></td>
 <td id="gyoztes_bp4">Fidesz</td>
 <td id="masodik_bp4">MSZP-Párbeszéd/DK</td>
@@ -258,7 +258,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../cs1">Csongrád megyei 1.</a></td>
 <td id="gyoztes_cs1">MSZP-Párbeszéd/DK</td>
 <td id="masodik_cs1">Fidesz</td>
-<td id="kulonbseg_cs1">10.3%</td></tr>	
+<td id="kulonbseg_cs1">5.5%</td></tr>	
 <tr><td><a href="../cs2">Csongrád megyei 2.</a></td>
 <td id="gyoztes_cs2">Fidesz</td>
 <td id="masodik_cs2">MSZP-Párbeszéd/DK</td>
