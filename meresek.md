@@ -142,10 +142,36 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			  			<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_sza01/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../szb1">Szabolcs 1-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>40%</td>
+				  <td>21%</td>
+				  <td>23%</td>
+				  <td>__</td>
+				  <td>8%</td>
+				  <td>4%</td>
+				  <td>4%</td>
+			</tr>   
+			  <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_sza01/">'18 feb.</a></td>
+                  <td>Závecz, KOM</td>
+				  <td><a href="../szb1">Szabolcs 1-es (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>47%</td>
+				  <td>__</td>
+				  <td>53%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>    
  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bor01/">'18 feb.</a></td>
                   <td>Závecz, KOM</td>
-				  <td><a href="../baz1">Borsod 1-es</a></td>
+				  <td><a href="../szb1">Szabolcs 1-es (visszalépésekkel)</a></td>
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>38%</td>
 				  <td>27%</td>
