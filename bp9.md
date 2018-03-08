@@ -39,8 +39,8 @@ permalink: /bp9
 				  <td id="id_momentum">2.4%</td>
 			</tr>
 <tr>
-<td>Tábi Attila -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">2.2%</td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">__</td>
 </tr>         
 <tr>
 <td>Iván Klára Ilona -  MKKP</td>

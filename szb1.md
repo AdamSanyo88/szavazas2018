@@ -17,26 +17,26 @@ permalink: /szb1
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>dr. Szabó Tünde - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">38.7%</td>
+				  <td id="id_fidesz">40.3%</td>
 			</tr>
-			<tr><td>Lengyel Máté - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">15.0%</td></tr>
+			<tr><td>Lengyel Máté - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.2%</td></tr>
 <tr>
                   <td>Csabai Lászlóné - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">39.1%</td>
+				  <td id="id_baloldal">38.0%</td>
 			</tr>
 			<tr>
                   <td>dr. Szoboszlay György Csaba - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">3.7%</td>
+				  <td id="lmp">3.4%</td>
 			</tr>
 			<tr>
 				  <td>Babosi György - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.4%</td>
+				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
@@ -48,14 +48,14 @@ permalink: /szb1
 </tr>   
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK, </span><span id="esely">54%</span><span>-os győzelmi esély</span></h5>
-			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">54%</span><span>-os győzelmi esély</span></strong></p>
+			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">65%</span><span>-os győzelmi esély</span></h5>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2">35%</span><span>-os győzelmi esély</span></strong></p>
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Kérdéses</strong> </h6>
-<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
-<p>Megjegyzés a kerülethez: A kerület abszolút kétesélyes a Fidesz és baloldal között. Koordinált indulás esetén valószínűleg a baloldali jelölt fog győzedelmeskedni.</p>
+<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
+<p>Megjegyzés a kerülethez: A kerület abszolút kétesélyes a Fidesz és baloldal között, de a Jobbik is magas támogatottsággal rendelkezik. Koordinált indulás esetén valószínűleg a baloldali jelölt fog győzedelmeskedni, de ehhez magas átszavazási arányra van szükség.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
