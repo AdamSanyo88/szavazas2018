@@ -144,20 +144,20 @@ permalink: /meresek
               <tbody>
 			  			<tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_sza01/">'18 feb.</a></td>
-                  <td>Závecz, KOM</td>
+                  <td>Medián, KOM</td>
 				  <td><a href="../szb1">Szabolcs 1-es</a></td>
 				  <td>1000 fő, +/-3.1%</td>
-				  <td>40%</td>
-				  <td>21%</td>
+				  <td>42%</td>
 				  <td>23%</td>
+				  <td>25%</td>
 				  <td>__</td>
-				  <td>8%</td>
-				  <td>4%</td>
-				  <td>4%</td>
+				  <td>6%</td>
+				  <td>2%</td>
+				  <td>3%</td>
 			</tr>   
 			  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_sza01/">'18 feb.</a></td>
-                  <td>Závecz, KOM</td>
+                  <td>Medián, KOM</td>
 				  <td><a href="../szb1">Szabolcs 1-es (visszalépésekkel)</a></td>
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>47%</td>
