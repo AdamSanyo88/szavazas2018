@@ -12,8 +12,8 @@ permalink: /baz1
 		  <h5>Borsod-Abaúj-Zemplén megye 1-es választókerület (Miskolc)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Háromesélyes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><h5>Várható győztes: <span id="gyoztes">Jobbik, </span><span id="esely"></span><span></span></h5>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2"></span><span></span></strong></h5>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><h5>Várható győztes: <span id="gyoztes">Jobbik </span><span id="esely"></span><span></span></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik </span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
