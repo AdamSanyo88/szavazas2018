@@ -12,7 +12,7 @@ permalink: /baz3
 		  <h5>Borsod-Abaúj-Zemplén megye 3-as választókerület (Ózd)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik-baloldal)</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6<br/><h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely"></span><span></span></h5>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely"></span><span></span></h5>
 			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik, </span><span id="esely2"></span><span></span></strong></p>
 <table class="striped">
               <thead>

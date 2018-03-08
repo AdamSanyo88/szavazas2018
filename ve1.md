@@ -12,7 +12,7 @@ permalink: /ve1
 		  <h5>Veszprém megye 1-es választókerület (Veszprém)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén baloldali</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6<br/><h5>Várható győztes: <span id="gyoztes">Kész Zoltán, </span><span id="esely"></span><span></span></h5>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><h5>Várható győztes: <span id="gyoztes">Kész Zoltán, </span><span id="esely"></span><span></span></h5>
 			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Kész Zoltán, </span><span id="esely2"></span><span></span></strong></p>
 <table class="striped">
               <thead>

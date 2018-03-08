@@ -12,7 +12,7 @@ permalink: /va1
 		  <h5>Vas megye 1-es választókerület (Szombathely)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6<br/><h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely"></span><span></span></h5>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely"></span><span></span></h5>
 			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK, </span><span id="esely2"></span><span></span></strong></p>
 <table class="striped">
               <thead>
