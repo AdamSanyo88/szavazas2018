@@ -12,7 +12,8 @@ permalink: /bp1
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
 <h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal, erős LMP)</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6>
+<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6<br/><h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely"></span><span></span></h5>
+			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Együtt, </span><span id="esely2"></span><span></span></strong></p>
 <table class="striped">
               <thead>
                 <tr>
@@ -49,8 +50,7 @@ permalink: /bp1
 			</tr>			
               </tbody>
             </table>
-			<h5>Várható győztes: <span id="gyoztes">Fidesz, </span><span id="esely">94%</span><span>-os győzelmi esély</span></h5>
-			<p><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Együtt, </span><span id="esely2">6%</span><span>-os győzelmi esély</span></strong></p>
+			
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
