@@ -27,10 +27,10 @@ permalink: /mandatumbecsles
               <tbody>
              <tr>
                   <td>Fidesz</td>
-				  <td>85</td>
+				  <td>86</td>
 				  <td>40</td>
-				  <td>125</td>
-				  <td>63%</td>
+				  <td>126</td>
+				  <td>63.5%</td>
 			</tr>
 			<tr>
 				  <td>Jobbik</td>
@@ -41,10 +41,10 @@ permalink: /mandatumbecsles
 			</tr>
 			<tr>
                   <td>MSZP-Párbeszéd</td>
-				  <td>10</td>
+				  <td>9</td>
 				  <td>19</td>
-				  <td>29</td>
-				  <td>14.5%</td>
+				  <td>28</td>
+				  <td>14%</td>
 			</tr>
 			<tr>
 			      <td>DK</td>
@@ -74,8 +74,10 @@ permalink: /mandatumbecsles
 				  <td>1%</td>
               </tbody>
             </table>
-<h5>Eredmény: A Fidesz stabil többséget szerez a parlamentben 125 mandátummal. Magasabb átszavazási hajlandóság és koordináció mellett a Fidesz várható mandátumainak száma 107-re csökken.</h5>
-<h6>Utolsó frissítés: 2018. március 5.</h6>
+<h5>Eredmény: A Fidesz stabil többséget szerez a parlamentben 126 mandátummal.</h5>
+<br/>
+<h6><strong>Magasabb átszavazási hajlandóság és koordináció mellett a Fidesz várható mandátumainak száma 108-ra csökken.</strong></h6>
+<h6>Utolsó frissítés: 2018. március 5. (három kerületben március 8.)</h6>
           </div>
     </div>
 	
@@ -448,9 +450,9 @@ permalink: /mandatumbecsles
 <td id="masodik_so4">MSZP-Párbeszéd/DK</td>
 <td id="kulonbseg_so4">18.7%</td></tr>	
 <tr><td><a href="../szb1">Szabolcs-Szatmár-Bereg megyei 1.</a></td>
-<td id="gyoztes_szb1">MSZP-Párbeszéd/DK</td>
-<td id="masodik_szb1">Fidesz</td>
-<td id="kulonbseg_szb1">0.4%</td></tr>	
+<td id="gyoztes_szb1">Fidesz</td>
+<td id="masodik_szb1">MSZP-Párbeszéd/DK</td>
+<td id="kulonbseg_szb1">2.3%</td></tr>	
 <tr><td><a href="../szb2">Szabolcs-Szatmár-Bereg megyei 2.</a></td>
 <td id="gyoztes_szb2">Fidesz</td>
 <td id="masodik_szb2">Jobbik</td>
