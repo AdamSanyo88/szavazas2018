@@ -142,6 +142,32 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			  	<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_fej04/">'18 feb.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../fe4">Fejér 4-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>41%</td>
+				  <td>31%</td>
+				  <td>__</td>
+				  <td>15%</td>
+				  <td>6%</td>
+				  <td>3%</td>
+				  <td>4%</td>
+			</tr>   
+				<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_fej04/">'18 feb.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../fe4">Fejér 4-es (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>50%</td>
+				  <td>50%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>   
 			  			<tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_sza01/">'18 feb.</a></td>
                   <td>Medián, KOM</td>
@@ -171,7 +197,7 @@ permalink: /meresek
  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bor01/">'18 feb.</a></td>
                   <td>Závecz, KOM</td>
-				  <td><a href="../szb1">Szabolcs 1-es (visszalépésekkel)</a></td>
+				  <td><a href="../baz1">Borsod 1-es</a></td>
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>38%</td>
 				  <td>27%</td>
@@ -236,7 +262,7 @@ permalink: /meresek
 			<tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_tol01/">'18 feb.</a></td>
                   <td>Závecz, KOM</td>
-				  <td><a href="../to1">Tolna 1-es</a></td>
+				  <td><a href="../to1">Tolna 1-es (visszalépésekkel)</a></td>
 				  <td>1000 fő, +/-3.1%</td>
 				  <td>63%</td>
 				  <td>__</td>
