@@ -18,26 +18,26 @@ permalink: /fe4
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE </th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>dr. Galambos Dénes - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">38.5%</td>
+				  <td id="id_fidesz">40.5%</td>
 			</tr>
-			<tr><td>Pintér Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.4%</td></tr>
+			<tr><td>Pintér Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">40.4%</td></tr>
 <tr>
                   <td>Mezei Zsolt - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">36.6%</td>
+				  <td id="id_baloldal">12.0%</td>
 			</tr>
 			<tr>
                   <td>Illésy István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.2%</td>
+				  <td id="lmp">3.9%</td>
 			</tr>
 			<tr>
 				  <td>Kaszó Róbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.4%</td>
+				  <td id="id_momentum">3.3%</td>
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
@@ -49,9 +49,9 @@ permalink: /fe4
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Feltételhez kötött (lásd alább)</strong> </h6>
+			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Kérdéses</strong> </h6>
 <br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: Ebben a kerületben a DK és a Jobbik jelöltjei is erős kihívónak tekinthető. Ebben a becslésben a Jobbik szavazók inkább átszavaztak a baloldali jelöltre, így alakult ki a szoros eredmény. Pártok közti koordináció esetén ez egy nyerhető kerület az ellenzék számára.</p>
+<p>Megjegyzés a kerülethez: Ebben a kerületben a Jobbik az esélyesebb jelölt, de a DK is erősebb helyi jelöltet állít ki. A fenti becslésben a Jobbik javára szavaztak át a szavazók. Így nagyon szoros verseny (kevesebb mint 100 szavazatnyi különbség alakult ki), tehát az ellenzéknek minden szavazóra szüksége lesz a fordításhoz.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
