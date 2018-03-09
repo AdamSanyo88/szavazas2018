@@ -36,7 +36,7 @@ permalink: /szb2
 				  <td id="lmp">2.2%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Szántó Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Szántó Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
