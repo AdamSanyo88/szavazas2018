@@ -287,8 +287,8 @@ permalink: /mandatumbecsles
 <td id="kulonbseg_fe3">24.9%</td></tr>	
 <tr><td><a href="../fe4">Fejér megyei 4.</a></td>
 <td id="gyoztes_fe4">Fidesz</td>
-<td id="masodik_fe4">MSZP-Párbeszéd/DK</td>
-<td id="kulonbseg_fe4">1.9%</td></tr>	
+<td id="masodik_fe4">Jobbik</td>
+<td id="kulonbseg_fe4">0.1%</td></tr>	
 <tr><td><a href="../fe5">Fejér megyei 5.</a></td>
 <td id="gyoztes_fe5">Fidesz</td>
 <td id="masodik_fe5">Jobbik</td>
