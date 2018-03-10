@@ -44,7 +44,7 @@ permalink: /ba3
 <td id="id_egyutt">__</td>
 </tr>             
 <tr>
-<td>Pincehelyi Zita -  MKKP</td>
+<td>nem indul -  MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>   
               </tbody>

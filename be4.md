@@ -36,7 +36,7 @@ permalink: /be4
 				  <td id="lmp">3.1%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Sebők Éva - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Sebők Éva - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.3%</td>
 			</tr>
 <tr>

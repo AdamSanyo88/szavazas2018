@@ -36,11 +36,11 @@ permalink: /baz5
 				  <td id="lmp">2.3%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Pencz András Soma - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Pencz András Soma - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.0%</td>
 			</tr>
 <tr>
-<td>nem indul / Szabó Mihály -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Szabó Mihály -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">0.7%</td>
 </tr>                
               </tbody>

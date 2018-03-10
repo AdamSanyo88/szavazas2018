@@ -36,7 +36,7 @@ permalink: /be2
 				  <td id="lmp">4.2%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Babinszki Bence - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Babinszki Bence - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>

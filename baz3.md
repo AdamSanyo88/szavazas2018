@@ -40,8 +40,8 @@ permalink: /baz3
 				  <td id="id_momentum">1.0%</td>
 			</tr>
 <tr>
-<td>nem indul / Báder József -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.8%</td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz </span><span id="esely"></span><span></span></h5>

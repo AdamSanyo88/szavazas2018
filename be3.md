@@ -37,7 +37,7 @@ permalink: /be3
 				  <td id="lmp">2.6%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Nagy Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Nagy Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.5%</td>
 			</tr>
 <tr>

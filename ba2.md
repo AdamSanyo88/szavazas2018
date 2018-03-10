@@ -40,9 +40,12 @@ permalink: /ba2
 				  <td id="id_momentum">1.6%</td>
 			</tr>
 <tr>
-<td>Berkecz Balázs -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Berkecz Balázs - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">2.0%</td>
-</tr>                
+</tr>               
+<td>Marton Csongor - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>   
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK </span><span id="esely"></span><span></span></h5>
 			

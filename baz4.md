@@ -40,7 +40,7 @@ permalink: /baz4
 				  <td id="id_momentum">1.1%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Elek Zsófia -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">__</td>
 </tr>                
               </tbody>

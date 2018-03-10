@@ -36,7 +36,7 @@ permalink: /be1
 				  <td id="lmp">6.0%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Almási István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Almási István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.6%</td>
 			</tr>
 <tr>
