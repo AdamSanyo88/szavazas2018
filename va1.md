@@ -42,7 +42,11 @@ permalink: /va1
 <tr>
 <td>nem indul - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">__</td>
-</tr>                
+</tr>          
+<tr>
+<td>Viszlayné Pavelkovits Petra - MKKP</td>
+<td id="id_egyeb">__</td>
+</tr>      
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz </span><span id="esely"></span><span></span></h5>
 			

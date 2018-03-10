@@ -32,7 +32,7 @@ permalink: /va3
 				  <td id="id_baloldal">8.4%</td>
 			</tr>
 			<tr>
-                  <td>nincs jelölt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Bogáti András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">3.9%</td>
 			</tr>
 			<tr>
@@ -40,7 +40,7 @@ permalink: /va3
 				  <td id="id_momentum">1.0%</td>
 			</tr>
 <tr>
-<td>Szabó Judit -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">0.6%</td>
 </tr>                
               </tbody>
