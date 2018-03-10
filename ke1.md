@@ -40,8 +40,8 @@ permalink: /ke1
 				  <td id="id_momentum">1.4%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.9%</td>
+<td>nem indul - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">__</td>
 </tr>          
 <tr>
 <td>Barna Alexandra - MKKP</td>
