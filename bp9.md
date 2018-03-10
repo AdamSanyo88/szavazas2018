@@ -44,7 +44,7 @@ permalink: /bp9
 <td id="id_egyutt">__</td>
 </tr>         
 <tr>
-<td>Iván Klára Ilona -  MKKP</td>
+<td>nem indul -  MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>       
               </tbody>

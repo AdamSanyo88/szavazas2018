@@ -44,13 +44,13 @@ permalink: /bp5
 <td id="id_egyutt">1.5%</td>
 </tr>    
 <tr>
-<td>Dr. Bokros Lajos -  MoMa</td>
-<td id="egyeb">2.0%</td>
-</tr>  
-<tr>
 <td>Döme Zsuzsanna -  MKKP</td>
+<td id="egyeb">2.0%</td>
+</tr>      
+<td>Dr. Bokros Lajos -  MoMa</td>
 <td id="egyeb2">2.0%</td>
-</tr>            
+</tr>  
+<tr>      
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK </span><span id="esely"></span><span></span></h5>
 			
