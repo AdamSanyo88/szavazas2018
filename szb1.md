@@ -40,11 +40,11 @@ permalink: /szb1
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Lövei Csaba -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">__</td>
 </tr>             
 <tr>
-<td>nem indul / Vajas Károly - MKKP</td>
+<td>Vajas Károly - MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>   
               </tbody>
