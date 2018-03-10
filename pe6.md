@@ -36,7 +36,7 @@ permalink: /pe6
 				  <td id="lmp">7.0%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Molnár László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Molnár László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.5%</td>
 			</tr>
 <tr>

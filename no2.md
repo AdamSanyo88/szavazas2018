@@ -28,7 +28,7 @@ permalink: /no2
 			</tr>
 			<tr><td>Dobrocsi Lénárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">28.9%</td></tr>
 <tr>
-                  <td>Csukáné Szerémy Andrea</td>
+                  <td>Csukáné Szerémy Andrea <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">13.7%</td>
 			</tr>
 			<tr>

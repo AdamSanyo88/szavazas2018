@@ -44,7 +44,7 @@ permalink: /no1
 <td id="id_egyutt">1.7%</td>
 </tr>       
 <tr>
-<td>Betes Valéria Mónika - MKKP</td>
+<td>Betes Mona - MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>           
               </tbody>

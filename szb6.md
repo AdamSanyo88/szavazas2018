@@ -28,7 +28,7 @@ permalink: /szb6
 			</tr>
 			<tr><td>Kész Géza - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">35.3%</td></tr>
 <tr>
-                  <td>dr. Veres János - MSZP-Párbeszéd</td>
+                  <td>dr. Veres János - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">10.9%</td>
 			</tr>
 			<tr>

@@ -44,7 +44,7 @@ permalink: /szb2
 <td id="id_egyutt">__</td>
 </tr>       
 <tr>
-<td>nem indul / Kovács Andrea - MKKP</td>
+<td>nem indul - MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>         
               </tbody>

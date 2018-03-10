@@ -40,7 +40,7 @@ permalink: /so2
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
-<td>nem indul / Gyertyás Lászlóné - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Gyertyás Lászlóné - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">0.7%</td>
 </tr>                
               </tbody>

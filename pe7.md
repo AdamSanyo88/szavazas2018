@@ -36,7 +36,7 @@ permalink: /pe7
 				  <td id="lmp">4.1%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Kalasovszky Bernadett - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Kalasovszky Bernadett - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">1.3%</td>
 			</tr>
 <tr>

@@ -26,7 +26,7 @@ permalink: /sz3
                   <td>Kovács Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">55.1%</td>
 			</tr>
-			<tr><td>Dd. Lukács László György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">31.8%</td></tr>
+			<tr><td>Dr. Lukács László György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">31.8%</td></tr>
 <tr>
                   <td>Bodó Jánosné - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">9.5%</td>

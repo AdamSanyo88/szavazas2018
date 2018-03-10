@@ -37,10 +37,10 @@ permalink: /pe9
 			</tr>
 			<tr>
 				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">0.9%</td>
+				  <td id="id_momentum">__</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>	Mérő Péter Ferenc -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
 <td id="id_egyutt">0.6%</td>
 </tr>                
               </tbody>

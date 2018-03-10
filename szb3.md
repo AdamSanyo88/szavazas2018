@@ -41,7 +41,7 @@ permalink: /szb3
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.5%</td>
+<td id="id_egyutt">__</td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz </span><span id="esely"></span><span></span></h5>

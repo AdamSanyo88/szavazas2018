@@ -40,8 +40,8 @@ permalink: /ke3
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.5%</td>
+<td>nem indul - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">__</td>
 </tr>              
 <tr>
 <td>Velki Dávid - MKKP</td>
