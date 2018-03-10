@@ -23,7 +23,7 @@ permalink: /hb4
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Vitányi István József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                  <td>dr. Vitányi István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">49.9%</td>
 			</tr>
 			<tr><td>Keresztesy Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">36.1%</td></tr>

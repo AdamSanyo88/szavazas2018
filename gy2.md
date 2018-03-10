@@ -40,11 +40,11 @@ permalink: /gy2
 				  <td id="id_momentum">1.1%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.3%</td>
+<td>nem indul - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td id="id_egyutt">__</td>
 </tr>     
 <tr>
-<td>nem indul / Rózsa Regina - MKKP</td>
+<td>nem indul - MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>           
               </tbody>
@@ -53,7 +53,7 @@ permalink: /gy2
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Szinte biztos</strong> </h6>
+			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Szinte biztos</strong> </h6>
 <br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
 <p>Megjegyzés a kerülethez: A Fidesz biztosan vezet, az ellenzéknek magas részvétel és mozgósítás esetén van esélye a kerületben.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>

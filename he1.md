@@ -23,7 +23,7 @@ permalink: /he1
               </thead>
               <tbody>
              <tr>
-                  <td>Nyitrai Zsolt Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                  <td>Nyitrai Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">40.6%</td>
 			</tr>
 			<tr><td>Mirkóczki Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">36.8%</td></tr>
@@ -41,7 +41,7 @@ permalink: /he1
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">0.8%</td>
+<td id="id_egyutt">__</td>
 </tr>  
 <tr>
 <td>Várady Zoltán - MKKP</td>

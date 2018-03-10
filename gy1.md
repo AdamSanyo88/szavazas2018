@@ -44,7 +44,7 @@ permalink: /gy1
 <td id="id_egyutt">1.7%</td>
 </tr>            
 <tr>
-<td>Szalai-Németh Máté - MKKP</td>
+<td>nem indul - MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>    
               </tbody>
