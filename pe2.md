@@ -44,7 +44,7 @@ permalink: /pe2
 <td id="id_egyutt">__</td>
 </tr>                
 <tr>
-<td>Betlehem Csaba - MKKP</td>
+<td>Betlehem Csaba - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>  
               </tbody>

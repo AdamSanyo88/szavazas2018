@@ -44,7 +44,7 @@ permalink: /bk4
 <td id="id_egyutt">0.6%</td>
 </tr>       
 <tr>
-<td>Bodor Sándor - MKKP</td>
+<td>Bodor Sándor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>            
               </tbody>

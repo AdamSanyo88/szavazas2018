@@ -44,7 +44,7 @@ permalink: /bp2
 <td id="id_egyutt">2.0%</td>
 </tr>                
 <tr>
-                  <td>Fischer Roland - MKKP</td>
+                  <td>Fischer Roland - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 				  <td id="id_egyeb">__</td>
 			</tr>		
               </tbody>

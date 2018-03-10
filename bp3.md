@@ -44,7 +44,7 @@ permalink: /bp3
 <td id="id_egyutt">2.0%</td>
 </tr>                
 <tr>
-                  <td>Kovács Gergely - MKKP</td>
+                  <td>Kovács Gergely - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 				  <td id="id_egyeb">__</td>
 			</tr>		
               </tbody>

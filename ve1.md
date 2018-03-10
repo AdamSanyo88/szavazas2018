@@ -44,7 +44,7 @@ permalink: /ve1
 <td id="id_egyutt">__</td>
 </tr>
 <tr>
-<td>Szimmer Ákos - MKKP</td>
+<td>Szimmer Ákos - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>                 
               </tbody>

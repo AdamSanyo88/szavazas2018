@@ -46,7 +46,7 @@ permalink: /ba1
 <td id="id_egyutt">2.0%</td>
 </tr>            
 <tr>
-<td>Nagy Richárd - MKKP</td>
+<td>Nagy Richárd - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>    
               </tbody>

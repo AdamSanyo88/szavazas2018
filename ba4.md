@@ -44,7 +44,7 @@ permalink: /ba4
 <td id="id_egyutt">1.7%</td>
 </tr>      
 <tr>
-<td>Iván Petra -  MKKP</td>
+<td>Iván Petra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>          
               </tbody>

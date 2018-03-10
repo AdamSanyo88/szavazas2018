@@ -43,7 +43,7 @@ permalink: /ba2
 <td>Berkecz Balázs - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">2.0%</td>
 </tr>               
-<td>Marton Csongor - MKKP</td>
+<td>Marton Csongor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>   
               </tbody>

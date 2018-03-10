@@ -45,7 +45,7 @@ permalink: /bp1
 				  <td id="id_egyutt">28.8%</td>
 			</tr>	
 <tr>
-                  <td>Horváth András - MKKP</td>
+                  <td>Horváth András - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 				  <td id="id_egyeb">__</td>
 			</tr>			
               </tbody>

@@ -44,7 +44,7 @@ permalink: /ke1
 <td id="id_egyutt">__</td>
 </tr>          
 <tr>
-<td>Barna Alexandra - MKKP</td>
+<td>Barna Alexandra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>        
               </tbody>

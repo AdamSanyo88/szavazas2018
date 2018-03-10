@@ -44,7 +44,7 @@ permalink: /szb2
 <td id="id_egyutt">__</td>
 </tr>       
 <tr>
-<td>nem indul - MKKP</td>
+<td>nem indul - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>         
               </tbody>

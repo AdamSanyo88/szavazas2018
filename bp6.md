@@ -44,7 +44,7 @@ permalink: /bp6
 <td id="id_egyutt">2.1%</td>
 </tr>    
 <tr>
-<td>Racskó Gábor -  MKKP</td>
+<td>Racskó Gábor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>             
               </tbody>

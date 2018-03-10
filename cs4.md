@@ -44,7 +44,7 @@ permalink: /cs4
 <td id="id_egyutt">0.4%</td>
 </tr>
 <tr>
-<td>Farkas Tamás - MKKP</td>
+<td>Farkas Tamás - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr>                 
               </tbody>

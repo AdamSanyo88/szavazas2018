@@ -44,7 +44,7 @@ permalink: /gy5
 <td id="id_egyutt">1.4%</td>
 </tr>                
 <tr>
-<td>Nagy Péter Krisztián - MKKP</td>
+<td>Nagy Péter Krisztián - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_egyeb">__</td>
 </tr> 
               </tbody>

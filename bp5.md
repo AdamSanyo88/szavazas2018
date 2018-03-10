@@ -44,7 +44,7 @@ permalink: /bp5
 <td id="id_egyutt">1.5%</td>
 </tr>    
 <tr>
-<td>Döme Zsuzsanna -  MKKP</td>
+<td>Döme Zsuzsanna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="egyeb">2.0%</td>
 </tr>  
 <tr>    

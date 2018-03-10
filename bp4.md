@@ -44,7 +44,7 @@ permalink: /bp4
 <td id="id_egyutt">2.0%</td>
 </tr>    
 <tr>
-                  <td>Juhász Veronika -  MKKP</td>
+                  <td>Juhász Veronika - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 				  <td id="id_egyeb">__</td>
 			</tr>		            
               </tbody>
