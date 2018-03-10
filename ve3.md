@@ -44,7 +44,7 @@ permalink: /ve3
 <td id="id_egyutt">0.8%</td>
 </tr>    
 <tr>
-<td>nem indul / Pavlovics Márk - MKKP</td>
+<td>Pavlovics Márk - MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>            
               </tbody>
