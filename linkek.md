@@ -33,6 +33,7 @@ permalink: /linkek
       </div>
 <br/><br/>
 <h5 class="center">Cikkek és anyagok</h5>
+<p><a href="https://merce.hu/2018/03/10/az-lmp-akkor-koordinal-ha-a-teljes-ellenzek-megegyezik/">Az LMP csak akkor koordinál, ha a teljes ellenzék megegyezik</a> - Mérce, 2018. március 10.</p>
 <p><a href="https://index.hu/belfold/2018/valasztas/2018/03/06/zavecz_kutatas_kormanyvaltas_szandek/">A jobbikosok ötöde átszavaz a balos jelöltre, ha az az erősebb</a> - Index.hu - 2018. március 6.</p>
 <p><a href="https://index.hu/belfold/2018/valasztas/2018/03/05/az_lmp_es_az_mszp-parbeszed_kedden_targyal_a_visszaleptetesekrol/">Az LMP és az MSZP-Párbeszéd kedden tárgyal a visszaléptetésekről</a> - Index.hu, 2018. március 5.</p>
 <p><a href="https://merce.hu/2018/03/04/a-valasztoknak-tobb-mint-a-fele-szavazna-egy-baloldali-osszefogasra-ha-annak-lenne-eselye-legyozni-a-fideszt/">A választóknak több mint a fele szavazna egy baloldali összefogásra, ha annak lenne esélye legyőzni a Fideszt</a> - Mérce, 2018. március 4.</p>
