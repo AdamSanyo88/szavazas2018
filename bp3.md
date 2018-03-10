@@ -40,7 +40,7 @@ permalink: /bp3
 				  <td id="id_momentum">1.5%</td>
 			</tr>
 <tr>
-<td>Bényi Hajnal -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Bényi Hajnal -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">2.0%</td>
 </tr>                
 <tr>

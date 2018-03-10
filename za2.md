@@ -40,7 +40,7 @@ permalink: /za2
 				  <td id="id_momentum">1.0%</td>
 			</tr>
 <tr>
-<td>Csontos Gábor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Csontos Gábor -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">0.6%</td>
 </tr>                
               </tbody>

@@ -40,7 +40,7 @@ permalink: /bp7
 				  <td id="id_momentum">2.4%</td>
 			</tr>
 <tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">__</td>
 </tr> 
 <tr>

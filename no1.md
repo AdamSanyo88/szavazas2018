@@ -40,7 +40,7 @@ permalink: /no1
 				  <td id="id_momentum">1.3%</td>
 			</tr>
 <tr>
-<td>Nógrádi Nóra -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Nógrádi Nóra -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">1.7%</td>
 </tr>       
 <tr>

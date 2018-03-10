@@ -40,7 +40,7 @@ permalink: /szb2
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
-<td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">__</td>
 </tr>       
 <tr>

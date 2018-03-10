@@ -40,7 +40,7 @@ permalink: /ba2
 				  <td id="id_momentum">1.6%</td>
 			</tr>
 <tr>
-<td>Berkecz Balázs - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Berkecz Balázs - Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">2.0%</td>
 </tr>               
 <td>Marton Csongor - MKKP</td>

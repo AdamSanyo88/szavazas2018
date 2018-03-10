@@ -40,7 +40,7 @@ permalink: /cs3
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
-<td>Dombi Gábor - Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Dombi Gábor - Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">0.7%</td>
 </tr>                
               </tbody>

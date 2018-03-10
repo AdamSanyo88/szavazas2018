@@ -40,7 +40,7 @@ permalink: /baz2
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
-<td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>visszalépett -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">__</td>
 </tr>                
               </tbody>

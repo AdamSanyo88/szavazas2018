@@ -40,7 +40,7 @@ permalink: /fe5
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
-<td>Szigetvári Viktor -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Szigetvári Viktor -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">3.4%</td>
 </tr>                
               </tbody>

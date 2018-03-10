@@ -40,7 +40,7 @@ permalink: /bp6
 				  <td id="id_momentum">2.7%</td>
 			</tr>
 <tr>
-<td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
+<td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">2.1%</td>
 </tr>    
 <tr>
