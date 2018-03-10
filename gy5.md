@@ -40,7 +40,7 @@ permalink: /gy5
 				  <td id="id_momentum">__</td>
 			</tr>
 <tr>
-<td>Deschelák Károly Ferenc -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
+<td>Deschelák Károly Ferenc -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">1.4%</td>
 </tr>                
 <tr>

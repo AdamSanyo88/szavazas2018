@@ -40,7 +40,7 @@ permalink: /be4
 				  <td id="id_momentum">1.3%</td>
 			</tr>
 <tr>
-<td>Bod Tamás -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
+<td>Bod Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">1.4%</td>
 </tr>                
               </tbody>

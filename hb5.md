@@ -40,7 +40,7 @@ permalink: /hb5
 				  <td id="id_momentum">1.1%</td>
 			</tr>
 <tr>
-<td>Szemők Zoltán -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
+<td>Szemők Zoltán -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">0.5%</td>
 </tr>                
               </tbody>

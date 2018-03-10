@@ -40,7 +40,7 @@ permalink: /bp5
 				  <td id="id_momentum">3.6%</td>
 			</tr>
 <tr>
-<td>Nyíri Gábor -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
+<td>Nyíri Gábor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">1.5%</td>
 </tr>    
 <tr>

@@ -40,7 +40,7 @@ permalink: /pe9
 				  <td id="id_momentum">__</td>
 			</tr>
 <tr>
-<td>	Mérő Péter Ferenc -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
+<td>	Mérő Péter Ferenc -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">0.6%</td>
 </tr>                
               </tbody>

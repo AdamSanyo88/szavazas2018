@@ -42,7 +42,7 @@ permalink: /ba1
 				  <td id="id_momentum">1.8%</td>
 			</tr>
 <tr>
-<td>Együtt - visszalépett <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
+<td>Együtt - visszalépett <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">2.0%</td>
 </tr>            
 <tr>

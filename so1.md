@@ -40,7 +40,7 @@ permalink: /so1
 				  <td id="id_momentum">1.2%</td>
 			</tr>
 <tr>
-<td>Kerepesi Tibor -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
+<td>Kerepesi Tibor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">1.8%</td>
 </tr>                
               </tbody>

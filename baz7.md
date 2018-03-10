@@ -40,7 +40,7 @@ permalink: /baz7
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>
-<td>Kiss Tamás -  Együtt <img src="images/egyutt_logo.png" style="width:71px;height:30px;"></td>
+<td>Kiss Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">0.5%</td>
 </tr>                
               </tbody>
