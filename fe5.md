@@ -36,7 +36,7 @@ permalink: /fe5
 				  <td id="lmp">3.0%</td>
 			</tr>
 			<tr>
-				  <td>nem indul / Bálint Zoltán László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Bálint Zoltán László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.9%</td>
 			</tr>
 <tr>

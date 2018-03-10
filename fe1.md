@@ -23,7 +23,7 @@ permalink: /fe1
               </thead>
               <tbody>
              <tr>
-                  <td>Vargha Tamás János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                  <td>Vargha Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">44.9%</td>
 			</tr>
 			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">10.4%</td></tr>

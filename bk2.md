@@ -41,10 +41,10 @@ permalink: /bk2
 			</tr>
 <tr>
 <td>nem indul -  Együtt <img src="images/egyutt_logo.png" style="width:31px;height:30px;"></td>
-<td id="id_egyutt">1.4%</td>
+<td id="id_egyutt">___%</td>
 </tr>       
 <tr>
-<td>Szentesi Szabolcs - MKKP</td>
+<td>nem indul - MKKP</td>
 <td id="id_egyeb">__</td>
 </tr>            
               </tbody>

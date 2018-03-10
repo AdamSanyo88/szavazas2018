@@ -26,7 +26,7 @@ permalink: /cs4
                   <td>Lázár János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">44.2%</td>
 			</tr>
-			<tr><td>nincs jelölt / Dr. Kiss Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">46.9%</td></tr>
+			<tr><td>Dr. Kiss Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">46.9%</td></tr>
 <tr>
                   <td>Rója István - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">7.0%</td>
@@ -36,7 +36,7 @@ permalink: /cs4
 				  <td id="lmp">1.0%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td>Jakab Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">0.5%</td>
 			</tr>
 <tr>
