@@ -15,23 +15,20 @@ permalink: /tamogatas
 <p>Viszont a Facebookon keresztül közvetlenül is lehet az oldalt reklámozni, ám ennek díja van. Ha szeretnél hozzájárulni a reklámozás költségéhez, akkor az alábbi csatornákon tudsz pénzadományt küldeni:</p>
 <br/>
 <h6><strong>Banki átutalás belföldről:</strong></h6>
-<br/>
 <h6>Átutalás kedvezményezettje: Sanyó Ádám</h6>
 <h6>Bank neve: Raiffeisen Bank</h6>
 <h6>Számlaszám: 12052729-01472767-00100009</h6>
 <h6>Közlemény: támogatás</h6>
 <br/>
 <h6><strong>Banki átutalás külföldről:</strong></h6>
-<br/>
 <h6>Átutalás kedvezményezettje: Sanyó Ádám</h6>
 <h6>Bank neve: Raiffeisen Bank</h6>
 <h6>IBAN számlaszám: HU73-1205-2729-0147-2767-0010-0009</h6>
 <h6>BIC/Swift kód: UBRTHUHB</h6>
 <h6>Közlemény: támogatás</h6>
-
-<h6><strong>Egyéb módok</strong></h6>
 <br/>
-<p>Ha elektronikus pénztárcáról (pl. PayPalről) vagy egyéb módon - például nem magyarországi bankszámlára vagy nem forintban - szeretnél utalni, akkor kérlek, keress a <a href="mailto:taktikaiszavazas.hu@gmail.com>taktikaiszavazas.hu@gmail.com</a> email címén.</p>
+<h6><strong>Egyéb módok:</strong></h6>
+<p>Ha elektronikus pénztárcáról (pl. PayPalről) vagy egyéb módon - például nem magyarországi bankszámlára vagy nem forintban - szeretnél utalni, akkor kérlek, keress a <a href="mailto:taktikaiszavazas.hu@gmail.com">taktikaiszavazas.hu@gmail.com</a> email címén.</p>
 
 <p>Fontos: A hatályos adóügyi jogszabályok alapján egy magánszemélytől maximum 150 ezer forintos felajánlást tudok elfogadni, de bármilyen kisebb összegű támogatást is szívesen veszek.</p>
     
