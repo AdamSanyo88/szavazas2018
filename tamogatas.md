@@ -30,5 +30,7 @@ permalink: /tamogatas
 <h6><strong>Egyéb módok:</strong></h6>
 <p>Ha elektronikus pénztárcáról (pl. PayPalről) vagy egyéb módon - például nem magyarországi bankszámlára vagy nem forintban - szeretnél utalni, akkor kérlek, keress a <a href="mailto:taktikaiszavazas.hu@gmail.com">taktikaiszavazas.hu@gmail.com</a> email címén.</p>
 
-<p>Fontos: A hatályos adóügyi jogszabályok alapján egy magánszemélytől maximum 150 ezer forintos felajánlást tudok elfogadni, de bármilyen kisebb összegű támogatást is szívesen veszek.</p>
+<p>Ha pénzzel nem tudod támogatni a kezdeményezést, akkor annak is örülök, ha megosztod az oldalt ismerőseiddel, ugyanis minden plusz szavazó számítani fog április 8-án.</p>
+
+<p>Fontos: A hatályos adózást érintő jogszabályok alapján egy magánszemélytől maximum 150 ezer forintos felajánlást tudok elfogadni, de bármilyen kisebb összegű támogatást is szívesen veszek.</p>
     
