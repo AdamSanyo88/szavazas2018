@@ -49,7 +49,7 @@ permalink: /bp5
 </tr>  
 <tr>    
 <td>Dr. Bokros Lajos -  MoMa</td>
-<td id="id_egyeb2">1.5%</td>
+<td id="id_egyeb2">1.4%</td>
 </tr>        
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

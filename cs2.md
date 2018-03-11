@@ -33,7 +33,7 @@ permalink: /cs2
 			</tr>
 			<tr>
                   <td>dr. Tessényi Judit - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">7.6%</td>
+				  <td id="lmp">7.5%</td>
 			</tr>
 			<tr>
 				  <td>Boros-Gyevi Gergely - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
