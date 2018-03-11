@@ -83,11 +83,11 @@ permalink: /metodologia
 
 <h6><strong>További fejlesztések a következő becslésekben</strong></h6>
 <br/>
-<h6><strong>Regionális elmozdulás becslése</strong></h6>
+<h6><strong>1. Regionális elmozdulás becslése</strong></h6>
 <p>A héten elkészült egy lista a 106 választókerület profiljáról, amely megmondja, hogy milyen települések tartoznak egy-egy kerületbe. Ezeket az adatokat felhasználva - és a Közös Ország Mozgalom újabb választókerületi méréseit - egy regionális szavazatarányt próbál majd becsülni a modell. Ennek az a célja, hogy ne csak az országos adatokból induljon ki a modell, hanem vegye azt is figyelembe, hogy az ország egyes részein más és más módon változott a pártok támogatottsága.</p>
 <p>Emellett minden választókerületben figyelemmel kísérjük majd, hogy vannak-e visszalépések, illetve hogy miben változik a pártok kommunikációja a koordinált jelöltállítás kapcsán.</p>
 
-<h6>Erős és integratív jelöltek listája</h6>
+<h6><strong>2. Erős és integratív jelöltek listája</strong></h6>
 <p>Ahogy a kisebb pártok esetében, így a nagyobb pártoknál is fogok készíteni egy listát arról, hogy mely jelöltek országosan ismertek, mivel egy ismert jelölt várhatóan több szavazatot kap a bizonytalan szavazóktó is.</p>
 
 <p><strong>A következő becslés március 19-én jelenik meg.</strong></p>
