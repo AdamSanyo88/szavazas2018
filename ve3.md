@@ -8,12 +8,12 @@ permalink: /ve3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
 		  <h5>Veszprém megye 3-as választókerület (Tapolca)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz-Jobbik)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik </span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
@@ -24,39 +24,34 @@ permalink: /ve3
               <tbody>
              <tr>
                   <td>Fenyvesi Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">35.5%</td>
+				  <td id="id_fidesz">34.6%</td>
 			</tr>
-			<tr><td>Rig Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">44.9%</td></tr>
+			<tr><td>Rig Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">37.1%</td></tr>
 <tr>
                   <td>Kárpáti Lajos - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">15.6%</td>
+				  <td id="id_baloldal">24.0%</td>
 			</tr>
 			<tr>
                   <td>Takács Lajos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">2.4%</td>
+				  <td id="lmp">3.2%</td>
 			</tr>
 			<tr>
-				  <td>nem indul - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">__</td>
-			</tr>
-<tr>
-<td>nem indul - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">__</td>
-</tr>    
+				  </tr>
+    
 <tr>
 <td>Pavlovics Márk - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">__</td>
+<td id="id_mkkp">1.1%</td>
 </tr>            
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Jobbik </span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">Jobbik</span><span id="esely"></span><span></span></h5>
 			
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Kérdéses</strong> </h6>
-<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
+			
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
 <p>Megjegyzés a kerülethez: A 2015-ös időközi választás után a Jobbik erősödött meg a kerületben. Ha további szavazók állnak be a jelölt mögé, akkor viszonylag stabil Jobbik győzelem várható.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

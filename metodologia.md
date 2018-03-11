@@ -25,6 +25,71 @@ permalink: /metodologia
 <h5>Gyakori kérdések</h5>
 <p><a href="https://www.facebook.com/taktikaiszavazas.hu/posts/147704859241441">A linken keresztül elérhető Facebook bejegyzés</a> összefoglal néhány gyakori kérdést a becslésekkel kapcsolatban.</p>
 
+<h5 id="0312">Március 12-i becslés módszertana és leírása</h5>
+<br/>
+<h6><strong>Összefoglaló</strong></h6>
+<br/>
+<p>Ez a becslés a 2014-es eredmények országos egységes elmozdulását (UNS) használta kiindulópontnak, majd ehhez képest a kisebb pártok (Momentum, Együtt, MKKP) esetében egy súlyozással élt, hogy ezen pártok budapesti és nagyobb városokban várható magasabb támogatottságát figyelembe véve becsüljön.</p>
+
+<p>Ezen kívül a becslés felhasználta a Közös Ország Mozgalom 10 választókerületi mérését, amelyek 2018. februárjában készültek. Ezek az 1000 fős mintán készült kutatások jól mutatják egyes pártok várható országos támogatottságát. A 10 választókerületi mérés megmutatta, hogy a március 5-én használt bemeneti adatok túl optimistán mérték fel az MSZP-Párbeszéd támogatottságát, és túl pesszimistán a Jobbikét. Ezért ezek a bemeneti változók módosítva lettek (lásd alább). Emellett a Momentum országos támogatottsága is 0.5%-kal magasabb a vártnál (2.5%, míg legutóbb 2%-kal volt számolva). Végezetül az MKKP egyéni jelöltjei is felkerültek a becslések közé, továbbá egy-egy helyileg vagy országosan ismert egyéb jelölt is (például Bokros Lajos az egyik budapesti kerületben).</p>
+<br/>
+
+<h6>Az UNS bemeneti adatai <strong>(pártok országos támogatottsága)</strong>:</h6>
+<p></p>
+<h6>Fidesz-KDNP 43.5%</h6>
+<h6>Jobbik: 20.5%</h6>
+<h6>MSZP-P: 14%</h6>
+<h6>LMP: 9%</h6>
+<h6>DK: 6.5%</h6>
+<h6>Momentum: 2.5%</h6>
+<h6>Együtt: 1%</h6>
+<h6>MKKP: 1%</h6>
+<h6>Egyéb: 2%</h6>
+
+<h6><strong>Részvételi arány: 64%</strong>
+
+<p><strong>Várható egyéni győzelemek száma</strong> (zárójelben a koordináció esetén további nyerhető körzetek száma):</p>
+<h6>Fidesz: 91</h6>
+<h6>MSZP: 6 (1)</h6>
+<h6>DK: 1 (4)</h6>
+<h6>Jobbik: 7 (4)</h6>
+<h6>LMP: 0 (2)</h6>
+<h6>Független: 1 (1)</h6>
+
+<p><strong>Átszavazási hajlandóság:</strong></p>
+
+<p>Az egyes pártokra akkor szavaztak át a választók, ha az ellenzéki jelölt legalább 7%-kal erősebb volt a saját párt jelöltjénél. Ez lényeges változás az előző becsléshez képest, ahol már 0.1%-nál megindult az átszavazás.</p>
+
+<p><strong>Az átszavazási hajlandóság 0-40% között mozgott</strong> attól függően, hogy mekkora a különbség az első és második legerősebb jelölt között.</p>
+<p>Átszavazás pártonként:</p>
+<h6>A Jobbikról-MSZP/DK-ra: 0% vagy 25% (ha egyértelműen erősebb az MSZP/DK jelöltje)</h6>
+<h6>MSZP/DK-ról Jobbikra: 0% vagy 35% (ha egyértelműen erősebb a Jobbik jelöltje)</h6>
+<h6>LMP-ről MSZP/DK-ra: 10-40% között (minden 1%-nyi várható különbség az MSZP/DK jelölt javára 1%-kal növelte az átszavazási hajlandóságot)</h6>
+<h6>LMP-ről Jobbikra: 10-40% között (minden 1%-nyi várható különbség a Jobbik jelölt javára 1%-kal növelte az átszavazási hajlandóságot)</h6>
+<h6>MSZP/DK-ról LMP-re: 80% (formális visszalépés esetén)</h6>
+<h6>Momentumról bárkire: 0-30% (az LMP szavazóinál 10%-kal kisebb arányban szavaznának át bárkire)</h6>
+<h6>Együttről és MKKP-ról bárkire: A belvárosi kerületekben és nagyobb városokban 0%, egyébként egységesen 30%</h6>
+
+<p>A választókerületi eredményeken látható, hogy a Fidesz sok kerületben nagyobb arányban nyer, mivel nincs átszavazás az MSZP/DK és Jobbik szavazói között.</p>
+
+<h6>Esélyes jelöltek</h6>
+<p>Az új becslés azt mutatja, hogy a Jobbik az esélyes jelölt a körzetek többségében (40 helyen biztosan, 24 helyen inkább esélyes), míg a baloldal Budapesten és néhány nagyobb városban esélyes. 43 körzetben továbbra sem lehet biztosra mondani, hogy ki az esélyes, ugyanis visszalépések és az első két helyezett közti 7%-nál kisebb különbség jelzi, hogy mind a Jobbik, mind az MSZP/DK jelöltje rendelkezik stabil támogatottsággal. Ahol nincs egyértelmű esélyes, ott általában a Fidesz magabiztosan vezet, így kisebb a jelentősége annak, hogy ki is igazán az esélyes (kivéve ha az összes párt részt venne egy koordinált jelöltállításban).</p>
+
+<h6>Nyerhető, de jelenleg vesztes körzetek</h6>
+<p>A becslés meglepő módon több, nagyon kicsi arányú (1-2%-os) Fidesz győzelmet hozott öt belvárosi kerületben. Ennek az oka, hogy országosan alacsonyabb MSZP-Párbeszéd/DK támogatottság mellett és a kisebb pártok nagyobb szavazataránya miatt a Fidesz akár 35%-os támogatottsággal is megnyerheti ezeket a kerületeket. Ha a kisebb pártok szavazói magasabb arányban szavaznak át az MSZP-Párbeszéd/DK jelöltjére, akkor ez az öt kerület egyértelműen nyerhető a baloldal számára. Ezek nélkül viszont a Fidesz könnyen 2/3-os többségbe kerülhet</p>
+
+<h6>További fejlesztések a következő becslésekben</h6>
+
+<h6>Regionális elmozdulás becslése</h6>
+<p>A héten elkészült egy lista a 106 választókerület profiljáról, amely megmondja, hogy milyen települések tartoznak egy-egy kerületbe. Ezeket az adatokat felhasználva - és a Közös Ország Mozgalom újabb választókerületi méréseit - egy regionális szavazatarányt próbál majd becsülni a modell. Ennek az a célja, hogy ne csak az országos adatokból induljon ki a modell, hanem vegye azt is figyelembe, hogy az ország egyes részein más és más módon változott a pártok támogatottsága.</p>
+<p>Emellett minden választókerületben figyelemmel kísérjük majd, hogy vannak-e visszalépések, illetve hogy miben változik a pártok kommunikációja a koordinált jelöltállítás kapcsán.</p>
+
+<h6>Erős és integratív jelöltek listája</h6>
+<p>Ahogy a kisebb pártok esetében, így a nagyobb pártoknál is fogok készíteni egy listát arról, hogy mely jelöltek országosan ismertek, mivel egy ismert jelölt várhatóan több szavazatot kap a bizonytalan szavazóktó is.</p>
+
+<p>A következő becslés <strong>március 19-én jelenik meg</strong></p>
+<br/>
+
 <h5 id="0305">Március 5-i becslés módszertana és leírása</h5>
 
 <p><strong>Összefoglaló</strong></p>

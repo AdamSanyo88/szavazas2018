@@ -8,12 +8,12 @@ permalink: /ve1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
 		  <h5>Veszprém megye 1-es választókerület (Veszprém)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén baloldali</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Kész Zoltán </span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Kész Zoltán</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
@@ -24,39 +24,36 @@ permalink: /ve1
               <tbody>
              <tr>
                   <td>Ovádi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">34.9%</td>
+				  <td id="id_fidesz">35.0%</td>
 			</tr>
-			<tr><td>dr. Varga-Damm Andrea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">10.2%</td></tr>
+			<tr><td>dr. Varga-Damm Andrea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">16.7%</td></tr>
 <tr>
                   <td>Kész Zoltán - független</td>
-				  <td id="id_baloldal">49.3%</td>
+				  <td id="id_baloldal">37.0%</td>
 			</tr>
 			<tr>
                   <td>Hites Viktor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">2.2%</td>
+				  <td id="lmp">7.8%</td>
 			</tr>
 			<tr>
 				  <td>dr. Meződi János - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">0.8%</td>
+				  <td id="id_momentum">2.2%</td>
 			</tr>
-<tr>
-<td>visszalépett -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">__</td>
-</tr>
+
 <tr>
 <td>Szimmer Ákos - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">__</td>
+<td id="id_mkkp">1.3%</td>
 </tr>                 
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Kész Zoltán </span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">Kész Zoltán</span><span id="esely"></span><span></span></h5>
 			
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Valószínű</strong> </h6>
-<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
+			
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
 <p>Megjegyzés a kerülethez: Kész Zoltán független jelölt javára várhatóan a legtöbb ellenzéki párt vissza fog lépni, így magabiztosan nyeri majd a kerületet.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

@@ -8,55 +8,52 @@ permalink: /cs1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
 		  <h5>Csongrád megye 1-es választókerület (Szeged)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK </span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással) </th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Bartók Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">37.4%</td>
+				  <td id="id_fidesz">34.5%</td>
 			</tr>
-			<tr><td>Tóth Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">13.7%</td></tr>
+			<tr><td>Tóth Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">11.4%</td></tr>
 <tr>
                   <td>Szabó Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">42.9%</td>
+				  <td id="id_baloldal">40.3%</td>
 			</tr>
 			<tr>
                   <td>Bodrog Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.3%</td>
+				  <td id="lmp">8.2%</td>
 			</tr>
 			<tr>
 				  <td>Mihálik Edvin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.7%</td>
+				  <td id="id_momentum">3.7%</td>
 			</tr>
-<tr>
-<td>visszalépett -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">__</td>
-</tr>                
+                
 <tr>
 <td>Pál Anna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">__</td>
+<td id="id_mkkp">2.0%</td>
 </tr>
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK </span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd/DK</span><span id="esely"></span><span></span></h5>
 			
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Valószínű</strong> </h6>
-<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
+			
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
 <p>Megjegyzés a kerülethez: A szegedi körzet alapvetően baloldali és várhatóan az MSZP-Párbeszéd jelöltje fog nyerni, ám ehhez szüksége van a Jobbiktól átszavazókra is.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

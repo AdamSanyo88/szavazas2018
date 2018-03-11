@@ -8,55 +8,55 @@ permalink: /bp3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
 		  <h5>Budapest 3-as választókerület (XII. kerület)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal, erős LMP)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK </span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE </th>
+                    <th>Várható szavazatarány egyéniben (átszavazással)  </th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>dr. Gulyás Gergely - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">45.0%</td>
+				  <td id="id_fidesz">43.6%</td>
 			</tr>
-			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">3.6%</td></tr>
+			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">4.4%</td></tr>
 <tr>
                   <td>Bauer Tamás - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">37.9%</td>
+				  <td id="id_baloldal">30.4%</td>
 			</tr>
 			<tr>
                   <td>Hajdu Mária - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">10.0%</td>
+				  <td id="lmp">12.7%</td>
 			</tr>
 			<tr>
 				  <td>Kádár Barnabás Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.5%</td>
+				  <td id="id_momentum">3.4%</td>
 			</tr>
 <tr>
 <td>Bényi Hajnal -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">2.0%</td>
+<td id="id_egyutt">1.8%</td>
 </tr>                
 <tr>
                   <td>Kovács Gergely - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				  <td id="id_mkkp">__</td>
+				  <td id="id_mkkp">3.8%</td>
 			</tr>		
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Fidesz </span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
 			
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Kérdéses</strong> </h6>
-<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
+			
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
 <p>Megjegyzés a kerülethez: A kerületben az országos átlagánál erősebb az LMP is, így nehéz megmondani, hogy végül a szavazóik milyen arányban szavaznak át a DK-s jelöltre.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

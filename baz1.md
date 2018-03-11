@@ -8,12 +8,12 @@ permalink: /baz1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 12.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
 		  <h5>Borsod-Abaúj-Zemplén megye 1-es választókerület (Miskolc)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Háromesélyes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik </span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
@@ -24,35 +24,32 @@ permalink: /baz1
               <tbody>
              <tr>
                   <td>Csöbör Katalin - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">36.4%</td>
+				  <td id="id_fidesz">34.3%</td>
 			</tr>
-			<tr><td>Jakab Péter Dénes - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">39.4%</td></tr>
+			<tr><td>Jakab Péter Dénes - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">43.6%</td></tr>
 <tr>
                   <td>dr. Debreczeni József - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">18.9%</td>
+				  <td id="id_baloldal">15.6%</td>
 			</tr>
 			<tr>
                   <td>Csoma László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">3.2%</td>
+				  <td id="lmp">3.5%</td>
 			</tr>
 			<tr>
 				  <td>Szopkó Tibor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.2%</td>
+				  <td id="id_momentum">3.1%</td>
 			</tr>
-<tr>
-<td>nem indul -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">__</td>
-</tr>                
+                
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Jobbik </span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">Jobbik</span><span id="esely"></span><span></span></h5>
 			
 			
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
-			<h6><strong>Becslés megbízhatósága a győztes esélyeiről: Feltételhez kötött (lásd alább)</strong> </h6>
-<br/><h6><strong>Becslés megbízhatósága legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: Ezt a körzetet a Fidesz, DK, és Jobbik is megnyerheti. Ez a kerület része lehet egy koordinált megállapodásnak (ahol a Jobbik ezt a körzetet, a baloldal pedig a másik miskolci körzetet kapná).</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0305">bővebben itt olvashatsz</a>.</p>
+			
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
+<p>Megjegyzés a kerülethez: Ezt a körzetet a Fidesz és a Jobbik is megnyerheti. A Jobbikra átszavazók aránya magasabb lehet, figyelembe véve, hogy a DK-nak kisebb az esélye a győzelemre.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>
