@@ -48,7 +48,7 @@ permalink: /metodologia
 
 <h6><strong>Részvételi arány: 64%</strong>
 
-<p><strong>Várható egyéni győzelemek száma</strong> (zárójelben a koordináció esetén további nyerhető körzetek száma):</p>
+<p><strong>Várható egyéni győzelemek száma</strong> (zárójelben az 5%-kal kisebb arányban elvesztett körzetek száma):</p>
 <h6>Fidesz: 91</h6>
 <h6>MSZP: 6 (1)</h6>
 <h6>DK: 1 (4)</h6>
