@@ -45,7 +45,7 @@ permalink: /pe2
 </tr>                
 <tr>
 <td>Betlehem Csaba - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_egyeb">__</td>
+<td id="id_mkkp">__</td>
 </tr>  
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz </span><span id="esely"></span><span></span></h5>

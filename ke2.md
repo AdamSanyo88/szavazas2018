@@ -45,7 +45,7 @@ permalink: /ke2
 </tr>        
 <tr>
 <td>Papp László - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_egyeb">__</td>
+<td id="id_mkkp">__</td>
 </tr>     
 <tr>
 <td>Cserép János - független</td>
