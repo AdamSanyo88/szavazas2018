@@ -58,7 +58,7 @@ permalink: /mandatumbecsles
 				<td>0</td>
 				  <td>8</td>
 				  <td>8</td>
-				  <td>4%%</td>
+				  <td>4%</td>
 			</tr>  
 			<td>Független</td>
 				<td>1</td>
