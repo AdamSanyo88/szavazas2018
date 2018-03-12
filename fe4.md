@@ -48,7 +48,7 @@ permalink: /fe4
 <br/>
 			
 <br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: Ebben a kerületben a Jobbik az esélyesebb jelölt, de a DK is erősebb helyi jelöltet állít ki. A fenti becslésben a Jobbik javára szavaztak át a szavazók. Így nagyon szoros verseny (kevesebb mint 100 szavazatnyi különbség alakult ki), tehát az ellenzéknek minden szavazóra szüksége lesz a fordításhoz.</p>
+<p>Megjegyzés a kerülethez: Ebben a kerületben a Jobbik az esélyesebb jelölt, de átszavazók nélkül nincs esélye megszorítani a Fideszes jelöltet, viszont átszavazás esetén szoros eredmény várható.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
