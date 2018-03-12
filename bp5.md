@@ -14,7 +14,7 @@ permalink: /bp5
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK</span><span id="esely2"></span><span></span></strong></h5>
-<table class="striped">
+<table class="striped"> 
               <thead>
                 <tr>
                     <th>Jelöltek</th>
