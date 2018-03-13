@@ -79,11 +79,11 @@ permalink: /pe2
 				  <td>26.8%</td>  
 			</tr>
 			<tr>
-			      <td>Pulai Edina - Jobbik</td>
+			      <td>Császárné Kollár Tímea Annamária - Jobbik</td>
 				  <td>11.2%</td>
 			</tr>
 			<tr>
-				  <td>Varga Illés Levente - LMP</td>
+				  <td>Dr. Szél Bernadett - LMP</td>
 				  <td>10.9%</td>
 			</tr>  	
               </tbody>

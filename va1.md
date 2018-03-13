@@ -43,7 +43,11 @@ permalink: /va1
 <tr>
 <td>Viszlayné Pavelkovits Petra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_mkkp">1.7%</td>
-</tr>      
+</tr>
+<tr>
+				  <td>dr. Czeglédy Csaba - független</td>
+				  <td id="egyeb">__</td>
+			</tr>      
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
 			
