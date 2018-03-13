@@ -10,6 +10,11 @@ permalink: /tamogatas
     <div class="row">
           <div class="col s12">
 		  <h5>Támogasd az oldalt!</h5> 
+<br/>
+<h5>Eddig befolyt támogatás: 83000 Ft</h5>
+<p></p>
+<h5>Ebből kampányra fordított: 4920 Ft</h5>
+		  
 <p>Kedves választópolgár!</p>
 <p>Ezt az oldalt jórészt egyedül csinálom, és komolyabb kapcsolati háló nélkül nehéz dolgom van abban, hogy a választók megismerjék a becslések eredményét a médián keresztül, és így megfontolt döntést hozzanak majd április 8-án.</p>
 <p>Viszont a Facebookon keresztül közvetlenül is lehet az oldalt reklámozni, ám ennek díja van. Ha szeretnél hozzájárulni a reklámozás költségéhez, akkor az alábbi csatornákon tudsz pénzadományt küldeni:</p>
