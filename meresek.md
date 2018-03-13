@@ -142,6 +142,32 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			  <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud06/">'18 feb.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../bp6">Budapest 6-os</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>39%</td>
+				  <td>13%</td>
+				  <td>__</td>
+				  <td>17%</td>
+				  <td>14%</td>
+				  <td>7%</td>
+				  <td>11% (Együtt)%</td>
+			</tr>    
+			<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud06/">'18 feb.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../bp6">Budapest 6-os (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>54%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>46%</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>    
 			    <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud01/">'18 feb.</a></td>
                   <td>Medián, KOM</td>
@@ -153,7 +179,7 @@ permalink: /meresek
 				  <td>__</td>
 				  <td>14%</td>
 				  <td>12%</td>
-				  <td>10% (Együtt)%</td>
+				  <td>10% (Együtt)</td>
 			</tr>    
 			<tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud01/">'18 feb.</a></td>
