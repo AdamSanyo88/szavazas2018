@@ -18,31 +18,31 @@ permalink: /va1
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>dr. Hende Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">45.0%</td>
+				  <td id="id_fidesz">44.2%</td>
 			</tr>
-			<tr><td>Balassa Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">11.8%</td></tr>
+			<tr><td>Balassa Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.5%</td></tr>
 <tr>
                   <td>dr. Nemény András - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">31.1%</td>
+				  <td id="id_baloldal">23.3%</td>
 			</tr>
 			<tr>
                   <td>Németh Ákos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">7.4%</td>
+				  <td id="lmp">11.2%</td>
 			</tr>
 			<tr>
 				  <td>Falka Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.0%</td>
+				  <td id="id_momentum">2.6%</td>
 			</tr>
           
 <tr>
 <td>Viszlayné Pavelkovits Petra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.7%</td>
+<td id="id_mkkp">1.3%</td>
 </tr>
 <tr>
 				  <td>dr. Czeglédy Csaba - független</td>
@@ -55,7 +55,7 @@ permalink: /va1
 <p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			
-<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
 <p>Megjegyzés a kerülethez: A kerület alapvetően Fideszes, de magasabb átszavazás mellett szoros eredmény várható.</p>
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
           </div>
