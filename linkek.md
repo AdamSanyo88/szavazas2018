@@ -33,6 +33,7 @@ permalink: /linkek
       </div>
 <br/><br/>
 <h5 class="center">Cikkek és anyagok</h5>
+<p><a href="https://index.hu/belfold/2018/valasztas/2018/03/14/nem_hasznaltak_ki_a_hodmezovasarhelyi_euforiat_az_mszp_dk_jobbik_lmp_koordinacio_tavol_van/">Nem használták ki a hódmezővásárhelyi eufóriát</a> - Index.hu, 2018. március 14.</p>
 <p><a href="https://merce.hu/2018/03/10/az-lmp-akkor-koordinal-ha-a-teljes-ellenzek-megegyezik/">Az LMP csak akkor koordinál, ha a teljes ellenzék megegyezik</a> - Mérce, 2018. március 10.</p>
 <p><a href="https://index.hu/belfold/2018/valasztas/2018/03/06/zavecz_kutatas_kormanyvaltas_szandek/">A jobbikosok ötöde átszavaz a balos jelöltre, ha az az erősebb</a> - Index.hu - 2018. március 6.</p>
 <p><a href="https://index.hu/belfold/2018/valasztas/2018/03/05/az_lmp_es_az_mszp-parbeszed_kedden_targyal_a_visszaleptetesekrol/">Az LMP és az MSZP-Párbeszéd kedden tárgyal a visszaléptetésekről</a> - Index.hu, 2018. március 5.</p>
