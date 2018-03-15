@@ -40,11 +40,7 @@ permalink: /ba1
 			<tr>
 				  <td>Nemes Balázs - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">5.1%</td>
-			</tr>
-<tr>
-<td>Együtt - visszalépett <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">0.0%</td>
-</tr>            
+			</tr>           
 <tr>
 <td>Nagy Richárd - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_mkkp">2.3%</td>

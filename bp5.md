@@ -40,7 +40,7 @@ permalink: /bp5
 				  <td id="id_momentum">5.4%</td>
 			</tr>
 <tr>
-<td><strong>Visszalépett március 12-én</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+<td><strong>VISSZALÉPETT</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">__</td>
 </tr>    
 <tr>

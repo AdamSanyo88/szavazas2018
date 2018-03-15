@@ -18,7 +18,7 @@ permalink: /pe2
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (átszavazással) - FRISSÍTVE</th>
                 </tr>
               </thead>
               <tbody>
@@ -28,12 +28,12 @@ permalink: /pe2
 			</tr>
 			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">8.8%</td></tr>
 <tr>
-                  <td>dr. Tóth Zoltán - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">5.1%</td>
+                  <td><strong>VISSZALÉPETT</strong> - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				  <td id="id_baloldal">__</td>
 			</tr>
 			<tr>
                   <td>dr. Szél Bernadett - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">34.5%</td>
+				  <td id="lmp">39.6%</td>
 			</tr>
 			<tr>
 				  <td>Szemző Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
