@@ -11,7 +11,7 @@ permalink: /tamogatas
           <div class="col s12">
 		  <h5>Támogasd az oldalt!</h5> 
 <br/>
-<h5>Eddig befolyt támogatás: 161000 Ft</h5>
+<h5>Eddig befolyt támogatás: 165500 Ft</h5>
 <p></p>
 <h5>Ebből kampányra fordított: 33150 Ft</h5>
 		  
