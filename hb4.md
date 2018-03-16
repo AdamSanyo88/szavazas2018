@@ -26,7 +26,7 @@ permalink: /hb4
                   <td>dr. Vitányi István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">47.5%</td>
 			</tr>
-			<tr><td>Keresztesy Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">37.0%</td></tr>
+			<tr><td>Keresztessy Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">37.0%</td></tr>
 <tr>
                   <td>Lencsésné Gál Mária - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">10.2%</td>
