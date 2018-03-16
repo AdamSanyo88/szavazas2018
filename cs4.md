@@ -10,7 +10,7 @@ permalink: /cs4
     <div class="row">
           <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
 		  <h5>Csongrád megye 4-es választókerület (Hódmezővásárhely)</h5>
-<br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz-Jobbik)</span></strong></h6>
+<br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz és Jobbik között)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><img src="images/vk_charts/cs4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>

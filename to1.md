@@ -10,7 +10,7 @@ permalink: /to1
     <div class="row">
           <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
 		  <h5>Tolna megye 1-es választókerület (Szekszárd)</h5>
-<br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős LMP)</span></strong></h6>
+<br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős az LMP)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><img src="images/vk_charts/to1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">LMP</span><span id="esely2"></span><span></span></strong></h5>
