@@ -143,7 +143,7 @@ permalink: /meresek
               </thead>
               <tbody>
 			  <tr>
-				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud17/>'18 márc.</a></td>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud17/">'18 márc.</a></td>
                   <td>Závecz, KOM</td>
 				  <td><a href="../bp17">Budapest 17-es</a></td>
 				  <td>1000 fő, +/-3.1%</td>
