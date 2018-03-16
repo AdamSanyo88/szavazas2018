@@ -26,7 +26,10 @@ permalink: /ba2
                   <td>dr. Hoppál Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">34.5%</td>
 			</tr>
-			<tr><td>Gyimesi Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">24.9%</td></tr>
+			<tr>
+			<td>Gyimesi Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
+			<td id="id_jobbik">24.9%</td>
+			</tr>
 <tr>
                   <td>Nagy Ferenc - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				  <td id="id_baloldal">25.1%</td>
@@ -42,7 +45,8 @@ permalink: /ba2
 <tr>
 <td>Berkecz Balázs - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">1.6%</td>
-</tr>               
+</tr>
+<tr>               
 <td>Marton Csongor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_mkkp">1.7%</td>
 </tr>   
@@ -78,8 +82,7 @@ permalink: /ba2
 			</tr>
 			<tr>
 			      <td>Dr. Szakács László - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
-				  <td>31.9%</td>
-			      
+				  <td>31.9%</td>    
 			</tr>
 			<tr>
 			      <td>Gyimesi Gábor Jenő - Jobbik</td>
