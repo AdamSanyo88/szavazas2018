@@ -33,16 +33,18 @@ permalink: /tamogatas
 <h6>Közlemény: támogatás</h6>
 <br/>
 <h6><strong>Paypal fiókról:</strong></h6>
-
+<br/>
+<p>Használd a Donate gombot alább:</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="VJBPUT256FYGY">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
-</br>
 
-<h6><strong>Egyéb módok:</strong></h6>
+<br/>
+
+<h6><strong>Egyéb módon:</strong></h6>
 <p>Ha nem magyarországi bankszámlára vagy nem forintban szeretnél utalni, akkor kérlek, keress a <a href="mailto:taktikaiszavazas.hu@gmail.com">taktikaiszavazas.hu@gmail.com</a> email címén.</p>
 
 <p>Ha pénzzel nem tudod támogatni a kezdeményezést, akkor annak is örülök, ha megosztod az oldalt ismerőseiddel, ugyanis minden plusz szavazó számítani fog április 8-án.</p>
