@@ -143,6 +143,32 @@ permalink: /meresek
               </thead>
               <tbody>
 			  <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_nog01/">'18 feb.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../no1">Nógrád 1-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>41%</td>
+				  <td>20%</td>
+				  <td>__</td>
+				  <td>16%</td>
+				  <td>19%</td>
+				  <td>2%</td>
+				  <td>3%</td>
+			</tr>   
+			<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_nog01/">'18 feb.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../no1">Nógrád 1-es (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>54%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>46%</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>    
+			  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bud17/">'18 márc.</a></td>
                   <td>Závecz, KOM</td>
 				  <td><a href="../bp17">Budapest 17-es</a></td>
