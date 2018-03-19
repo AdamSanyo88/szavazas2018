@@ -8,55 +8,55 @@ permalink: /bp6
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
 		  <h5>Budapest 6-os választókerület (VIII. kerület)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz és baloldal között)</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><img src="images/vk_charts/bp6.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd/DK</span><span id="esely2"></span><span></span></strong></h5>
+<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/bp6.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">DK</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Kocsis Máté - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">35.4%</td>
+				  <td id="id_fidesz">32.6% <span id="id_fidesz2">33.8%</span></td>
 			</tr>
-			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">9.5%</td></tr>
+			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">14.1% <span id="id_jobbik2">11.0%</span></td></tr>
 <tr>
                   <td>Ara-Kovács Attila - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">34.2%</td>
+				  <td id="id_baloldal">26.7% <span id="id_baloldal2">38.4%</span></td>
 			</tr>
 			<tr>
                   <td>Jakabfy Tamás - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">9.0%</td>
+				  <td id="lmp">12.1% <span id="id_lmp2">7.5%</span></td>
 			</tr>
 			<tr>
 				  <td>Dr. Cseh Katalin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">5.8%</td>
+				  <td id="id_momentum">6.8% <span id="id_momentum2">4.2%</span></td>
 			</tr>
 <tr>
 <td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">3.9%</td>
+<td id="id_egyutt">6.3% <span id="id_egyutt2">3.9%</span></td>
 </tr>    
 <tr>
 <td>Racskó Gábor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">2.2%</td>
+<td id="id_mkkp">1.4% <span id="id_mkkp2">1.2%</span></td>
 </tr>             
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">DK</span><span id="esely"></span><span></span></h5>
 			
 			
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			
-<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
-<p>Megjegyzés a kerülethez: Klasszikus kétesélyes kerület, ahol a Fidesz megszoríthatja az ellenzéki jelöltet, ám átszavazással valószínű a baloldali győzelem.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A baloldali jelölt az egyértelmű esélyes</span></strong></h6>
+
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

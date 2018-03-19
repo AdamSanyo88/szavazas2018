@@ -8,32 +8,32 @@ permalink: /no2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
 		  <h5>Nógrád megye 2-es választókerület (Balassagyarmat)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><img src="images/vk_charts/no2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/no2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Balla Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">51.3%</td>
+				  <td id="id_fidesz">52.1% <span id="id_fidesz2">49.8%</span></td>
 			</tr>
-			<tr><td>Dobrocsi Lénárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">32.8%</td></tr>
+			<tr><td>Dobrocsi Lénárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">25.0% <span id="id_jobbik2">31.8%</span></td></tr>
 <tr>
                   <td>Csukáné Szerémy Andrea <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">11.9%</td>
+				  <td id="id_baloldal">17.1% <span id="id_baloldal2">15.1%</span></td>
 			</tr>
 			<tr>
                   <td>Gyenes Szilárd - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.1%</td>
+				  <td id="lmp">5.7% <span id="id_lmp2">3.3%</span></td>
 			</tr>
 			<tr>
 				  </tr>
@@ -45,9 +45,9 @@ permalink: /no2
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			
-<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
-<p>Megjegyzés a kerülethez: A Fidesz biztosan vezet, az ellenzéknek magas részvétel és mozgósítás esetén van esélye a kerületben.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6>
+
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

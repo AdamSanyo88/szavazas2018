@@ -8,36 +8,36 @@ permalink: /za1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
 		  <h5>Zala megye 1-es választókerület (Zalaegerszeg)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><img src="images/vk_charts/za1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/za1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Vígh László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">46.0%</td>
+				  <td id="id_fidesz">47.2% <span id="id_fidesz2">47.3%</span></td>
 			</tr>
-			<tr><td>Benke Richárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">25.8%</td></tr>
+			<tr><td>Benke Richárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.0% <span id="id_jobbik2">27.7%</span></td></tr>
 <tr>
                   <td>Góra Balázs - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">20.7%</td>
+				  <td id="id_baloldal">19.4% <span id="id_baloldal2">18.7%</span></td>
 			</tr>
 			<tr>
                   <td>dr. Paksy Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.5%</td>
+				  <td id="lmp">7.7% <span id="id_lmp2">4.6%</span></td>
 			</tr>
 			<tr>
 				  <td>Fodor Zsolt - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.1%</td>
+				  <td id="id_momentum">2.7% <span id="id_momentum2">1.6%</span></td>
 			</tr>
                 
               </tbody>
@@ -47,9 +47,9 @@ permalink: /za1
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			
-<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: A Fidesz stabil győzelme várható, az átszavazás csak ennek mértékét csökkentheti.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6>
+
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

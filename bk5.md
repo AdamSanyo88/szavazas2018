@@ -8,36 +8,36 @@ permalink: /bk5
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
 		  <h5>Bács-Kiskun megye 5-ös választókerület (Kiskunhalas)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><img src="images/vk_charts/bk5.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/bk5.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Bányai Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">52.1%</td>
+				  <td id="id_fidesz">52.2% <span id="id_fidesz2">50.6%</span></td>
 			</tr>
-			<tr><td>Farkas Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">32.8%</td></tr>
+			<tr><td>Farkas Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">28.2% <span id="id_jobbik2">34.1%</span></td></tr>
 <tr>
                   <td>Molnár László - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">10.3%</td>
+				  <td id="id_baloldal">14.2% <span id="id_baloldal2">12.2%</span></td>
 			</tr>
 			<tr>
                   <td>Midi Melánia - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">3.0%</td>
+				  <td id="lmp">4.0% <span id="id_lmp2">2.3%</span></td>
 			</tr>
 			<tr>
 				  <td>Takács Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.9%</td>
+				  <td id="id_momentum">1.4% <span id="id_momentum2">0.8%</span></td>
 			</tr>
                 
               </tbody>
@@ -47,9 +47,9 @@ permalink: /bk5
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			
-<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Egyértelmű az esélyes - az esélyes jelölt várhatóan nem változik</span></strong></h6>
-<p>Megjegyzés a kerülethez: A Fidesz biztosan vezet, az ellenzéknek magas részvétel és mozgósítás esetén van esélye a kerületben.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6>
+
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

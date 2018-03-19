@@ -8,42 +8,42 @@ permalink: /gy5
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
 		  <h5>Győr-Moson-Sopron megye 5-ös választókerület (Mosonmagyaróvár)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><img src="images/vk_charts/gy5.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/gy5.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Dr. Nagy István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">50.3%</td>
+				  <td id="id_fidesz">51.0% <span id="id_fidesz2">51.3%</span></td>
 			</tr>
-			<tr><td>Jávor Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">22.1%</td></tr>
+			<tr><td>Jávor Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">20.0% <span id="id_jobbik2">22.1%</span></td></tr>
 <tr>
                   <td>Bogyai Zsolt - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">18.5%</td>
+				  <td id="id_baloldal">17.4% <span id="id_baloldal2">17.1%</span></td>
 			</tr>
 			<tr>
                   <td>Goda Bálint Zsolt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">6.6%</td>
+				  <td id="lmp">8.6% <span id="id_lmp2">7.1%</span></td>
 			</tr>
 			<tr>
 				  </tr>
 <tr>
 <td>Deschelák Károly Ferenc -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">1.2%</td>
+<td id="id_egyutt">2.0% <span id="id_egyutt2">1.6%</span></td>
 </tr>                
 <tr>
 <td>Nagy Péter Krisztián - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.3%</td>
+<td id="id_mkkp">1.0% <span id="id_mkkp2">0.8%</span></td>
 </tr> 
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -52,9 +52,9 @@ permalink: /gy5
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			
-<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: A Fidesz biztosan vezet, az ellenzéknek magas részvétel és mozgósítás esetén van esélye a kerületben.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6>
+
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

@@ -8,52 +8,52 @@ permalink: /ve1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 19.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
 		  <h5>Veszprém megye 1-es választókerület (Veszprém)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén baloldali</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye:</strong></h6><br/><img src="images/vk_charts/ve1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/ve1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Kész Zoltán</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (átszavazással)</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Ovádi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">35.0%</td>
+				  <td id="id_fidesz">39.3% <span id="id_fidesz2">39.5%</span></td>
 			</tr>
-			<tr><td>dr. Varga-Damm Andrea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">16.7%</td></tr>
+			<tr><td>dr. Varga-Damm Andrea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.3% <span id="id_jobbik2">13.0%</span></td></tr>
 <tr>
                   <td>Kész Zoltán - független</td>
-				  <td id="id_baloldal">37.0%</td>
+				  <td id="id_baloldal">30.2% <span id="id_baloldal2">39.3%</span></td>
 			</tr>
 			<tr>
                   <td>Hites Viktor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">7.8%</td>
+				  <td id="lmp">9.0% <span id="id_lmp2">5.4%</span></td>
 			</tr>
 			<tr>
 				  <td>dr. Meződi János - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.2%</td>
+				  <td id="id_momentum">3.1% <span id="id_momentum2">1.9%</span></td>
 			</tr>
 
 <tr>
 <td>Szimmer Ákos - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.3%</td>
+<td id="id_mkkp">1.0% <span id="id_mkkp2">0.8%</span></td>
 </tr>                 
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Kész Zoltán</span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
 			
 			
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			
-<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nem egyértelmű az esélyes - az esélyes jelölt még változhat</span></strong></h6>
-<p>Megjegyzés a kerülethez: Kész Zoltán független jelölt javára várhatóan a legtöbb ellenzéki párt vissza fog lépni, így magabiztosan nyeri majd a kerületet.</p>
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0312">bővebben itt olvashatsz</a>.</p>
+<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Kész Zoltán az egyértelmű esélyes</span></strong></h6>
+
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>
