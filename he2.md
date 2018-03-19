@@ -24,22 +24,22 @@ permalink: /he2
               <tbody>
              <tr>
                   <td>Horváth László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">37.6% <span id="id_fidesz2">36.9%</span></td>
+				  <td id="id_fidesz">37.6% <span id="id_fidesz2">(36.9%)</span></td>
 			</tr>
-			<tr><td>Vona Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">40.0% <span id="id_jobbik2">46.7%</span></td></tr>
+			<tr><td>Vona Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">40.0% <span id="id_jobbik2">(46.7%)</span></td></tr>
 <tr>
                   <td>Orosz Bálint János - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">17.0% <span id="id_baloldal2">13.3%</span></td>
+				  <td id="id_baloldal">17.0% <span id="id_baloldal2">(13.3%)</span></td>
 			</tr>
 			<tr>
                   <td>Reichenberger János Gyula - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.4% <span id="id_lmp2">2.6%</span></td>
+				  <td id="lmp">4.4% <span id="id_lmp2">(2.6%)</span></td>
 			</tr>
 			<tr>
 				  </tr>
 <tr>
 <td>Réz Ágnes -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">1.0% <span id="id_egyutt2">0.6%</span></td>
+<td id="id_egyutt">1.0% <span id="id_egyutt2">(0.6%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Jobbik</span><span id="esely"></span><span></span></h5>

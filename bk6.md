@@ -24,20 +24,20 @@ permalink: /bk6
               <tbody>
              <tr>
                   <td>Zsigó Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">49.4% <span id="id_fidesz2">49.5%</span></td>
+				  <td id="id_fidesz">49.4% <span id="id_fidesz2">(49.5%)</span></td>
 			</tr>
-			<tr><td>Grünfelder Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.7% <span id="id_jobbik2">17.5%</span></td></tr>
+			<tr><td>Grünfelder Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.7% <span id="id_jobbik2">(17.5%)</span></td></tr>
 <tr>
                   <td>Hajdú Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">19.3% <span id="id_baloldal2">24.8%</span></td>
+				  <td id="id_baloldal">19.3% <span id="id_baloldal2">(24.8%)</span></td>
 			</tr>
 			<tr>
                   <td>Ikotity István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">10.8% <span id="id_lmp2">6.5%</span></td>
+				  <td id="lmp">10.8% <span id="id_lmp2">(6.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Béni Kornél - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.8% <span id="id_momentum2">1.7%</span></td>
+				  <td id="id_momentum">2.8% <span id="id_momentum2">(1.7%)</span></td>
 			</tr>
                 
               </tbody>

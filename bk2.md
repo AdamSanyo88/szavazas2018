@@ -24,20 +24,20 @@ permalink: /bk2
               <tbody>
              <tr>
                   <td>dr. Zombor Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">50.3% <span id="id_fidesz2">50.3%</span></td>
+				  <td id="id_fidesz">50.3% <span id="id_fidesz2">(50.3%)</span></td>
 			</tr>
-			<tr><td>Radics Tivadar - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.8% <span id="id_jobbik2">20.7%</span></td></tr>
+			<tr><td>Radics Tivadar - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.8% <span id="id_jobbik2">(20.7%)</span></td></tr>
 <tr>
                   <td>Király József - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">16.7% <span id="id_baloldal2">16.4%</span></td>
+				  <td id="id_baloldal">16.7% <span id="id_baloldal2">(16.4%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Tóth Szilárd - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">9.1% <span id="id_lmp2">7.5%</span></td>
+				  <td id="lmp">9.1% <span id="id_lmp2">(7.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Bodrozsán Alexandra - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">6.2% <span id="id_momentum2">5.1%</span></td>
+				  <td id="id_momentum">6.2% <span id="id_momentum2">(5.1%)</span></td>
 			</tr>
        
             

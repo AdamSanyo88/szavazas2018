@@ -24,20 +24,20 @@ permalink: /fe1
               <tbody>
              <tr>
                   <td>Vargha Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">44.2% <span id="id_fidesz2">44.4%</span></td>
+				  <td id="id_fidesz">44.2% <span id="id_fidesz2">(44.4%)</span></td>
 			</tr>
-			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.6% <span id="id_jobbik2">16.7%</span></td></tr>
+			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.6% <span id="id_jobbik2">(16.7%)</span></td></tr>
 <tr>
                   <td>Ráczné Földi Judit - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">23.7% <span id="id_baloldal2">30.2%</span></td>
+				  <td id="id_baloldal">23.7% <span id="id_baloldal2">(30.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Rákosi Judit - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">10.8% <span id="id_lmp2">6.5%</span></td>
+				  <td id="lmp">10.8% <span id="id_lmp2">(6.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Pintér András Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.7% <span id="id_momentum2">2.3%</span></td>
+				  <td id="id_momentum">3.7% <span id="id_momentum2">(2.3%)</span></td>
 			</tr>
                 
               </tbody>

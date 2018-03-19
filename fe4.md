@@ -24,20 +24,20 @@ permalink: /fe4
               <tbody>
              <tr>
                   <td>dr. Galambos Dénes - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">37.1% <span id="id_fidesz2">37.2%</span></td>
+				  <td id="id_fidesz">37.1% <span id="id_fidesz2">(37.2%)</span></td>
 			</tr>
-			<tr><td>Pintér Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">26.5% <span id="id_jobbik2">31.5%</span></td></tr>
+			<tr><td>Pintér Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">26.5% <span id="id_jobbik2">(31.5%)</span></td></tr>
 <tr>
                   <td>Mezei Zsolt - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">26.0% <span id="id_baloldal2">25.1%</span></td>
+				  <td id="id_baloldal">26.0% <span id="id_baloldal2">(25.1%)</span></td>
 			</tr>
 			<tr>
                   <td>Illésy István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">7.7% <span id="id_lmp2">4.6%</span></td>
+				  <td id="lmp">7.7% <span id="id_lmp2">(4.6%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kaszó Róbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.7% <span id="id_momentum2">1.6%</span></td>
+				  <td id="id_momentum">2.7% <span id="id_momentum2">(1.6%)</span></td>
 			</tr>
                 
               </tbody>

@@ -24,28 +24,28 @@ permalink: /hb2
               <tbody>
              <tr>
                   <td>dr. Pósán László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">43.9% <span id="id_fidesz2">44.2%</span></td>
+				  <td id="id_fidesz">43.9% <span id="id_fidesz2">(44.2%)</span></td>
 			</tr>
-			<tr><td>Kőszeghy Ábel - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">22.4% <span id="id_jobbik2">25.7%</span></td></tr>
+			<tr><td>Kőszeghy Ábel - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">22.4% <span id="id_jobbik2">(25.7%)</span></td></tr>
 <tr>
                   <td>Varga Zoltán - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">18.2% <span id="id_baloldal2">17.5%</span></td>
+				  <td id="id_baloldal">18.2% <span id="id_baloldal2">(17.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Görög Jenő - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">9.2% <span id="id_lmp2">7.5%</span></td>
+				  <td id="lmp">9.2% <span id="id_lmp2">(7.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Mándi László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.2% <span id="id_momentum2">2.6%</span></td>
+				  <td id="id_momentum">3.2% <span id="id_momentum2">(2.6%)</span></td>
 			</tr>
 <tr>
 <td>dr. Orosz Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">2.1% <span id="id_egyutt2">1.7%</span></td>
+<td id="id_egyutt">2.1% <span id="id_egyutt2">(1.7%)</span></td>
 </tr>          
 <tr>
 <td>Szabados István - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.1% <span id="id_mkkp2">0.9%</span></td>
+<td id="id_mkkp">1.1% <span id="id_mkkp2">(0.9%)</span></td>
 </tr>      
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

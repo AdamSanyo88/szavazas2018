@@ -24,16 +24,16 @@ permalink: /ba3
               <tbody>
              <tr>
                   <td>dr. Hargitai János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">53.4% <span id="id_fidesz2">53.4%</span></td>
+				  <td id="id_fidesz">53.4% <span id="id_fidesz2">(53.4%)</span></td>
 			</tr>
-			<tr><td>Szőcs Norbert - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">21.1% <span id="id_jobbik2">23.2%</span></td></tr>
+			<tr><td>Szőcs Norbert - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">21.1% <span id="id_jobbik2">(23.2%)</span></td></tr>
 <tr>
                   <td>Lukács János - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">17.3% <span id="id_baloldal2">16.7%</span></td>
+				  <td id="id_baloldal">17.3% <span id="id_baloldal2">(16.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Bosnyák András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">8.2% <span id="id_lmp2">6.6%</span></td>
+				  <td id="lmp">8.2% <span id="id_lmp2">(6.6%)</span></td>
 			</tr>
 			<tr>
 				  </tr>

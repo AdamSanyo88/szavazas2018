@@ -24,20 +24,20 @@ permalink: /baz2
               <tbody>
              <tr>
                   <td>Hubay György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">31.2% <span id="id_fidesz2">29.2%</span></td>
+				  <td id="id_fidesz">31.2% <span id="id_fidesz2">(29.2%)</span></td>
 			</tr>
-			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">34.3% <span id="id_jobbik2">43.5%</span></td></tr>
+			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">34.3% <span id="id_jobbik2">(43.5%)</span></td></tr>
 <tr>
                   <td>dr. Varga László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">26.9% <span id="id_baloldal2">23.1%</span></td>
+				  <td id="id_baloldal">26.9% <span id="id_baloldal2">(23.1%)</span></td>
 			</tr>
 			<tr>
                   <td>Doszpoly Botond László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.6% <span id="id_lmp2">3.2%</span></td>
+				  <td id="lmp">5.6% <span id="id_lmp2">(3.2%)</span></td>
 			</tr>
 			<tr>
 				  <td>Dudás Norbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.0% <span id="id_momentum2">1.1%</span></td>
+				  <td id="id_momentum">2.0% <span id="id_momentum2">(1.1%)</span></td>
 			</tr>
                 
               </tbody>

@@ -24,25 +24,25 @@ permalink: /pe1
               <tbody>
              <tr>
                   <td>dr. Aradszki András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">43.4% <span id="id_fidesz2">43.7%</span></td>
+				  <td id="id_fidesz">43.4% <span id="id_fidesz2">(43.7%)</span></td>
 			</tr>
-			<tr><td>Vágó Sebestyén - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">16.9% <span id="id_jobbik2">12.8%</span></td></tr>
+			<tr><td>Vágó Sebestyén - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">16.9% <span id="id_jobbik2">(12.8%)</span></td></tr>
 <tr>
                   <td>dr. Czőzik László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">25.0% <span id="id_baloldal2">34.5%</span></td>
+				  <td id="id_baloldal">25.0% <span id="id_baloldal2">(34.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Turcsán Szabolcs - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">10.0% <span id="id_lmp2">6.0%</span></td>
+				  <td id="lmp">10.0% <span id="id_lmp2">(6.0%)</span></td>
 			</tr>
 			<tr>
 				  <td>Gál Alex - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.5% <span id="id_momentum2">2.1%</span></td>
+				  <td id="id_momentum">3.5% <span id="id_momentum2">(2.1%)</span></td>
 			</tr>
          
 <tr>
 <td>Szécsi Barbara - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.2% <span id="id_mkkp2">0.9%</span></td>
+<td id="id_mkkp">1.2% <span id="id_mkkp2">(0.9%)</span></td>
 </tr>         
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

@@ -24,24 +24,24 @@ permalink: /hb3
               <tbody>
              <tr>
                   <td>Tasó László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">51.7% <span id="id_fidesz2">50.3%</span></td>
+				  <td id="id_fidesz">51.7% <span id="id_fidesz2">(50.3%)</span></td>
 			</tr>
-			<tr><td>Csikai József - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">26.2% <span id="id_jobbik2">31.3%</span></td></tr>
+			<tr><td>Csikai József - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">26.2% <span id="id_jobbik2">(31.3%)</span></td></tr>
 <tr>
                   <td>Káposznyák István - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">13.6% <span id="id_baloldal2">11.5%</span></td>
+				  <td id="id_baloldal">13.6% <span id="id_baloldal2">(11.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Kiss Tamás Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.4% <span id="id_lmp2">4.3%</span></td>
+				  <td id="lmp">5.4% <span id="id_lmp2">(4.3%)</span></td>
 			</tr>
 			<tr>
 				  <td>Lakatos Árpád - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.9% <span id="id_momentum2">1.5%</span></td>
+				  <td id="id_momentum">1.9% <span id="id_momentum2">(1.5%)</span></td>
 			</tr>
 <tr>
 <td>Kosztin Mihály -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">1.3% <span id="id_egyutt2">1.0%</span></td>
+<td id="id_egyutt">1.3% <span id="id_egyutt2">(1.0%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

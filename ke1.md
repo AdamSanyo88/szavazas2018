@@ -24,25 +24,25 @@ permalink: /ke1
               <tbody>
              <tr>
                   <td>Bencsik János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">44.2% <span id="id_fidesz2">44.4%</span></td>
+				  <td id="id_fidesz">44.2% <span id="id_fidesz2">(44.4%)</span></td>
 			</tr>
-			<tr><td>Boda Bánk László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.0% <span id="id_jobbik2">12.8%</span></td></tr>
+			<tr><td>Boda Bánk László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.0% <span id="id_jobbik2">(12.8%)</span></td></tr>
 <tr>
                   <td>Fekete Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">25.7% <span id="id_baloldal2">34.7%</span></td>
+				  <td id="id_baloldal">25.7% <span id="id_baloldal2">(34.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Körtvélyfáy Menyhért - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">8.9% <span id="id_lmp2">5.4%</span></td>
+				  <td id="lmp">8.9% <span id="id_lmp2">(5.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>Novák László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.1% <span id="id_momentum2">1.9%</span></td>
+				  <td id="id_momentum">3.1% <span id="id_momentum2">(1.9%)</span></td>
 			</tr>
           
 <tr>
 <td>Barna Alexandra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.0% <span id="id_mkkp2">0.8%</span></td>
+<td id="id_mkkp">1.0% <span id="id_mkkp2">(0.8%)</span></td>
 </tr>        
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

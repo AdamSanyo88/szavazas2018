@@ -24,25 +24,25 @@ permalink: /bp8
               <tbody>
              <tr>
                   <td>Dr. Jelen Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">32.4% <span id="id_fidesz2">32.9%</span></td>
+				  <td id="id_fidesz">32.4% <span id="id_fidesz2">(32.9%)</span></td>
 			</tr>
-			<tr><td>Szávay István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">13.0% <span id="id_jobbik2">9.9%</span></td></tr>
+			<tr><td>Szávay István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">13.0% <span id="id_jobbik2">(9.9%)</span></td></tr>
 <tr>
                   <td>Tóth Csaba - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">30.8% <span id="id_baloldal2">41.9%</span></td>
+				  <td id="id_baloldal">30.8% <span id="id_baloldal2">(41.9%)</span></td>
 			</tr>
 			<tr>
                   <td>Barta János - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">14.3% <span id="id_lmp2">8.7%</span></td>
+				  <td id="lmp">14.3% <span id="id_lmp2">(8.7%)</span></td>
 			</tr>
 			<tr>
 				  <td>Szücs Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">4.9% <span id="id_momentum2">3.0%</span></td>
+				  <td id="id_momentum">4.9% <span id="id_momentum2">(3.0%)</span></td>
 			</tr>
               
 <tr>
 <td>Victora Zsolt - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">4.5% <span id="id_mkkp2">3.7%</span></td>
+<td id="id_mkkp">4.5% <span id="id_mkkp2">(3.7%)</span></td>
 </tr>  
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">MSZP-Párbeszéd</span><span id="esely"></span><span></span></h5>

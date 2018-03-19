@@ -24,20 +24,20 @@ permalink: /sz1
               <tbody>
              <tr>
                   <td>dr. Kállai Mária - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">38.5% <span id="id_fidesz2">38.6%</span></td>
+				  <td id="id_fidesz">38.5% <span id="id_fidesz2">(38.6%)</span></td>
 			</tr>
-			<tr><td>dr. Csikós Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">27.7% <span id="id_jobbik2">33.0%</span></td></tr>
+			<tr><td>dr. Csikós Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">27.7% <span id="id_jobbik2">(33.0%)</span></td></tr>
 <tr>
                   <td>Györfi Mihály - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">22.9% <span id="id_baloldal2">21.8%</span></td>
+				  <td id="id_baloldal">22.9% <span id="id_baloldal2">(21.8%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Kelemen István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">8.1% <span id="id_lmp2">4.9%</span></td>
+				  <td id="lmp">8.1% <span id="id_lmp2">(4.9%)</span></td>
 			</tr>
 			<tr>
 				  <td>Szekeres Éva - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.8% <span id="id_momentum2">1.7%</span></td>
+				  <td id="id_momentum">2.8% <span id="id_momentum2">(1.7%)</span></td>
 			</tr>
                 
               </tbody>

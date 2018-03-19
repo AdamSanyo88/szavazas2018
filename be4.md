@@ -24,24 +24,24 @@ permalink: /be4
               <tbody>
              <tr>
                   <td>Simonka György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">47.1% <span id="id_fidesz2">47.4%</span></td>
+				  <td id="id_fidesz">47.1% <span id="id_fidesz2">(47.4%)</span></td>
 			</tr>
-			<tr><td>Dr. Szabó Ervin - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">24.7% <span id="id_jobbik2">29.0%</span></td></tr>
+			<tr><td>Dr. Szabó Ervin - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">24.7% <span id="id_jobbik2">(29.0%)</span></td></tr>
 <tr>
                   <td>Füvesi Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">19.0% <span id="id_baloldal2">18.0%</span></td>
+				  <td id="id_baloldal">19.0% <span id="id_baloldal2">(18.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Németh Sándor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.9% <span id="id_lmp2">3.5%</span></td>
+				  <td id="lmp">5.9% <span id="id_lmp2">(3.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Sebők Éva - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.0% <span id="id_momentum2">1.2%</span></td>
+				  <td id="id_momentum">2.0% <span id="id_momentum2">(1.2%)</span></td>
 			</tr>
 <tr>
 <td>Bod Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">1.4% <span id="id_egyutt2">0.8%</span></td>
+<td id="id_egyutt">1.4% <span id="id_egyutt2">(0.8%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

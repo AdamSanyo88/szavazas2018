@@ -24,25 +24,25 @@ permalink: /ve1
               <tbody>
              <tr>
                   <td>Ovádi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">39.3% <span id="id_fidesz2">39.5%</span></td>
+				  <td id="id_fidesz">39.3% <span id="id_fidesz2">(39.5%)</span></td>
 			</tr>
-			<tr><td>dr. Varga-Damm Andrea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.3% <span id="id_jobbik2">13.0%</span></td></tr>
+			<tr><td>dr. Varga-Damm Andrea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.3% <span id="id_jobbik2">(13.0%)</span></td></tr>
 <tr>
                   <td>Kész Zoltán - független</td>
-				  <td id="id_baloldal">30.2% <span id="id_baloldal2">39.3%</span></td>
+				  <td id="id_baloldal">30.2% <span id="id_baloldal2">(39.3%)</span></td>
 			</tr>
 			<tr>
                   <td>Hites Viktor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">9.0% <span id="id_lmp2">5.4%</span></td>
+				  <td id="lmp">9.0% <span id="id_lmp2">(5.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>dr. Meződi János - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.1% <span id="id_momentum2">1.9%</span></td>
+				  <td id="id_momentum">3.1% <span id="id_momentum2">(1.9%)</span></td>
 			</tr>
 
 <tr>
 <td>Szimmer Ákos - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.0% <span id="id_mkkp2">0.8%</span></td>
+<td id="id_mkkp">1.0% <span id="id_mkkp2">(0.8%)</span></td>
 </tr>                 
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

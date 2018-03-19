@@ -24,20 +24,20 @@ permalink: /baz3
               <tbody>
              <tr>
                   <td>Riz Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">41.2% <span id="id_fidesz2">39.4%</span></td>
+				  <td id="id_fidesz">41.2% <span id="id_fidesz2">(39.4%)</span></td>
 			</tr>
-			<tr><td>Farkas Péter Barnabás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">33.9% <span id="id_jobbik2">40.8%</span></td></tr>
+			<tr><td>Farkas Péter Barnabás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">33.9% <span id="id_jobbik2">(40.8%)</span></td></tr>
 <tr>
                   <td>Varga Gergő - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">21.0% <span id="id_baloldal2">17.5%</span></td>
+				  <td id="id_baloldal">21.0% <span id="id_baloldal2">(17.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Koleszár István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">2.8% <span id="id_lmp2">1.6%</span></td>
+				  <td id="lmp">2.8% <span id="id_lmp2">(1.6%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kovács József - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.0% <span id="id_momentum2">0.6%</span></td>
+				  <td id="id_momentum">1.0% <span id="id_momentum2">(0.6%)</span></td>
 			</tr>
                 
               </tbody>

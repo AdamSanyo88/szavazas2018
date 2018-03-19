@@ -24,25 +24,25 @@ permalink: /bk4
               <tbody>
              <tr>
                   <td>Lezsák Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">52.4% <span id="id_fidesz2">50.8%</span></td>
+				  <td id="id_fidesz">52.4% <span id="id_fidesz2">(50.8%)</span></td>
 			</tr>
-			<tr><td>Kollár László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">22.0% <span id="id_jobbik2">27.5%</span></td></tr>
+			<tr><td>Kollár László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">22.0% <span id="id_jobbik2">(27.5%)</span></td></tr>
 <tr>
                   <td>Horváth Tamás - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">14.1% <span id="id_baloldal2">12.5%</span></td>
+				  <td id="id_baloldal">14.1% <span id="id_baloldal2">(12.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Kis-Szeniczey Kálmán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.9% <span id="id_lmp2">4.6%</span></td>
+				  <td id="lmp">5.9% <span id="id_lmp2">(4.6%)</span></td>
 			</tr>
 			<tr>
 				  <td>Tabajdi Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.0% <span id="id_momentum2">1.6%</span></td>
+				  <td id="id_momentum">2.0% <span id="id_momentum2">(1.6%)</span></td>
 			</tr>
        
 <tr>
 <td>Bodor Sándor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">3.7% <span id="id_mkkp2">2.8%</span></td>
+<td id="id_mkkp">3.7% <span id="id_mkkp2">(2.8%)</span></td>
 </tr>            
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

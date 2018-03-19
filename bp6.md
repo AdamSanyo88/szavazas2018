@@ -24,28 +24,28 @@ permalink: /bp6
               <tbody>
              <tr>
                   <td>Kocsis Máté - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">32.6% <span id="id_fidesz2">33.8%</span></td>
+				  <td id="id_fidesz">32.6% <span id="id_fidesz2">(33.8%)</span></td>
 			</tr>
-			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">14.1% <span id="id_jobbik2">11.0%</span></td></tr>
+			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">14.1% <span id="id_jobbik2">(11.0%)</span></td></tr>
 <tr>
                   <td>Ara-Kovács Attila - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">26.7% <span id="id_baloldal2">38.4%</span></td>
+				  <td id="id_baloldal">26.7% <span id="id_baloldal2">(38.4%)</span></td>
 			</tr>
 			<tr>
                   <td>Jakabfy Tamás - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">12.1% <span id="id_lmp2">7.5%</span></td>
+				  <td id="lmp">12.1% <span id="id_lmp2">(7.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Dr. Cseh Katalin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">6.8% <span id="id_momentum2">4.2%</span></td>
+				  <td id="id_momentum">6.8% <span id="id_momentum2">(4.2%)</span></td>
 			</tr>
 <tr>
 <td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">6.3% <span id="id_egyutt2">3.9%</span></td>
+<td id="id_egyutt">6.3% <span id="id_egyutt2">(3.9%)</span></td>
 </tr>    
 <tr>
 <td>Racskó Gábor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.4% <span id="id_mkkp2">1.2%</span></td>
+<td id="id_mkkp">1.4% <span id="id_mkkp2">(1.2%)</span></td>
 </tr>             
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">DK</span><span id="esely"></span><span></span></h5>

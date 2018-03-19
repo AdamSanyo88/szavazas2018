@@ -24,22 +24,22 @@ permalink: /bk1
               <tbody>
              <tr>
                   <td>dr. Salacz László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">50.2% <span id="id_fidesz2">50.2%</span></td>
+				  <td id="id_fidesz">50.2% <span id="id_fidesz2">(50.2%)</span></td>
 			</tr>
 			<tr>
 <td>Lejer Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-<td id="id_jobbik">20.4% <span id="id_jobbik2">23.6%</span></td></tr>
+<td id="id_jobbik">20.4% <span id="id_jobbik2">(23.6%)</span></td></tr>
 			<tr>
                   <td>Szőkéné Kopping Rita - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">14.6% <span id="id_baloldal2">13.8%</span></td>
+				  <td id="id_baloldal">14.6% <span id="id_baloldal2">(13.8%)</span></td>
 			</tr>
 			<tr>
                   <td>Vágó Gábor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">11.7% <span id="id_lmp2">9.9%</span></td>
+				  <td id="lmp">11.7% <span id="id_lmp2">(9.9%)</span></td>
 			</tr>
 			<tr>
 				  <td>Szarvas Koppány Bendegúz - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.1% <span id="id_momentum2">2.6%</span></td>
+				  <td id="id_momentum">3.1% <span id="id_momentum2">(2.6%)</span></td>
 			</tr>
                 
               </tbody>

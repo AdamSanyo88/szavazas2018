@@ -24,29 +24,29 @@ permalink: /bp1
               <tbody>
              <tr>
                   <td>Hollik István  - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">35.4% <span id="id_fidesz2">35.9%</span></td>
+				  <td id="id_fidesz">35.4% <span id="id_fidesz2">(35.9%)</span></td>
 			</tr>
 			<tr>
 <td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-<td id="id_jobbik">6.4% <span id="id_jobbik2">4.9%</span></td></tr>
+<td id="id_jobbik">6.4% <span id="id_jobbik2">(4.9%)</span></td></tr>
 			<tr>
 <td>Váradiné Naszály Márta - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-<td id="id_baloldal">19.7% <span id="id_baloldal2">24.8%</span></td></tr>
+<td id="id_baloldal">19.7% <span id="id_baloldal2">(24.8%)</span></td></tr>
 			<tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">18.9% <span id="id_lmp2">17.0%</span></td>
+				  <td id="lmp">18.9% <span id="id_lmp2">(17.0%)</span></td>
 			</tr>
 			<tr>
 				  <td>Fekete-Győr András - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">9.3% <span id="id_momentum2">8.4%</span></td>
+				  <td id="id_momentum">9.3% <span id="id_momentum2">(8.4%)</span></td>
 			</tr>
 <tr>
                   <td>Juhász Péter - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-				  <td id="id_egyutt">8.1% <span id="id_egyutt2">7.2%</span></td>
+				  <td id="id_egyutt">8.1% <span id="id_egyutt2">(7.2%)</span></td>
 			</tr>	
 <tr>
                   <td>Horváth András - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				  <td id="id_mkkp">2.2% <span id="id_mkkp2">1.8%</span></td>
+				  <td id="id_mkkp">2.2% <span id="id_mkkp2">(1.8%)</span></td>
 			</tr>			
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

@@ -24,20 +24,20 @@ permalink: /ve2
               <tbody>
              <tr>
                   <td>Kontrát Károly - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">45.7% <span id="id_fidesz2">45.8%</span></td>
+				  <td id="id_fidesz">45.7% <span id="id_fidesz2">(45.8%)</span></td>
 			</tr>
-			<tr><td>Kepli Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">22.4% <span id="id_jobbik2">22.2%</span></td></tr>
+			<tr><td>Kepli Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">22.4% <span id="id_jobbik2">(22.2%)</span></td></tr>
 <tr>
                   <td>Deák Istvánné - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">20.7% <span id="id_baloldal2">25.2%</span></td>
+				  <td id="id_baloldal">20.7% <span id="id_baloldal2">(25.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Ságodi Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">8.4% <span id="id_lmp2">5.0%</span></td>
+				  <td id="lmp">8.4% <span id="id_lmp2">(5.0%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kiss László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.9% <span id="id_momentum2">1.8%</span></td>
+				  <td id="id_momentum">2.9% <span id="id_momentum2">(1.8%)</span></td>
 			</tr>
                 
               </tbody>

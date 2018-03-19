@@ -24,20 +24,20 @@ permalink: /hb4
               <tbody>
              <tr>
                   <td>dr. Vitányi István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">48.1% <span id="id_fidesz2">46.7%</span></td>
+				  <td id="id_fidesz">48.1% <span id="id_fidesz2">(46.7%)</span></td>
 			</tr>
-			<tr><td>Keresztessy Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">30.7% <span id="id_jobbik2">36.2%</span></td></tr>
+			<tr><td>Keresztessy Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">30.7% <span id="id_jobbik2">(36.2%)</span></td></tr>
 <tr>
                   <td>Lencsésné Gál Mária - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">14.7% <span id="id_baloldal2">12.0%</span></td>
+				  <td id="id_baloldal">14.7% <span id="id_baloldal2">(12.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Dr. Majoros Imre - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.8% <span id="id_lmp2">3.8%</span></td>
+				  <td id="lmp">4.8% <span id="id_lmp2">(3.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Buzinkay György - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.7% <span id="id_momentum2">1.3%</span></td>
+				  <td id="id_momentum">1.7% <span id="id_momentum2">(1.3%)</span></td>
 			</tr>
                 
               </tbody>

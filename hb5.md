@@ -24,24 +24,24 @@ permalink: /hb5
               <tbody>
              <tr>
                   <td>Bodó Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">46.4% <span id="id_fidesz2">45.2%</span></td>
+				  <td id="id_fidesz">46.4% <span id="id_fidesz2">(45.2%)</span></td>
 			</tr>
-			<tr><td>Rigán István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">30.5% <span id="id_jobbik2">36.1%</span></td></tr>
+			<tr><td>Rigán István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">30.5% <span id="id_jobbik2">(36.1%)</span></td></tr>
 <tr>
                   <td>Dede Tamás - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">15.0% <span id="id_baloldal2">12.3%</span></td>
+				  <td id="id_baloldal">15.0% <span id="id_baloldal2">(12.3%)</span></td>
 			</tr>
 			<tr>
                   <td>Radics Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.2% <span id="id_lmp2">4.0%</span></td>
+				  <td id="lmp">5.2% <span id="id_lmp2">(4.0%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kovács Imre Krisztián - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.8% <span id="id_momentum2">1.4%</span></td>
+				  <td id="id_momentum">1.8% <span id="id_momentum2">(1.4%)</span></td>
 			</tr>
 <tr>
 <td>Szemők Zoltán -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">1.2% <span id="id_egyutt2">0.9%</span></td>
+<td id="id_egyutt">1.2% <span id="id_egyutt2">(0.9%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

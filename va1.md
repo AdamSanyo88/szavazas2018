@@ -24,25 +24,25 @@ permalink: /va1
               <tbody>
              <tr>
                   <td>dr. Hende Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">45.3% <span id="id_fidesz2">45.6%</span></td>
+				  <td id="id_fidesz">45.3% <span id="id_fidesz2">(45.6%)</span></td>
 			</tr>
-			<tr><td>Balassa Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">15.7% <span id="id_jobbik2">11.6%</span></td></tr>
+			<tr><td>Balassa Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">15.7% <span id="id_jobbik2">(11.6%)</span></td></tr>
 <tr>
                   <td>dr. Nemény András - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">23.5% <span id="id_baloldal2">29.0%</span></td>
+				  <td id="id_baloldal">23.5% <span id="id_baloldal2">(29.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Németh Ákos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">10.6% <span id="id_lmp2">6.4%</span></td>
+				  <td id="lmp">10.6% <span id="id_lmp2">(6.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>Falka Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.7% <span id="id_momentum2">2.2%</span></td>
+				  <td id="id_momentum">3.7% <span id="id_momentum2">(2.2%)</span></td>
 			</tr>
           
 <tr>
 <td>Viszlayné Pavelkovits Petra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.2% <span id="id_mkkp2">1.0%</span></td>
+<td id="id_mkkp">1.2% <span id="id_mkkp2">(1.0%)</span></td>
 </tr>
 <tr>
 				  <td>dr. Czeglédy Csaba - független</td>

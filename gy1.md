@@ -24,24 +24,24 @@ permalink: /gy1
               <tbody>
              <tr>
                   <td>Simon Róbert Balázs - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">47.8% <span id="id_fidesz2">48.3%</span></td>
+				  <td id="id_fidesz">47.8% <span id="id_fidesz2">(48.3%)</span></td>
 			</tr>
-			<tr><td>Fodor Roland - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">14.8% <span id="id_jobbik2">11.2%</span></td></tr>
+			<tr><td>Fodor Roland - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">14.8% <span id="id_jobbik2">(11.2%)</span></td></tr>
 <tr>
                   <td>Glázer Tímea - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">22.4% <span id="id_baloldal2">31.3%</span></td>
+				  <td id="id_baloldal">22.4% <span id="id_baloldal2">(31.3%)</span></td>
 			</tr>
 			<tr>
                   <td>Jenei Ferenc - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">9.6% <span id="id_lmp2">5.8%</span></td>
+				  <td id="lmp">9.6% <span id="id_lmp2">(5.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Molnár József - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.3% <span id="id_momentum2">2.0%</span></td>
+				  <td id="id_momentum">3.3% <span id="id_momentum2">(2.0%)</span></td>
 			</tr>
 <tr>
 <td>Varga Márk -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">2.2% <span id="id_egyutt2">1.3%</span></td>
+<td id="id_egyutt">2.2% <span id="id_egyutt2">(1.3%)</span></td>
 </tr>            
     
               </tbody>

@@ -24,20 +24,20 @@ permalink: /za1
               <tbody>
              <tr>
                   <td>Vígh László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">47.2% <span id="id_fidesz2">47.3%</span></td>
+				  <td id="id_fidesz">47.2% <span id="id_fidesz2">(47.3%)</span></td>
 			</tr>
-			<tr><td>Benke Richárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.0% <span id="id_jobbik2">27.7%</span></td></tr>
+			<tr><td>Benke Richárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.0% <span id="id_jobbik2">(27.7%)</span></td></tr>
 <tr>
                   <td>Góra Balázs - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">19.4% <span id="id_baloldal2">18.7%</span></td>
+				  <td id="id_baloldal">19.4% <span id="id_baloldal2">(18.7%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Paksy Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">7.7% <span id="id_lmp2">4.6%</span></td>
+				  <td id="lmp">7.7% <span id="id_lmp2">(4.6%)</span></td>
 			</tr>
 			<tr>
 				  <td>Fodor Zsolt - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.7% <span id="id_momentum2">1.6%</span></td>
+				  <td id="id_momentum">2.7% <span id="id_momentum2">(1.6%)</span></td>
 			</tr>
                 
               </tbody>

@@ -24,20 +24,20 @@ permalink: /sz4
               <tbody>
              <tr>
                   <td>Boldog István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">43.5% <span id="id_fidesz2">42.2%</span></td>
+				  <td id="id_fidesz">43.5% <span id="id_fidesz2">(42.2%)</span></td>
 			</tr>
-			<tr><td>Csányi Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">33.1% <span id="id_jobbik2">40.1%</span></td></tr>
+			<tr><td>Csányi Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">33.1% <span id="id_jobbik2">(40.1%)</span></td></tr>
 <tr>
                   <td>Rózsa Endre - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">17.2% <span id="id_baloldal2">14.0%</span></td>
+				  <td id="id_baloldal">17.2% <span id="id_baloldal2">(14.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Ecseki Virág - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.6% <span id="id_lmp2">2.7%</span></td>
+				  <td id="lmp">4.6% <span id="id_lmp2">(2.7%)</span></td>
 			</tr>
 			<tr>
 				  <td>Matisz Károly - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.6% <span id="id_momentum2">0.9%</span></td>
+				  <td id="id_momentum">1.6% <span id="id_momentum2">(0.9%)</span></td>
 			</tr>
                 
               </tbody>

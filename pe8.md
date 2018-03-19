@@ -24,24 +24,24 @@ permalink: /pe8
               <tbody>
              <tr>
                   <td>Bóna Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">40.6% <span id="id_fidesz2">41.1%</span></td>
+				  <td id="id_fidesz">40.6% <span id="id_fidesz2">(41.1%)</span></td>
 			</tr>
-			<tr><td>Lupa János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">19.4% <span id="id_jobbik2">18.4%</span></td></tr>
+			<tr><td>Lupa János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">19.4% <span id="id_jobbik2">(18.4%)</span></td></tr>
 <tr>
                   <td>Stefanik Zsolt - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">26.0% <span id="id_baloldal2">32.0%</span></td>
+				  <td id="id_baloldal">26.0% <span id="id_baloldal2">(32.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Hevényiné Danics Nikoletta - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">8.8% <span id="id_lmp2">5.4%</span></td>
+				  <td id="lmp">8.8% <span id="id_lmp2">(5.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>Tótok József - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.1% <span id="id_momentum2">1.9%</span></td>
+				  <td id="id_momentum">3.1% <span id="id_momentum2">(1.9%)</span></td>
 			</tr>
 <tr>
 <td>Ketskeméty-Rády Magdolna -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">2.0% <span id="id_egyutt2">1.2%</span></td>
+<td id="id_egyutt">2.0% <span id="id_egyutt2">(1.2%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

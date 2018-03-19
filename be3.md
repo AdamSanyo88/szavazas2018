@@ -24,21 +24,21 @@ permalink: /be3
               <tbody>
              <tr>
                   <td>dr. Kovács József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">52.0% <span id="id_fidesz2">52.1%</span></td>
+				  <td id="id_fidesz">52.0% <span id="id_fidesz2">(52.1%)</span></td>
 			</tr>
-			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">21.4% <span id="id_jobbik2">24.4%</span></td></tr>
+			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">21.4% <span id="id_jobbik2">(24.4%)</span></td></tr>
 <tr>
                   <td>Pluhár László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">19.7% <span id="id_baloldal2">19.3%</span></td>
+				  <td id="id_baloldal">19.7% <span id="id_baloldal2">(19.3%)</span></td>
 			</tr>
 			<tr>
                   <td>Szabó László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;">
 				  </td>
-				  <td id="lmp">5.2% <span id="id_lmp2">3.1%</span></td>
+				  <td id="lmp">5.2% <span id="id_lmp2">(3.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Nagy Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.8% <span id="id_momentum2">1.1%</span></td>
+				  <td id="id_momentum">1.8% <span id="id_momentum2">(1.1%)</span></td>
 			</tr>
                 
               </tbody>

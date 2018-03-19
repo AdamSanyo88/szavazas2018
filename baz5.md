@@ -24,24 +24,24 @@ permalink: /baz5
               <tbody>
              <tr>
                   <td>dr. Hörcsik Richárd - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">47.0% <span id="id_fidesz2">45.4%</span></td>
+				  <td id="id_fidesz">47.0% <span id="id_fidesz2">(45.4%)</span></td>
 			</tr>
-			<tr><td>Mikola Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">28.6% <span id="id_jobbik2">35.6%</span></td></tr>
+			<tr><td>Mikola Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">28.6% <span id="id_jobbik2">(35.6%)</span></td></tr>
 <tr>
                   <td>Zaveczki Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">17.6% <span id="id_baloldal2">15.1%</span></td>
+				  <td id="id_baloldal">17.6% <span id="id_baloldal2">(15.1%)</span></td>
 			</tr>
 			<tr>
                   <td>Köteles László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.3% <span id="id_lmp2">2.5%</span></td>
+				  <td id="lmp">4.3% <span id="id_lmp2">(2.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Pencz András Soma - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.5% <span id="id_momentum2">0.9%</span></td>
+				  <td id="id_momentum">1.5% <span id="id_momentum2">(0.9%)</span></td>
 			</tr>
 <tr>
 <td>Szabó Mihály -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">1.0% <span id="id_egyutt2">0.6%</span></td>
+<td id="id_egyutt">1.0% <span id="id_egyutt2">(0.6%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

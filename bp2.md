@@ -24,28 +24,28 @@ permalink: /bp2
               <tbody>
              <tr>
                   <td>dr. Simicskó István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">42.3% <span id="id_fidesz2">43.2%</span></td>
+				  <td id="id_fidesz">42.3% <span id="id_fidesz2">(43.2%)</span></td>
 			</tr>
-			<tr><td>Dr. Bardócz-Tódor András - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">7.7% <span id="id_jobbik2">5.9%</span></td></tr>
+			<tr><td>Dr. Bardócz-Tódor András - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">7.7% <span id="id_jobbik2">(5.9%)</span></td></tr>
 <tr>
                   <td>Gy. Németh Erzsébet - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">26.5% <span id="id_baloldal2">36.2%</span></td>
+				  <td id="id_baloldal">26.5% <span id="id_baloldal2">(36.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Kreitler-Sas Máté - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">13.9% <span id="id_lmp2">8.5%</span></td>
+				  <td id="lmp">13.9% <span id="id_lmp2">(8.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Bedő Dávid - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">4.8% <span id="id_momentum2">2.9%</span></td>
+				  <td id="id_momentum">4.8% <span id="id_momentum2">(2.9%)</span></td>
 			</tr>
 <tr>
 <td>Kóber György -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">3.2% <span id="id_egyutt2">2.0%</span></td>
+<td id="id_egyutt">3.2% <span id="id_egyutt2">(2.0%)</span></td>
 </tr>                
 <tr>
                   <td>Fischer Roland - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				  <td id="id_mkkp">1.6% <span id="id_mkkp2">1.3%</span></td>
+				  <td id="id_mkkp">1.6% <span id="id_mkkp2">(1.3%)</span></td>
 			</tr>		
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
