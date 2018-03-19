@@ -13,7 +13,7 @@ permalink: /hb3
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/hb3.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Csikai József (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>

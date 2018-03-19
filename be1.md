@@ -13,7 +13,7 @@ permalink: /be1
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/be1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Nagy-Huszein Tibor (DK)</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
@@ -26,10 +26,10 @@ permalink: /be1
                   <td>Herczeg Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">40.1% <span id="id_fidesz2">(40.3%)</span></td>
 			</tr>
-			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">21.2% <span id="id_jobbik2">(26.7%)</span></td></tr>
+			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">21.2% <span id="id_jobbik2">(22.7%)</span></td></tr>
 <tr>
                   <td>Nagy-Huszein Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">23.8% <span id="id_baloldal2">(23.7%)</span></td>
+				  <td id="id_baloldal">23.8% <span id="id_baloldal2">(27.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Kovács Katalin Ildikó - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>

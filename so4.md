@@ -13,7 +13,7 @@ permalink: /so4
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/so4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">dr. Magyar György (MSZP-Párbeszéd)</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
@@ -26,10 +26,10 @@ permalink: /so4
                   <td>Witzmann Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">47.2% <span id="id_fidesz2">(47.3%)</span></td>
 			</tr>
-			<tr><td>Potocskáné Kőrösi Anita - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">20.8% <span id="id_jobbik2">(24.7%)</span></td></tr>
+			<tr><td>Potocskáné Kőrösi Anita - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">20.8% <span id="id_jobbik2">(21.9%)</span></td></tr>
 <tr>
                   <td>dr. Magyar György - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">22.6% <span id="id_baloldal2">(22.4%)</span></td>
+				  <td id="id_baloldal">22.6% <span id="id_baloldal2">(25.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Gál Ferenc - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>

@@ -13,7 +13,7 @@ permalink: /ke2
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/ke2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Jobbik</span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Nunkovics Tibor (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
@@ -44,7 +44,7 @@ permalink: /ke2
 </tr>     
 <tr>
 <td>Cserép János - független</td>
-<td id="id_egyeb2">3.0% (3.0%)</td>
+<td id="id_egyeb2">3.0 (3.0%)</td>
 </tr>       
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

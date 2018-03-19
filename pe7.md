@@ -13,7 +13,7 @@ permalink: /pe7
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/pe7.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">DK</span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Sas Zoltán (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped">
               <thead>
                 <tr>
@@ -26,10 +26,10 @@ permalink: /pe7
                   <td>dr. Szűcs Lajos - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				  <td id="id_fidesz">42.3% <span id="id_fidesz2">(42.7%)</span></td>
 			</tr>
-			<tr><td>Sas Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.2% <span id="id_jobbik2">(22.9%)</span></td></tr>
+			<tr><td>Sas Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.2% <span id="id_jobbik2">(27.5%)</span></td></tr>
 <tr>
                   <td>Nyeste Andrea - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">22.4% <span id="id_baloldal2">(27.0%)</span></td>
+				  <td id="id_baloldal">22.4% <span id="id_baloldal2">(22.4%)</span></td>
 			</tr>
 			<tr>
                   <td>Apostol Klaudia - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>

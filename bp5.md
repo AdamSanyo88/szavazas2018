@@ -13,7 +13,7 @@ permalink: /bp5
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén baloldali (erős az LMP)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/bp5.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">DK</span><span id="esely2"></span><span></span></strong></h5>
+			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Dr. Oláh Lajos (DK)</span><span id="esely2"></span><span></span></strong></h5>
 <table class="striped"> 
               <thead>
                 <tr>
@@ -33,15 +33,15 @@ permalink: /bp5
 			</tr>
 			<tr>
                   <td>Moldován László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">16.9% <span id="id_lmp2">(13.1%)</span></td>
+				  <td id="lmp">16.9% <span id="id_lmp2">(14.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Soproni Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">8.6% <span id="id_momentum2">(6.6%)</span></td>
+				  <td id="id_momentum">8.6% <span id="id_momentum2">(7.1%)</span></td>
 			</tr>
 <tr>
 <td><strong>VISSZALÉPETT</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">3.9% <span id="id_egyutt2">(__)</span></td>
+<td id="id_egyutt">0.0% <span id="id_egyutt2">(0.0%)</span></td>
 </tr>    
 <tr>
 <td>Döme Zsuzsanna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
@@ -49,10 +49,10 @@ permalink: /bp5
 </tr>  
 <tr>    
 <td>Dr. Bokros Lajos -  MoMa</td>
-<td id="id_egyeb2">1.5 (1.5%)</td>
+<td id="id_egyeb2">1.4% (1.4%)</td>
 </tr>        
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">DK</span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">Dr. Oláh Lajos (DK)</span><span id="esely"></span><span></span></h5>
 			
 			
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
