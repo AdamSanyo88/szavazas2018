@@ -29,11 +29,11 @@ permalink: /bp4
 			<tr><td>Kovács Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">5.8% <span id="id_jobbik2">(4.4%)</span></td></tr>
 <tr>
                   <td>Niedermüller Péter - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">28.0% <span id="id_baloldal2">(38.4%)</span></td>
+				  <td id="id_baloldal">28.0% <span id="id_baloldal2">(7.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Ungár Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">15.1% <span id="id_lmp2">(9.2%)</span></td>
+				  <td id="lmp">15.1% <span id="id_lmp2">(39.9%)</span></td>
 			</tr>
 			<tr>
 				  <td>Benedek Márton - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
