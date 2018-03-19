@@ -18,7 +18,7 @@ permalink: /pe2
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén) - FRISSÍTVE</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
                 </tr>
               </thead>
               <tbody>
