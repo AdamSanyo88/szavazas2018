@@ -28,7 +28,7 @@ permalink: /meresek
 					<th>MSZP</th>
 					<th>DK</th>
 					<th>LMP</th>
-					<th>MoMo</th>
+					<th>Momentum</th>
 					<th>Egyéb</th>
 					
                 </tr>
@@ -137,7 +137,7 @@ permalink: /meresek
 					<th>MSZP</th>
 					<th>DK</th>
 					<th>LMP</th>
-					<th>MoMo</th>
+					<th>Momentum</th>
 					<th>Egyéb</th>
                 </tr>
               </thead>
