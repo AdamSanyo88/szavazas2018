@@ -35,6 +35,18 @@ permalink: /meresek
               </thead>
               <tbody>
 			   <tr>
+				  <td><a href="https://index.hu/belfold/2018/03/20/zavecz_majdnem_annyian_szavaznanak_a_fideszre_mint_a_teljes_ellenzekre/">'18 márc.</a></td>
+                  <td>Závecz</td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>47%</td>
+				  <td>19%</td>
+				  <td>13%*</td>
+				  <td>8%</td>
+				  <td>6%</td>
+				  <td>3%</td>
+				  <td>1% (Együtt)</td>
+			</tr> 
+			  <tr>
 				  <td><a href="http://hvg.hu/itthon/20180228_Ket_honap_alatt_9_szazalekot_esett_a_Fidesz">'18 feb.</a></td>
                   <td>Republikon</td>
 				  <td>1000 fő, +/-3.1%</td>
