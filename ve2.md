@@ -32,7 +32,7 @@ permalink: /ve2
 				  <td id="id_baloldal">20.7% <span id="id_baloldal2">(21.8%)</span></td>
 			</tr>
 			<tr>
-                  <td>Ságodi Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td><strong>VISSZALÉPETT a Jobbik javára</strong> - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">8.4% <span id="id_lmp2">(5.0%)</span></td>
 			</tr>
 			<tr>

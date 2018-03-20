@@ -36,7 +36,7 @@ permalink: /to1
 				  <td id="lmp">19.2% <span id="id_lmp2">(34.9%)</span></td>
 			</tr>
 			<tr>
-				  <td><strong>VISSZALÉPETT</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td><strong>VISSZALÉPETT az LMP javára</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">5.7% <span id="id_momentum2">(5.7%)</span></td>
 			</tr>
         
