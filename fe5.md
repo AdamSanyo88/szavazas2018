@@ -35,10 +35,6 @@ permalink: /fe5
                   <td>Lapos Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">4.4% <span id="id_lmp2">(3.6%)</span></td>
 			</tr>
-			<tr>
-				  <td>Bálint Zoltán László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">0.0% <span id="id_momentum2">(0.0%)</span></td>
-			</tr>
 <tr>
 <td>Szigetvári Viktor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 <td id="id_egyutt">5.0% <span id="id_egyutt2">(4.0%)</span></td>
