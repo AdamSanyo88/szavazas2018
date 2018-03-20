@@ -9,6 +9,7 @@ permalink: /valasztokeruletek
 <div class="section">
     <div class="row">
           <div class="col s12">
+          <iframe src="/terkep.html" frameBorder="0" width="100%" height="400"></iframe>
 		  <h5>Településlista</h5> 
 <p class="light">Az alábbi táblázat megmutatja, hogy mely települések tartoznak egy-egy választókerülethez. Ha egy adott településre vagy budapesti kerületre keresésnél, használd a <strong>Ctrl+F</strong> billentyűkombinációt vagy válaszd a <strong>Keresés az oldalon</strong> opciót okostelefonról és tabletről.</p>
             <table class="striped">
