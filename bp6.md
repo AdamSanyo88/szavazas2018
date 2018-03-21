@@ -14,6 +14,7 @@ permalink: /bp6
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/bp6.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Ara-Kovács Attila (DK)</span><span id="esely2"></span><span></span></strong></h5>
+<h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Ara-Kovács Attila (DK)</strong></h5>
 <table class="striped">
               <thead>
                 <tr>
