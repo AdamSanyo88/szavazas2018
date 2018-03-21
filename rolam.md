@@ -21,9 +21,8 @@ permalink: /rolam
         </div>
 		<div class="col l5 offset-l1 card light-green lighten-4">
           <div class="card-content light">
-            <span class="center card-title">Miért az esélyes jelöltet válasszam egyéniben?</span>
+            <span class="center card-title">Mennyire megbízhatók az ilyen előrejelzések?</span>
 
-            <h5>Mennyire megbízhatók az ilyen előrejelzések?</h5>
 <p>A becslések a választókerületek többségében megbizható előrejelzést adnak az esélyes jelölt személyére. Ám várható, hogy lesznek olyan körzetek, ahol vagy nem lehet megjósolni az esélyest, vagy az előrejelzés ellenére mégis más személy lesz a tényleges esélyes. Ugyanez vonatkozik az adott kerület várható győztesére is.</p>
           </div>
 		  </div>
