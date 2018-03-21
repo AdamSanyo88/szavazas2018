@@ -14,7 +14,7 @@ permalink: /be4
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/be4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Dr. Szabó Ervin (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
-<h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: xx </strong></h5>
+<h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: </strong></h5>
 <table class="striped">
               <thead>
                 <tr>
