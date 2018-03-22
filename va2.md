@@ -68,7 +68,7 @@ permalink: /va2
               </thead>
               <tbody>
              <tr>
-                  <td>Dr. Hende Csaba Károly - Fidesz-KDNP</td>
+                  <td>Ágh Péter  - Fidesz-KDNP</td>
 				  <td>52.0%</td>
 			</tr>
 			<tr>
