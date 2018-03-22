@@ -14,76 +14,89 @@
 </head>
 <body>
 
-<div id="mapid" style="position:absolute;left:0; top:0; width: 100%; height: 100%;"></div>
+<div id="mapid" style="position:absolute;left:0; top:0; width: 100%; height: 100%; background-color: #ffffff;"></div>
 <script type="text/javascript" src="js/hu-oevks.js"></script>
 
 <script>
-       var oevk2 = L.geoJson(oevks, {style: style, onEachFeature: onEachFeature});
-       var oevk = L.layerGroup([oevk2]);
-/*
-       var  mbAttr = 'Térképadatok &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> közreműködők, ' +
+       var zoomThreshold = 9;  
+        var opc = 0.2;
+
+        var oevk2 = L.geoJson(oevks, {style: style, onEachFeature: onEachFeature});
+
+
+        var oevk = L.layerGroup([oevk2]);
+
+
+        var  mbAttr = 'Térképadatok &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> közreműködők, ' +
 			        '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			        'Háttér © <a href="http://mapbox.com">Mapbox</a>, ' + 
-                                'OEVK-k: <a href="http://valasztas.hu/">NVI</a>',
-            mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw',
-            mz = 18;
-         var streets = L.tileLayer(mbUrl, {id: 'mapbox.streets', attribution: mbAttr, maxZoom: mz});
-*/
-	var mymap = L.map('mapid', {
-              center: [47.180086, 19.503736],
-              zoom: 7,
-              layers: [oevk]
+			        'Háttérkép © <a href="http://mapbox.com">Mapbox</a>, ' + 
+                                'OEVK-k: <a href="http://www.valasztas.hu/">NVI</a>',
+             mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw',
+             mz = 18;
+ 
+
+        var utcak = L.tileLayer(mbUrl, {id: 'mapbox.streets', attribution: mbAttr, maxZoom: mz});
+
+        var mymap = L.map('mapid', {
+             center: [47.180086, 19.503736],
+             zoom: 7,
+             layers: [oevk]
         });
+
+
+        
+
 
 function style(feature) {
     return {
         fillColor: getColor(feature.properties.megye),
         weight: 1,
         opacity: 1,
-        color: 'white',
-        dashArray: '3',
-        fillOpacity: 0.2
+        color: 'gray',
+        dashArray: '',
+        fillOpacity: opc
     };
 }
 
+
+
+
+
+
 function onEachFeature(feature, layer) {
-    layer.bindPopup('<center><a href="/' + feature.properties.tid + '" target="_parent">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
+    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
     layer.on({
-        mouseover: highlightFeature,
-        mouseout: resetHighlight,
+        mouseover: buborek
     });
 }
 
-function highlightFeature(e) {
-    var layer = e.target;
 
-    layer.setStyle({
-        weight: 5,
-        color: '#fff',
-        dashArray: '',
-        fillOpacity: 0.3
-    });
-
-    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-        layer.bringToFront();
+mymap.on('zoomend', function () {
+    if (mymap.getZoom() < zoomThreshold && mymap.hasLayer(utcak)) {
+        mymap.removeLayer(utcak);
+        oevk.eachLayer(function (layer) {  
+        layer.setStyle({fillOpacity : opc})
+        }); 
     }
+    if (mymap.getZoom() >= zoomThreshold && mymap.hasLayer(utcak) == false) {
+        mymap.addLayer(utcak);
+        oevk.eachLayer(function (layer) {  
+        layer.setStyle({fillOpacity : 0.1}) 
+        });
+    }   
+});
+
+
+
+
+
+
+function buborek(e) {
+    var layer = e.target;
     layer.openPopup();
 }
 
-function resetHighlight(e) {
-    var layer = e.target;
 
-    layer.setStyle({
-        weight: 1,
-        color: 'white',
-        dashArray: '3',
-        fillOpacity: 0.2
-    });
-
-    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-        layer.bringToFront();
-    }
-}
 
 function getColor(t) {
     switch (t) {
@@ -118,6 +131,7 @@ function getColor(t) {
        default: '#555';
     }
 }
+
 
 </script>
 
