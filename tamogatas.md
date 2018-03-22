@@ -11,9 +11,9 @@ permalink: /tamogatas
           <div class="col s12">
 		  <h5>Támogasd az oldalt!</h5> 
 <br/>
-<h5>Eddig befolyt támogatás: 384560 Ft</h5>
+<h5>Eddig befolyt támogatás: 422211 Ft</h5>
 <p></p>
-<h5>Ebből kampányra fordított: 68412 Ft</h5>
+<h5>Ebből kampányra fordított: 104977 Ft</h5>
 		  
 <p>Kedves választópolgár!</p>
 <p>Ezt az oldalt jórészt egyedül csinálom, és komolyabb kapcsolati háló nélkül nehéz dolgom van abban, hogy a választók megismerjék a becslések eredményét a médián keresztül, és így megfontolt döntést hozzanak majd április 8-án.</p>
