@@ -13,7 +13,8 @@ permalink: /baz6
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik kihívó)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/baz6.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Bíró László (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
+			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>
+<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Bíró László (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Bíró László (Jobbik) </strong></h5>
 <table class="striped">
               <thead>
@@ -46,7 +47,7 @@ permalink: /baz6
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
 <br/>
 			
-<br/><h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6>
+
 
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
           </div>

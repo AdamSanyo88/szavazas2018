@@ -154,6 +154,32 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			   <tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bar02/">'18 feb.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../ba2">Baranya 2-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>38%</td>
+				  <td>21%</td>
+				  <td>__</td>
+				  <td>17%</td>
+				  <td>13%</td>
+				  <td>2%</td>
+				  <td>9% (Együtt)</td>
+			</tr>   
+			<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bar02/">'18 feb.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../ba2">Baranya 2-es (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>56%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>44%</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>    
 			  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_nog01/">'18 feb.</a></td>
                   <td>Medián, KOM</td>
