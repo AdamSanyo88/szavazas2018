@@ -41,7 +41,10 @@ permalink: /ba4
 				  <td>Gergely Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">2.1% <span id="id_momentum2">(1.2%)</span></td>
 			</tr>
-      
+    <tr>
+<td>Rajnai Attila - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+<td id="id_egyutt">__ <span id="id_egyutt2">__</span></td>
+</tr>          
 <tr>
 <td>Iván Petra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_mkkp">0.7% <span id="id_mkkp2">(0.6%)</span></td>

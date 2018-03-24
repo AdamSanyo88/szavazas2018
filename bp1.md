@@ -43,7 +43,7 @@ permalink: /bp1
 				  <td id="id_momentum">9.3% <span id="id_momentum2">(8.4%)</span></td>
 			</tr>
 <tr>
-                  <td>Juhász Péter - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+                  <td><strong>VISSZALÉPETT</strong> - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
 				  <td id="id_egyutt">8.1% <span id="id_egyutt2">(7.2%)</span></td>
 			</tr>	
 <tr>
