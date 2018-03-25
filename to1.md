@@ -37,11 +37,6 @@ permalink: /to1
                   <td>dr. Hadházy Ákos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">19.2% <span id="id_lmp2">(34.9%)</span></td>
 			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT az LMP javára</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">5.7% <span id="id_momentum2">(5.7%)</span></td>
-			</tr>
-        
 <tr>
 <td>Pesti Vendel - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_mkkp">1.9% <span id="id_mkkp2">(1.9%)</span></td>

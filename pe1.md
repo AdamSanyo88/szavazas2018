@@ -30,7 +30,7 @@ permalink: /pe1
 			</tr>
 			<tr><td>Vágó Sebestyén - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">16.9% <span id="id_jobbik2">(12.8%)</span></td></tr>
 <tr>
-                  <td>dr. Czőzik László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+                  <td>Dr. Csőzik László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				  <td id="id_baloldal">25.0% <span id="id_baloldal2">(34.5%)</span></td>
 			</tr>
 			<tr>

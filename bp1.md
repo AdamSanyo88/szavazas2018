@@ -43,10 +43,6 @@ permalink: /bp1
 				  <td id="id_momentum">9.3% <span id="id_momentum2">(8.4%)</span></td>
 			</tr>
 <tr>
-                  <td><strong>VISSZALÉPETT</strong> - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-				  <td id="id_egyutt">8.1% <span id="id_egyutt2">(7.2%)</span></td>
-			</tr>	
-<tr>
                   <td>Horváth András - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 				  <td id="id_mkkp">2.2% <span id="id_mkkp2">(1.8%)</span></td>
 			</tr>			

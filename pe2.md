@@ -29,10 +29,6 @@ permalink: /pe2
 				  <td id="id_fidesz">42.2% <span id="id_fidesz2">(43.5%)</span></td>
 			</tr>
 			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">10.6% <span id="id_jobbik2">(11.0%)</span></td></tr>
-<tr>
-                  <td><strong>VISSZALÉPETT</strong> - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">19.2% <span id="id_baloldal2">(0.0%)</span></td>
-			</tr>
 			<tr>
                   <td>dr. Szél Bernadett - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">20.0% <span id="id_lmp2">(37.3%)</span></td>

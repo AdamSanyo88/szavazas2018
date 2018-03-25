@@ -40,11 +40,7 @@ permalink: /bp5
 			<tr>
 				  <td>Soproni Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">8.6% <span id="id_momentum2">(7.0%)</span></td>
-			</tr>
-<tr>
-<td><strong>VISSZALÉPETT</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">0.0% <span id="id_egyutt2">(0.0%)</span></td>
-</tr>    
+			</tr> 
 <tr>
 <td>Döme Zsuzsanna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 <td id="id_mkkp">4.7% <span id="id_mkkp2">(3.7%)</span></td>

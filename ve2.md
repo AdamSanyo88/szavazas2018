@@ -34,10 +34,6 @@ permalink: /ve2
 				  <td id="id_baloldal">20.7% <span id="id_baloldal2">(21.8%)</span></td>
 			</tr>
 			<tr>
-                  <td><strong>VISSZALÉPETT a Jobbik javára</strong> - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">8.4% <span id="id_lmp2">(5.0%)</span></td>
-			</tr>
-			<tr>
 				  <td>Kiss László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				  <td id="id_momentum">2.9% <span id="id_momentum2">(1.8%)</span></td>
 			</tr>

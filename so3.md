@@ -37,10 +37,6 @@ permalink: /so3
                   <td>Filák Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				  <td id="lmp">5.5% <span id="id_lmp2">(3.3%)</span></td>
 			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT a Jobbik javára</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.9% <span id="id_momentum2">(1.2%)</span></td>
-			</tr>
                 
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
