@@ -8,7 +8,7 @@ permalink: /gy2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Győr-Moson-Sopron megye 2-es választókerület (Győr)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /gy2
               <tbody>
              <tr>
                   <td>Kara Ákos - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">54.8% <span id="id_fidesz2">(54.8%)</span></td>
+				   <td id="id_fidesz">53.4% &emsp; <span id="id_fidesz2">(54.6%)</span></td>
 			</tr>
-			<tr><td>Dr. Menyhárt Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">18.0% <span id="id_jobbik2">(20.3%)</span></td></tr>
+			<tr><td>Dr. Menyhárt Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.5% &emsp; <span id="id_jobbik2">(20.7%)</span></td></tr>
 <tr>
                   <td>Greguss András - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">16.2% <span id="id_baloldal2">(15.9%)</span></td>
+				   <td id="id_baloldal">15.7% &emsp; <span id="id_baloldal2">(15.8%)</span></td>
 			</tr>
 			<tr>
                   <td>Takács András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">8.1% <span id="id_lmp2">(6.7%)</span></td>
+				   <td id="id_lmp">7.8% &emsp; <span id="id_lmp2">(6.6%)</span></td>
 			</tr>
 			<tr>
 				  <td>Liszi Norbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.8% <span id="id_momentum2">(2.3%)</span></td>
+				   <td id="id_momentum">2.8% &emsp; <span id="id_momentum2">(2.3%)</span></td>
 			</tr>
      
            
@@ -52,7 +52,7 @@ permalink: /gy2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

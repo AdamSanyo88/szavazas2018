@@ -8,7 +8,7 @@ permalink: /ke2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Komárom-Esztergom megye 2-es választókerület (Esztergom)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,27 +26,27 @@ permalink: /ke2
               <tbody>
              <tr>
                   <td>dr. Völner Pál - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">46.9% <span id="id_fidesz2">(47.0%)</span></td>
+				   <td id="id_fidesz">45.0% &emsp; <span id="id_fidesz2">(46.4%)</span></td>
 			</tr>
-			<tr><td>Nunkovics Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.6% <span id="id_jobbik2">(26.7%)</span></td></tr>
+			<tr><td>Nunkovics Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">21.6% &emsp; <span id="id_jobbik2">(26.3%)</span></td></tr>
 <tr>
                   <td>dr. Vadai Ágnes - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">21.1% <span id="id_baloldal2">(18.1%)</span></td>
+				   <td id="id_baloldal">18.7% &emsp; <span id="id_baloldal2">(19.3%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Munkácsy Béla Attila - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">7.5% <span id="id_lmp2">(4.5%)</span></td>
+				   <td id="id_lmp">6.6% &emsp; <span id="id_lmp2">(4.4%)</span></td>
 			</tr>
 			<tr>
 				  </tr>
         
 <tr>
 <td>Papp László - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">0.9% <span id="id_mkkp2">(0.7%)</span></td>
+ <td id="id_mkkp">0.8% &emsp; <span id="id_mkkp2">(0.7%)</span></td>
 </tr>     
 <tr>
 <td>Cserép János - független</td>
-<td id="id_egyeb2">3.0 (3.0%)</td>
+<td id="id_egyeb2">3.0% &emsp; (3.0%)</td>
 </tr>       
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -57,7 +57,7 @@ permalink: /ke2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

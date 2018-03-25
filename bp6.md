@@ -8,7 +8,7 @@ permalink: /bp6
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Budapest 6-os választókerület (VIII. kerület)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz és baloldal között)</span></strong></h6>
 <br/>
@@ -26,28 +26,28 @@ permalink: /bp6
               <tbody>
              <tr>
                   <td>Kocsis Máté - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">32.6% <span id="id_fidesz2">(33.8%)</span></td>
+				   <td id="id_fidesz">31.8% &emsp; <span id="id_fidesz2">(33.1%)</span></td>
 			</tr>
-			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">14.1% <span id="id_jobbik2">(11.0%)</span></td></tr>
+			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">13.8% &emsp; <span id="id_jobbik2">(10.1%)</span></td></tr>
 <tr>
                   <td>Ara-Kovács Attila - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">26.7% <span id="id_baloldal2">(38.4%)</span></td>
+				   <td id="id_baloldal">26.0% &emsp; <span id="id_baloldal2">(39.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Jakabfy Tamás - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">12.1% <span id="id_lmp2">(7.5%)</span></td>
+				   <td id="id_lmp">11.6% &emsp; <span id="id_lmp2">(6.7%)</span></td>
 			</tr>
 			<tr>
 				  <td>Dr. Cseh Katalin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">6.8% <span id="id_momentum2">(4.2%)</span></td>
+				   <td id="id_momentum">7.5% &emsp; <span id="id_momentum2">(4.3%)</span></td>
 			</tr>
 <tr>
 <td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">6.3% <span id="id_egyutt2">(3.9%)</span></td>
+ <td id="id_egyutt">7.0% &emsp; <span id="id_egyutt2">(4.4%)</span></td>
 </tr>    
 <tr>
 <td>Racskó Gábor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.4% <span id="id_mkkp2">(1.2%)</span></td>
+ <td id="id_mkkp">2.2% &emsp; <span id="id_mkkp2">(1.8%)</span></td>
 </tr>             
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Ara-Kovács Attila (DK)</span><span id="esely"></span><span></span></h5>
@@ -58,7 +58,7 @@ permalink: /bp6
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

@@ -8,7 +8,7 @@ permalink: /fe5
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Fejér megye 5-ös választókerület (Sárbogárd)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /fe5
               <tbody>
              <tr>
                   <td>Varga Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">47.5% <span id="id_fidesz2">(47.0%)</span></td>
+				   <td id="id_fidesz">46.6% &emsp; <span id="id_fidesz2">(47.0%)</span></td>
 			</tr>
-			<tr><td>Árgyelán János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">30.9% <span id="id_jobbik2">(35.6%)</span></td></tr>
+			<tr><td>Árgyelán János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">30.3% &emsp; <span id="id_jobbik2">(36.2%)</span></td></tr>
 <tr>
                   <td>Szilveszterné Nyúli Ilona - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">12.2% <span id="id_baloldal2">(9.7%)</span></td>
+				   <td id="id_baloldal">11.9% &emsp; <span id="id_baloldal2">(9.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Lapos Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.4% <span id="id_lmp2">(3.6%)</span></td>
+				   <td id="id_lmp">4.3% &emsp; <span id="id_lmp2">(3.6%)</span></td>
 			</tr>
 <tr>
 <td>Szigetvári Viktor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">5.0% <span id="id_egyutt2">(4.0%)</span></td>
+ <td id="id_egyutt">4.9% &emsp; <span id="id_egyutt2">(3.4%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -50,7 +50,7 @@ permalink: /fe5
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

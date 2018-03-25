@@ -8,7 +8,7 @@ permalink: /bk6
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Bács-Kiskun megye 6-os választókerület (Baja)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /bk6
               <tbody>
              <tr>
                   <td>Zsigó Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">49.4% <span id="id_fidesz2">(49.5%)</span></td>
+				   <td id="id_fidesz">48.0% &emsp; <span id="id_fidesz2">(49.1%)</span></td>
 			</tr>
-			<tr><td>Grünfelder Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.7% <span id="id_jobbik2">(17.5%)</span></td></tr>
+			<tr><td>Grünfelder Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.2% &emsp; <span id="id_jobbik2">(17.3%)</span></td></tr>
 <tr>
                   <td>Hajdú Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">19.3% <span id="id_baloldal2">(24.8%)</span></td>
+				   <td id="id_baloldal">18.8% &emsp; <span id="id_baloldal2">(25.4%)</span></td>
 			</tr>
 			<tr>
                   <td>Ikotity István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">10.8% <span id="id_lmp2">(6.5%)</span></td>
+				   <td id="id_lmp">10.5% &emsp; <span id="id_lmp2">(6.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Béni Kornél - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.8% <span id="id_momentum2">(1.7%)</span></td>
+				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(1.7%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /bk6
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

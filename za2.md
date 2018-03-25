@@ -8,7 +8,7 @@ permalink: /za2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Zala megye 2-es választókerület (Keszthely)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,24 +26,24 @@ permalink: /za2
               <tbody>
              <tr>
                   <td>Manninger Jenő - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">48.8% <span id="id_fidesz2">(47.2%)</span></td>
+				   <td id="id_fidesz">48.5% &emsp; <span id="id_fidesz2">(47.0%)</span></td>
 			</tr>
-			<tr><td>dr. Weller-Jakus Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">25.1% <span id="id_jobbik2">(31.1%)</span></td></tr>
+			<tr><td>dr. Weller-Jakus Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">24.9% &emsp; <span id="id_jobbik2">(31.4%)</span></td></tr>
 <tr>
                   <td>Kovács Viktória - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">15.2% <span id="id_baloldal2">(13.3%)</span></td>
+				   <td id="id_baloldal">15.1% &emsp; <span id="id_baloldal2">(13.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Temesváry Tibor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">6.8% <span id="id_lmp2">(5.4%)</span></td>
+				   <td id="id_lmp">6.7% &emsp; <span id="id_lmp2">(5.3%)</span></td>
 			</tr>
 			<tr>
 				  <td>Elekes István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.4% <span id="id_momentum2">(1.9%)</span></td>
+				   <td id="id_momentum">2.4% &emsp; <span id="id_momentum2">(1.9%)</span></td>
 			</tr>
 <tr>
 <td>Csontos Gábor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">1.6% <span id="id_egyutt2">(1.3%)</span></td>
+ <td id="id_egyutt">1.6% &emsp; <span id="id_egyutt2">(1.1%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -54,7 +54,7 @@ permalink: /za2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

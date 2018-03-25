@@ -8,13 +8,13 @@ permalink: /ba4
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Baranya megye 4-es választókerület (Szigetvár)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/ba4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
-<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Andrics Alíz (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
+<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">dr. Vass Péter (MSZP-Párbeszéd)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Dr. Vass Péter (MSZP-Párbeszéd) </strong></h5>
 <table class="striped">
               <thead>
@@ -26,28 +26,28 @@ permalink: /ba4
               <tbody>
              <tr>
                   <td>Nagy Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">46.3% <span id="id_fidesz2">(46.5%)</span></td>
+				   <td id="id_fidesz">45.7% &emsp; <span id="id_fidesz2">(46.5%)</span></td>
 			</tr>
-			<tr><td>Andrics Alíz - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">22.5% <span id="id_jobbik2">(25.7%)</span></td></tr>
+			<tr><td>Andrics Alíz - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">22.1% &emsp; <span id="id_jobbik2">(21.4%)</span></td></tr>
 <tr>
                   <td>dr. Vass Péter - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">22.4% <span id="id_baloldal2">(22.4%)</span></td>
+				   <td id="id_baloldal">22.2% &emsp; <span id="id_baloldal2">(27.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Angyal Károly Tibor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.9% <span id="id_lmp2">(3.6%)</span></td>
+				   <td id="id_lmp">5.8% &emsp; <span id="id_lmp2">(3.3%)</span></td>
 			</tr>
 			<tr>
 				  <td>Gergely Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.1% <span id="id_momentum2">(1.2%)</span></td>
+				   <td id="id_momentum">2.0% &emsp; <span id="id_momentum2">(1.1%)</span></td>
 			</tr>
     <tr>
 <td>Rajnai Attila - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-<td id="id_egyutt">__ <span id="id_egyutt2">__</span></td>
+ <td id="id_egyutt">1.4% &emsp; <span id="id_egyutt2">(0.0%)</span></td>
 </tr>          
 <tr>
 <td>Iván Petra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">0.7% <span id="id_mkkp2">(0.6%)</span></td>
+ <td id="id_mkkp">0.7% &emsp; <span id="id_mkkp2">(0.6%)</span></td>
 </tr>          
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -58,7 +58,7 @@ permalink: /ba4
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

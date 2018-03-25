@@ -8,7 +8,7 @@ permalink: /so4
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Somogy megye 4-es választókerület (Siófok)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /so4
               <tbody>
              <tr>
                   <td>Witzmann Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">47.2% <span id="id_fidesz2">(47.3%)</span></td>
+				   <td id="id_fidesz">46.1% &emsp; <span id="id_fidesz2">(47.0%)</span></td>
 			</tr>
-			<tr><td>Potocskáné Kőrösi Anita - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">20.8% <span id="id_jobbik2">(21.9%)</span></td></tr>
+			<tr><td>Potocskáné Kőrösi Anita - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.4% &emsp; <span id="id_jobbik2">(22.3%)</span></td></tr>
 <tr>
                   <td>dr. Magyar György - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">22.6% <span id="id_baloldal2">(25.2%)</span></td>
+				   <td id="id_baloldal">22.1% &emsp; <span id="id_baloldal2">(25.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Gál Ferenc - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">6.9% <span id="id_lmp2">(4.1%)</span></td>
+				   <td id="id_lmp">6.7% &emsp; <span id="id_lmp2">(4.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Nagy Dávid - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.4% <span id="id_momentum2">(1.4%)</span></td>
+				   <td id="id_momentum">2.3% &emsp; <span id="id_momentum2">(1.4%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /so4
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

@@ -8,7 +8,7 @@ permalink: /cs1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Csongrád megye 1-es választókerület (Szeged)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
 <br/>
@@ -26,25 +26,25 @@ permalink: /cs1
               <tbody>
              <tr>
                   <td>Bartók Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">32.9% <span id="id_fidesz2">(33.1%)</span></td>
+				   <td id="id_fidesz">31.4% &emsp; <span id="id_fidesz2">(32.6%)</span></td>
 			</tr>
-			<tr><td>Tóth Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">14.8% <span id="id_jobbik2">(11.2%)</span></td></tr>
+			<tr><td>Tóth Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">14.1% &emsp; <span id="id_jobbik2">(10.3%)</span></td></tr>
 <tr>
                   <td>Szabó Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">33.0% <span id="id_baloldal2">(43.7%)</span></td>
+				   <td id="id_baloldal">31.5% &emsp; <span id="id_baloldal2">(45.1%)</span></td>
 			</tr>
 			<tr>
                   <td>Bodrog Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">13.2% <span id="id_lmp2">(8.0%)</span></td>
+				   <td id="id_lmp">12.4% &emsp; <span id="id_lmp2">(7.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Mihálik Edvin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">4.6% <span id="id_momentum2">(2.8%)</span></td>
+				   <td id="id_momentum">5.3% &emsp; <span id="id_momentum2">(3.0%)</span></td>
 			</tr>
                 
 <tr>
 <td>Pál Anna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.5% <span id="id_mkkp2">(1.2%)</span></td>
+ <td id="id_mkkp">2.4% &emsp; <span id="id_mkkp2">(2.0%)</span></td>
 </tr>
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Szabó Sándor (MSZP-Párbeszéd)</span><span id="esely"></span><span></span></h5>
@@ -55,7 +55,7 @@ permalink: /cs1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

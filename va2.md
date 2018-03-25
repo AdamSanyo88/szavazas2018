@@ -8,7 +8,7 @@ permalink: /va2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Vas megye 2-es választókerület (Sárvár)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /va2
               <tbody>
              <tr>
                   <td>Ágh Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">53.2% <span id="id_fidesz2">(53.4%)</span></td>
+				   <td id="id_fidesz">52.0% &emsp; <span id="id_fidesz2">(53.3%)</span></td>
 			</tr>
-			<tr><td>Rába Kálmán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">18.2% <span id="id_jobbik2">(18.1%)</span></td></tr>
+			<tr><td>Rába Kálmán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.8% &emsp; <span id="id_jobbik2">(17.2%)</span></td></tr>
 <tr>
                   <td>dr. Horváth Attila - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">19.3% <span id="id_baloldal2">(23.0%)</span></td>
+				   <td id="id_baloldal">18.8% &emsp; <span id="id_baloldal2">(24.5%)</span></td>
 			</tr>
 			<tr>
                   <td>György István Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">6.9% <span id="id_lmp2">(4.1%)</span></td>
+				   <td id="id_lmp">6.7% &emsp; <span id="id_lmp2">(3.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kovács Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.4% <span id="id_momentum2">(1.4%)</span></td>
+				   <td id="id_momentum">2.3% &emsp; <span id="id_momentum2">(1.3%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /va2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

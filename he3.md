@@ -8,7 +8,7 @@ permalink: /he3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Heves megye 3-as választókerület (Hatvan)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik kihívó)</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /he3
               <tbody>
              <tr>
                   <td>Szabó Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">42.4% <span id="id_fidesz2">(41.1%)</span></td>
+				   <td id="id_fidesz">41.8% &emsp; <span id="id_fidesz2">(40.5%)</span></td>
 			</tr>
-			<tr><td>Sneider Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">35.3% <span id="id_jobbik2">(41.9%)</span></td></tr>
+			<tr><td>Sneider Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">34.8% &emsp; <span id="id_jobbik2">(42.8%)</span></td></tr>
 <tr>
                   <td>Tóth Norbert - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">17.0% <span id="id_baloldal2">(13.9%)</span></td>
+				   <td id="id_baloldal">16.8% &emsp; <span id="id_baloldal2">(13.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Tóth Norbert - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">3.9% <span id="id_lmp2">(2.3%)</span></td>
+				   <td id="id_lmp">3.9% &emsp; <span id="id_lmp2">(2.2%)</span></td>
 			</tr>
 			<tr>
 				  <td>Déri Tibor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.4% <span id="id_momentum2">(0.8%)</span></td>
+				   <td id="id_momentum">1.4% &emsp; <span id="id_momentum2">(0.8%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /he3
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

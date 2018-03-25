@@ -8,7 +8,7 @@ permalink: /va3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Vas megye 3-as választókerület (Körmend)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /va3
               <tbody>
              <tr>
                   <td>V. Németh Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">57.5% <span id="id_fidesz2">(56.0%)</span></td>
+				   <td id="id_fidesz">56.4% &emsp; <span id="id_fidesz2">(55.8%)</span></td>
 			</tr>
-			<tr><td>Bana Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.3% <span id="id_jobbik2">(27.8%)</span></td></tr>
+			<tr><td>Bana Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">22.8% &emsp; <span id="id_jobbik2">(28.1%)</span></td></tr>
 <tr>
                   <td>Balogh Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">11.7% <span id="id_baloldal2">(10.0%)</span></td>
+				   <td id="id_baloldal">11.4% &emsp; <span id="id_baloldal2">(10.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Bogáti András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.6% <span id="id_lmp2">(4.6%)</span></td>
+				   <td id="id_lmp">5.5% &emsp; <span id="id_lmp2">(4.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Gerencsér Mária - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.0% <span id="id_momentum2">(1.6%)</span></td>
+				   <td id="id_momentum">1.9% &emsp; <span id="id_momentum2">(1.6%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /va3
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

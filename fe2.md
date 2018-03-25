@@ -8,7 +8,7 @@ permalink: /fe2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Fejér megye 2-es választókerület (Székesfehérvár)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /fe2
               <tbody>
              <tr>
                   <td>Törő Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">51.0% <span id="id_fidesz2">(49.0%)</span></td>
+				   <td id="id_fidesz">49.7% &emsp; <span id="id_fidesz2">(48.8%)</span></td>
 			</tr>
-			<tr><td>Fazakas Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">23.3% <span id="id_jobbik2">(29.2%)</span></td></tr>
+			<tr><td>Fazakas Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">22.7% &emsp; <span id="id_jobbik2">(29.6%)</span></td></tr>
 <tr>
                   <td>Horváth András - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">15.1% <span id="id_baloldal2">(13.4%)</span></td>
+				   <td id="id_baloldal">14.7% &emsp; <span id="id_baloldal2">(13.3%)</span></td>
 			</tr>
 			<tr>
                   <td>Perneczky László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">7.8% <span id="id_lmp2">(6.2%)</span></td>
+				   <td id="id_lmp">7.5% &emsp; <span id="id_lmp2">(6.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Tóth Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">2.7% <span id="id_momentum2">(2.2%)</span></td>
+				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(2.2%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /fe2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

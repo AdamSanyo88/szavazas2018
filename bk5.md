@@ -8,7 +8,7 @@ permalink: /bk5
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Bács-Kiskun megye 5-ös választókerület (Kiskunhalas)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /bk5
               <tbody>
              <tr>
                   <td>Bányai Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">52.2% <span id="id_fidesz2">(50.6%)</span></td>
+				   <td id="id_fidesz">51.5% &emsp; <span id="id_fidesz2">(50.4%)</span></td>
 			</tr>
-			<tr><td>Farkas Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">28.2% <span id="id_jobbik2">(34.1%)</span></td></tr>
+			<tr><td>Farkas Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.9% &emsp; <span id="id_jobbik2">(34.4%)</span></td></tr>
 <tr>
                   <td>Molnár László - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">14.2% <span id="id_baloldal2">(12.2%)</span></td>
+				   <td id="id_baloldal">14.0% &emsp; <span id="id_baloldal2">(12.1%)</span></td>
 			</tr>
 			<tr>
                   <td>Midi Melánia - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">4.0% <span id="id_lmp2">(2.3%)</span></td>
+				   <td id="id_lmp">3.9% &emsp; <span id="id_lmp2">(2.3%)</span></td>
 			</tr>
 			<tr>
 				  <td>Takács Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.4% <span id="id_momentum2">(0.8%)</span></td>
+				   <td id="id_momentum">1.4% &emsp; <span id="id_momentum2">(0.8%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /bk5
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

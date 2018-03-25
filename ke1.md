@@ -8,7 +8,7 @@ permalink: /ke1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Komárom-Esztergom megye 1-es választókerület (Tatabánya)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
 <br/>
@@ -26,25 +26,25 @@ permalink: /ke1
               <tbody>
              <tr>
                   <td>Bencsik János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">44.2% <span id="id_fidesz2">(44.4%)</span></td>
+				   <td id="id_fidesz">42.5% &emsp; <span id="id_fidesz2">(43.6%)</span></td>
 			</tr>
-			<tr><td>Boda Bánk László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.0% <span id="id_jobbik2">(12.8%)</span></td></tr>
+			<tr><td>Boda Bánk László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">16.3% &emsp; <span id="id_jobbik2">(11.7%)</span></td></tr>
 <tr>
                   <td>Fekete Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">25.7% <span id="id_baloldal2">(34.7%)</span></td>
+				   <td id="id_baloldal">24.7% &emsp; <span id="id_baloldal2">(36.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Körtvélyfáy Menyhért - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">8.9% <span id="id_lmp2">(5.4%)</span></td>
+				   <td id="id_lmp">8.5% &emsp; <span id="id_lmp2">(4.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Novák László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">3.1% <span id="id_momentum2">(1.9%)</span></td>
+				   <td id="id_momentum">4.0% &emsp; <span id="id_momentum2">(2.2%)</span></td>
 			</tr>
           
 <tr>
 <td>Barna Alexandra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.0% <span id="id_mkkp2">(0.8%)</span></td>
+ <td id="id_mkkp">2.0% &emsp; <span id="id_mkkp2">(1.6%)</span></td>
 </tr>        
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -55,7 +55,7 @@ permalink: /ke1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

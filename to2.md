@@ -8,7 +8,7 @@ permalink: /to2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Tolna megye 2-es választókerület (Dombóvár)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /to2
               <tbody>
              <tr>
                   <td>Potápi Árpád János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">48.7% <span id="id_fidesz2">(48.8%)</span></td>
+				   <td id="id_fidesz">47.8% &emsp; <span id="id_fidesz2">(48.6%)</span></td>
 			</tr>
-			<tr><td>Fenyvesi Csaba Zsolt - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">25.0% <span id="id_jobbik2">(28.9%)</span></td></tr>
+			<tr><td>Fenyvesi Csaba Zsolt - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">24.6% &emsp; <span id="id_jobbik2">(29.3%)</span></td></tr>
 <tr>
                   <td>Gecséné dr. Slárku Szilvia - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  <td id="id_baloldal">19.1% <span id="id_baloldal2">(18.0%)</span></td>
+				   <td id="id_baloldal">18.7% &emsp; <span id="id_baloldal2">(17.9%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Kretz István József - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">5.3% <span id="id_lmp2">(3.2%)</span></td>
+				   <td id="id_lmp">5.2% &emsp; <span id="id_lmp2">(3.2%)</span></td>
 			</tr>
 			<tr>
 				  <td>Sárdi Csaba László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  <td id="id_momentum">1.9% <span id="id_momentum2">(1.1%)</span></td>
+				   <td id="id_momentum">1.8% &emsp; <span id="id_momentum2">(1.1%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /to2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

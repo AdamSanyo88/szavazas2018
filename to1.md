@@ -8,12 +8,12 @@ permalink: /to1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. március 26.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
 		  <h5>Tolna megye 1-es választókerület (Szekszárd)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős az LMP)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/to1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Az LMP-s jelölt az egyértelmű esélyes</span></strong></h6><br/>
+			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Az LMP-s jelölt az esélyes (koordináció esetén)</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">dr. Hadházy Ákos (LMP)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: dr. Hadházy Ákos (LMP) </strong></h5>
 <table class="striped">
@@ -26,23 +26,23 @@ permalink: /to1
               <tbody>
              <tr>
                   <td>Horváth István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  <td id="id_fidesz">35.8% <span id="id_fidesz2">(35.9%)</span></td>
+				   <td id="id_fidesz">34.5% &emsp; <span id="id_fidesz2">(37.5%)</span></td>
 			</tr>
-			<tr><td>Szabó Balázs György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td><td id="id_jobbik">17.7% <span id="id_jobbik2">(17.7%)</span></td></tr>
+			<tr><td>Szabó Balázs György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.0% &emsp; <span id="id_jobbik2">(18.3%)</span></td></tr>
 <tr>
                   <td>dr. Harangozó Tamás - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  <td id="id_baloldal">19.7% <span id="id_baloldal2">(4.0%)</span></td>
+				   <td id="id_baloldal">19.0% &emsp; <span id="id_baloldal2">(4.9%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Hadházy Ákos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  <td id="lmp">19.2% <span id="id_lmp2">(34.9%)</span></td>
+				   <td id="id_lmp">18.5% &emsp; <span id="id_lmp2">(37.8%)</span></td>
 			</tr>
 <tr>
 <td>Pesti Vendel - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-<td id="id_mkkp">1.9% <span id="id_mkkp2">(1.9%)</span></td>
+ <td id="id_mkkp">1.8% &emsp; <span id="id_mkkp2">(1.6%)</span></td>
 </tr>        
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">dr. Hadházy Ákos (LMP)</span><span id="esely"></span><span></span></h5>
 			
 			
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
@@ -50,7 +50,7 @@ permalink: /to1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0319">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>
