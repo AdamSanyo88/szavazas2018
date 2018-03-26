@@ -154,6 +154,32 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
+			  tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_jas01/'18 márc.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../sz1">Jász-Nagykun-Szolnok 1-es</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>41%</td>
+				  <td>28%</td>
+				  <td>22%</td>
+				  <td>__</td>
+				  <td>7%</td>
+				  <td>2%</td>
+				  <td>__</td>
+			</tr>   
+			<tr>
+				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_jas01/'18 márc.</a></td>
+                  <td>Medián, KOM</td>
+				  <td><a href="../sz1">Jász-Nagykun-Szolnok 1-es (visszalépésekkel)</a></td>
+				  <td>1000 fő, +/-3.1%</td>
+				  <td>54%</td>
+				  <td>46%</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+				  <td>__</td>
+			</tr>    
 			   <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_bar02/">'18 feb.</a></td>
                   <td>Medián, KOM</td>
