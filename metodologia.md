@@ -36,7 +36,7 @@ permalink: /metodologia
 
 <p>Ezen kívül három politikai természetű ajánlás is született, amelyek feltétele, hogy a pártok között koordináció történjen. Ezek az ajánlások két esetben az Együtt (Budapest 13. és 17. választókerületei) és egy esetben az LMP (Budapest 4.) tesznek ajánlást. Ezekben a kerületekben még nem letisztázottak a visszalépések, ezért csak 50%-os átszavazási hajlandósággal számoltam (a szokásos 80% helyett). Fontos kiemelni, hogy ezek a javaslatok csak a pártok együttműködése esetén válnak valóra, egyébként a szavazatok szétaprózódása miatt más eredmény várható a kerületben. Hasonló ajánlás született Tolna megye 1-es körzetében is Hadházy Ákos javára, igaz, ő már egyértelmű esélyes jelölt, és a fenti három kerülettel ellentétben valószínűbb a visszalépés a javára.</p>
 
-<p>Fontos továbbá, hogy a 93 kiosztandó listás mandátumok száma 92-re csökkent, ugyanis szinte biztosan lesz egy német nemzetiségi képviselője az új parlamentnek, akik kedvezményes mandátummal juthat majd be. Így a pártok már csak 198 mandátumért harcolnak</p>.
+<p>Fontos továbbá, hogy a 93 kiosztandó listás mandátumok száma 92-re csökkent, ugyanis szinte biztosan lesz egy német nemzetiségi képviselője az új parlamentnek, akik kedvezményes mandátummal juthat majd be. Így a pártok már csak 198 mandátumért harcolnak.</p>
 
 <h6>Az UNS bemeneti adatai <strong>(pártok országos támogatottsága)</strong>:</h6>
 <p></p>
@@ -63,7 +63,7 @@ permalink: /metodologia
 
 <p><strong>Átszavazási hajlandóság:</strong></p>
 
-<p>Az átszavazási hajlandóság 0-7%-os különbség esetén 1-10% között, afölött 25-40% között mozgott párttól függően. Azokban a körzetekben, ahol Márki-Zay Péter "Rendszerváltás 2018" csoportja is ajánlást fogalmazott meg, ott az átszavazási hajlandóság egységesen 5%-kal magasabb volt. Itt a becslés azt feltételezi, hogy kisebb különbségnél a pártok kitartanak a saját jelöltjük mellett.</p>
+<p>Az átszavazási hajlandóság 0-7%-os különbség esetén 1-10% között, afölött 25-40% között mozgott párttól függően. Azokban a körzetekben, ahol Márki-Zay Péter "Rendszerváltás 2018" csoportja is ajánlást fogalmazott meg, ott az átszavazási hajlandóság egységesen 5%-kal magasabb volt.</p>
 <p>A három politikai természetű becslésnél 50%-os átszavazási hajlandósággal számolt a modell, míg Szél Bernadett és Hadházy Ákos esetében 80%-kal.</p>
 <p>Ahol formális visszalépés történt - mint például a Momentum és az LMP visszalépései Kunhalmi Ágnes javára -, ott a visszalépők szavazói 80%-ban szavaznak át az esélyes jelöltre.</p>
 
