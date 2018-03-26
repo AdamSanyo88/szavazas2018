@@ -98,7 +98,7 @@ permalink: /metodologia
 <h6><strong>A Jobbik javára:</strong></h6>
 <p><a href="../pe12">Cegléd</a></p>
 <p><a href="../cs4">Hódmezővásárhely</a></p>
-<p><a href="../szb2">Nyíregyháza 12es</a></p>
+<p><a href="../szb2">Nyíregyháza 2-es</a></p>
 <p><a href="../ve3">Tapolca</a></p>
 <h6><strong>Az MSZP/DK javára:</strong></h6>
 <p><a href="../szb1">Nyíregyháza 1-es</a></p>
