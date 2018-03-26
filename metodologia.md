@@ -96,26 +96,26 @@ permalink: /metodologia
 <h6><strong>LMP</strong></h6>
 <br/>
 <h6><strong>A Jobbik javára:</strong></h6>
-<p><a href="../pe12">Cegléd</a></p>
-<p><a href="../cs4">Hódmezővásárhely</a></p>
-<p><a href="../szb2">Nyíregyháza 2-es</a></p>
-<p><a href="../ve3">Tapolca</a></p>
+<p><a href="/pe12">Cegléd</a></p>
+<p><a href="/cs4">Hódmezővásárhely</a></p>
+<p><a href="/szb2">Nyíregyháza 2-es</a></p>
+<p><a href="/ve3">Tapolca</a></p>
 <h6><strong>Az MSZP/DK javára:</strong></h6>
-<p><a href="../szb1">Nyíregyháza 1-es</a></p>
-<p><a href="../bp5">Budapest 5-ös</a></p>
-<p><a href="../bp6">Budapest 6-os</a></p>
-<p><a href="../bp8">Budapest 8-as</a></p>
-<p><a href="../bp10">Budapest 10-es</a></p>
-<p><a href="../bp12">Budapest 12-ös</a></p>
-<p><a href="../bp14">Budapest 14-es</a></p>
-<p><a href="../bp16">Budapest 16-os</a></p>
-<p><a href="../bp18">Budapest 18-as</a></p>
-<p><a href="../pe1">Érd</a></p>
-<p><a href="../cs2">Pécs 2-es</a></p>
+<p><a href="/szb1">Nyíregyháza 1-es</a></p>
+<p><a href="/bp5">Budapest 5-ös</a></p>
+<p><a href="/bp6">Budapest 6-os</a></p>
+<p><a href="/bp8">Budapest 8-as</a></p>
+<p><a href="/bp10">Budapest 10-es</a></p>
+<p><a href="/bp12">Budapest 12-ös</a></p>
+<p><a href="/bp14">Budapest 14-es</a></p>
+<p><a href="/bp16">Budapest 16-os</a></p>
+<p><a href="/bp18">Budapest 18-as</a></p>
+<p><a href="/pe1">Érd</a></p>
+<p><a href="/cs2">Pécs 2-es</a></p>
 
 <h6><strong>Független javára:</strong></h6>
-<p><a href="..ve1">Veszprém</a></p>
-<p><a href="..ba1">Pécs 1-es</a></p>
+<p><a href="ve1">Veszprém</a></p>
+<p><a href="ba1">Pécs 1-es</a></p>
 <br/>
 
 <h6><strong>Momentum és Együtt</strong></h6>
@@ -124,17 +124,17 @@ permalink: /metodologia
 <h6><strong>MSZP és DK</strong></h6>
 <br/>
 <h6><strong>Az LMP javára: (a lista nem teljes)</strong></h6>
-<p><a href="../to1">Szekszárd</a></p>
-<p><a href="../no1">Salgótarján</a></p>
-<p><a href="../pe6">Gödöllő</a></p>
-<p><a href="../bp4">Budapest 4-es</a></p>
+<p><a href="/to1">Szekszárd</a></p>
+<p><a href="/no1">Salgótarján</a></p>
+<p><a href="/pe6">Gödöllő</a></p>
+<p><a href="/bp4">Budapest 4-es</a></p>
 
 <h6><strong>Az Együtt javára:</strong></h6>
-<p><a href="../bp13">Budapest 13-as</a></p>
-<p><a href="../bp17">Budapest 17-es</a></p>
+<p><a href="/bp13">Budapest 13-as</a></p>
+<p><a href="/bp17">Budapest 17-es</a></p>
 
 <h6><strong>A Momentum javára:</strong></h6>
-<p><a href="../bp1">Budapest 1-es</a></p>
+<p><a href="/bp1">Budapest 1-es</a></p>
 
 <p>A javaslat nem számol azzal, hogy a Jobbik bárki javára is visszalépjen, bár elképzelhető a részükről az LMP felé hideg koordináció (visszalépés nélküli átszavazásra buzdítás).</p>
 
