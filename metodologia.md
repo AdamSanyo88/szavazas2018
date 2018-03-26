@@ -95,10 +95,9 @@ permalink: /metodologia
 <br/>
 <h6><strong>A Jobbik javára:</strong></h6>
 <p><a href="../pe12">Cegléd</a></p>
-<p><a href="../cs4"Hódmezővásárhely</a></p>
+<p><a href="../cs4">Hódmezővásárhely</a></p>
 <p><a href="../szb2">Nyíregyháza 12es</a></p>
 <p><a href="../ve3">Tapolca</a></p>
-<br/>
 <h6><strong>Az MSZP/DK javára:</strong></h6>
 <p><a href="../szb1">Nyíregyháza 1-es</a></p>
 <p><a href="../bp5">Budapest 5-ös</a></p>
@@ -111,7 +110,6 @@ permalink: /metodologia
 <p><a href="../bp18">Budapest 18-as</a></p>
 <p><a href="../pe1">Érd</a></p>
 <p><a href="../cs2">Pécs 2-es</a></p>
-<br/>
 
 <h6><strong>Független javára:</strong></h6>
 <p><a href="..ve1">Veszprém</a></p>
@@ -120,7 +118,7 @@ permalink: /metodologia
 
 <h6><strong>Momentum és Együtt</strong></h6>
 <p>Ugyanott, ahol az LMP is (ha nem is mindenhol, de leginkább Budapest 5, 6, 12, 16, és 18-ban)</p>
-
+<br/>
 <h6><strong>MSZP és DK</strong></h6>
 <br/>
 <h6><strong>Az LMP javára: (a lista nem teljes)</strong></h6>
