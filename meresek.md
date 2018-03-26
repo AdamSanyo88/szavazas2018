@@ -154,7 +154,7 @@ permalink: /meresek
                 </tr>
               </thead>
               <tbody>
-			  tr>
+			  <tr>
 				  <td><a href="https://kozosorszagmozgalom.hu/kvkutatas_jas01/'18 márc.</a></td>
                   <td>Medián, KOM</td>
 				  <td><a href="../sz1">Jász-Nagykun-Szolnok 1-es</a></td>
