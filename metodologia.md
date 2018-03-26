@@ -36,6 +36,8 @@ permalink: /metodologia
 
 <p>Ezen kívül három politikai természetű ajánlás is született, amelyek feltétele, hogy a pártok között koordináció történjen. Ezek az ajánlások két esetben az Együtt (Budapest 13. és 17. választókerületei) és egy esetben az LMP (Budapest 4.) tesznek ajánlást. Ezekben a kerületekben még nem letisztázottak a visszalépések, ezért csak 50%-os átszavazási hajlandósággal számoltam (a szokásos 80% helyett). Fontos kiemelni, hogy ezek a javaslatok csak a pártok együttműködése esetén válnak valóra, egyébként a szavazatok szétaprózódása miatt más eredmény várható a kerületben. Hasonló ajánlás született Tolna megye 1-es körzetében is Hadházy Ákos javára, igaz, ő már egyértelmű esélyes jelölt, és a fenti három kerülettel ellentétben valószínűbb a visszalépés a javára.</p>
 
+<p>Fontos továbbá, hogy a 93 kiosztandó listás mandátumok száma 92-re csökkent, ugyanis szinte biztosan lesz egy német nemzetiségi képviselője az új parlamentnek, akik kedvezményes mandátummal juthat majd be. Így a pártok már csak 198 mandátumért harcolnak</p>.
+
 <h6>Az UNS bemeneti adatai <strong>(pártok országos támogatottsága)</strong>:</h6>
 <p></p>
 <h6>Fidesz-KDNP 43.5%</h6>
