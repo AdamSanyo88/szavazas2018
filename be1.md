@@ -14,37 +14,37 @@ permalink: /be1
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/be1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
-<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Nagy-Huszein Tibor (DK)</span><span id="esely2"></span><span></span></strong></h5>
+<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Kocziha Tünde (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: </strong></h5>
 <table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)- FRISSÍTVE</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Herczeg Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">38.4% &emsp; <span id="id_fidesz2">(39.3%)</span></td>
+				   <td id="id_fidesz">39.6% &emsp; <span id="id_fidesz2">(39.3%)</span></td>
 			</tr>
-			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.3% &emsp; <span id="id_jobbik2">(23.2%)</span></td></tr>
+			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.9% &emsp; <span id="id_jobbik2">(28.0%)</span></td></tr>
 <tr>
                   <td>Nagy-Huszein Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.8% &emsp; <span id="id_baloldal2">(27.2%)</span></td>
+				   <td id="id_baloldal">20.5% &emsp; <span id="id_baloldal2">(20.9%)</span></td>
 			</tr>
 			<tr>
                   <td>Kovács Katalin Ildikó - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">9.7% &emsp; <span id="id_lmp2">(6.0%)</span></td>
+				   <td id="id_lmp">10.0% &emsp; <span id="id_lmp2">(6.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Almási István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.4% &emsp; <span id="id_momentum2">(2.7%)</span></td>
+				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(2.8%)</span></td>
 			</tr>
    
 <tr>
 <td>Babiniszki Péter - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">2.1% &emsp; <span id="id_mkkp2">(1.7%)</span></td>
+ <td id="id_mkkp">2.1% &emsp; <span id="id_mkkp2">(1.8%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
