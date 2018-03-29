@@ -38,7 +38,7 @@ permalink: /baz2
 				   <td id="id_lmp">5.4% &emsp; <span id="id_lmp2">(3.1%)</span></td>
 			</tr>
 			<tr>
-				  <td>Dudás Norbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td><strong>VISSZALÉPETT az MSZP-Párbeszéd javára</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">2.8% &emsp; <span id="id_momentum2">(1.6%)</span></td>
 			</tr>
                 
