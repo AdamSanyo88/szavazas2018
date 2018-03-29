@@ -26,7 +26,7 @@ permalink: /be1
               <tbody>
              <tr>
                   <td>Herczeg Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">39.6% &emsp; <span id="id_fidesz2">(39.3%)</span></td>
+				   <td id="id_fidesz">39.6% &emsp; <span id="id_fidesz2">(40.5%)</span></td>
 			</tr>
 			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.9% &emsp; <span id="id_jobbik2">(28.0%)</span></td></tr>
 <tr>
