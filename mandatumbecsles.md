@@ -77,6 +77,8 @@ permalink: /mandatumbecsles
             </table>
 <h5>Eredmény: A Fidesz stabil többséget szerez a parlamentben 119 mandátummal.</h5>
 <br/>
+<img src="images/parlamenti_patko.png" img="" style="height: 100%; width: 100%; object-fit: contain">
+<br/>
 <h6><strong>Magasabb átszavazási hajlandóság és koordináció mellett a Fidesz várható mandátumainak száma 100-ra csökken.</strong></h6>
 <h6>Utolsó frissítés: 2018. március 26.</h6>
           </div>
@@ -87,10 +89,14 @@ permalink: /mandatumbecsles
     <div class="row">
           <div class="col s12">
 		  <h5>Egyéni kerületek sorsa</h5> 
-<p class="light">Az alábbi táblázat megmutatja, hogy az egyéni választókerületekben mely párt és milyen arányban győzedelmeskedne. A lista folyamatosan frissül <a href="/meresek">az új közvélemény-kutatási eredmények tükrében.</a></p>
-<p class="light">A térképen az egyes pártok győztes kerületei láthatók. A kis színes körök az ellenzék számára nyerhető körzeteket mutatják.</p>
+<p>Az alábbi táblázat megmutatja, hogy az egyéni választókerületekben mely párt és milyen arányban győzedelmeskedne. A lista folyamatosan frissül <a href="/meresek">az új közvélemény-kutatási eredmények tükrében.</a></p>
+<p>A felső térképen az egyes pártok győztes kerületei láthatók. A kis színes körök az ellenzék számára nyerhető körzeteket mutatják.</p>
+<p>Az alsó térképen összesítve látható a Fideszes, ellenzéki, és nyerhető ellenzéki (de jelenleg Fideszes) körzetek listája.</p>
 <br/>
 <img src="images/oevk_eredmeny_4.png" img="" style="height: 100%; width: 100%; object-fit: contain">
+<br/>
+<br/>
+<img src="images/oevk_binary.png" img="" style="height: 100%; width: 100%; object-fit: contain">
 <br/>
             <table class="striped">
               <thead>
