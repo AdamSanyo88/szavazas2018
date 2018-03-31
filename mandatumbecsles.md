@@ -67,6 +67,7 @@ permalink: /mandatumbecsles
 				  <td>2</td>
 				  <td>1.0%</td>
 			</tr>
+			<tr>
 			<td>Német nemzetiségi képviselő</td>
 				<td>0</td>
 				  <td>1</td>

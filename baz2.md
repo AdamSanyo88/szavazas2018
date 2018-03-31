@@ -37,10 +37,7 @@ permalink: /baz2
                   <td>Doszpoly Botond László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				   <td id="id_lmp">5.4% &emsp; <span id="id_lmp2">(3.1%)</span></td>
 			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT az MSZP-Párbeszéd javára</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.8% &emsp; <span id="id_momentum2">(1.6%)</span></td>
-			</tr>
+			
                 
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Pakusza Zoltán (Jobbik)</span><span id="esely"></span><span></span></h5>
