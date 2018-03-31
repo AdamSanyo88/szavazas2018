@@ -13,7 +13,7 @@ permalink: /tamogatas
 <br/>
 <h5>Eddig befolyt támogatás: 1005120 Ft</h5>
 <p></p>
-<h5>Ebből kampányra fordított: 270131 Ft</h5>
+<h5>Ebből kampányra fordított: 233862 Ft</h5>
 		  
 <p>Kedves választópolgár!</p>
 <p>Ezt az oldalt jórészt egyedül csinálom, és komolyabb kapcsolati háló nélkül nehéz dolgom van abban, hogy a választók megismerjék a becslések eredményét a médián keresztül, és így megfontolt döntést hozzanak majd április 8-án.</p>
