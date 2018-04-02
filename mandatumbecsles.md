@@ -308,7 +308,7 @@ permalink: /mandatumbecsles
 <td id="kulonbseg_gy1">18.7%</td></tr>	
 <tr><td><a href="../gy2">Győr-Moson-Sopron megyei 2.</a></td>
 <td id="gyoztes_gy2">Fidesz</td>
-<td id="masodik_gy2">MSZP-Párbeszéd</td>
+<td id="masodik_gy2">Greguss András (MSZP-Párbeszéd)</td>
 <td id="kulonbseg_gy2">30.4%</td></tr>	
 <tr><td><a href="../gy3">Győr-Moson-Sopron megyei 3.</a></td>
 <td id="gyoztes_gy3">Fidesz</td>
