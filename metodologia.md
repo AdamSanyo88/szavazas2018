@@ -25,7 +25,7 @@ permalink: /metodologia
 <h5>Gyakori kérdések</h5>
 <p><a href="https://www.facebook.com/taktikaiszavazas.hu/posts/147704859241441">A linken keresztül elérhető Facebook bejegyzés</a> összefoglal néhány gyakori kérdést a becslésekkel kapcsolatban.</p>
 <br/>
-<h5 id="0326">Április 2-i becslés módszertana és leírása</h5>
+<h5 id="0402">Április 2-i becslés módszertana és leírása</h5>
 <br/>
 <h6><strong>Összefoglaló</strong></h6>
 <br/>
