@@ -78,7 +78,7 @@ permalink: /mandatumbecsles
             </table>
 <h5>Eredmény: A Fidesz stabil többséget szerez a parlamentben 122 mandátummal.</h5>
 <br/>
-<h5><strong>Magasabb átszavazási hajlandóság és koordináció mellett a Fidesz mandátumainak száma 102-re csökkenhet.</strong></h5>
+<h5><strong>Magasabb részvétel, átszavazás és koordináció mellett a Fidesz mandátumainak száma 102-re csökkenhet (szűk Fideszes többség).</strong></h5>
 <br/>
 <img src="images/parlamenti_patko.png" img="" style="height: 75%; width: 75%; align: middle; object-fit: contain">
 <br/>
