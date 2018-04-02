@@ -39,7 +39,7 @@ permalink: /bp1
 				   <td id="id_lmp">19.2% &emsp; <span id="id_lmp2">(17.4%)</span></td>
 			</tr>
 			<tr>
-				  <td>Fekete-Győr András - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td><strong>VISSZALÉPETT AZ MSZP-PÁRBESZÉD JAVÁRA - Momentum</strong> <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">10.6% &emsp; <span id="id_momentum2">(9.6%)</span></td>
 			</tr>
 <tr>
