@@ -24,7 +24,7 @@ permalink: /metodologia
 
 <h5>Gyakori kérdések</h5>
 <p><a href="https://www.facebook.com/taktikaiszavazas.hu/posts/147704859241441">A linken keresztül elérhető Facebook bejegyzés</a> összefoglal néhány gyakori kérdést a becslésekkel kapcsolatban.</p>
-
+<br/>
 <h5 id="0326">Április 2-i becslés módszertana és leírása</h5>
 <br/>
 <h6><strong>Összefoglaló</strong></h6>
@@ -34,7 +34,7 @@ permalink: /metodologia
 
 <p>A mostani becslés alacsonyabb átszavazási hajlandósággal számol és enyhén asszimetrikusan az MSZP/DK-LMP-Jobbik tengelyen (lásd alább).</p>
 
-<p>A visszalépést igénylő körzetek listája - ahol már az esetleges visszalépés miatt 50%-os átszavazás van kalkulálva a másodlagos preferenciákkal - az alábbi öt körzet: </p>
+<p>A visszalépést igénylő körzetek listája - ahol már az esetleges visszalépés miatt 50%-os átszavazás van kalkulálva a másodlagos preferenciákkal - az alábbi négy körzet: </p>
 <p><a href="/bp4">Budapest 4-es</a></p>
 <p><a href="/bp13">Budapest 13-as</a></p>
 <p><a href="/bp17">Budapest 17-es</a></p>
@@ -70,12 +70,12 @@ permalink: /metodologia
 <p><strong>Átszavazási hajlandóság:</strong></p>
 
 <p>Az átszavazási hajlandóság 0-7%-os különbség esetén 1-10% között, afölött 25-40% között mozgott párttól függően.</p>
-<p>A három politikai természetű becslésnél 50%-os átszavazási hajlandósággal számolt a modell, míg Szél Bernadett esetében 80%-kal.</p>
+
 <p>Ahol formális visszalépés történt - mint például a Momentum és az LMP visszalépései Kunhalmi Ágnes javára -, ott a visszalépők szavazói 80%-ban szavaznak át az esélyes jelöltre.</p>
 
 <p>Átszavazás pártonként egyéb esetekben:</p>
 <h6><strong>A Jobbikról-MSZP/DK-ra:</strong> 0-10% vagy 25% (ha egyértelműen erősebb az MSZP/DK jelöltje)</h6>
-<h6><strong>MSZP/DK-ról Jobbikra:</strong> 0-10% vagy 35% (ha egyértelműen erősebb a Jobbik jelöltje)</h6>
+<h6><strong>MSZP/DK-ról Jobbikra:</strong> 0-10% vagy 30% (ha egyértelműen erősebb a Jobbik jelöltje)</h6>
 <h6><strong>LMP-ről MSZP/DK-ra:</strong> 10-40% között (minden 1%-nyi várható különbség az MSZP/DK jelölt javára 1%-kal növelte az átszavazási hajlandóságot)</h6>
 <h6><strong>LMP-ről Jobbikra:</strong> 10-35% között (minden 1%-nyi várható különbség a Jobbik jelölt javára 1%-kal növelte az átszavazási hajlandóságot)</h6>
 <h6><strong>Formális visszalépés esetén bármely párt:</strong> 80%</h6>
@@ -134,8 +134,8 @@ permalink: /metodologia
 <p>Ezen a héten összesen 3 visszalépés történt a kisebb pártok részéről, de ezek a visszalépések nem módosítottak az esélyeken, ugyanis nem kulcskerületekben történtek. A szükséges visszalépések listája továbbra is változatlan (lásd alább:)</p>
 
 A következő kerületekben lenne érdemes visszalépnie - a politikai alkukat figyelembe véve - egyes jelölteknek:
-
-<h6><strong>LMP</strong></h6>
+<br/>
+<h6><strong>LMP lehetséges visszalépései:</strong></h6>
 <br/>
 <h6><strong>A Jobbik javára:</strong></h6>
 <p><a href="/pe12">Cegléd</a></p>
@@ -160,10 +160,10 @@ A következő kerületekben lenne érdemes visszalépnie - a politikai alkukat f
 <p><a href="ba1">Pécs 1-es</a></p>
 <br/>
 
-<h6><strong>Momentum és Együtt</strong></h6>
+<h6><strong>Momentum és Együtt lehetséges visszalépései:</strong></h6>
 <p>Ugyanott, ahol az LMP is (ha nem is mindenhol, de leginkább Budapest 5, 6, 12, 16, és 18-ban)</p>
 <br/>
-<h6><strong>MSZP és DK</strong></h6>
+<h6><strong>MSZP és DK lehetséges visszalépései:</strong></h6>
 <br/>
 <h6><strong>Az LMP javára: (a lista nem teljes)</strong></h6>
 <p><a href="/to1">Szekszárd</a></p>
