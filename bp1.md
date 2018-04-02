@@ -20,31 +20,27 @@ permalink: /bp1
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)</th>
+                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén) - FRISSÍTVE!</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Hollik István  - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">35.5% &emsp; <span id="id_fidesz2">(36.1%)</span></td>
+				   <td id="id_fidesz">35.5% &emsp; <span id="id_fidesz2">(38.1%)</span></td>
 			</tr>
 			<tr>
 <td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
- <td id="id_jobbik">7.0% &emsp; <span id="id_jobbik2">(5.3%)</span></td></tr>
+ <td id="id_jobbik">7.0% &emsp; <span id="id_jobbik2">(5.6%)</span></td></tr>
 			<tr>
 <td>Váradiné Naszály Márta - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
- <td id="id_baloldal">20.0% &emsp; <span id="id_baloldal2">(29.0%)</span></td></tr>
+ <td id="id_baloldal">20.0% &emsp; <span id="id_baloldal2">(35.2%)</span></td></tr>
 			<tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">19.2% &emsp; <span id="id_lmp2">(17.4%)</span></td>
-			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT AZ MSZP-PÁRBESZÉD JAVÁRA - Momentum</strong> <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">10.6% &emsp; <span id="id_momentum2">(9.6%)</span></td>
+				   <td id="id_lmp">19.2% &emsp; <span id="id_lmp2">(18.4%)</span></td>
 			</tr>
 <tr>
                   <td>Horváth András - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="id_mkkp">3.2% &emsp; <span id="id_mkkp2">(2.6%)</span></td>
+				   <td id="id_mkkp">3.2% &emsp; <span id="id_mkkp2">(2.7%)</span></td>
 			</tr>			
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
