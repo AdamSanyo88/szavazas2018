@@ -113,7 +113,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../bp1">Budapesti 1.</a></td>
 <td id="gyoztes_bp1">Fidesz</td>
 <td id="masodik_bp1">Váradiné Naszály Márta (MSZP-Párbeszéd)</td>
-<td id="kulonbseg_bp1">7.1%</td></tr>	
+<td id="kulonbseg_bp1">2.9%</td></tr>	
 <tr><td><a href="../bp2">Budapesti 2.</a></td>
 <td id="gyoztes_bp2">Fidesz</td>
 <td id="masodik_bp2">Gy. Németh Erzsébet (DK)</td>
