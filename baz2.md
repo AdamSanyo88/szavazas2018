@@ -8,7 +8,7 @@ permalink: /baz2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Borsod-Abaúj-Zemplén megye 2-es választókerület (Miskolc)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Háromesélyes</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /baz2
               <tbody>
              <tr>
                   <td>Hubay György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">30.3% &emsp; <span id="id_fidesz2">(28.8%)</span></td>
+				   <td id="id_fidesz">29.7% &emsp; <span id="id_fidesz2">(29.1%)</span></td>
 			</tr>
-			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">33.3% &emsp; <span id="id_jobbik2">(43.7%)</span></td></tr>
+			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">35.2% &emsp; <span id="id_jobbik2">(44.8%)</span></td></tr>
 <tr>
                   <td>dr. Varga László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">26.1% &emsp; <span id="id_baloldal2">(22.8%)</span></td>
+				   <td id="id_baloldal">25.7% &emsp; <span id="id_baloldal2">(22.6%)</span></td>
 			</tr>
 			<tr>
                   <td>Doszpoly Botond László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.4% &emsp; <span id="id_lmp2">(3.1%)</span></td>
+				   <td id="id_lmp">5.5% &emsp; <span id="id_lmp2">(3.5%)</span></td>
 			</tr>
 			
                 
@@ -48,7 +48,7 @@ permalink: /baz2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
     </div>
 </div>
 

@@ -8,7 +8,7 @@ permalink: /baz3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Borsod-Abaúj-Zemplén megye 3-as választókerület (Ózd)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik / baloldal az esélyes kihívók)</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /baz3
               <tbody>
              <tr>
                   <td>Riz Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">40.8% &emsp; <span id="id_fidesz2">(38.9%)</span></td>
+				   <td id="id_fidesz">39.6% &emsp; <span id="id_fidesz2">(38.8%)</span></td>
 			</tr>
-			<tr><td>Farkas Péter Barnabás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">33.6% &emsp; <span id="id_jobbik2">(41.7%)</span></td></tr>
+			<tr><td>Farkas Péter Barnabás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">35.3% &emsp; <span id="id_jobbik2">(41.9%)</span></td></tr>
 <tr>
                   <td>Varga Gergő - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">20.8% &emsp; <span id="id_baloldal2">(17.3%)</span></td>
+				   <td id="id_baloldal">20.3% &emsp; <span id="id_baloldal2">(16.9%)</span></td>
 			</tr>
 			<tr>
                   <td>Koleszár István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">2.8% &emsp; <span id="id_lmp2">(1.6%)</span></td>
+				   <td id="id_lmp">2.8% &emsp; <span id="id_lmp2">(1.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kovács József - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -51,7 +51,7 @@ permalink: /baz3
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

@@ -8,7 +8,7 @@ permalink: /hb4
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Hajdú-Bihar megye 4-es választókerület (Berettyóújfalú)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /hb4
               <tbody>
              <tr>
                   <td>dr. Vitányi István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">47.3% &emsp; <span id="id_fidesz2">(46.6%)</span></td>
+				   <td id="id_fidesz">45.9% &emsp; <span id="id_fidesz2">(45.7%)</span></td>
 			</tr>
-			<tr><td>Keresztessy Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">30.2% &emsp; <span id="id_jobbik2">(36.4%)</span></td></tr>
+			<tr><td>Keresztessy Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.9% &emsp; <span id="id_jobbik2">(37.5%)</span></td></tr>
 <tr>
                   <td>Lencsésné Gál Mária - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">14.4% &emsp; <span id="id_baloldal2">(12.0%)</span></td>
+				   <td id="id_baloldal">14.1% &emsp; <span id="id_baloldal2">(11.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Dr. Majoros Imre - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">4.7% &emsp; <span id="id_lmp2">(3.7%)</span></td>
+				   <td id="id_lmp">4.8% &emsp; <span id="id_lmp2">(3.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Buzinkay György - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -51,7 +51,7 @@ permalink: /hb4
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

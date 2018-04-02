@@ -8,7 +8,7 @@ permalink: /bp4
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Budapest 4-es választókerület (II. kerület)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
 <br/>
@@ -26,28 +26,28 @@ permalink: /bp4
               <tbody>
              <tr>
                   <td>Varga Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">38.7% &emsp; <span id="id_fidesz2">(39.3%)</span></td>
+				   <td id="id_fidesz">39.2% &emsp; <span id="id_fidesz2">(40.0%)</span></td>
 			</tr>
-			<tr><td>Kovács Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">5.7% &emsp; <span id="id_jobbik2">(4.3%)</span></td></tr>
+			<tr><td>Kovács Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">6.2% &emsp; <span id="id_jobbik2">(4.8%)</span></td></tr>
 <tr>
                   <td>Niedermüller Péter - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">27.2% &emsp; <span id="id_baloldal2">(19.3%)</span></td>
+				   <td id="id_baloldal">24.8% &emsp; <span id="id_baloldal2">(21.3%)</span></td>
 			</tr>
 			<tr>
                   <td>Ungár Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">14.7% &emsp; <span id="id_lmp2">(28.3%)</span></td>
+				   <td id="id_lmp">15.4% &emsp; <span id="id_lmp2">(24.2%)</span></td>
 			</tr>
 			<tr>
 				  <td>Benedek Márton - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">7.8% &emsp; <span id="id_momentum2">(4.7%)</span></td>
+				   <td id="id_momentum">8.1% &emsp; <span id="id_momentum2">(5.4%)</span></td>
 			</tr>
 <tr>
 <td>Mihalik Zoltán -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">3.7% &emsp; <span id="id_egyutt2">(2.3%)</span></td>
+ <td id="id_egyutt">3.9% &emsp; <span id="id_egyutt2">(2.4%)</span></td>
 </tr>    
 <tr>
                   <td>Juhász Veronika - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="id_mkkp">2.3% &emsp; <span id="id_mkkp2">(1.9%)</span></td>
+				   <td id="id_mkkp">2.4% &emsp; <span id="id_mkkp2">(2.0%)</span></td>
 			</tr>		            
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -58,7 +58,7 @@ permalink: /bp4
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

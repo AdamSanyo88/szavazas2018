@@ -8,7 +8,7 @@ permalink: /pe3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Pest megye 3-as választókerület (Szentendre)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,24 +26,24 @@ permalink: /pe3
               <tbody>
              <tr>
                   <td>Hadházy Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">43.6% &emsp; <span id="id_fidesz2">(44.2%)</span></td>
+				   <td id="id_fidesz">42.8% &emsp; <span id="id_fidesz2">(43.4%)</span></td>
 			</tr>
-			<tr><td>Pál Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">13.6% &emsp; <span id="id_jobbik2">(13.0%)</span></td></tr>
+			<tr><td>Pál Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">14.5% &emsp; <span id="id_jobbik2">(14.1%)</span></td></tr>
 <tr>
                   <td>Király Miklós - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">19.3% &emsp; <span id="id_baloldal2">(24.0%)</span></td>
+				   <td id="id_baloldal">18.9% &emsp; <span id="id_baloldal2">(23.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Drávucz Zsolt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">11.5% &emsp; <span id="id_lmp2">(9.6%)</span></td>
+				   <td id="id_lmp">11.7% &emsp; <span id="id_lmp2">(9.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Vásárhelyi Judit - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.1% &emsp; <span id="id_momentum2">(3.4%)</span></td>
+				   <td id="id_momentum">4.1% &emsp; <span id="id_momentum2">(3.5%)</span></td>
 			</tr>
 <tr>
 <td>Spät Judit -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">6.5% &emsp; <span id="id_egyutt2">(4.6%)</span></td>
+ <td id="id_egyutt">6.6% &emsp; <span id="id_egyutt2">(4.7%)</span></td>
 </tr>             
 <tr>
 <td>Kövesdi Miklós Gábor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
@@ -58,7 +58,7 @@ permalink: /pe3
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

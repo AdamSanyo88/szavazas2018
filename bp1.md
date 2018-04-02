@@ -8,7 +8,7 @@ permalink: /bp1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó, erős az LMP)</span></strong></h6>
 <br/>
@@ -26,21 +26,21 @@ permalink: /bp1
               <tbody>
              <tr>
                   <td>Hollik István  - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">36.3% &emsp; <span id="id_fidesz2">(36.8%)</span></td>
+				   <td id="id_fidesz">35.5% &emsp; <span id="id_fidesz2">(36.1%)</span></td>
 			</tr>
 			<tr>
 <td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
- <td id="id_jobbik">6.6% &emsp; <span id="id_jobbik2">(5.0%)</span></td></tr>
+ <td id="id_jobbik">7.0% &emsp; <span id="id_jobbik2">(5.3%)</span></td></tr>
 			<tr>
 <td>Váradiné Naszály Márta - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
- <td id="id_baloldal">20.2% &emsp; <span id="id_baloldal2">(29.1%)</span></td></tr>
+ <td id="id_baloldal">20.0% &emsp; <span id="id_baloldal2">(29.0%)</span></td></tr>
 			<tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">18.9% &emsp; <span id="id_lmp2">(17.0%)</span></td>
+				   <td id="id_lmp">19.2% &emsp; <span id="id_lmp2">(17.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>Fekete-Győr András - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">10.5% &emsp; <span id="id_momentum2">(9.4%)</span></td>
+				   <td id="id_momentum">10.6% &emsp; <span id="id_momentum2">(9.6%)</span></td>
 			</tr>
 <tr>
                   <td>Horváth András - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
@@ -55,7 +55,7 @@ permalink: /bp1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

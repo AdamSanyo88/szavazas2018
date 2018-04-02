@@ -8,7 +8,7 @@ permalink: /baz7
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Borsod-Abaúj-Zemplén megye 7-es választókerület (Mezőkövesd)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /baz7
               <tbody>
              <tr>
                   <td>Tállai András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">49.0% &emsp; <span id="id_fidesz2">(48.1%)</span></td>
+				   <td id="id_fidesz">47.6% &emsp; <span id="id_fidesz2">(47.3%)</span></td>
 			</tr>
-			<tr><td>Lukács Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">29.7% &emsp; <span id="id_jobbik2">(36.5%)</span></td></tr>
+			<tr><td>Lukács Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.4% &emsp; <span id="id_jobbik2">(37.4%)</span></td></tr>
 <tr>
                   <td>Kormos Anna - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">15.3% &emsp; <span id="id_baloldal2">(12.8%)</span></td>
+				   <td id="id_baloldal">15.0% &emsp; <span id="id_baloldal2">(12.4%)</span></td>
 			</tr>
 			<tr>
                   <td>Ambrus Gyöngyi - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">3.5% &emsp; <span id="id_lmp2">(2.1%)</span></td>
+				   <td id="id_lmp">3.5% &emsp; <span id="id_lmp2">(2.3%)</span></td>
 			</tr>
 			<tr>
 				  </tr>
@@ -52,7 +52,7 @@ permalink: /baz7
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

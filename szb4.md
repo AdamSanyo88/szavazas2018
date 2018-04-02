@@ -8,7 +8,7 @@ permalink: /szb4
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Szabolcs-Szatmár-Bereg megye 4-es választókerület (Vásárosnamény)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /szb4
               <tbody>
              <tr>
                   <td>dr. Tilki Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">55.2% &emsp; <span id="id_fidesz2">(53.6%)</span></td>
+				   <td id="id_fidesz">53.8% &emsp; <span id="id_fidesz2">(53.1%)</span></td>
 			</tr>
-			<tr><td>Adorján Béla - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">28.8% &emsp; <span id="id_jobbik2">(34.2%)</span></td></tr>
+			<tr><td>Adorján Béla - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">30.4% &emsp; <span id="id_jobbik2">(34.7%)</span></td></tr>
 <tr>
                   <td>Bihari Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">12.8% &emsp; <span id="id_baloldal2">(10.5%)</span></td>
+				   <td id="id_baloldal">12.6% &emsp; <span id="id_baloldal2">(10.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Tempfli József - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">1.9% &emsp; <span id="id_lmp2">(1.1%)</span></td>
+				   <td id="id_lmp">1.9% &emsp; <span id="id_lmp2">(1.2%)</span></td>
 			</tr>
 			<tr>
 				  <td>Áncsán Márton - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -54,7 +54,7 @@ permalink: /szb4
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

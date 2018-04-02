@@ -8,7 +8,7 @@ permalink: /pe2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Pest megye 2-es választókerület (Budakeszi)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős az LMP)</span></strong></h6>
 <br/>
@@ -26,21 +26,21 @@ permalink: /pe2
               <tbody>
              <tr>
                   <td>Csenger-Zalán Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">40.6% &emsp; <span id="id_fidesz2">(44.1%)</span></td>
+				   <td id="id_fidesz">39.9% &emsp; <span id="id_fidesz2">(43.5%)</span></td>
 			</tr>
-			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">10.2% &emsp; <span id="id_jobbik2">(8.3%)</span></td></tr>
+			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">10.9% &emsp; <span id="id_jobbik2">(8.9%)</span></td></tr>
 			<tr>
                   <td>dr. Szél Bernadett - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">19.3% &emsp; <span id="id_lmp2">(40.4%)</span></td>
+				   <td id="id_lmp">19.6% &emsp; <span id="id_lmp2">(40.2%)</span></td>
 			</tr>
 			<tr>
 				  <td>Szemző Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">5.8% &emsp; <span id="id_momentum2">(5.5%)</span></td>
+				   <td id="id_momentum">5.9% &emsp; <span id="id_momentum2">(5.7%)</span></td>
 			</tr>
                 
 <tr>
 <td>Betlehem Csaba - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">1.9% &emsp; <span id="id_mkkp2">(1.7%)</span></td>
+ <td id="id_mkkp">2.0% &emsp; <span id="id_mkkp2">(1.7%)</span></td>
 </tr>  
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -51,7 +51,7 @@ permalink: /pe2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

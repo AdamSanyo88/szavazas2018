@@ -8,7 +8,7 @@ permalink: /fe1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Fejér megye 1-es választókerület (Székesfehérvár)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /fe1
               <tbody>
              <tr>
                   <td>Vargha Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">42.2% &emsp; <span id="id_fidesz2">(43.9%)</span></td>
+				   <td id="id_fidesz">41.4% &emsp; <span id="id_fidesz2">(42.9%)</span></td>
 			</tr>
-			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">16.8% &emsp; <span id="id_jobbik2">(15.6%)</span></td></tr>
+			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.9% &emsp; <span id="id_jobbik2">(17.7%)</span></td></tr>
 <tr>
                   <td>Ráczné Földi Judit - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.6% &emsp; <span id="id_baloldal2">(32.0%)</span></td>
+				   <td id="id_baloldal">22.2% &emsp; <span id="id_baloldal2">(29.4%)</span></td>
 			</tr>
 			<tr>
                   <td>Rákosi Judit - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">10.2% &emsp; <span id="id_lmp2">(5.8%)</span></td>
+				   <td id="id_lmp">10.3% &emsp; <span id="id_lmp2">(6.9%)</span></td>
 			</tr>
 			<tr>
 				  <td>Pintér András Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.6% &emsp; <span id="id_momentum2">(2.6%)</span></td>
+				   <td id="id_momentum">4.6% &emsp; <span id="id_momentum2">(3.1%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /fe1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

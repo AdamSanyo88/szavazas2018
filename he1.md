@@ -8,7 +8,7 @@ permalink: /he1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Heves megye 1-es választókerület (Eger)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik / baloldal az esélyes kihívók)</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /he1
               <tbody>
              <tr>
                   <td>Nyitrai Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">37.7% &emsp; <span id="id_fidesz2">(36.0%)</span></td>
+				   <td id="id_fidesz">36.6% &emsp; <span id="id_fidesz2">(36.1%)</span></td>
 			</tr>
-			<tr><td>Mirkóczki Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">30.8% &emsp; <span id="id_jobbik2">(41.4%)</span></td></tr>
+			<tr><td>Mirkóczki Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">32.3% &emsp; <span id="id_jobbik2">(40.9%)</span></td></tr>
 <tr>
                   <td>Kertészné Kormos Noémi - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">18.6% &emsp; <span id="id_baloldal2">(16.0%)</span></td>
+				   <td id="id_baloldal">18.1% &emsp; <span id="id_baloldal2">(15.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Komlósi Csaba - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(4.3%)</span></td>
+				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(4.9%)</span></td>
 			</tr>
 			<tr>
 				  <td>Tóth Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(1.5%)</span></td>
+				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(1.7%)</span></td>
 			</tr>
   
 <tr>
@@ -55,7 +55,7 @@ permalink: /he1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

@@ -8,7 +8,7 @@ permalink: /hb3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Hajdú-Bihar megye 3-as választókerület (Debrecen)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /hb3
               <tbody>
              <tr>
                   <td>Tasó László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">51.4% &emsp; <span id="id_fidesz2">(50.2%)</span></td>
+				   <td id="id_fidesz">50.1% &emsp; <span id="id_fidesz2">(49.4%)</span></td>
 			</tr>
-			<tr><td>Csikai József - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">26.0% &emsp; <span id="id_jobbik2">(31.6%)</span></td></tr>
+			<tr><td>Csikai József - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.5% &emsp; <span id="id_jobbik2">(32.7%)</span></td></tr>
 <tr>
                   <td>Káposznyák István - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">13.5% &emsp; <span id="id_baloldal2">(11.5%)</span></td>
+				   <td id="id_baloldal">13.2% &emsp; <span id="id_baloldal2">(11.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Kiss Tamás Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.4% &emsp; <span id="id_lmp2">(4.3%)</span></td>
+				   <td id="id_lmp">5.4% &emsp; <span id="id_lmp2">(4.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>Lakatos Árpád - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -54,7 +54,7 @@ permalink: /hb3
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

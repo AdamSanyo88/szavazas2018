@@ -8,7 +8,7 @@ permalink: /bp7
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Budapest 7-es választókerület (XIII. kerület)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos baloldali</span></strong></h6>
 <br/>
@@ -26,25 +26,25 @@ permalink: /bp7
               <tbody>
              <tr>
                   <td>Harrach Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">27.9% &emsp; <span id="id_fidesz2">(28.6%)</span></td>
+				   <td id="id_fidesz">28.3% &emsp; <span id="id_fidesz2">(28.9%)</span></td>
 			</tr>
-			<tr><td>Magvasi Adrián - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">8.2% &emsp; <span id="id_jobbik2">(5.9%)</span></td></tr>
+			<tr><td>Magvasi Adrián - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">9.1% &emsp; <span id="id_jobbik2">(6.9%)</span></td></tr>
 <tr>
                   <td>Hiszékeny Dezső - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">39.3% &emsp; <span id="id_baloldal2">(50.1%)</span></td>
+				   <td id="id_baloldal">37.0% &emsp; <span id="id_baloldal2">(46.4%)</span></td>
 			</tr>
 			<tr>
                   <td>Kerékgyártó István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">11.2% &emsp; <span id="id_lmp2">(6.3%)</span></td>
+				   <td id="id_lmp">11.8% &emsp; <span id="id_lmp2">(7.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Hajnal Miklós - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.9% &emsp; <span id="id_momentum2">(2.7%)</span></td>
+				   <td id="id_momentum">5.1% &emsp; <span id="id_momentum2">(3.4%)</span></td>
 			</tr>
  
 <tr>
 <td>Sebő Ferenc - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">5.0% &emsp; <span id="id_mkkp2">(4.1%)</span></td>
+ <td id="id_mkkp">5.2% &emsp; <span id="id_mkkp2">(4.2%)</span></td>
 </tr>               
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Hiszékeny Dezső (MSZP-Párbeszéd)</span><span id="esely"></span><span></span></h5>
@@ -55,7 +55,7 @@ permalink: /bp7
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

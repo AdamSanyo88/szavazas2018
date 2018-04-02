@@ -8,7 +8,7 @@ permalink: /so3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Somogy megye 3-as választókerület (Marcali)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /so3
               <tbody>
              <tr>
                   <td>Móring József Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">47.4% &emsp; <span id="id_fidesz2">(47.6%)</span></td>
+				   <td id="id_fidesz">46.3% &emsp; <span id="id_fidesz2">(45.4%)</span></td>
 			</tr>
-			<tr><td>Dr. Steinmetz Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">26.1% &emsp; <span id="id_jobbik2">(31.8%)</span></td></tr>
+			<tr><td>Dr. Steinmetz Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.5% &emsp; <span id="id_jobbik2">(34.6%)</span></td></tr>
 <tr>
                   <td>dr. Mészáros Géza József - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">17.3% &emsp; <span id="id_baloldal2">(16.3%)</span></td>
+				   <td id="id_baloldal">16.9% &emsp; <span id="id_baloldal2">(15.3%)</span></td>
 			</tr>
 			<tr>
                   <td>Filák Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.4% &emsp; <span id="id_lmp2">(3.3%)</span></td>
+				   <td id="id_lmp">5.5% &emsp; <span id="id_lmp2">(3.5%)</span></td>
 			</tr>
                 
               </tbody>
@@ -47,7 +47,7 @@ permalink: /so3
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

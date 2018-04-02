@@ -8,7 +8,7 @@ permalink: /va1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Vas megye 1-es választókerület (Szombathely)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
@@ -26,25 +26,25 @@ permalink: /va1
               <tbody>
              <tr>
                   <td>dr. Hende Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">43.4% &emsp; <span id="id_fidesz2">(44.4%)</span></td>
+				   <td id="id_fidesz">43.8% &emsp; <span id="id_fidesz2">(43.7%)</span></td>
 			</tr>
-			<tr><td>Balassa Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">14.3% &emsp; <span id="id_jobbik2">(10.8%)</span></td></tr>
+			<tr><td>Balassa Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">15.2% &emsp; <span id="id_jobbik2">(15.4%)</span></td></tr>
 <tr>
                   <td>dr. Nemény András - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">19.5% &emsp; <span id="id_baloldal2">(29.8%)</span></td>
+				   <td id="id_baloldal">17.7% &emsp; <span id="id_baloldal2">(24.9%)</span></td>
 			</tr>
 			<tr>
                   <td>Németh Ákos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">9.6% &emsp; <span id="id_lmp2">(6.2%)</span></td>
+				   <td id="id_lmp">9.5% &emsp; <span id="id_lmp2">(6.8%)</span></td>
 			</tr>
 			<tr>
 				  <td>Falka Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(2.8%)</span></td>
+				   <td id="id_momentum">4.7% &emsp; <span id="id_momentum2">(3.0%)</span></td>
 			</tr>
           
 <tr>
 <td>Viszlayné Pavelkovits Petra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">2.1% &emsp; <span id="id_mkkp2">(1.8%)</span></td>
+ <td id="id_mkkp">2.2% &emsp; <span id="id_mkkp2">(1.8%)</span></td>
 </tr>
 <tr>
 				  <td>dr. Czeglédy Csaba - független</td>
@@ -59,7 +59,7 @@ permalink: /va1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

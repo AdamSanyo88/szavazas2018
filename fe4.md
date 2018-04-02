@@ -8,7 +8,7 @@ permalink: /fe4
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Fejér megye 4-es választókerület (Dunaújváros)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldal / Jobbik az esélyes kihívók)</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /fe4
               <tbody>
              <tr>
                   <td>dr. Galambos Dénes - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">36.2% &emsp; <span id="id_fidesz2">(36.3%)</span></td>
+				   <td id="id_fidesz">35.2% &emsp; <span id="id_fidesz2">(36.1%)</span></td>
 			</tr>
-			<tr><td>Pintér Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">25.9% &emsp; <span id="id_jobbik2">(33.2%)</span></td></tr>
+			<tr><td>Pintér Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.3% &emsp; <span id="id_jobbik2">(33.2%)</span></td></tr>
 <tr>
                   <td>Mezei Zsolt - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">25.3% &emsp; <span id="id_baloldal2">(24.5%)</span></td>
+				   <td id="id_baloldal">24.8% &emsp; <span id="id_baloldal2">(23.9%)</span></td>
 			</tr>
 			<tr>
                   <td>Illésy István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.4% &emsp; <span id="id_lmp2">(4.5%)</span></td>
+				   <td id="id_lmp">7.5% &emsp; <span id="id_lmp2">(5.0%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kaszó Róbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.6% &emsp; <span id="id_momentum2">(1.6%)</span></td>
+				   <td id="id_momentum">2.6% &emsp; <span id="id_momentum2">(1.8%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /fe4
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

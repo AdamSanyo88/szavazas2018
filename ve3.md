@@ -8,7 +8,7 @@ permalink: /ve3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Veszprém megye 3-as választókerület (Tapolca)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz és Jobbik között)</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /ve3
               <tbody>
              <tr>
                   <td>Fenyvesi Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">40.7% &emsp; <span id="id_fidesz2">(39.1%)</span></td>
+				   <td id="id_fidesz">40.8% &emsp; <span id="id_fidesz2">(40.1%)</span></td>
 			</tr>
-			<tr><td>Rig Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.7% &emsp; <span id="id_jobbik2">(40.9%)</span></td></tr>
+			<tr><td>Rig Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.7% &emsp; <span id="id_jobbik2">(39.2%)</span></td></tr>
 <tr>
                   <td>Kárpáti Lajos - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">19.5% &emsp; <span id="id_baloldal2">(16.9%)</span></td>
+				   <td id="id_baloldal">19.4% &emsp; <span id="id_baloldal2">(17.2%)</span></td>
 			</tr>
 			<tr>
                   <td>Takács Lajos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">4.7% &emsp; <span id="id_lmp2">(2.7%)</span></td>
+				   <td id="id_lmp">4.7% &emsp; <span id="id_lmp2">(3.0%)</span></td>
 			</tr>
 			<tr>
 				  </tr>
@@ -45,7 +45,7 @@ permalink: /ve3
  <td id="id_mkkp">0.6% &emsp; <span id="id_mkkp2">(0.4%)</span></td>
 </tr>            
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Rig Lajos (Jobbik)</span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
 			
 			
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
@@ -53,7 +53,7 @@ permalink: /ve3
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

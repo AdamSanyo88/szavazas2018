@@ -8,7 +8,7 @@ permalink: /bp5
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Budapest 5-ös választókerület (VII. kerület)</h5> 
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén baloldali (erős az LMP)</span></strong></h6>
 <br/>
@@ -26,24 +26,24 @@ permalink: /bp5
               <tbody>
              <tr>
                   <td>Bajkai István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">29.8% &emsp; <span id="id_fidesz2">(30.8%)</span></td>
+				   <td id="id_fidesz">30.2% &emsp; <span id="id_fidesz2">(30.8%)</span></td>
 			</tr>
-			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">8.6% &emsp; <span id="id_jobbik2">(6.2%)</span></td></tr>
+			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">9.4% &emsp; <span id="id_jobbik2">(7.2%)</span></td></tr>
 <tr>
                   <td>Dr. Oláh Lajos - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">26.2% &emsp; <span id="id_baloldal2">(37.6%)</span></td>
+				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(33.4%)</span></td>
 			</tr>
 			<tr>
                   <td>Moldován László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">15.8% &emsp; <span id="id_lmp2">(12.4%)</span></td>
+				   <td id="id_lmp">17.0% &emsp; <span id="id_lmp2">(14.3%)</span></td>
 			</tr>
 			<tr>
 				  <td>Soproni Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">8.8% &emsp; <span id="id_momentum2">(6.9%)</span></td>
+				   <td id="id_momentum">9.7% &emsp; <span id="id_momentum2">(8.2%)</span></td>
 			</tr> 
 <tr>
 <td>Döme Zsuzsanna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">5.5% &emsp; <span id="id_mkkp2">(4.6%)</span></td>
+ <td id="id_mkkp">5.7% &emsp; <span id="id_mkkp2">(4.7%)</span></td>
 </tr>  
 <tr>    
 <td>Dr. Bokros Lajos -  MoMa</td>
@@ -58,7 +58,7 @@ permalink: /bp5
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

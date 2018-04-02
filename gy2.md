@@ -8,13 +8,13 @@ permalink: /gy2
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Győr-Moson-Sopron megye 2-es választókerület (Győr)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/gy2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
-<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Dr. Menyhárt Miklós (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
+<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">MSZP-Párbeszéd</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Greguss András (MSZP-Párbeszéd)</strong></h5>
 <table class="striped">
               <thead>
@@ -26,20 +26,20 @@ permalink: /gy2
               <tbody>
              <tr>
                   <td>Kara Ákos - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">53.4% &emsp; <span id="id_fidesz2">(54.6%)</span></td>
+				   <td id="id_fidesz">51.0% &emsp; <span id="id_fidesz2">(51.9%)</span></td>
 			</tr>
-			<tr><td>Dr. Menyhárt Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.5% &emsp; <span id="id_jobbik2">(20.7%)</span></td></tr>
+			<tr><td>Dr. Menyhárt Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.7% &emsp; <span id="id_jobbik2">(17.8%)</span></td></tr>
 <tr>
                   <td>Greguss András - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">15.7% &emsp; <span id="id_baloldal2">(15.8%)</span></td>
+				   <td id="id_baloldal">18.0% &emsp; <span id="id_baloldal2">(21.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Takács András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.8% &emsp; <span id="id_lmp2">(6.6%)</span></td>
+				   <td id="id_lmp">7.8% &emsp; <span id="id_lmp2">(6.5%)</span></td>
 			</tr>
 			<tr>
 				  <td>Liszi Norbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.8% &emsp; <span id="id_momentum2">(2.3%)</span></td>
+				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(2.3%)</span></td>
 			</tr>
      
            
@@ -52,7 +52,7 @@ permalink: /gy2
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

@@ -8,7 +8,7 @@ permalink: /pe5
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Pest megye 5-ös választókerület (Dunakeszi)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
 <br/>
@@ -26,24 +26,24 @@ permalink: /pe5
               <tbody>
              <tr>
                   <td>Tuzson Bence - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">39.2% &emsp; <span id="id_fidesz2">(40.4%)</span></td>
+				   <td id="id_fidesz">38.5% &emsp; <span id="id_fidesz2">(39.0%)</span></td>
 			</tr>
-			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">16.3% &emsp; <span id="id_jobbik2">(14.8%)</span></td></tr>
+			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.3% &emsp; <span id="id_jobbik2">(16.7%)</span></td></tr>
 <tr>
                   <td>Rónai Sándor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">23.0% &emsp; <span id="id_baloldal2">(33.3%)</span></td>
+				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(28.1%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Kiss Csaba - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">12.6% &emsp; <span id="id_lmp2">(7.1%)</span></td>
+				   <td id="id_lmp">12.8% &emsp; <span id="id_lmp2">(10.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kohut Ákos - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.4% &emsp; <span id="id_momentum2">(2.5%)</span></td>
+				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(3.7%)</span></td>
 			</tr>
 <tr>
 <td>dr. Vargha Nóra -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">3.0% &emsp; <span id="id_egyutt2">(1.8%)</span></td>
+ <td id="id_egyutt">3.0% &emsp; <span id="id_egyutt2">(2.1%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -54,7 +54,7 @@ permalink: /pe5
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

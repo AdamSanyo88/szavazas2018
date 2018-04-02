@@ -8,7 +8,7 @@ permalink: /be1
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Békés megye 1-es választókerület (Békéscsaba)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
@@ -26,25 +26,25 @@ permalink: /be1
               <tbody>
              <tr>
                   <td>Herczeg Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">39.6% &emsp; <span id="id_fidesz2">(40.5%)</span></td>
+				   <td id="id_fidesz">38.6% &emsp; <span id="id_fidesz2">(39.7%)</span></td>
 			</tr>
-			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.9% &emsp; <span id="id_jobbik2">(28.0%)</span></td></tr>
+			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">22.2% &emsp; <span id="id_jobbik2">(28.7%)</span></td></tr>
 <tr>
                   <td>Nagy-Huszein Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">20.5% &emsp; <span id="id_baloldal2">(20.9%)</span></td>
+				   <td id="id_baloldal">20.0% &emsp; <span id="id_baloldal2">(20.1%)</span></td>
 			</tr>
 			<tr>
                   <td>Kovács Katalin Ildikó - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">10.0% &emsp; <span id="id_lmp2">(6.1%)</span></td>
+				   <td id="id_lmp">10.1% &emsp; <span id="id_lmp2">(6.7%)</span></td>
 			</tr>
 			<tr>
 				  <td>Almási István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(2.8%)</span></td>
+				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(3.0%)</span></td>
 			</tr>
    
 <tr>
 <td>Babiniszki Péter - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">2.1% &emsp; <span id="id_mkkp2">(1.8%)</span></td>
+ <td id="id_mkkp">2.2% &emsp; <span id="id_mkkp2">(1.8%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -55,7 +55,7 @@ permalink: /be1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

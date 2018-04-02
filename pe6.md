@@ -8,7 +8,7 @@ permalink: /pe6
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Pest megye 6-os választókerület (Gödöllő)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /pe6
               <tbody>
              <tr>
                   <td>Vécsey László József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">42.2% &emsp; <span id="id_fidesz2">(42.3%)</span></td>
+				   <td id="id_fidesz">41.2% &emsp; <span id="id_fidesz2">(41.3%)</span></td>
 			</tr>
-			<tr><td>Víg János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">19.7% &emsp; <span id="id_jobbik2">(23.3%)</span></td></tr>
+			<tr><td>Víg János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.9% &emsp; <span id="id_jobbik2">(24.8%)</span></td></tr>
 <tr>
                   <td>Makrai Zoltán - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">19.5% &emsp; <span id="id_baloldal2">(19.5%)</span></td>
+				   <td id="id_baloldal">19.1% &emsp; <span id="id_baloldal2">(18.8%)</span></td>
 			</tr>
 			<tr>
                   <td>Lengyel Szilvia - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">10.9% &emsp; <span id="id_lmp2">(8.9%)</span></td>
+				   <td id="id_lmp">11.0% &emsp; <span id="id_lmp2">(9.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Molnár László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">3.8% &emsp; <span id="id_momentum2">(3.1%)</span></td>
+				   <td id="id_momentum">3.9% &emsp; <span id="id_momentum2">(3.2%)</span></td>
 			</tr>
 <tr>
 <td>Kis Imre -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
@@ -58,7 +58,7 @@ permalink: /pe6
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

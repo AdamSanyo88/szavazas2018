@@ -8,12 +8,12 @@ permalink: /be4
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Békés megye 4-es választókerület (Orosháza)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/be4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
+			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Dr. Szabó Ervin (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Dr. Szabó Ervin (Jobbik)</strong></h5>
 <table class="striped">
@@ -26,20 +26,20 @@ permalink: /be4
               <tbody>
              <tr>
                   <td>Simonka György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">46.8% &emsp; <span id="id_fidesz2">(47.2%)</span></td>
+				   <td id="id_fidesz">45.6% &emsp; <span id="id_fidesz2">(44.3%)</span></td>
 			</tr>
-			<tr><td>Dr. Szabó Ervin - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">24.5% &emsp; <span id="id_jobbik2">(29.3%)</span></td></tr>
+			<tr><td>Dr. Szabó Ervin - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">26.0% &emsp; <span id="id_jobbik2">(33.4%)</span></td></tr>
 <tr>
                   <td>Füvesi Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">18.8% &emsp; <span id="id_baloldal2">(17.9%)</span></td>
+				   <td id="id_baloldal">18.4% &emsp; <span id="id_baloldal2">(16.5%)</span></td>
 			</tr>
 			<tr>
                   <td>Németh Sándor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.8% &emsp; <span id="id_lmp2">(3.5%)</span></td>
+				   <td id="id_lmp">5.9% &emsp; <span id="id_lmp2">(3.7%)</span></td>
 			</tr>
 			<tr>
 				  <td>Sebők Éva - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.0% &emsp; <span id="id_momentum2">(1.2%)</span></td>
+				   <td id="id_momentum">2.1% &emsp; <span id="id_momentum2">(1.3%)</span></td>
 			</tr>
 <tr>
 <td>Bod Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
@@ -54,7 +54,7 @@ permalink: /be4
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

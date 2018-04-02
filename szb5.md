@@ -8,7 +8,7 @@ permalink: /szb5
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Szabolcs-Szatmár-Bereg megye 5-ös választókerület (Mátészalka)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,20 +26,20 @@ permalink: /szb5
               <tbody>
              <tr>
                   <td>Kovács Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">52.4% &emsp; <span id="id_fidesz2">(50.8%)</span></td>
+				   <td id="id_fidesz">51.0% &emsp; <span id="id_fidesz2">(50.4%)</span></td>
 			</tr>
-			<tr><td>dr. Apáti István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">29.4% &emsp; <span id="id_jobbik2">(35.5%)</span></td></tr>
+			<tr><td>dr. Apáti István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.1% &emsp; <span id="id_jobbik2">(36.0%)</span></td></tr>
 <tr>
                   <td>Csomáliné Rácz Erika - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">14.6% &emsp; <span id="id_baloldal2">(12.1%)</span></td>
+				   <td id="id_baloldal">14.3% &emsp; <span id="id_baloldal2">(11.8%)</span></td>
 			</tr>
 			<tr>
                   <td>Tárkányi Sándor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">2.1% &emsp; <span id="id_lmp2">(1.2%)</span></td>
+				   <td id="id_lmp">2.1% &emsp; <span id="id_lmp2">(1.3%)</span></td>
 			</tr>
 			<tr>
 				  <td>Magyar Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">0.7% &emsp; <span id="id_momentum2">(0.4%)</span></td>
+				   <td id="id_momentum">0.7% &emsp; <span id="id_momentum2">(0.5%)</span></td>
 			</tr>
                 
               </tbody>
@@ -51,7 +51,7 @@ permalink: /szb5
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
           </div>
     </div>

@@ -8,7 +8,7 @@ permalink: /ba3
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Baranya megye 3-as választókerület (Mohács)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,16 +26,16 @@ permalink: /ba3
               <tbody>
              <tr>
                   <td>dr. Hargitai János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">50.6% &emsp; <span id="id_fidesz2">(52.9%)</span></td>
+				   <td id="id_fidesz">49.5% &emsp; <span id="id_fidesz2">(51.8%)</span></td>
 			</tr>
-			<tr><td>Szőcs Norbert - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">19.9% &emsp; <span id="id_jobbik2">(24.1%)</span></td></tr>
+			<tr><td>Szőcs Norbert - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">21.2% &emsp; <span id="id_jobbik2">(25.6%)</span></td></tr>
 <tr>
                   <td>Lukács János - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">16.4% &emsp; <span id="id_baloldal2">(16.5%)</span></td>
+				   <td id="id_baloldal">16.1% &emsp; <span id="id_baloldal2">(16.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Bosnyák András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.7% &emsp; <span id="id_lmp2">(6.5%)</span></td>
+				   <td id="id_lmp">7.8% &emsp; <span id="id_lmp2">(6.6%)</span></td>
 			</tr>
 			<tr>
 				  </tr>
@@ -50,7 +50,7 @@ permalink: /ba3
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

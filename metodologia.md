@@ -15,15 +15,177 @@ permalink: /metodologia
 <ul>
 <li>1. A legfrissebb országos közvélemény-kutatási adatok a 2014-es adatokkal összehasonlítva. Az országos adatok alapján a <strong>Váradi András Alapítvány</strong> által készített <a href="http://vaa.hu/mandatumkalkulator">mandátumkalkulátor</a> körülbelüli szavazatszámokról ad tájékoztatást.</li>
 <br/>
-<li>2. A <a href="https://24.hu/csatater/">24.hu</a> és a <a href="https://kozosorszagmozgalom.hu/kozvelemenykutatas/">Közös Ország Mozgalom</a> választókerületi szintű méréseit felhasználva, mely mérések megmutatják a várható átszavazási hajlandóságot egy-egy kerületben.</li>
+<li>2. A <a href="https://kozosorszagmozgalom.hu/kozvelemenykutatas/">Közös Ország Mozgalom</a> választókerületi szintű méréseit felhasználva, mely mérések megmutatják az egyéni jelöltek várható támogatottságát (és azt, hogy mely jelöltek a legintegratívabbak egy-egy kerületben).</li>
 <br/>
-<li>3. Demográfiai és egyéb szempontokat megvizsgálva, például azt, hogy az adott jelölt helyi beágyazottsága milyen.</li> 
+<li>3. Demográfiai és egyéb szempontokat megvizsgálva, például azt, hogy az adott jelölt helyi beágyazottsága milyen (volt-e polgármester, a kerület lakója-e, stb.).</li> 
 </ul>
 <p><strong>Fontos:</strong> A becslés a szoros versenyek végkimenetelét nem tudja biztosra megmondani, csupán egy százalékos valószínűséget ad arra, hogy ki és milyen eséllyel nyerheti meg az adott választókerületet. Minél kevesebb az elérhető adat és minél szorosabb a verseny a pártok között, annál bizonytalanabb a becslés.</p>
 <br/>
 
 <h5>Gyakori kérdések</h5>
 <p><a href="https://www.facebook.com/taktikaiszavazas.hu/posts/147704859241441">A linken keresztül elérhető Facebook bejegyzés</a> összefoglal néhány gyakori kérdést a becslésekkel kapcsolatban.</p>
+
+<h5 id="0326">Április 2-i becslés módszertana és leírása</h5>
+<br/>
+<h6><strong>Összefoglaló</strong></h6>
+<br/>
+
+<p>Ez a becslés immár a Közös Ország Mozgalom által készített 20 választókerületi közvélemény-kutatás méréseit használta. A mérések azt mutatták, hogy egyrészt a Jobbik szavazói részéről gyengült az átszavazási hajlandóság, másrészt a Jobbik támogatottsága országosan enyhén nőtt. Ezt támasztja alá a Závecz Research és az Iránytű Intézet országos mérése is.</p>
+
+<p>A mostani becslés alacsonyabb átszavazási hajlandósággal számol és enyhén asszimetrikusan az MSZP/DK-LMP-Jobbik tengelyen (lásd alább).</p>
+
+<p>A visszalépést igénylő körzetek listája - ahol már az esetleges visszalépés miatt 50%-os átszavazás van kalkulálva a másodlagos preferenciákkal - az alábbi öt körzet: </p>
+<p><a href="/bp4">Budapest 4-es</a></p>
+<p><a href="/bp13">Budapest 13-as</a></p>
+<p><a href="/bp17">Budapest 17-es</a></p>
+<p><a href="/to1">Tolna 1-es</a></p>
+
+<p>Az a négy kerület jelenleg mind a Fideszé, de pártok közti koordinációval két LMP-s és két Együtt mandátum születne.
+
+<p>Fontos továbbá, hogy a 93 kiosztandó listás mandátumok száma 92-re csökkent, ugyanis szinte biztosan lesz egy német nemzetiségi képviselője az új parlamentnek, akik kedvezményes mandátummal juthat majd be. Így a pártok már csak 198 mandátumért harcolnak.</p>
+
+<h6>Az UNS bemeneti adatai <strong>(pártok országos támogatottsága)</strong>:</h6>
+<p></p>
+<h6>Fidesz-KDNP 42%</h6>
+<h6>Jobbik: 22%</h6>
+<h6>MSZP-P: 12.5%</h6>
+<h6>LMP: 8.5%</h6>
+<h6>DK: 7.5%</h6>
+<h6>Momentum: 3%</h6>
+<h6>Együtt: 2%</h6>
+<h6>MKKP: 1%</h6>
+<h6>Egyéb: 1.5%</h6>
+
+<h6><strong>Részvételi arány: 65% (5.2 millió szavazó)</strong>
+
+<p><strong>Várható egyéni győzelemek száma</strong> (zárójelben az 10%-nál kisebb arányban elvesztett körzetek száma):</p>
+<h6>Fidesz: 85</h6>
+<h6>MSZP: 7 (5)</h6>
+<h6>DK: 4 (2)</h6>
+<h6>Jobbik: 10 (15)</h6>
+<h6>LMP: 0 (3)</h6>
+<h6>Együtt: 0 (2)</h6>
+<h6>Független: 0 (2)</h6>
+
+<p><strong>Átszavazási hajlandóság:</strong></p>
+
+<p>Az átszavazási hajlandóság 0-7%-os különbség esetén 1-10% között, afölött 25-40% között mozgott párttól függően.</p>
+<p>A három politikai természetű becslésnél 50%-os átszavazási hajlandósággal számolt a modell, míg Szél Bernadett esetében 80%-kal.</p>
+<p>Ahol formális visszalépés történt - mint például a Momentum és az LMP visszalépései Kunhalmi Ágnes javára -, ott a visszalépők szavazói 80%-ban szavaznak át az esélyes jelöltre.</p>
+
+<p>Átszavazás pártonként egyéb esetekben:</p>
+<h6><strong>A Jobbikról-MSZP/DK-ra:</strong> 0-10% vagy 25% (ha egyértelműen erősebb az MSZP/DK jelöltje)</h6>
+<h6><strong>MSZP/DK-ról Jobbikra:</strong> 0-10% vagy 35% (ha egyértelműen erősebb a Jobbik jelöltje)</h6>
+<h6><strong>LMP-ről MSZP/DK-ra:</strong> 10-40% között (minden 1%-nyi várható különbség az MSZP/DK jelölt javára 1%-kal növelte az átszavazási hajlandóságot)</h6>
+<h6><strong>LMP-ről Jobbikra:</strong> 10-35% között (minden 1%-nyi várható különbség a Jobbik jelölt javára 1%-kal növelte az átszavazási hajlandóságot)</h6>
+<h6><strong>Formális visszalépés esetén bármely párt:</strong> 80%</h6>
+<h6><strong>Momentumról bárkire:</strong> 0-30%</h6>
+<h6><strong>Együttről bárkire:</strong> 0-40% (40%, ha nincs jelölt)</h6>
+<h6><strong>MKKP-ról bárkire:</strong> 0-20% (20%, ha nincs jelölt)</h6>
+
+<p>A választókerületi eredményeken látható, hogy a Fidesz sok kerületben nagyobb arányban nyer, mivel nincs átszavazás az MSZP/DK és Jobbik szavazói között.</p>
+
+<p>Jelenleg a modell 360 ezer átszavazóval számol, amely pártoknént a következő módon oszlik meg (zárójelben a pártok listás szavazóinak számához képesti átszavazás):</p>
+<p>MSZP/DK: 125 ezer (12%)</p>
+<p>Jobbik: 45 ezer (4%)</p>
+<p>LMP: 120 ezer (27%)</p>
+<p>Momentum: 40 ezer (26%)</p>
+<p>Együtt: 30 ezer (29%)</p>
+
+<h6><strong>Nyerhető, de jelenleg vesztes körzetek</strong></h6>
+<p>A becslés továbbra is stabil Fidesz vezetést jósol, de látható, hogy közel 30 olyan körzet van, ahol a Fidesz előnye 10%-nál kisebb. Ez azt jelenti, hogy ha a választók széles köre (legalább 65%-a) átszavaz az adott körzetben az esélyes jelöltre, akkor a mostani 85 körzet helyett a Fidesz csak 56 körzetben nyerne, amely esetben veszélybe kerülne a párt abszolút többsége is. Több kerületben is egy ellenzéki jelölt visszalépése is elég lenne a győzelemre, vagy a győzelem bebiztosítására (máskülönben ezek a körzetek könnyen a Fideszhez kerülhetnek).</p>
+
+<p>A szoros körzetek listája a következő:</p>
+<p><strong>Jelenleg nyertesnek ítélt, de elveszíthető körzetek (ha nincs visszalépés/ kisebb az átszavazás):</strong></p>
+<p><a href="/bp5">Budapest 5-ös</a></p>
+<p><a href="/bp6">Budapest 6-os</a></p>
+<p><a href="/bp8">Budapest 8-as</a></p>
+<p><a href="/bp9">Budapest 9-es</a></p>
+<p><a href="/bp12">Budapest 12-es</a></p>
+<p><a href="/bp16">Budapest 16-os</a></p>
+<p><a href="/cs4">Hódmezővásárhely</a></p>
+<p><a href="/za3">Nagykanizsa</a></p>
+<p><a href="/baz3">Ózd</a></p>
+<p><a href="/baz4">Kazincbarcika</a></p>
+<p><a href="/baz6">Tiszaújváros</a></p>
+
+<p><strong>Jelenleg vesztes, de nyerhető körzetek (egy visszalépéssel):</strong></p>
+<p><a href="ve1">Veszprém</a></p>
+<p><a href="ba1">Pécs 1-es</a></p>
+<p><a href="/bp18">Budapest 18-as</a></p>
+<p><a href="/pe12">Cegléd</a></p>
+<p><a href="/szb1">Nyíregyháza 1-es</a></p>
+<p><a href="/szb2">Nyíregyháza 2-es</a></p>
+<p><a href="/to1">Szekszárd</a></p>
+<p><a href="/pe2">Budakeszi</a></p>
+<p><a href="/sz4">Törökszentmiklós</a></p>
+<p><a href="/ve3">Tapolca</a></p>
+
+<p><strong>Koordinációt igénylő, de nyerhető körzetek:</strong></p>
+<p><a href="/bp1">Budapest 1-es</a></p>
+<p><a href="/bp4">Budapest 4-es</a></p>
+<p><a href="/bp13">Budapest 13-as</a></p>
+<p><a href="/bp17">Budapest 17-es</a></p>
+
+
+<p>A lista alapján legrosszabb esetben az ellenzék 10 egyéni mandátumot nyerhet (így a Fidesz kétharmadhoz jutna), legjobb esetben pedig 35 mandátumot. Fontos, hogy további körzetek megnyerésével van esély, ha magasabb az átszavazási hajlandóság, vagy ha több párt is visszalép egy adott kerületben.</p>
+
+<h6><strong>Visszalépések és koordináció pártok között (esélyek)</strong></h6>
+<p>Ezen a héten összesen 3 visszalépés történt a kisebb pártok részéről, de ezek a visszalépések nem módosítottak az esélyeken, ugyanis nem kulcskerületekben történtek. A szükséges visszalépések listája továbbra is változatlan (lásd alább:)</p>
+
+A következő kerületekben lenne érdemes visszalépnie - a politikai alkukat figyelembe véve - egyes jelölteknek:
+
+<h6><strong>LMP</strong></h6>
+<br/>
+<h6><strong>A Jobbik javára:</strong></h6>
+<p><a href="/pe12">Cegléd</a></p>
+<p><a href="/cs4">Hódmezővásárhely</a></p>
+<p><a href="/szb2">Nyíregyháza 2-es</a></p>
+<p><a href="/ve3">Tapolca</a></p>
+<h6><strong>Az MSZP/DK javára:</strong></h6>
+<p><a href="/szb1">Nyíregyháza 1-es</a></p>
+<p><a href="/bp5">Budapest 5-ös</a></p>
+<p><a href="/bp6">Budapest 6-os</a></p>
+<p><a href="/bp8">Budapest 8-as</a></p>
+<p><a href="/bp10">Budapest 10-es</a></p>
+<p><a href="/bp12">Budapest 12-ös</a></p>
+<p><a href="/bp14">Budapest 14-es</a></p>
+<p><a href="/bp16">Budapest 16-os</a></p>
+<p><a href="/bp18">Budapest 18-as</a></p>
+<p><a href="/pe1">Érd</a></p>
+<p><a href="/cs2">Pécs 2-es</a></p>
+
+<h6><strong>Független javára:</strong></h6>
+<p><a href="ve1">Veszprém</a></p>
+<p><a href="ba1">Pécs 1-es</a></p>
+<br/>
+
+<h6><strong>Momentum és Együtt</strong></h6>
+<p>Ugyanott, ahol az LMP is (ha nem is mindenhol, de leginkább Budapest 5, 6, 12, 16, és 18-ban)</p>
+<br/>
+<h6><strong>MSZP és DK</strong></h6>
+<br/>
+<h6><strong>Az LMP javára: (a lista nem teljes)</strong></h6>
+<p><a href="/to1">Szekszárd</a></p>
+<p><a href="/no1">Salgótarján</a></p>
+<p><a href="/pe6">Gödöllő</a></p>
+<p><a href="/bp4">Budapest 4-es</a></p>
+
+<h6><strong>Az Együtt javára:</strong></h6>
+<p><a href="/bp13">Budapest 13-as</a></p>
+<p><a href="/bp17">Budapest 17-es</a></p>
+
+<h6><strong>A Momentum javára:</strong></h6>
+<p><a href="/bp1">Budapest 1-es</a></p>
+
+<p>A javaslat nem számol azzal, hogy a Jobbik bárki javára is visszalépjen, bár elképzelhető a részükről az LMP felé hideg koordináció (visszalépés nélküli átszavazásra buzdítás).</p>
+
+<br/>
+<p><strong>A végső két becslés (optimista és pesszimista forgatókönyvvel) április 6-án hajnalban jelenik meg.</strong></p>
+
+<br/>
+<br/>
+<br/>
 
 <h5 id="0326">Március 26-i becslés módszertana és leírása</h5>
 <br/>

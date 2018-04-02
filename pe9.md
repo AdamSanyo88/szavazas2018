@@ -8,7 +8,7 @@ permalink: /pe9
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A következő becslés várható időpontja: 2018. április 2.</strong></span></h6>
+          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
 		  <h5>Pest megye 9-es választókerület (Nagykáta)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
@@ -26,22 +26,22 @@ permalink: /pe9
               <tbody>
              <tr>
                   <td>Czerván György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">50.2% &emsp; <span id="id_fidesz2">(49.3%)</span></td>
+				   <td id="id_fidesz">48.9% &emsp; <span id="id_fidesz2">(48.6%)</span></td>
 			</tr>
-			<tr><td>Bozsik József - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">26.0% &emsp; <span id="id_jobbik2">(33.7%)</span></td></tr>
+			<tr><td>Bozsik József - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.5% &emsp; <span id="id_jobbik2">(33.5%)</span></td></tr>
 <tr>
                   <td>Török Zsolt - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">15.3% &emsp; <span id="id_baloldal2">(13.4%)</span></td>
+				   <td id="id_baloldal">15.0% &emsp; <span id="id_baloldal2">(13.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Szalay Sándor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.0% &emsp; <span id="id_lmp2">(2.9%)</span></td>
+				   <td id="id_lmp">5.0% &emsp; <span id="id_lmp2">(4.0%)</span></td>
 			</tr>
 			<tr>
 				  </tr>
 <tr>
 <td>	Mérő Péter Ferenc -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">1.2% &emsp; <span id="id_egyutt2">(0.7%)</span></td>
+ <td id="id_egyutt">1.2% &emsp; <span id="id_egyutt2">(0.8%)</span></td>
 </tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
@@ -52,7 +52,7 @@ permalink: /pe9
 
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0326">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>
