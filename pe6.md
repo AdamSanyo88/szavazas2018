@@ -30,7 +30,7 @@ permalink: /pe6
 			</tr>
 			<tr><td>Víg János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.9% &emsp; <span id="id_jobbik2">(24.8%)</span></td></tr>
 <tr>
-                  <td>Makrai Zoltán - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+                  <td><strong>VISSZALÉPETT AZ LMP JAVÁRA</strong> - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				   <td id="id_baloldal">19.1% &emsp; <span id="id_baloldal2">(18.8%)</span></td>
 			</tr>
 			<tr>

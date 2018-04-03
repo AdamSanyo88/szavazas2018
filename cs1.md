@@ -34,7 +34,7 @@ permalink: /cs1
 				   <td id="id_baloldal">30.8% &emsp; <span id="id_baloldal2">(42.5%)</span></td>
 			</tr>
 			<tr>
-                  <td>Bodrog Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td><strong>VISSZALÉPETT AZ MSZP-PÁRBESZÉD JAVÁRA</strong> - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				   <td id="id_lmp">12.6% &emsp; <span id="id_lmp2">(8.5%)</span></td>
 			</tr>
 			<tr>
