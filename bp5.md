@@ -46,7 +46,7 @@ permalink: /bp5
  <td id="id_mkkp">5.7% &emsp; <span id="id_mkkp2">(4.7%)</span></td>
 </tr>  
 <tr>    
-<td>Dr. Bokros Lajos -  MoMa</td>
+<td><strong>VISSZALÉPETT a DK javára</strong> -  MoMa</td>
 <td id="id_egyeb2">1.5% &emsp; (1.5%)</td>
 </tr>        
               </tbody>
