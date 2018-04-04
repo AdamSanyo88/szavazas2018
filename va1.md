@@ -47,7 +47,7 @@ permalink: /va1
  <td id="id_mkkp">2.2% &emsp; <span id="id_mkkp2">(1.8%)</span></td>
 </tr>
 <tr>
-				  <td>dr. Czeglédy Csaba - független</td>
+				  <td><strong>VISSZALÉPETT az MSZP-PÁRBESZÉD JAVÁRA</strong> - független</td>
 				  <td id="egyeb2">4.3% &emsp; (4.3%)</td>
 			</tr>      
               </tbody>
