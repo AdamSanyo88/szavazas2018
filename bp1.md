@@ -31,7 +31,9 @@ permalink: /bp1
 			</tr>
 			<tr>
 <td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
- <td id="id_jobbik">7.3% &emsp; <span id="id_jobbik2">(6.0%)</span></td></tr>
+ <td id="id_jobbik">7.3% &emsp; <span id="id_jobbik2">(6.0%)</span></td>
+ </tr>
+ <tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				   <td id="id_lmp">20.0% &emsp; <span id="id_lmp2">(50.0%)</span></td>
 			</tr>
@@ -40,7 +42,7 @@ permalink: /bp1
 				   <td id="id_mkkp">3.3% &emsp; <span id="id_mkkp2">(3.0%)</span></td>
 			</tr>			
               </tbody>
-            </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
+            </table><h5>Várható győztes: <span id="gyoztes">Csárdi Antal (LMP)</span><span id="esely"></span><span></span></h5>
 			
 			
 <br/><p><strong>Fontos:</strong> A becslések csak az egyéni jelöltre adott szavazatok arányát mutatják, nem a listás szavazatokét. A becslés jelentős eltérést mutathat a kisebb pártok esetében és olyan kerületekben, ahol nincs egyértelmű esélyes jelölt.</p>
