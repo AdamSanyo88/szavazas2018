@@ -32,7 +32,7 @@ permalink: /bp1
 <td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
  <td id="id_jobbik">7.0% &emsp; <span id="id_jobbik2">(5.6%)</span></td></tr>
 			<tr>
-<td>Váradiné Naszály Márta - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+<td><strong>VISSZALÉPETT AZ LMP JAVÁRA</strong> - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
  <td id="id_baloldal">20.0% &emsp; <span id="id_baloldal2">(35.2%)</span></td></tr>
 			<tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
