@@ -85,7 +85,7 @@ permalink: /pe5
 				  <td>16.4%</td>
 			</tr>
 			<tr>
-				  <td>Kardos-Horváth János - LMP</td>
+				  <td>Juhász Péter  - LMP</td>
 				  <td>7.7%</td>
 			</tr>  	
               </tbody>
