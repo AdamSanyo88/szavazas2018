@@ -16,6 +16,7 @@ permalink: /szb2
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">dr. Fülöp Erik (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: dr. Fülöp Erik (Jobbik) </strong></h5>
+<h5><strong><a href="https://www.v18.eu/53korzet">A V18 ajánlása</a>: dr. Fülöp Erik (Jobbik)</strong></h5>
 <table class="striped">
               <thead>
                 <tr>

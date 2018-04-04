@@ -16,6 +16,7 @@ permalink: /he1
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Mirkóczki Ádám (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Mirkóczki Ádám (Jobbik) </strong></h5>
+<h5><strong><a href="https://www.v18.eu/53korzet">A V18 ajánlása</a>: Mirkóczki Ádám (Jobbik)</strong></h5>
 <table class="striped">
               <thead>
                 <tr>

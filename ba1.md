@@ -16,6 +16,7 @@ permalink: /ba1
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Dr. Mellár Tamás (független)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Dr. Mellár Tamás (független) </strong></h5>
+<h5><strong><a href="https://www.v18.eu/53korzet">A V18 ajánlása</a>: Dr. Mellár Tamás (független)</strong></h5>
 <table class="striped">
               <thead>
                 <tr>

@@ -14,8 +14,9 @@ permalink: /pe6
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/pe6.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
-<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Víg János (Jobbik) / Lengyel Szilvia (LMP) visszalépés esetén</span><span id="esely2"></span><span></span></strong></h5>
+<h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Víg János (Jobbik) / Lengyel Szilvia (LMP) - visszalépés esetén</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Lengyel Szilvia (LMP) </strong></h5>
+<h5><strong><a href="https://www.v18.eu/53korzet">A V18 ajánlása</a>: Lengyel Szilvia (LMP)</strong></h5>
 <table class="striped">
               <thead>
                 <tr>
