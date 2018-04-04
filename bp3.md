@@ -42,7 +42,7 @@ permalink: /bp3
 				   <td id="id_momentum">6.1% &emsp; <span id="id_momentum2">(5.0%)</span></td>
 			</tr>
 <tr>
-<td>Bényi Hajnal -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+<td><strong>VISSZALÉPETT A DK JAVÁRA</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
  <td id="id_egyutt">4.3% &emsp; <span id="id_egyutt2">(3.1%)</span></td>
 </tr>                
 <tr>

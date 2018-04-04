@@ -42,7 +42,7 @@ permalink: /pe8
 				   <td id="id_momentum">3.1% &emsp; <span id="id_momentum2">(2.0%)</span></td>
 			</tr>
 <tr>
-<td>Ketskeméty-Rády Magdolna -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+<td><strong>VISSZALÉPETT AZ MSZP-PÁRBESZÉD JAVÁRA</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
  <td id="id_egyutt">2.1% &emsp; <span id="id_egyutt2">(1.3%)</span></td>
 </tr>                
               </tbody>

@@ -42,7 +42,7 @@ permalink: /bp2
 				   <td id="id_momentum">5.7% &emsp; <span id="id_momentum2">(3.8%)</span></td>
 			</tr>
 <tr>
-<td>Kóber György -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+<td><strong>VISSZALÉPETT A DK JAVÁRA</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
  <td id="id_egyutt">4.2% &emsp; <span id="id_egyutt2">(2.5%)</span></td>
 </tr>                
 <tr>

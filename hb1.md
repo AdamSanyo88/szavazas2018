@@ -42,7 +42,7 @@ permalink: /hb1
 				   <td id="id_momentum">4.1% &emsp; <span id="id_momentum2">(2.7%)</span></td>
 			</tr>
 <tr>
-<td>dr. Szegedi István -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+<td><strong>VISSZALÉPETT AZ MSZP-PÁRBESZÉD JAVÁRA</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
  <td id="id_egyutt">3.0% &emsp; <span id="id_egyutt2">(1.9%)</span></td>
 </tr>                
               </tbody>

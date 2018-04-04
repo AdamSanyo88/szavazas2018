@@ -42,7 +42,7 @@ permalink: /bp4
 				   <td id="id_momentum">8.1% &emsp; <span id="id_momentum2">(5.4%)</span></td>
 			</tr>
 <tr>
-<td>Mihalik Zoltán -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+<td><strong>VISSZALÉPETT A DK JAVÁRA</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
  <td id="id_egyutt">3.9% &emsp; <span id="id_egyutt2">(2.4%)</span></td>
 </tr>    
 <tr>
