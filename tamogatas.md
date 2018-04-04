@@ -11,9 +11,11 @@ permalink: /tamogatas
           <div class="col s12">
 		  <h5>Támogasd az oldalt!</h5> 
 <br/>
-<h5>Eddig befolyt támogatás: 1005120 Ft</h5>
+<h6><strong>Utolsó frissítés: 2018. március 31.</strong></h6>
+<br/>
+<h5>Eddig befolyt támogatás: 1.005.120 Ft</h5>
 <p></p>
-<h5>Ebből kampányra fordított: 233862 Ft</h5>
+<h5>Ebből kampányra fordított: 233.862 Ft</h5>
 		  
 <p>Kedves választópolgár!</p>
 <p>Ezt az oldalt jórészt egyedül csinálom, és komolyabb kapcsolati háló nélkül nehéz dolgom van abban, hogy a választók megismerjék a becslések eredményét a médián keresztül, és így megfontolt döntést hozzanak majd április 8-án.</p>
@@ -33,7 +35,6 @@ permalink: /tamogatas
 <h6>Közlemény: támogatás</h6>
 <br/>
 <h6><strong>Paypal fiókról:</strong></h6>
-<br/>
 <p>Használd a <strong>Donate</strong> gombot alább:</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
