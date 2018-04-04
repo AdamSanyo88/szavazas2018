@@ -50,11 +50,9 @@ permalink: /szb5
 <br/>
 			
 
-
 <p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
           </div>
           </div>
-    </div>
 </div>
 
 <div class="section">
