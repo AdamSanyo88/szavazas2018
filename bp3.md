@@ -27,25 +27,21 @@ permalink: /bp3
               <tbody>
              <tr>
                   <td>dr. Gulyás Gergely - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">39.0% &emsp; <span id="id_fidesz2">(39.5%)</span></td>
+				   <td id="id_fidesz">39.4% &emsp; <span id="id_fidesz2">(40.1%)</span></td>
 			</tr>
-			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">8.4% &emsp; <span id="id_jobbik2">(6.3%)</span></td></tr>
+			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">8.4% &emsp; <span id="id_jobbik2">(6.4%)</span></td></tr>
 <tr>
                   <td>Bauer Tamás - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.2% &emsp; <span id="id_baloldal2">(29.5%)</span></td>
+				   <td id="id_baloldal">22.4% &emsp; <span id="id_baloldal2">(31.6%)</span></td>
 			</tr>
 			<tr>
                   <td>Hajdu Mária - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">14.7% &emsp; <span id="id_lmp2">(12.2%)</span></td>
+				   <td id="id_lmp">14.8% &emsp; <span id="id_lmp2">(12.3%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kádár Barnabás Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">6.1% &emsp; <span id="id_momentum2">(5.0%)</span></td>
-			</tr>
-<tr>
-<td><strong>VISSZALÉPETT A DK JAVÁRA</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">4.3% &emsp; <span id="id_egyutt2">(3.1%)</span></td>
-</tr>                
+				   <td id="id_momentum">6.1% &emsp; <span id="id_momentum2">(5.1%)</span></td>
+			</tr>               
 <tr>
                   <td>Kovács Gergely - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 				   <td id="id_mkkp">5.4% &emsp; <span id="id_mkkp2">(4.4%)</span></td>

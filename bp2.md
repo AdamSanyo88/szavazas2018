@@ -27,25 +27,21 @@ permalink: /bp2
               <tbody>
              <tr>
                   <td>dr. Simicskó István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">40.6% &emsp; <span id="id_fidesz2">(41.4%)</span></td>
+				   <td id="id_fidesz">41.0% &emsp; <span id="id_fidesz2">(41.9%)</span></td>
 			</tr>
-			<tr><td>Dr. Bardócz-Tódor András - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">8.0% &emsp; <span id="id_jobbik2">(6.1%)</span></td></tr>
+			<tr><td>Dr. Bardócz-Tódor András - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">8.1% &emsp; <span id="id_jobbik2">(6.2%)</span></td></tr>
 <tr>
                   <td>Gy. Németh Erzsébet - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">25.3% &emsp; <span id="id_baloldal2">(35.0%)</span></td>
+				   <td id="id_baloldal">25.5% &emsp; <span id="id_baloldal2">(36.8%)</span></td>
 			</tr>
 			<tr>
                   <td>Kreitler-Sas Máté - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">13.6% &emsp; <span id="id_lmp2">(9.0%)</span></td>
+				   <td id="id_lmp">13.8% &emsp; <span id="id_lmp2">(9.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Bedő Dávid - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">5.7% &emsp; <span id="id_momentum2">(3.8%)</span></td>
-			</tr>
-<tr>
-<td><strong>VISSZALÉPETT A DK JAVÁRA</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">4.2% &emsp; <span id="id_egyutt2">(2.5%)</span></td>
-</tr>                
+				   <td id="id_momentum">5.8% &emsp; <span id="id_momentum2">(3.9%)</span></td>
+			</tr>            
 <tr>
                   <td>Fischer Roland - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 				   <td id="id_mkkp">2.6% &emsp; <span id="id_mkkp2">(2.1%)</span></td>

@@ -27,25 +27,21 @@ permalink: /hb1
               <tbody>
              <tr>
                   <td>Kósa Lajos - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">44.0% &emsp; <span id="id_fidesz2">(45.8%)</span></td>
+				   <td id="id_fidesz">45.3% &emsp; <span id="id_fidesz2">(46.3%)</span></td>
 			</tr>
-			<tr><td>Herpergel Róbert - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.0% &emsp; <span id="id_jobbik2">(18.6%)</span></td></tr>
+			<tr><td>Herpergel Róbert - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.6% &emsp; <span id="id_jobbik2">(18.8%)</span></td></tr>
 <tr>
                   <td>Gulyásné dr. Gurmai Zita - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">21.0% &emsp; <span id="id_baloldal2">(25.0%)</span></td>
+				   <td id="id_baloldal">19.7% &emsp; <span id="id_baloldal2">(26.1%)</span></td>
 			</tr>
 			<tr>
                   <td>Murguly Mátyás - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">8.8% &emsp; <span id="id_lmp2">(6.0%)</span></td>
+				   <td id="id_lmp">9.1% &emsp; <span id="id_lmp2">(6.0%)</span></td>
 			</tr>
 			<tr>
 				  <td>Horváth Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.1% &emsp; <span id="id_momentum2">(2.7%)</span></td>
-			</tr>
-<tr>
-<td><strong>VISSZALÉPETT AZ MSZP-PÁRBESZÉD JAVÁRA</strong> -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">3.0% &emsp; <span id="id_egyutt2">(1.9%)</span></td>
-</tr>                
+				   <td id="id_momentum">4.2% &emsp; <span id="id_momentum2">(2.8%)</span></td>
+			</tr>             
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
 			

@@ -27,25 +27,21 @@ permalink: /szb1
               <tbody>
              <tr>
                   <td>dr. Szabó Tünde - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">34.2% &emsp; <span id="id_fidesz2">(34.6%)</span></td>
+				   <td id="id_fidesz">34.5% &emsp; <span id="id_fidesz2">(34.9%)</span></td>
 			</tr>
-			<tr><td>Lengyel Máté - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">24.8% &emsp; <span id="id_jobbik2">(24.9%)</span></td></tr>
+			<tr><td>Lengyel Máté - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">25.0% &emsp; <span id="id_jobbik2">(25.1%)</span></td></tr>
 <tr>
                   <td>Csabai Lászlóné - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">27.0% &emsp; <span id="id_baloldal2">(31.1%)</span></td>
+				   <td id="id_baloldal">27.2% &emsp; <span id="id_baloldal2">(32.0%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Szoboszlay György Csaba - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">6.6% &emsp; <span id="id_lmp2">(4.3%)</span></td>
+				   <td id="id_lmp">6.7 &emsp; <span id="id_lmp2">(4.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>Babosi György - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">3.3% &emsp; <span id="id_momentum2">(2.1%)</span></td>
-			</tr>
-<tr>
-<td><strong>VISSZALÉPETT AZ MSZP-PÁRBESZÉD JAVÁRA</strong> - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">2.5% &emsp; <span id="id_egyutt2">(1.5%)</span></td>
-</tr>             
+				   <td id="id_momentum">3.3% &emsp; <span id="id_momentum2">(2.2%)</span></td>
+			</tr>             
 <tr>
 <td>Vajas Károly - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
  <td id="id_mkkp">1.7% &emsp; <span id="id_mkkp2">(1.4%)</span></td>

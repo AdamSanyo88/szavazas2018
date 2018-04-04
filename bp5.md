@@ -32,7 +32,7 @@ permalink: /bp5
 			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">9.4% &emsp; <span id="id_jobbik2">(7.2%)</span></td></tr>
 <tr>
                   <td>Dr. Oláh Lajos - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(33.4%)</span></td>
+				   <td id="id_baloldal">24.0% &emsp; <span id="id_baloldal2">(34.9%)</span></td>
 			</tr>
 			<tr>
                   <td>Moldován László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
@@ -45,11 +45,7 @@ permalink: /bp5
 <tr>
 <td>Döme Zsuzsanna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
  <td id="id_mkkp">5.7% &emsp; <span id="id_mkkp2">(4.7%)</span></td>
-</tr>  
-<tr>    
-<td><strong>VISSZALÉPETT a DK javára</strong> -  MoMa</td>
-<td id="id_egyeb2">1.5% &emsp; (1.5%)</td>
-</tr>        
+</tr>       
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Dr. Oláh Lajos (DK)</span><span id="esely"></span><span></span></h5>
 			
