@@ -86,7 +86,78 @@ permalink: /mandatumbecsles
           </div>
     </div>
 	
-<br>
+<br/>
+
+<div class="section">
+    <div class="row">
+          <div class="col s12"> 
+<h5>Kutatóintézetek végső mandátumbecslései (2018. április 4-6.)</h5>
+<table class="striped">
+              <thead>
+                <tr>
+                    <th>Pártok</th>
+					<th>Medián</th>
+                    <th>Republikon</th>
+					<th>Nézőpont</th>
+					<th>Závecz</th>
+					<th>taktikaiszavazas.hu</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Fidesz</td>
+				  <td>142</td>
+				  <td>113</td>
+				  <td>112-123</td>
+				  <td>xxx</td>
+				  <td>xxx</td>
+			</tr>
+			<tr>
+                  <td>Jobbik</td>
+				  <td>22</td>
+				  <td>29</td>
+				  <td>36-42</td>
+				  <td>xx</td>
+				  <td>xx</td>
+			</tr>
+			<tr>
+                  <td>MSZP-Párbeszéd</td>
+				  <td>19</td>
+				  <td>33</td>
+				  <td>19-20</td>
+				  <td>xx</td>
+				  <td>xx</td>
+			</tr>
+			<tr>
+                  <td>DK</td>
+				  <td>7</td>
+				  <td>13</td>
+				  <td>11-13</td>
+				  <td>xx</td>
+				  <td>xx</td>
+			</tr>
+			<tr>
+                  <td>LMP</td>
+				  <td>8</td>
+				  <td>7</td>
+				  <td>6-8</td>
+				  <td>xx</td>
+				  <td>xx</td>
+			</tr>
+			<tr>
+                  <td>Egyéb</td>
+				  <td>1</td>
+				  <td>4</td>
+				  <td>4</td>
+				  <td>xx</td>
+				  <td>xx</td>
+			</tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
 <div class="section">
     <div class="row">
           <div class="col s12">
