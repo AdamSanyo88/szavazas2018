@@ -243,9 +243,9 @@ permalink: /mandatumbecsles
 <td id="masodik_baz1">Fidesz</td>
 <td id="kulonbseg_baz1">12.0%</td></tr>
 <tr><td><a href="../baz2">Borsod-Abaúj-Zemplén megyei 2.</a></td>
-<td id="gyoztes_baz2">Pakusza Zoltán (Jobbik)</td>
-<td id="masodik_baz2">Fidesz</td>
-<td id="kulonbseg_baz2">15.7%</td></tr>	
+<td id="gyoztes_baz2">Fidesz</td>
+<td id="masodik_baz2">Varga László (MSZP-Párbeszéd)</td>
+<td id="kulonbseg_baz2">1.0%</td></tr>	
 <tr><td><a href="../baz3">Borsod-Abaúj-Zemplén megyei 3.</a></td>
 <td id="gyoztes_baz3">Farkas Péter Barnabás (Jobbik)</td>
 <td id="masodik_baz3">Fidesz</td>
