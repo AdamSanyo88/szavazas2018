@@ -39,7 +39,7 @@ permalink: /cs4
 				   <td id="id_lmp">10.2% &emsp; <span id="id_lmp2">(8.9%)</span></td>
 			</tr>
 			<tr>
-				  <td>Jakab Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td><strong>VISSZALÉPETT A JOBBIK JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">3.6% &emsp; <span id="id_momentum2">(3.1%)</span></td>
 			</tr>
 

@@ -39,7 +39,7 @@ permalink: /he1
 				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(4.9%)</span></td>
 			</tr>
 			<tr>
-				  <td>Tóth Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td><strong>VISSZALÉPETT A JOBBIK JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(1.7%)</span></td>
 			</tr>
   

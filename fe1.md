@@ -39,7 +39,7 @@ permalink: /fe1
 				   <td id="id_lmp">10.3% &emsp; <span id="id_lmp2">(6.9%)</span></td>
 			</tr>
 			<tr>
-				  <td>Pintér András Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td><strong>VISSZALÉPETT A DK JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">4.6% &emsp; <span id="id_momentum2">(3.1%)</span></td>
 			</tr>
                 

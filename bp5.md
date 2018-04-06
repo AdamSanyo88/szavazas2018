@@ -39,7 +39,7 @@ permalink: /bp5
 				   <td id="id_lmp">17.0% &emsp; <span id="id_lmp2">(14.3%)</span></td>
 			</tr>
 			<tr>
-				  <td>Soproni Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td><strong>VISSZALÉPETT A DK JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">9.7% &emsp; <span id="id_momentum2">(8.2%)</span></td>
 			</tr> 
 <tr>

@@ -35,7 +35,7 @@ permalink: /pe2
 				   <td id="id_lmp">19.6% &emsp; <span id="id_lmp2">(40.2%)</span></td>
 			</tr>
 			<tr>
-				  <td>Szemző Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td><strong>VISSZALÉPETT AZ LMP JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">5.9% &emsp; <span id="id_momentum2">(5.7%)</span></td>
 			</tr>
                 
