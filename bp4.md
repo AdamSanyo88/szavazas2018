@@ -16,7 +16,7 @@ permalink: /bp4
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Az LMP-s jelölt az esélyes (koordináció esetén)</span></strong></h6><br/> 
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Ungár Péter (LMP) - visszalépés esetén</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Ungár Péter (LMP)</strong></h5>
-<h5><strong><a href="https://www.v18.eu/53korzet">A V18 ajánlása</a>: Ungár Péter (LMP)</strong></h5>
+<h5><strong><a href="https://www.v18.eu/53korzet">A V18 ajánlása</a>: Niedermüller Péter (DK)</strong></h5>
 <table class="striped">
               <thead>
                 <tr>
@@ -32,11 +32,11 @@ permalink: /bp4
 			<tr><td>Kovács Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">6.3% &emsp; <span id="id_jobbik2">(4.8%)</span></td></tr>
 <tr>
                   <td>Niedermüller Péter - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">25.0% &emsp; <span id="id_baloldal2">(22.1%)</span></td>
+				   <td id="id_baloldal">25.0% &emsp; <span id="id_baloldal2">(32.1%)</span></td>
 			</tr>
 			<tr>
                   <td>Ungár Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">15.5% &emsp; <span id="id_lmp2">(25.1%)</span></td>
+				   <td id="id_lmp">15.5% &emsp; <span id="id_lmp2">(15.1%)</span></td>
 			</tr>
 			<tr>
 				  <td>Benedek Márton - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
