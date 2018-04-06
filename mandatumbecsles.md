@@ -100,7 +100,6 @@ permalink: /mandatumbecsles
 					<th>Medián</th>
                     <th>Republikon</th>
 					<th>Nézőpont</th>
-					<th>Závecz</th>
 					<th>taktikaiszavazas.hu</th>
                 </tr>
               </thead>
@@ -110,7 +109,6 @@ permalink: /mandatumbecsles
 				  <td>142</td>
 				  <td>113</td>
 				  <td>112-123</td>
-				  <td>xxx</td>
 				  <td>120</td>
 			</tr>
 			<tr>
@@ -118,7 +116,6 @@ permalink: /mandatumbecsles
 				  <td>22</td>
 				  <td>29</td>
 				  <td>36-42</td>
-				  <td>xx</td>
 				  <td>34</td>
 			</tr>
 			<tr>
@@ -126,7 +123,6 @@ permalink: /mandatumbecsles
 				  <td>19</td>
 				  <td>33</td>
 				  <td>19-20</td>
-				  <td>xx</td>
 				  <td>22</td>
 			</tr>
 			<tr>
@@ -134,7 +130,6 @@ permalink: /mandatumbecsles
 				  <td>7</td>
 				  <td>13</td>
 				  <td>11-13</td>
-				  <td>xx</td>
 				  <td>12</td>
 			</tr>
 			<tr>
@@ -142,7 +137,6 @@ permalink: /mandatumbecsles
 				  <td>8</td>
 				  <td>7</td>
 				  <td>6-8</td>
-				  <td>xx</td>
 				  <td>9</td>
 			</tr>
 			<tr>
@@ -150,7 +144,6 @@ permalink: /mandatumbecsles
 				  <td>1</td>
 				  <td>4</td>
 				  <td>4</td>
-				  <td>xx</td>
 				  <td>2</td>
 			</tr>
               </tbody>
