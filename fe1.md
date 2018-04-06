@@ -27,22 +27,17 @@ permalink: /fe1
               <tbody>
              <tr>
                   <td>Vargha Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">41.4% &emsp; <span id="id_fidesz2">(42.9%)</span></td>
+				   <td id="id_fidesz">41.8% &emsp; <span id="id_fidesz2">(43.5%)</span></td>
 			</tr>
-			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.9% &emsp; <span id="id_jobbik2">(17.7%)</span></td></tr>
+			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.1% &emsp; <span id="id_jobbik2">(18.0%)</span></td></tr>
 <tr>
                   <td>Ráczné Földi Judit - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.2% &emsp; <span id="id_baloldal2">(29.4%)</span></td>
+				   <td id="id_baloldal">22.4% &emsp; <span id="id_baloldal2">(31.4%)</span></td>
 			</tr>
 			<tr>
                   <td>Rákosi Judit - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">10.3% &emsp; <span id="id_lmp2">(6.9%)</span></td>
+				   <td id="id_lmp">10.4% &emsp; <span id="id_lmp2">(7.1%)</span></td>
 			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT A DK JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.6% &emsp; <span id="id_momentum2">(3.1%)</span></td>
-			</tr>
-                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
 			

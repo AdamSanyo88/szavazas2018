@@ -27,18 +27,13 @@ permalink: /pe2
               <tbody>
              <tr>
                   <td>Csenger-Zalán Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">39.9% &emsp; <span id="id_fidesz2">(43.5%)</span></td>
+				   <td id="id_fidesz">41.0% &emsp; <span id="id_fidesz2">(44.3%)</span></td>
 			</tr>
-			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">10.9% &emsp; <span id="id_jobbik2">(8.9%)</span></td></tr>
+			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">11.2% &emsp; <span id="id_jobbik2">(9.1%)</span></td></tr>
 			<tr>
                   <td>dr. Szél Bernadett - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">19.6% &emsp; <span id="id_lmp2">(40.2%)</span></td>
-			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT AZ LMP JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">5.9% &emsp; <span id="id_momentum2">(5.7%)</span></td>
-			</tr>
-                
+				   <td id="id_lmp">17.2% &emsp; <span id="id_lmp2">(44.9%)</span></td>
+			</tr>    
 <tr>
 <td>Betlehem Csaba - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
  <td id="id_mkkp">2.0% &emsp; <span id="id_mkkp2">(1.7%)</span></td>

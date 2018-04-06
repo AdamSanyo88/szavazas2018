@@ -27,22 +27,17 @@ permalink: /cs4
               <tbody>
              <tr>
                   <td>Lázár János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">37.9% &emsp; <span id="id_fidesz2">(38.0%)</span></td>
+				   <td id="id_fidesz">37.9% &emsp; <span id="id_fidesz2">(38.3%)</span></td>
 			</tr>
-			<tr><td>Dr. Kiss Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">32.0% &emsp; <span id="id_jobbik2">(38.4%)</span></td></tr>
+			<tr><td>Dr. Kiss Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">32.0% &emsp; <span id="id_jobbik2">(41.1%)</span></td></tr>
 <tr>
                   <td>Rója István - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">12.8% &emsp; <span id="id_baloldal2">(10.6%)</span></td>
+				   <td id="id_baloldal">12.8% &emsp; <span id="id_baloldal2">(10.7%)</span></td>
 			</tr>
 			<tr>
                   <td>Pongrácz Gergely - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				   <td id="id_lmp">10.2% &emsp; <span id="id_lmp2">(8.9%)</span></td>
 			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT A JOBBIK JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">3.6% &emsp; <span id="id_momentum2">(3.1%)</span></td>
-			</tr>
-
 <tr>
 <td>Farkas Tamás - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
  <td id="id_mkkp">1.2% &emsp; <span id="id_mkkp2">(1.0%)</span></td>

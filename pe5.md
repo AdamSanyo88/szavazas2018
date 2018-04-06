@@ -27,20 +27,16 @@ permalink: /pe5
               <tbody>
              <tr>
                   <td>Tuzson Bence - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">38.5% &emsp; <span id="id_fidesz2">(39.3%)</span></td>
+				   <td id="id_fidesz">38.5% &emsp; <span id="id_fidesz2">(40.3%)</span></td>
 			</tr>
-			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.3% &emsp; <span id="id_jobbik2">(17.0%)</span></td></tr>
+			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.3% &emsp; <span id="id_jobbik2">(17.2%)</span></td></tr>
 <tr>
                   <td>Rónai Sándor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(29.6%)</span></td>
-			</tr>
-			<tr>
-                  <td><strong>VISSZALÉPETT A DK JAVÁRA</strong> - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">12.8% &emsp; <span id="id_lmp2">(10.4%)</span></td>
+				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(38.7%)</span></td>
 			</tr>
 			<tr>
 				  <td>Kohut Ákos - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(3.7%)</span></td>
+				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(3.8%)</span></td>
 			</tr>                
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>

@@ -27,24 +27,20 @@ permalink: /bp5
               <tbody>
              <tr>
                   <td>Bajkai István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">30.2% &emsp; <span id="id_fidesz2">(30.8%)</span></td>
+				   <td id="id_fidesz">31.3% &emsp; <span id="id_fidesz2">(32.4%)</span></td>
 			</tr>
-			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">9.4% &emsp; <span id="id_jobbik2">(7.2%)</span></td></tr>
+			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">9.8% &emsp; <span id="id_jobbik2">(7.6%)</span></td></tr>
 <tr>
                   <td>Dr. Oláh Lajos - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">24.0% &emsp; <span id="id_baloldal2">(34.9%)</span></td>
+				   <td id="id_baloldal">24.9% &emsp; <span id="id_baloldal2">(40.0%)</span></td>
 			</tr>
 			<tr>
                   <td>Moldován László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">17.0% &emsp; <span id="id_lmp2">(14.3%)</span></td>
+				   <td id="id_lmp">17.7% &emsp; <span id="id_lmp2">(15.1%)</span></td>
 			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT A DK JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">9.7% &emsp; <span id="id_momentum2">(8.2%)</span></td>
-			</tr> 
 <tr>
 <td>Döme Zsuzsanna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">5.7% &emsp; <span id="id_mkkp2">(4.7%)</span></td>
+ <td id="id_mkkp">5.9% &emsp; <span id="id_mkkp2">(4.9%)</span></td>
 </tr>       
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Dr. Oláh Lajos (DK)</span><span id="esely"></span><span></span></h5>

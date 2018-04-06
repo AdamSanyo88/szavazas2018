@@ -27,22 +27,17 @@ permalink: /he1
               <tbody>
              <tr>
                   <td>Nyitrai Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">36.6% &emsp; <span id="id_fidesz2">(36.1%)</span></td>
+				   <td id="id_fidesz">36.6% &emsp; <span id="id_fidesz2">(36.2%)</span></td>
 			</tr>
-			<tr><td>Mirkóczki Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">32.3% &emsp; <span id="id_jobbik2">(40.9%)</span></td></tr>
+			<tr><td>Mirkóczki Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">32.3% &emsp; <span id="id_jobbik2">(42.4%)</span></td></tr>
 <tr>
                   <td>Kertészné Kormos Noémi - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">18.1% &emsp; <span id="id_baloldal2">(15.7%)</span></td>
+				   <td id="id_baloldal">18.1% &emsp; <span id="id_baloldal2">(15.8%)</span></td>
 			</tr>
 			<tr>
                   <td>Komlósi Csaba - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(4.9%)</span></td>
 			</tr>
-			<tr>
-				  <td><strong>VISSZALÉPETT A JOBBIK JAVÁRA</strong> - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(1.7%)</span></td>
-			</tr>
-  
 <tr>
 <td>Várady Zoltán - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
  <td id="id_mkkp">0.9% &emsp; <span id="id_mkkp2">(0.7%)</span></td>

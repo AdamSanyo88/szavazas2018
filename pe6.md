@@ -29,26 +29,22 @@ permalink: /pe6
                   <td>Vécsey László József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="id_fidesz">41.2% &emsp; <span id="id_fidesz2">(41.3%)</span></td>
 			</tr>
-			<tr><td>Víg János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.9% &emsp; <span id="id_jobbik2">(24.8%)</span></td></tr>
-<tr>
-                  <td><strong>VISSZALÉPETT AZ LMP JAVÁRA</strong> - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">19.1% &emsp; <span id="id_baloldal2">(18.8%)</span></td>
-			</tr>
+			<tr><td>Víg János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.9% &emsp; <span id="id_jobbik2">(21.7%)</span></td></tr>
 			<tr>
                   <td>Lengyel Szilvia - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">11.0% &emsp; <span id="id_lmp2">(9.1%)</span></td>
+				   <td id="id_lmp">11.0% &emsp; <span id="id_lmp2">(27.4%)</span></td>
 			</tr>
 			<tr>
 				  <td>Molnár László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">3.9% &emsp; <span id="id_momentum2">(3.2%)</span></td>
+				   <td id="id_momentum">3.9% &emsp; <span id="id_momentum2">(4.0%)</span></td>
 			</tr>
 <tr>
 <td>Kis Imre -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">2.6% &emsp; <span id="id_egyutt2">(1.8%)</span></td>
+ <td id="id_egyutt">2.6% &emsp; <span id="id_egyutt2">(2.7%)</span></td>
 </tr>           
 <tr>
 <td>Bősze Gábor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">1.3% &emsp; <span id="id_mkkp2">(1.0%)</span></td>
+ <td id="id_mkkp">1.3% &emsp; <span id="id_mkkp2">(1.3)</span></td>
 </tr>       
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
