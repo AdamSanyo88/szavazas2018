@@ -27,24 +27,24 @@ permalink: /mandatumbecsles
               <tbody>
              <tr>
                   <td>Fidesz</td>
-				  <td>85</td>
-				  <td>37</td>
-				  <td>122</td>
-				  <td>61.5%</td>
+				  <td>84</td>
+				  <td>36</td>
+				  <td>120</td>
+				  <td>60.5%</td>
 			</tr>
 			<tr>
 				  <td>Jobbik</td>
-				  <td>10</td>
+				  <td>9</td>
 				  <td>25</td>
-				  <td>35</td>
-				  <td>17.5%</td>
+				  <td>34</td>
+				  <td>17.0%</td>
 			</tr>
 			<tr>
                   <td>MSZP-Párbeszéd</td>
 				  <td>7</td>
-				  <td>14</td>
-				  <td>21</td>
-				  <td>10.5%</td>
+				  <td>15</td>
+				  <td>22</td>
+				  <td>11.0%</td>
 			</tr>
 			<tr>
 			      <td>DK</td>
@@ -55,17 +55,17 @@ permalink: /mandatumbecsles
 			</tr>
 			<tr>
 				 <td>LMP</td>
-				<td>0</td>
+				<td>1</td>
 				  <td>8</td>
-				  <td>8</td>
+				  <td>9</td>
 				  <td>4.0%</td>
 			</tr>
 			<tr>
-			<td>Független</td>
-				<td>0</td>
+			<td>Együtt</td>
+				<td>1</td>
 				  <td>0</td>
-				  <td>0</td>
-				  <td>0.0%</td>
+				  <td>1</td>
+				  <td>0.5%</td>
 			</tr>
 			<tr>
 			<td>Német nemzetiségi képviselő</td>
@@ -76,13 +76,14 @@ permalink: /mandatumbecsles
 			</tr>
               </tbody>
             </table>
-<h5>Eredmény: A Fidesz stabil többséget szerez a parlamentben 122 mandátummal.</h5>
+<h5>Eredmény: A Fidesz stabil többséget szerez a parlamentben 120 mandátummal.</h5>
 <br/>
-<h5><strong>Magasabb részvétel, átszavazás és koordináció mellett a Fidesz mandátumainak száma 102-re csökkenhet (szűk Fideszes többség).</strong></h5>
+<h5><strong>Magasabb részvétel, átszavazás és koordináció mellett a Fidesz mandátumainak száma 101-re csökkenhet (egy fős Fidesz többség).</strong></h5>
 <br/>
-<img src="images/parlamenti_patko.png" img="" style="height: 75%; width: 75%; align: middle; object-fit: contain">
+<img src="images/parlamenti_patko.png" img="" style="height: 50%; width: 50%; object-fit: contain">
+<img src="images/parlamenti_patko_2.png" img="" style="height: 50%; width: 50%; object-fit: contain">
 <br/>
-<h6>Utolsó frissítés: 2018. április 2.</h6>
+<h6>Utolsó frissítés: 2018. április 6.</h6>
           </div>
     </div>
 	
@@ -110,7 +111,7 @@ permalink: /mandatumbecsles
 				  <td>113</td>
 				  <td>112-123</td>
 				  <td>xxx</td>
-				  <td>xxx</td>
+				  <td>120</td>
 			</tr>
 			<tr>
                   <td>Jobbik</td>
@@ -118,7 +119,7 @@ permalink: /mandatumbecsles
 				  <td>29</td>
 				  <td>36-42</td>
 				  <td>xx</td>
-				  <td>xx</td>
+				  <td>34</td>
 			</tr>
 			<tr>
                   <td>MSZP-Párbeszéd</td>
@@ -126,7 +127,7 @@ permalink: /mandatumbecsles
 				  <td>33</td>
 				  <td>19-20</td>
 				  <td>xx</td>
-				  <td>xx</td>
+				  <td>22</td>
 			</tr>
 			<tr>
                   <td>DK</td>
@@ -134,7 +135,7 @@ permalink: /mandatumbecsles
 				  <td>13</td>
 				  <td>11-13</td>
 				  <td>xx</td>
-				  <td>xx</td>
+				  <td>12</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
@@ -142,7 +143,7 @@ permalink: /mandatumbecsles
 				  <td>7</td>
 				  <td>6-8</td>
 				  <td>xx</td>
-				  <td>xx</td>
+				  <td>9</td>
 			</tr>
 			<tr>
                   <td>Egyéb</td>
@@ -150,7 +151,7 @@ permalink: /mandatumbecsles
 				  <td>4</td>
 				  <td>4</td>
 				  <td>xx</td>
-				  <td>xx</td>
+				  <td>2</td>
 			</tr>
               </tbody>
             </table>
@@ -182,25 +183,25 @@ permalink: /mandatumbecsles
               </thead>
               <tbody>
 <tr><td><a href="../bp1">Budapesti 1.</a></td>
-<td id="gyoztes_bp1">Fidesz</td>
-<td id="masodik_bp1">Váradiné Naszály Márta (MSZP-Párbeszéd)</td>
-<td id="kulonbseg_bp1">2.9%</td></tr>	
+<td id="gyoztes_bp1">Csárdi Antal (LMP)</td>
+<td id="masodik_bp1">Fidesz</td>
+<td id="kulonbseg_bp1">9.0%</td></tr>	
 <tr><td><a href="../bp2">Budapesti 2.</a></td>
 <td id="gyoztes_bp2">Fidesz</td>
 <td id="masodik_bp2">Gy. Németh Erzsébet (DK)</td>
-<td id="kulonbseg_bp2">6.4%</td></tr>	
+<td id="kulonbseg_bp2">5.1%</td></tr>	
 <tr><td><a href="../bp3">Budapesti 3.</a></td>
 <td id="gyoztes_bp3">Fidesz</td>
 <td id="masodik_bp3">Bauer Tamás (DK)</td>
-<td id="kulonbseg_bp3">10.1%</td></tr>	
+<td id="kulonbseg_bp3">8.5%</td></tr>	
 <tr><td><a href="../bp4">Budapesti 4.</a></td>
 <td id="gyoztes_bp4">Fidesz</td>
 <td id="masodik_bp4">Ungár Péter (LMP)</td>
-<td id="kulonbseg_bp4">15.8%</td></tr>	
+<td id="kulonbseg_bp4">15.4%</td></tr>	
 <tr><td><a href="../bp5">Budapesti 5.</a></td>
 <td id="gyoztes_bp5">Dr. Oláh Lajos (DK)</td>
 <td id="masodik_bp5">Fidesz</td>
-<td id="kulonbseg_bp5">2.6%</td></tr>	
+<td id="kulonbseg_bp5">4.1%</td></tr>	
 <tr><td><a href="../bp6">Budapesti 6.</a></td>
 <td id="gyoztes_bp6">Ara-Kovács Attila (DK)</td>
 <td id="masodik_bp6">Fidesz</td>
@@ -220,7 +221,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../bp10">Budapesti 10.</a></td>
 <td id="gyoztes_bp10">Szabó Tímea (MSZP-Párbeszéd)</td>
 <td id="masodik_bp10">Fidesz</td>
-<td id="kulonbseg_bp10">9.6%</td></tr>	
+<td id="kulonbseg_bp10">11.2%</td></tr>	
 <tr><td><a href="../bp11">Budapesti 11.</a></td>
 <td id="gyoztes_bp11">Varju László (DK)</td>
 <td id="masodik_bp11">Fidesz</td>
@@ -232,7 +233,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../bp13">Budapesti 13.</a></td>
 <td id="gyoztes_bp13">Fidesz</td>
 <td id="masodik_bp13">Vajda Zoltán (Együtt)</td>
-<td id="kulonbseg_bp13">17.5%</td></tr>	
+<td id="kulonbseg_bp13">7.1%</td></tr>	
 <tr><td><a href="../bp14">Budapesti 14.</a></td>
 <td id="gyoztes_bp14">Fidesz</td>
 <td id="masodik_bp14">Lukoczki Károly (MSZP-Párbeszéd)</td>
@@ -240,19 +241,19 @@ permalink: /mandatumbecsles
 <tr><td><a href="../bp15">Budapesti 15.</a></td>
 <td id="gyoztes_bp15">Kunhalmi Ágnes (MSZP-Párbeszéd)</td>
 <td id="masodik_bp15">Fidesz</td>
-<td id="kulonbseg_bp15">7.0%</td></tr>	
+<td id="kulonbseg_bp15">7.1%</td></tr>	
 <tr><td><a href="../bp16">Budapesti 16.</a></td>
 <td id="gyoztes_bp16">dr. Hiller István (MSZP-Párbeszéd)</td>
 <td id="masodik_bp16">Fidesz</td>
-<td id="kulonbseg_bp16">3.7%</td></tr>	
+<td id="kulonbseg_bp16">3.8%</td></tr>	
 <tr><td><a href="../bp17">Budapesti 17.</a></td>
-<td id="gyoztes_bp17">Fidesz</td>
-<td id="masodik_bp17">Szabó Szabolcs (Együtt)</td>
-<td id="kulonbseg_bp17">8.5%</td></tr>	
+<td id="gyoztes_bp17">Szabó Szabolcs (Együtt)</td>
+<td id="masodik_bp17">Fidesz</td>
+<td id="kulonbseg_bp17">6.3%</td></tr>	
 <tr><td><a href="../bp18">Budapesti 18.</a></td>
 <td id="gyoztes_bp18">Fidesz</td>
 <td id="masodik_bp18">Molnár Gyula (MSZP-Párbeszéd)</td>
-<td id="kulonbseg_bp18">2.1%</td></tr>	
+<td id="kulonbseg_bp18">1.1%</td></tr>	
 <tr><td><a href="../bk1">Bács-Kiskun megyei 1.</a></td>
 <td id="gyoztes_bk1">Fidesz</td>
 <td id="masodik_bk1">Lejer Zoltán (Jobbik)</td>
@@ -376,7 +377,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../gy1">Győr-Moson-Sopron megyei 1.</a></td>
 <td id="gyoztes_gy1">Fidesz</td>
 <td id="masodik_gy1">Glázer Tímea (DK)</td>
-<td id="kulonbseg_gy1">18.7%</td></tr>	
+<td id="kulonbseg_gy1">18.0%</td></tr>	
 <tr><td><a href="../gy2">Győr-Moson-Sopron megyei 2.</a></td>
 <td id="gyoztes_gy2">Fidesz</td>
 <td id="masodik_gy2">Greguss András (MSZP-Párbeszéd)</td>
@@ -396,7 +397,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../hb1">Hajdú-Bihar megyei 1.</a></td>
 <td id="gyoztes_hb1">Fidesz</td>
 <td id="masodik_hb1">Gulyásné dr. Gurmai Zita (MSZP-Párbeszéd)</td>
-<td id="kulonbseg_hb1">20.8%</td></tr>	
+<td id="kulonbseg_hb1">19.8%</td></tr>	
 <tr><td><a href="../hb2">Hajdú-Bihar megyei 2.</a></td>
 <td id="gyoztes_hb2">Fidesz</td>
 <td id="masodik_hb2">Kőszeghy Ábel (Jobbik)</td>
@@ -532,7 +533,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../szb1">Szabolcs-Szatmár-Bereg megyei 1.</a></td>
 <td id="gyoztes_szb1">Fidesz</td>
 <td id="masodik_szb1">Csabai Lászlóné (MSZP-Párbeszéd)</td>
-<td id="kulonbseg_szb1">3.5%</td></tr>	
+<td id="kulonbseg_szb1">2.9%</td></tr>	
 <tr><td><a href="../szb2">Szabolcs-Szatmár-Bereg megyei 2.</a></td>
 <td id="gyoztes_szb2">Fidesz</td>
 <td id="masodik_szb2">dr. Fülöp Erik (Jobbik)</td>
