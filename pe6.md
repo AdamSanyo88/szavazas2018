@@ -13,7 +13,7 @@ permalink: /pe6
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/pe6.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Az LMP-s jelölt az esélyes</span></strong></h6><br/>
+			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Lengyel Szilvia (LMP)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Lengyel Szilvia (LMP) </strong></h5>
 <h5><strong><a href="https://www.v18.eu/53korzet">A V18 ajánlása</a>: Lengyel Szilvia (LMP)</strong></h5>
