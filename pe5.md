@@ -35,7 +35,7 @@ permalink: /pe5
 				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(29.6%)</span></td>
 			</tr>
 			<tr>
-                  <td>VISSZALÉPETT A DK JAVÁRA</strong> - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td><strong>VISSZALÉPETT A DK JAVÁRA</strong> - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				   <td id="id_lmp">12.8% &emsp; <span id="id_lmp2">(10.4%)</span></td>
 			</tr>
 			<tr>
