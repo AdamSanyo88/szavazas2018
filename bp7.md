@@ -8,7 +8,7 @@ permalink: /bp7
 
 <div class="section">
     <div class="row">
-          <div class="col s12"><h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
+          <div class="col s12">
 		  <h5>Budapest 7-es választókerület (XIII. kerület)</h5>
 <br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos baloldali</span></strong></h6>
 <br/>
@@ -56,7 +56,7 @@ permalink: /bp7
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0402">bővebben itt olvashatsz</a>.</p>
+<p>Az aktuális becslés leírásáról <a href="../metodologia#0406">bővebben itt olvashatsz</a>.</p>
           </div>
     </div>
 </div>

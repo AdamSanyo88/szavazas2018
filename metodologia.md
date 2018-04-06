@@ -25,6 +25,121 @@ permalink: /metodologia
 <h5>Gyakori kérdések</h5>
 <p><a href="https://www.facebook.com/taktikaiszavazas.hu/posts/147704859241441">A linken keresztül elérhető Facebook bejegyzés</a> összefoglal néhány gyakori kérdést a becslésekkel kapcsolatban.</p>
 <br/>
+
+<h5 id="0406">Április 5-6-i becslés módszertana és leírása</h5>
+<br/>
+<h6><strong>Összefoglaló</strong></h6>
+<br/>
+
+<p>A becslés ugyanazokkal az adatokkal dolgozott, amellyel az április 2-1 becslés is. Az egyetlen különbség, hogy az MSZP-DK-Együtt megállapodásban megkötött 14 visszalépés is szerepel a modellben. Emellett a végső becslés egy alacsonyabb (360 ezres) és magasabb (550 ezres) átszavazó választói csoporttal számol.</p>
+
+<h6>Az UNS bemeneti adatai <strong>(pártok országos támogatottsága)</strong>:</h6>
+<p></p>
+<h6>Fidesz-KDNP 42%</h6>
+<h6>Jobbik: 22%</h6>
+<h6>MSZP-P: 12.5%</h6>
+<h6>LMP: 8.5%</h6>
+<h6>DK: 7.5%</h6>
+<h6>Momentum: 3%</h6>
+<h6>Együtt: 2%</h6>
+<h6>MKKP: 1%</h6>
+<h6>Egyéb: 1.5%</h6>
+
+<h6><strong>Részvételi arány: 65% (5.2 millió szavazó)</strong>
+<h6><strong>Részvételi arány az optimista becslésnél: 70% (5.6 millió szavazó)</strong>
+
+<p><strong>Várható egyéni győzelemek száma</strong> (zárójelben az 10%-nál kisebb arányban elvesztett körzetek száma):</p>
+<h6>Fidesz: 84</h6>
+<h6>MSZP: 7 (6)</h6>
+<h6>DK: 4 (3)</h6>
+<h6>Jobbik: 9 (15)</h6>
+<h6>LMP: 1 (2)</h6>
+<h6>Együtt: 1 (1)</h6>
+<h6>Független: 0 (2)</h6>
+
+<p><strong>Átszavazási hajlandóság:</strong></p>
+
+<p>Az átszavazási hajlandóság 0-7%-os különbség esetén 1-10% között, afölött 25-40% között mozgott párttól függően.</p>
+
+<p>Ahol formális visszalépés történt - mint például a Momentum és az LMP visszalépései Kunhalmi Ágnes javára -, ott a visszalépők szavazói 80%-ban szavaznak át az esélyes jelöltre.</p>
+
+<p>Átszavazás pártonként egyéb esetekben:</p>
+<h6><strong>A Jobbikról-MSZP/DK-ra:</strong> 0-10% vagy 25% (ha egyértelműen erősebb az MSZP/DK jelöltje)</h6>
+<h6><strong>MSZP/DK-ról Jobbikra:</strong> 0-10% vagy 30% (ha egyértelműen erősebb a Jobbik jelöltje)</h6>
+<h6><strong>LMP-ről MSZP/DK-ra:</strong> 10-40% között (minden 1%-nyi várható különbség az MSZP/DK jelölt javára 1%-kal növelte az átszavazási hajlandóságot)</h6>
+<h6><strong>LMP-ről Jobbikra:</strong> 10-35% között (minden 1%-nyi várható különbség a Jobbik jelölt javára 1%-kal növelte az átszavazási hajlandóságot)</h6>
+<h6><strong>Formális visszalépés esetén bármely párt:</strong> 80%</h6>
+<h6><strong>Momentumról bárkire:</strong> 0-30%</h6>
+<h6><strong>Együttről bárkire:</strong> 0-40% (40%, ha nincs jelölt)</h6>
+<h6><strong>MKKP-ról bárkire:</strong> 0-20% (20%, ha nincs jelölt)</h6>
+
+<p>A választókerületi eredményeken látható, hogy a Fidesz sok kerületben nagyobb arányban nyer, mivel nincs átszavazás az MSZP/DK és Jobbik szavazói között.</p>
+
+<p>Jelenleg a modell 360 ezer átszavazóval számol, amely pártoknént a következő módon oszlik meg (zárójelben a pártok listás szavazóinak számához képesti átszavazás):</p>
+<p>MSZP/DK: 125 ezer (12%)</p>
+<p>Jobbik: 45 ezer (4%)</p>
+<p>LMP: 120 ezer (27%)</p>
+<p>Momentum: 40 ezer (26%)</p>
+<p>Együtt: 30 ezer (29%)</p>
+
+<p>Az optimista modell, ahol a Fidesz csak 101 mandátumot szerez, összesen 550 ezer átszavazóval számol a következő pártonkénti bontásban:</p>
+<p>MSZP/DK: 220 ezer (19%)</p>
+<p>Jobbik: 55 ezer (4.5%)</p>
+<p>LMP: 165 ezer (40%)</p>
+<p>Momentum: 65 ezer (40%)</p>
+<p>Együtt: 45 ezer (40%)</p>
+
+<h6><strong>Visszalépések és koordináció pártok között (esélyek)</strong></h6>
+<p>Az MSZP-DK-Együtt visszalépési csomag két új várható győzelmet adott az ellenzéki pártoknak. Az MSZP-DK-LMP paktum azonban nem született meg, várhatóan az április 6-án napközben fog megtörténni (az írás pillanatában - április 6-a hajnal 4 órakor - még nincs meg ez a megállapodás). Remélhetőleg ezek a visszalépések újabb nyerhető kerületeket generálnak az ellenzék számára.</p>
+
+A következő kerületekben lenne érdemes visszalépnie - a politikai alkukat figyelembe véve - egyes jelölteknek:
+<br/>
+<h6><strong>LMP lehetséges visszalépései:</strong></h6>
+<br/>
+<h6><strong>A Jobbik javára:</strong></h6>
+<p><a href="/pe12">Cegléd</a></p>
+<p><a href="/cs4">Hódmezővásárhely</a></p>
+<p><a href="/szb2">Nyíregyháza 2-es</a></p>
+<p><a href="/ve3">Tapolca</a></p>
+<h6><strong>Az MSZP/DK javára:</strong></h6>
+<p><a href="/szb1">Nyíregyháza 1-es</a></p>
+<p><a href="/bp5">Budapest 5-ös</a></p>
+<p><a href="/bp6">Budapest 6-os</a></p>
+<p><a href="/bp8">Budapest 8-as</a></p>
+<p><a href="/bp10">Budapest 10-es</a></p>
+<p><a href="/bp12">Budapest 12-ös</a></p>
+<p><a href="/bp14">Budapest 14-es</a></p>
+<p><a href="/bp16">Budapest 16-os</a></p>
+<p><a href="/bp18">Budapest 18-as</a></p>
+<p><a href="/pe1">Érd</a></p>
+<p><a href="/cs2">Pécs 2-es</a></p>
+
+<h6><strong>Független javára:</strong></h6>
+<p><a href="ve1">Veszprém</a></p>
+<p><a href="ba1">Pécs 1-es</a></p>
+<br/>
+
+<h6><strong>MSZP és DK lehetséges visszalépései:</strong></h6>
+<br/>
+<h6><strong>Az LMP javára: </strong></h6>
+<p><a href="/to1">Szekszárd</a></p>
+<p><a href="/no1">Salgótarján</a></p>
+<p><a href="/pe6">Gödöllő</a></p>
+<p><a href="/bp4">Budapest 4-es</a></p>
+
+<p>A javaslat nem számol azzal, hogy a Jobbik bárki javára is visszalépjen, bár elképzelhető a részükről az LMP felé hideg koordináció (visszalépés nélküli átszavazásra buzdítás).</p>
+
+<br/>
+<p><strong>Tehát a várható végeredmény a választásokon egy sima Fidesz győzelem vagy egy nagyon szoros végeredmény. Minden az átszavazási hajlandóságon és a részvételen fog múlni.</strong></p>
+
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+
 <h5 id="0402">Április 2-i becslés módszertana és leírása</h5>
 <br/>
 <h6><strong>Összefoglaló</strong></h6>

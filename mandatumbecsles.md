@@ -9,9 +9,9 @@ permalink: /mandatumbecsles
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Ha most vasárnap lennének a választások, melyik párt hány képviselőt küldene a parlamentbe?</h5> 
+		  <h5>Az április 8-i választás becsült végeredménye</h5> 
 <p class="light">Az alábbi táblázat összefoglalja a várható egyéni (106) és listás (93) mandátumok kiosztását.</p>
-<h6><span><strong>A végső becslés várható időpontja: 2018. április 5-6.</strong></span></h6>
+
 
 
 <table class="striped">
