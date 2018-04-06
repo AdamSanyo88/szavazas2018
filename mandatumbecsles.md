@@ -485,7 +485,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../pe5">Pest megyei 5.</a></td>
 <td id="gyoztes_pe5">Fidesz</td>
 <td id="masodik_pe5">Rónai Sándor (DK)</td>
-<td id="kulonbseg_pe5">11.0%</td></tr>	
+<td id="kulonbseg_pe5">10.9%</td></tr>	
 <tr><td><a href="../pe6">Pest megyei 6.</a></td>
 <td id="gyoztes_pe6">Fidesz</td>
 <td id="masodik_pe6">Víg János (Jobbik)</td>
@@ -497,7 +497,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../pe8">Pest megyei 8.</a></td>
 <td id="gyoztes_pe8">Fidesz</td>
 <td id="masodik_pe8">Stefanik Zsolt (MSZP-Párbeszéd)</td>
-<td id="kulonbseg_pe8">9.0%</td></tr>	
+<td id="kulonbseg_pe8">7.9%</td></tr>	
 <tr><td><a href="../pe9">Pest megyei 9.</a></td>
 <td id="gyoztes_pe9">Fidesz</td>
 <td id="masodik_pe9">Bozsik József (Jobbik)</td>

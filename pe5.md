@@ -27,12 +27,12 @@ permalink: /pe5
               <tbody>
              <tr>
                   <td>Tuzson Bence - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">38.5% &emsp; <span id="id_fidesz2">(39.0%)</span></td>
+				   <td id="id_fidesz">38.5% &emsp; <span id="id_fidesz2">(39.3%)</span></td>
 			</tr>
-			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.3% &emsp; <span id="id_jobbik2">(16.7%)</span></td></tr>
+			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.3% &emsp; <span id="id_jobbik2">(17.0%)</span></td></tr>
 <tr>
                   <td>Rónai Sándor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(28.1%)</span></td>
+				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(29.6%)</span></td>
 			</tr>
 			<tr>
                   <td>dr. Kiss Csaba - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
