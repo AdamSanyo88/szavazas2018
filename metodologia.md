@@ -31,7 +31,7 @@ permalink: /metodologia
 <h6><strong>Összefoglaló</strong></h6>
 <br/>
 
-<p>A becslés ugyanazokkal az adatokkal dolgozott, amellyel az április 2-1 becslés is. Az egyetlen különbség, hogy az MSZP-DK-Együtt megállapodásban megkötött 14 visszalépés is szerepel a modellben. Emellett a végső becslés egy alacsonyabb (360 ezres) és magasabb (550 ezres) átszavazó választói csoporttal számol.</p>
+<p>A becslés ugyanazokkal az adatokkal dolgozott, amellyel az április 2-i becslés is. Az egyetlen különbség, hogy az MSZP-DK-Együtt megállapodásban megkötött 14 visszalépés is szerepel a modellben. Emellett a végső becslés egy alacsonyabb (360 ezres) és magasabb (550 ezres) átszavazó választói csoporttal számol.</p>
 
 <h6>Az UNS bemeneti adatai <strong>(pártok országos támogatottsága)</strong>:</h6>
 <p></p>
@@ -75,7 +75,7 @@ permalink: /metodologia
 
 <p>A választókerületi eredményeken látható, hogy a Fidesz sok kerületben nagyobb arányban nyer, mivel nincs átszavazás az MSZP/DK és Jobbik szavazói között.</p>
 
-<p>Jelenleg a modell 360 ezer átszavazóval számol, amely pártoknént a következő módon oszlik meg (zárójelben a pártok listás szavazóinak számához képesti átszavazás):</p>
+<p>Jelenleg a modell 360 ezer átszavazóval számol, amely pártonként a következő módon oszlik meg (zárójelben a pártok listás szavazóinak számához képesti átszavazás):</p>
 <p>MSZP/DK: 125 ezer (12%)</p>
 <p>Jobbik: 45 ezer (4%)</p>
 <p>LMP: 120 ezer (27%)</p>
@@ -200,7 +200,7 @@ A következő kerületekben lenne érdemes visszalépnie - a politikai alkukat f
 
 <p>A választókerületi eredményeken látható, hogy a Fidesz sok kerületben nagyobb arányban nyer, mivel nincs átszavazás az MSZP/DK és Jobbik szavazói között.</p>
 
-<p>Jelenleg a modell 360 ezer átszavazóval számol, amely pártoknént a következő módon oszlik meg (zárójelben a pártok listás szavazóinak számához képesti átszavazás):</p>
+<p>Jelenleg a modell 360 ezer átszavazóval számol, amely pártonként a következő módon oszlik meg (zárójelben a pártok listás szavazóinak számához képesti átszavazás):</p>
 <p>MSZP/DK: 125 ezer (12%)</p>
 <p>Jobbik: 45 ezer (4%)</p>
 <p>LMP: 120 ezer (27%)</p>
