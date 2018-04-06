@@ -30,7 +30,7 @@ permalink: /pe4
 			</tr>
 			<tr><td>Fehér Zsolt - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">22.0% &emsp; <span id="id_jobbik2">(26.7%)</span></td></tr>
 <tr>
-                  <td>Krauze István - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+                  <td><strong>VISSZALÉPETT AZ LMP JAVÁRA</strong> - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				   <td id="id_baloldal">18.8% &emsp; <span id="id_baloldal2">(18.4%)</span></td>
 			</tr>
 			<tr>
