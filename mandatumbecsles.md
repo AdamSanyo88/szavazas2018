@@ -196,8 +196,8 @@ permalink: /mandatumbecsles
 <td id="kulonbseg_bp3">8.5%</td></tr>	
 <tr><td><a href="../bp4">Budapesti 4.</a></td>
 <td id="gyoztes_bp4">Fidesz</td>
-<td id="masodik_bp4">Ungár Péter (LMP)</td>
-<td id="kulonbseg_bp4">15.4%</td></tr>	
+<td id="masodik_bp4">Niedermüller Péter (DK)</td>
+<td id="kulonbseg_bp4">3.6%</td></tr>	
 <tr><td><a href="../bp5">Budapesti 5.</a></td>
 <td id="gyoztes_bp5">Dr. Oláh Lajos (DK)</td>
 <td id="masodik_bp5">Fidesz</td>
