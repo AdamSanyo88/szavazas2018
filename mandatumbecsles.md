@@ -80,8 +80,8 @@ permalink: /mandatumbecsles
 <br/>
 <h5><strong>Magasabb részvétel, átszavazás és koordináció mellett a Fidesz mandátumainak száma 101-re csökkenhet (egy fős Fidesz többség).</strong></h5>
 <br/>
-<img src="images/parlamenti_patko.png" img="" style="height: 50%; width: 50%; object-fit: contain">
-<img src="images/parlamenti_patko_2.png" img="" style="height: 50%; width: 50%; object-fit: contain">
+<img src="images/parlamenti_patko.png" img="" style="height: 49%; width: 49%; object-fit: contain">
+<img src="images/parlamenti_patko_2.png" img="" style="height: 49%; width: 49%; object-fit: contain">
 <br/>
 <h6>Utolsó frissítés: 2018. április 6.</h6>
           </div>
