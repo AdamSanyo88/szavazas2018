@@ -27,10 +27,10 @@ permalink: /mandatumbecsles
               <tbody>
              <tr>
                   <td>Fidesz</td>
-				  <td>83</td>
+				  <td>82</td>
 				  <td>36</td>
-				  <td>119</td>
-				  <td>60.0%</td>
+				  <td>118</td>
+				  <td>59.5%</td>
 			</tr>
 			<tr>
 				  <td>Jobbik</td>
@@ -41,10 +41,10 @@ permalink: /mandatumbecsles
 			</tr>
 			<tr>
                   <td>MSZP-Párbeszéd</td>
-				  <td>7</td>
+				  <td>8</td>
 				  <td>15</td>
-				  <td>22</td>
-				  <td>11.0%</td>
+				  <td>23</td>
+				  <td>11.5%</td>
 			</tr>
 			<tr>
 			      <td>DK</td>
