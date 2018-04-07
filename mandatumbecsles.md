@@ -27,10 +27,10 @@ permalink: /mandatumbecsles
               <tbody>
              <tr>
                   <td>Fidesz</td>
-				  <td>84</td>
+				  <td>83</td>
 				  <td>36</td>
-				  <td>120</td>
-				  <td>60.5%</td>
+				  <td>119</td>
+				  <td>60.0%</td>
 			</tr>
 			<tr>
 				  <td>Jobbik</td>
