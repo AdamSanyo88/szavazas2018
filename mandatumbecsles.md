@@ -308,8 +308,8 @@ permalink: /mandatumbecsles
 <td id="masodik_baz1">Fidesz</td>
 <td id="kulonbseg_baz1">12.0%</td></tr>
 <tr><td><a href="../baz2">Borsod-Abaúj-Zemplén megyei 2.</a></td>
-<td id="gyoztes_baz2">Fidesz</td>
-<td id="masodik_baz2">Varga László (MSZP-Párbeszéd)</td>
+<td id="gyoztes_baz2">Varga László (MSZP-Párbeszéd)</td>
+<td id="masodik_baz2">2.2%</td>
 <td id="kulonbseg_baz2">1.0%</td></tr>	
 <tr><td><a href="../baz3">Borsod-Abaúj-Zemplén megyei 3.</a></td>
 <td id="gyoztes_baz3">Farkas Péter Barnabás (Jobbik)</td>
@@ -481,8 +481,8 @@ permalink: /mandatumbecsles
 <td id="kulonbseg_pe5">1.6%</td></tr>	
 <tr><td><a href="../pe6">Pest megyei 6.</a></td>
 <td id="gyoztes_pe6">Fidesz</td>
-<td id="masodik_pe6">Lengyel Szilvia (LMP)</td>
-<td id="kulonbseg_pe6">13.9%</td></tr>	
+<td id="masodik_pe6">Víg János (Jobbik)</td>
+<td id="kulonbseg_pe6">16.5%</td></tr>	
 <tr><td><a href="../pe7">Pest megyei 7.</a></td>
 <td id="gyoztes_pe7">Fidesz</td>
 <td id="masodik_pe7">Sas Zoltán (Jobbik)</td>
@@ -550,7 +550,7 @@ permalink: /mandatumbecsles
 <tr><td><a href="../to1">Tolna megyei 1.</a></td>
 <td id="gyoztes_to1">Fidesz</td>
 <td id="masodik_to1">dr. Hadházy Ákos (LMP)</td>
-<td id="kulonbseg_to1">8.0%</td></tr>	
+<td id="kulonbseg_to1">1.5%</td></tr>	
 <tr><td><a href="../to2">Tolna megyei 2.</a></td>
 <td id="gyoztes_to2">Fidesz</td>
 <td id="masodik_to2">Fenyvesi Csaba Zsolt (Jobbik)</td>
