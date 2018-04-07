@@ -469,12 +469,12 @@ permalink: /mandatumbecsles
 <td id="kulonbseg_pe2">0.6%</td></tr>	
 <tr><td><a href="../pe3">Pest megyei 3.</a></td>
 <td id="gyoztes_pe3">Fidesz</td>
-<td id="masodik_pe3">Matkovich Ilona (LMP)</td>
-<td id="kulonbseg_pe3">25.3%</td></tr>	
+<td id="masodik_pe3">Király Miklós (DK)</td>
+<td id="kulonbseg_pe3">19.9%</td></tr>	
 <tr><td><a href="../pe4">Pest megyei 4.</a></td>
 <td id="gyoztes_pe4">Fidesz</td>
-<td id="masodik_pe4">Fehér Zsolt (Jobbik)</td>
-<td id="kulonbseg_pe4">20.7%</td></tr>	
+<td id="masodik_pe4">Matkovich Ilona (LMP)</td>
+<td id="kulonbseg_pe4">25.3%</td></tr>	
 <tr><td><a href="../pe5">Pest megyei 5.</a></td>
 <td id="gyoztes_pe5">Fidesz</td>
 <td id="masodik_pe5">Rónai Sándor (DK)</td>
