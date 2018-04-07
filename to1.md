@@ -27,16 +27,12 @@ permalink: /to1
               <tbody>
              <tr>
                   <td>Horváth István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">34.7% &emsp; <span id="id_fidesz2">(37.8%)</span></td>
+				   <td id="id_fidesz">34.7% &emsp; <span id="id_fidesz2">(39.6%)</span></td>
 			</tr>
-			<tr><td>Szabó Balázs György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.6% &emsp; <span id="id_jobbik2">(19.7%)</span></td></tr>
-<tr>
-                  <td><strong>VISSZALÉPETT AZ LMP JAVÁRA</strong> - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">16.1% &emsp; <span id="id_baloldal2">(11.0%)</span></td>
-			</tr>
+			<tr><td>Szabó Balázs György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.6% &emsp; <span id="id_jobbik2">(20.6%)</span></td></tr>
 			<tr>
                   <td>dr. Hadházy Ákos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">19.2% &emsp; <span id="id_lmp2">(29.8%)</span></td>
+				   <td id="id_lmp">19.2% &emsp; <span id="id_lmp2">(38.1%)</span></td>
 			</tr>
 <tr>
 <td>Pesti Vendel - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
