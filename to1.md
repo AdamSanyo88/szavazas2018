@@ -31,7 +31,7 @@ permalink: /to1
 			</tr>
 			<tr><td>Szabó Balázs György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.6% &emsp; <span id="id_jobbik2">(19.7%)</span></td></tr>
 <tr>
-                  <td>dr. Harangozó Tamás - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+                  <td><strong>VISSZALÉPETT AZ LMP JAVÁRA</strong> - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				   <td id="id_baloldal">16.1% &emsp; <span id="id_baloldal2">(11.0%)</span></td>
 			</tr>
 			<tr>

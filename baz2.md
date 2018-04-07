@@ -35,7 +35,7 @@ permalink: /baz2
 				   <td id="id_baloldal">28.5% &emsp; <span id="id_baloldal2">(33.4%)</span></td>
 			</tr>
 			<tr>
-                  <td>Doszpoly Botond László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+                  <td><strong>VISSZALÉPETT AZ MSZP-PÁRBESZÉD JAVÁRA</strong> - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				   <td id="id_lmp">6.2% &emsp; <span id="id_lmp2">(4.2%)</span></td>
 			</tr>
 			

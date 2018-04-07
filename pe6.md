@@ -40,15 +40,15 @@ permalink: /pe6
 			</tr>
 			<tr>
 				  <td>Molnár László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">3.9% &emsp; <span id="id_momentum2">(4.0%)</span></td>
+				   <td id="id_momentum">3.9% &emsp; <span id="id_momentum2">(3.2%)</span></td>
 			</tr>
 <tr>
 <td>Kis Imre -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">2.6% &emsp; <span id="id_egyutt2">(2.7%)</span></td>
+ <td id="id_egyutt">2.6% &emsp; <span id="id_egyutt2">(1.8%)</span></td>
 </tr>           
 <tr>
 <td>Bősze Gábor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">1.3% &emsp; <span id="id_mkkp2">(1.3)</span></td>
+ <td id="id_mkkp">1.3% &emsp; <span id="id_mkkp2">(1.0%)</span></td>
 </tr>       
               </tbody>
             </table><h5>Várható győztes: <span id="gyoztes">Fidesz</span><span id="esely"></span><span></span></h5>
