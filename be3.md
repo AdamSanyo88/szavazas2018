@@ -70,15 +70,15 @@ permalink: /be3
               </thead>
               <tbody>
              <tr>
-                  <td>Dankó Béla - Fidesz-KDNP</td>
+                  <td>Dr. Kovács József Dezső - Fidesz-KDNP</td>
 				  <td>46.8%</td>
 			</tr>
 			<tr>
-			     <td>Rejtő József - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
+			     <td>Bod Tamás - Összefogás (MSZP-Együtt-DK-PM-MLP)</td>
 				 <td>22.7%</td>
 			</tr>
 			<tr>
-				  <td>Samu Tamás Gergő - Jobbik</td>
+				  <td>Varga Géza István - Jobbik</td>
 				  <td>18.4%</td>
 			</tr>
 			<tr>
