@@ -21,19 +21,23 @@ permalink: /bp1
               <tbody>
              <tr>
                   <td>Hollik István  - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">37.0% &emsp; <span id="id_fidesz2">(41.0%)</span></td>
+				   <td id="id_fidesz">41.8%</td>
+				   <td>+0.8%</td>
 			</tr>
 			<tr>
 <td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
- <td id="id_jobbik">7.3% &emsp; <span id="id_jobbik2">(6.0%)</span></td>
+ <td id="id_jobbik">6.4%</span></td>
+ <td>+0.4%</td>
  </tr>
  <tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">20.0% &emsp; <span id="id_lmp2">(50.0%)</span></td>
+				   <td id="id_lmp">48.7%</span></td>
+				   <td>-1.3%</td>
 			</tr>
 <tr>
                   <td>Horváth András - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="id_mkkp">3.3% &emsp; <span id="id_mkkp2">(3.0%)</span></td>
+				   <td id="id_mkkp">3.1%</span></td>
+				   <td>+0.1%</td>
 			</tr>			
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó, erős az LMP)</span></strong></h6>
