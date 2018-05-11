@@ -26,17 +26,17 @@ permalink: /bp1
 			</tr>
 			<tr>
 <td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
- <td id="id_jobbik">6.4%</span></td>
+ <td id="id_jobbik">6.4%</td>
  <td>+0.4%</td>
  </tr>
  <tr>
                   <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">48.7%</span></td>
+				   <td id="id_lmp">48.7%</td>
 				   <td>-1.3%</td>
 			</tr>
 <tr>
                   <td>Horváth András - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="id_mkkp">3.1%</span></td>
+				   <td id="id_mkkp">3.1%</td>
 				   <td>+0.1%</td>
 			</tr>			
               </tbody>
