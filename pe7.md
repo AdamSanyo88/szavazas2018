@@ -16,7 +16,8 @@ permalink: /pe7
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Sas Zoltán (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Nyeste Andrea (DK)</strong></h5>
-<table class="striped">
+<h5>2018-es eredmények</h5>
+<br/><br/><table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>

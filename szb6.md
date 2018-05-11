@@ -16,7 +16,8 @@ permalink: /szb6
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Kész Géza (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Kész Géza (Jobbik)</strong></h5>
-<table class="striped">
+<h5>2018-es eredmények</h5>
+<br/><br/><table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
