@@ -10,7 +10,38 @@ permalink: /pe7
     <div class="row">
           <div class="col s12">
 		  <h5>Pest megye 7-es választókerület (Vecsés)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>dr. Szűcs Lajos - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">41.0% &emsp; <span id="id_fidesz2">(41.6%)</span></td>
+			</tr>
+			<tr><td>Sas Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">24.2% &emsp; <span id="id_jobbik2">(28.5%)</span></td></tr>
+<tr>
+                  <td>Nyeste Andrea - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">21.7% &emsp; <span id="id_baloldal2">(22.0%)</span></td>
+			</tr>
+			<tr>
+                  <td>Apostol Klaudia - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(5.0%)</span></td>
+			</tr>
+			<tr>
+				  <td>Kalasovszky Bernadett - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(1.8%)</span></td>
+			</tr>
+<tr>
+<td>Tóth Judit -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+ <td id="id_egyutt">1.8% &emsp; <span id="id_egyutt2">(1.1%)</span></td>
+</tr>                
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/pe7.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>

@@ -10,7 +10,35 @@ permalink: /baz3
     <div class="row">
           <div class="col s12">
 		  <h5>Borsod-Abaúj-Zemplén megye 3-as választókerület (Ózd)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik / baloldal az esélyes kihívók)</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Riz Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">39.6% &emsp; <span id="id_fidesz2">(38.8%)</span></td>
+			</tr>
+			<tr><td>Farkas Péter Barnabás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">35.3% &emsp; <span id="id_jobbik2">(41.9%)</span></td></tr>
+<tr>
+                  <td>Varga Gergő - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">20.3% &emsp; <span id="id_baloldal2">(16.9%)</span></td>
+			</tr>
+			<tr>
+                  <td>Koleszár István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">2.8% &emsp; <span id="id_lmp2">(1.8%)</span></td>
+			</tr>
+			<tr>
+				  <td>Kovács József - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">1.0% &emsp; <span id="id_momentum2">(0.6%)</span></td>
+			</tr>
+                
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik / baloldal az esélyes kihívók)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/baz3.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

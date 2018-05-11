@@ -10,7 +10,30 @@ permalink: /fe1
     <div class="row">
           <div class="col s12">
 		  <h5>Fejér megye 1-es választókerület (Székesfehérvár)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Vargha Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">41.8% &emsp; <span id="id_fidesz2">(43.5%)</span></td>
+			</tr>
+			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.1% &emsp; <span id="id_jobbik2">(18.0%)</span></td></tr>
+<tr>
+                  <td>Ráczné Földi Judit - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">22.4% &emsp; <span id="id_baloldal2">(31.4%)</span></td>
+			</tr>
+			<tr>
+                  <td>Rákosi Judit - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">10.4% &emsp; <span id="id_lmp2">(7.1%)</span></td>
+			</tr>
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/fe1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>

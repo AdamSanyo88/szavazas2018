@@ -10,7 +10,34 @@ permalink: /he1
     <div class="row">
           <div class="col s12">
 		  <h5>Heves megye 1-es választókerület (Eger)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik / baloldal az esélyes kihívók)</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Nyitrai Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">36.6% &emsp; <span id="id_fidesz2">(36.2%)</span></td>
+			</tr>
+			<tr><td>Mirkóczki Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">32.3% &emsp; <span id="id_jobbik2">(42.4%)</span></td></tr>
+<tr>
+                  <td>Kertészné Kormos Noémi - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">18.1% &emsp; <span id="id_baloldal2">(15.8%)</span></td>
+			</tr>
+			<tr>
+                  <td>Komlósi Csaba - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(4.9%)</span></td>
+			</tr>
+<tr>
+<td>Várady Zoltán - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
+ <td id="id_mkkp">0.9% &emsp; <span id="id_mkkp2">(0.7%)</span></td>
+</tr>              
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik / baloldal az esélyes kihívók)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/he1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

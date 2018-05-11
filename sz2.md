@@ -10,7 +10,42 @@ permalink: /sz2
     <div class="row">
           <div class="col s12">
 		  <h5>Jász-Nagykun-Szolnok megye 2-es választókerület (Jászberény)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Pócs János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">42.7% &emsp; <span id="id_fidesz2">(42.1%)</span></td>
+			</tr>
+			<tr><td>Budai Lóránt - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">34.1% &emsp; <span id="id_jobbik2">(40.4%)</span></td></tr>
+<tr>
+                  <td>dr. Gedei József - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">15.8% &emsp; <span id="id_baloldal2">(12.7%)</span></td>
+			</tr>
+			<tr>
+                  <td>Eszes Béla - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">4.3% &emsp; <span id="id_lmp2">(2.8%)</span></td>
+			</tr>
+			<tr>
+				  <td>Pálffy István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">1.5% &emsp; <span id="id_momentum2">(1.0%)</span></td>
+			</tr>
+<tr>
+<td>Urbán Imre - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+ <td id="id_egyutt">1.0% &emsp; <span id="id_egyutt2">(0.6%)</span></td>
+</tr>    
+<tr>
+<td>Csinger Marianna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
+ <td id="id_mkkp">0.5% &emsp; <span id="id_mkkp2">(0.4%)</span></td>
+</tr>            
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/sz2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

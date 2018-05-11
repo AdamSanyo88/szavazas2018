@@ -10,7 +10,34 @@ permalink: /fe5
     <div class="row">
           <div class="col s12">
 		  <h5>Fejér megye 5-ös választókerület (Sárbogárd)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Varga Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">45.2% &emsp; <span id="id_fidesz2">(46.1%)</span></td>
+			</tr>
+			<tr><td>Árgyelán János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.9% &emsp; <span id="id_jobbik2">(37.5%)</span></td></tr>
+<tr>
+                  <td>Szilveszterné Nyúli Ilona - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">11.6% &emsp; <span id="id_baloldal2">(9.4%)</span></td>
+			</tr>
+			<tr>
+                  <td>Lapos Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">4.3% &emsp; <span id="id_lmp2">(3.6%)</span></td>
+			</tr>
+<tr>
+<td>Szigetvári Viktor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+ <td id="id_egyutt">4.9% &emsp; <span id="id_egyutt2">(3.5%)</span></td>
+</tr>                
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/fe5.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

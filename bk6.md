@@ -10,7 +10,35 @@ permalink: /bk6
     <div class="row">
           <div class="col s12">
 		  <h5>Bács-Kiskun megye 6-os választókerület (Baja)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Zsigó Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">47.1% &emsp; <span id="id_fidesz2">(48.4%)</span></td>
+			</tr>
+			<tr><td>Grünfelder Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.3% &emsp; <span id="id_jobbik2">(18.8%)</span></td></tr>
+<tr>
+                  <td>Hajdú Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+				   <td id="id_baloldal">18.5% &emsp; <span id="id_baloldal2">(23.9%)</span></td>
+			</tr>
+			<tr>
+                  <td>Ikotity István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">10.7% &emsp; <span id="id_lmp2">(7.1%)</span></td>
+			</tr>
+			<tr>
+				  <td>Béni Kornél - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(1.8%)</span></td>
+			</tr>
+                
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/bk6.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>

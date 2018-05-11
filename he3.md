@@ -10,7 +10,35 @@ permalink: /he3
     <div class="row">
           <div class="col s12">
 		  <h5>Heves megye 3-as választókerület (Hatvan)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik kihívó)</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Szabó Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">40.5% &emsp; <span id="id_fidesz2">(40.2%)</span></td>
+			</tr>
+			<tr><td>Sneider Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">36.5% &emsp; <span id="id_jobbik2">(43.0%)</span></td></tr>
+<tr>
+                  <td>Tóth Norbert - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+				   <td id="id_baloldal">16.4% &emsp; <span id="id_baloldal2">(13.3%)</span></td>
+			</tr>
+			<tr>
+                  <td>Tóth Norbert - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">3.9% &emsp; <span id="id_lmp2">(2.5%)</span></td>
+			</tr>
+			<tr>
+				  <td>Déri Tibor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">1.4% &emsp; <span id="id_momentum2">(0.9%)</span></td>
+			</tr>
+                
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik kihívó)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/he3.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

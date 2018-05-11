@@ -10,7 +10,36 @@ permalink: /szb2
     <div class="row">
           <div class="col s12">
 		  <h5>Szabolcs-Szatmár-Bereg megye 2-es választókerület (Nyíregyháza)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>dr. Vinnai Győző - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">42.3% &emsp; <span id="id_fidesz2">(41.7%)</span></td>
+			</tr>
+			<tr><td>dr. Fülöp Erik - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">33.8% &emsp; <span id="id_jobbik2">(40.3%)</span></td></tr>
+<tr>
+                  <td>dr. Helmeczy László - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">17.1% &emsp; <span id="id_baloldal2">(14.5%)</span></td>
+			</tr>
+			<tr>
+                  <td>Cselószki Tamás - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">4.0% &emsp; <span id="id_lmp2">(2.5%)</span></td>
+			</tr>
+			<tr>
+				  <td>Szántó Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">1.4% &emsp; <span id="id_momentum2">(0.9%)</span></td>
+			</tr>
+       
+         
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/szb2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

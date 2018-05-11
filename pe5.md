@@ -10,7 +10,30 @@ permalink: /pe5
     <div class="row">
           <div class="col s12">
 		  <h5>Pest megye 5-ös választókerület (Dunakeszi)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Tuzson Bence - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">38.5% &emsp; <span id="id_fidesz2">(40.3%)</span></td>
+			</tr>
+			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.3% &emsp; <span id="id_jobbik2">(17.2%)</span></td></tr>
+<tr>
+                  <td>Rónai Sándor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(38.7%)</span></td>
+			</tr>
+			<tr>
+				  <td>Kohut Ákos - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(3.8%)</span></td>
+			</tr>                
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/pe5.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>

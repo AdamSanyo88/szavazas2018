@@ -10,7 +10,39 @@ permalink: /ke1
     <div class="row">
           <div class="col s12">
 		  <h5>Komárom-Esztergom megye 1-es választókerület (Tatabánya)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Bencsik János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">42.5% &emsp; <span id="id_fidesz2">(44.4%)</span></td>
+			</tr>
+			<tr><td>Boda Bánk László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.7% &emsp; <span id="id_jobbik2">(13.9%)</span></td></tr>
+<tr>
+                  <td>Fekete Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+				   <td id="id_baloldal">22.8% &emsp; <span id="id_baloldal2">(31.2%)</span></td>
+			</tr>
+			<tr>
+                  <td>Körtvélyfáy Menyhért - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">8.8% &emsp; <span id="id_lmp2">(6.0%)</span></td>
+			</tr>
+			<tr>
+				  <td>Novák László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">4.1% &emsp; <span id="id_momentum2">(2.8%)</span></td>
+			</tr>
+          
+<tr>
+<td>Barna Alexandra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
+ <td id="id_mkkp">2.0% &emsp; <span id="id_mkkp2">(1.7%)</span></td>
+</tr>        
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/ke1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>

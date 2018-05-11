@@ -10,7 +10,38 @@ permalink: /za2
     <div class="row">
           <div class="col s12">
 		  <h5>Zala megye 2-es választókerület (Keszthely)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Manninger Jenő - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">47.2% &emsp; <span id="id_fidesz2">(46.4%)</span></td>
+			</tr>
+			<tr><td>dr. Weller-Jakus Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">26.4% &emsp; <span id="id_jobbik2">(32.3%)</span></td></tr>
+<tr>
+                  <td>Kovács Viktória - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">14.8% &emsp; <span id="id_baloldal2">(12.8%)</span></td>
+			</tr>
+			<tr>
+                  <td>Temesváry Tibor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">6.8% &emsp; <span id="id_lmp2">(5.5%)</span></td>
+			</tr>
+			<tr>
+				  <td>Elekes István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">2.4% &emsp; <span id="id_momentum2">(1.9%)</span></td>
+			</tr>
+<tr>
+<td>Csontos Gábor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+ <td id="id_egyutt">1.6% &emsp; <span id="id_egyutt2">(1.1%)</span></td>
+</tr>                
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/za2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

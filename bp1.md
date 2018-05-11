@@ -10,7 +10,33 @@ permalink: /bp1
     <div class="row">
           <div class="col s12">
 		  <h5>Budapest 1-es választókerület (V. kerület)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó, erős az LMP)</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Hollik István  - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">37.0% &emsp; <span id="id_fidesz2">(41.0%)</span></td>
+			</tr>
+			<tr>
+<td>Losonczy Pál - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
+ <td id="id_jobbik">7.3% &emsp; <span id="id_jobbik2">(6.0%)</span></td>
+ </tr>
+ <tr>
+                  <td>Csárdi Antal - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">20.0% &emsp; <span id="id_lmp2">(50.0%)</span></td>
+			</tr>
+<tr>
+                  <td>Horváth András - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
+				   <td id="id_mkkp">3.3% &emsp; <span id="id_mkkp2">(3.0%)</span></td>
+			</tr>			
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó, erős az LMP)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/bp1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes (koordináció szükséges)</span></strong></h6><br/>

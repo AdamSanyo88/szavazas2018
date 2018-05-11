@@ -10,7 +10,26 @@ permalink: /baz2
     <div class="row">
           <div class="col s12">
 		  <h5>Borsod-Abaúj-Zemplén megye 2-es választókerület (Miskolc)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Háromesélyes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Hubay György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">33.2% &emsp; <span id="id_fidesz2">(34.7%)</span></td>
+			</tr>
+			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.7% &emsp; <span id="id_jobbik2">(28.4%)</span></td></tr>
+<tr>
+                  <td>dr. Varga László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+				   <td id="id_baloldal">28.5% &emsp; <span id="id_baloldal2">(36.9%)</span></td>
+			</tr>    
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Háromesélyes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/baz2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>

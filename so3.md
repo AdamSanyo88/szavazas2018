@@ -10,7 +10,31 @@ permalink: /so3
     <div class="row">
           <div class="col s12">
 		  <h5>Somogy megye 3-as választókerület (Marcali)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Móring József Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">46.3% &emsp; <span id="id_fidesz2">(45.4%)</span></td>
+			</tr>
+			<tr><td>Dr. Steinmetz Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.5% &emsp; <span id="id_jobbik2">(34.6%)</span></td></tr>
+<tr>
+                  <td>dr. Mészáros Géza József - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
+				   <td id="id_baloldal">16.9% &emsp; <span id="id_baloldal2">(15.3%)</span></td>
+			</tr>
+			<tr>
+                  <td>Filák Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">5.5% &emsp; <span id="id_lmp2">(3.5%)</span></td>
+			</tr>
+                
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/so3.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

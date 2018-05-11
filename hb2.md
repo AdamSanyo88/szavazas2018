@@ -10,7 +10,42 @@ permalink: /hb2
     <div class="row">
           <div class="col s12">
 		  <h5>Hajdú-Bihar megye 2-es választókerület (Debrecen)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Szavazatarány (százalék)</th>
+<th>Eltérés a becsléstől</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>dr. Pósán László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">41.7% &emsp; <span id="id_fidesz2">(42.0%)</span></td>
+			</tr>
+			<tr><td>Kőszeghy Ábel - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">23.0% &emsp; <span id="id_jobbik2">(27.3%)</span></td></tr>
+<tr>
+                  <td>Varga Zoltán - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+				   <td id="id_baloldal">17.2% &emsp; <span id="id_baloldal2">(16.3%)</span></td>
+			</tr>
+			<tr>
+                  <td>Görög Jenő - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
+				   <td id="id_lmp">8.9% &emsp; <span id="id_lmp2">(7.3%)</span></td>
+			</tr>
+			<tr>
+				  <td>Mándi László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				   <td id="id_momentum">4.1% &emsp; <span id="id_momentum2">(3.4%)</span></td>
+			</tr>
+<tr>
+<td>dr. Orosz Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+ <td id="id_egyutt">3.1% &emsp; <span id="id_egyutt2">(2.2%)</span></td>
+</tr>          
+<tr>
+<td>Szabados István - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
+ <td id="id_mkkp">2.0% &emsp; <span id="id_mkkp2">(1.6%)</span></td>
+</tr>      
+              </tbody>
+            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/hb2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
