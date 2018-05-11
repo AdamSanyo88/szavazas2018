@@ -17,7 +17,7 @@ permalink: /bp8
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Tóth Csaba (MSZP-Párbeszéd)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Tóth Csaba (MSZP-Párbeszéd) </strong></h5>
 <h5><strong><a href="https://www.v18.eu/53korzet">A V18 ajánlása</a>: Tóth Csaba (MSZP-Párbeszéd)</strong></h5>
-<h5>2018-es eredmények</h5>
+
 <br/><br/><table class="striped">
               <thead>
                 <tr>
