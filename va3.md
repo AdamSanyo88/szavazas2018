@@ -10,7 +10,7 @@ permalink: /va3
     <div class="row">
           <div class="col s12">
 		  <h5>Vas megye 3-as választókerület (Körmend)</h5>
-<br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/va3.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

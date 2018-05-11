@@ -10,7 +10,7 @@ permalink: /fe2
     <div class="row">
           <div class="col s12">
 		  <h5>Fejér megye 2-es választókerület (Székesfehérvár)</h5>
-<br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/fe2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>

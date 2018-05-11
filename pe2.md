@@ -10,7 +10,7 @@ permalink: /pe2
     <div class="row">
           <div class="col s12">
 		  <h5>Pest megye 2-es választókerület (Budakeszi)</h5>
-<br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős az LMP)</span></strong></h6>
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős az LMP)</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/pe2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Az LMP-s  jelölt az egyértelmű esélyes</span></strong></h6><br/>
