@@ -21,20 +21,27 @@ permalink: /bp5
               <tbody>
              <tr>
                   <td>Bajkai István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">31.3% &emsp; <span id="id_fidesz2">(32.4%)</span></td>
+				    <td id="id_fidesz">37.1%</td>
+				   <td>+4.7%</td>
 			</tr>
-			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">9.8% &emsp; <span id="id_jobbik2">(7.6%)</span></td></tr>
+			<tr><td>Stummer János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>  
+			<td id="id_jobbik">7.1%</td>
+				   <td>-0.5%</td>
+				   </tr>
 <tr>
                   <td>Dr. Oláh Lajos - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">24.9% &emsp; <span id="id_baloldal2">(40.0%)</span></td>
+					<td id="id_baloldal">45.9%</td>
+				   <td>+5.9%</td>
 			</tr>
 			<tr>
                   <td>Moldován László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">17.7% &emsp; <span id="id_lmp2">(15.1%)</span></td>
+				    <td id="id_lmp">6.8%</td>
+				   <td>-8.3%</td>
 			</tr>
 <tr>
 <td>Döme Zsuzsanna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">5.9% &emsp; <span id="id_mkkp2">(4.9%)</span></td>
+					<td id="id_mkkp">3.2%</td>
+				   <td>-1.7%</td>
 </tr>       
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén baloldali (erős az LMP)</span></strong></h6>

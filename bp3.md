@@ -20,24 +20,31 @@ permalink: /bp3
               <tbody>
              <tr>
                   <td>dr. Gulyás Gergely - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">39.4% &emsp; <span id="id_fidesz2">(40.1%)</span></td>
+				  <td id="id_fidesz">42.7%</td>
+				   <td>+2.6%</td>
 			</tr>
-			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">8.4% &emsp; <span id="id_jobbik2">(6.4%)</span></td></tr>
+			<tr><td>Gyöngyösi Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>  
+			<td id="id_jobbik">5.8%</td>
+				   <td>-0.6%</td></tr>
 <tr>
                   <td>Bauer Tamás - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.4% &emsp; <span id="id_baloldal2">(31.6%)</span></td>
+				    <td id="id_baloldal">39.0%</td>
+				   <td>+7.4%</td>
 			</tr>
 			<tr>
                   <td>Hajdu Mária - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">14.8% &emsp; <span id="id_lmp2">(12.3%)</span></td>
+				    <td id="id_lmp">7.0%</td>
+				   <td>-5.3%</td>
 			</tr>
 			<tr>
 				  <td>Kádár Barnabás Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">6.1% &emsp; <span id="id_momentum2">(5.1%)</span></td>
+				    <td id="id_momentum">2.7%</td>
+				   <td>-2.4%</td>
 			</tr>               
 <tr>
                   <td>Kovács Gergely - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="id_mkkp">5.4% &emsp; <span id="id_mkkp2">(4.4%)</span></td>
+				   <td id="id_mkkp">2.8%</td>
+				   <td>-1.6%</td>
 			</tr>		
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó, erős az LMP)</span></strong></h6>

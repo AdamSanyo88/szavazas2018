@@ -21,20 +21,27 @@ permalink: /bp9
               <tbody>
              <tr>
                   <td>György István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">34.7% &emsp; <span id="id_fidesz2">(36.0%)</span></td>
+				    <td id="id_fidesz">39.3%</td>
+				   <td>+3.3%</td>
 			</tr>
-			<tr><td>Tubák István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">14.6% &emsp; <span id="id_jobbik2">(11.4%)</span></td></tr>
+			<tr><td>Tubák István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">10.1%</td>
+				   <td>-1.3%</td>
+			</tr>
 <tr>
                   <td>Burány Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">28.1% &emsp; <span id="id_baloldal2">(39.9%)</span></td>
+				    <td id="id_baloldal">40.8%</td>
+				   <td>+0.9%</td>
 			</tr>
 			<tr>
                   <td>Demeter Márta - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">14.0% &emsp; <span id="id_lmp2">(9.4%)</span></td>
+				    <td id="id_lmp">6.5%</td>
+				   <td>-2.9%</td>
 			</tr>
 			<tr>
 				  <td>Tölcsér Borbála - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.9% &emsp; <span id="id_momentum2">(3.3%)</span></td>
+				   <td id="id_momentum">2.1%</td>
+				   <td>-1.2%</td>
 			</tr>
          
        

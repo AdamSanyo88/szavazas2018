@@ -21,25 +21,33 @@ permalink: /bp8
               <tbody>
              <tr>
                   <td>Dr. Jelen Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">31.2% &emsp; <span id="id_fidesz2">(32.5%)</span></td>
+				    <td id="id_fidesz">35.1%</td>
+				   <td>+2.6%</td>
 			</tr>
-			<tr><td>Szávay István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">13.4% &emsp; <span id="id_jobbik2">(10.5%)</span></td></tr>
+			<tr><td>Szávay István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">7.7%</td>
+				   <td>-2.8%</td>
+			</tr>
 <tr>
                   <td>Tóth Csaba - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">26.8% &emsp; <span id="id_baloldal2">(39.0%)</span></td>
+				    <td id="id_baloldal">47.2%</td>
+				   <td>+8.2%</td>
 			</tr>
 			<tr>
                   <td>Barta János - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">14.0% &emsp; <span id="id_lmp2">(9.5%)</span></td>
+				   <td id="id_lmp">4.1%</td>
+				   <td>-5.4%</td>
 			</tr>
 			<tr>
 				  <td>Szücs Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">5.9% &emsp; <span id="id_momentum2">(4.0%)</span></td>
+				    <td id="id_momentum">3.0%</td>
+				   <td>-1.0%</td>
 			</tr>
               
 <tr>
 <td>Victora Zsolt - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">5.4% &emsp; <span id="id_mkkp2">(4.5%)</span></td>
+					<td id="id_mkkp">2.6%</td>
+				   <td>-1.9%</td>
 </tr>  
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén baloldali</span></strong></h6>

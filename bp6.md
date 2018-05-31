@@ -21,28 +21,37 @@ permalink: /bp6
               <tbody>
              <tr>
                   <td>Kocsis Máté - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">32.1% &emsp; <span id="id_fidesz2">(33.1%)</span></td>
+				    <td id="id_fidesz">40.5%</td>
+				   <td>+7.4%</td>
 			</tr>
-			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">14.9% &emsp; <span id="id_jobbik2">(11.6%)</span></td></tr>
+			<tr><td>Dúró Dóra - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">12.9%</td>
+				   <td>+1.3%</td>
+			</tr>
 <tr>
                   <td>Ara-Kovács Attila - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">23.5% &emsp; <span id="id_baloldal2">(35.5%)</span></td>
+				    <td id="id_baloldal">35.5%</td>
+				   <td>-3.3%</td>
 			</tr>
 			<tr>
                   <td>Jakabfy Tamás - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">12.1% &emsp; <span id="id_lmp2">(8.2%)</span></td>
+				    <td id="id_lmp">5.6%</td>
+				   <td>-2.6%</td>
 			</tr>
 			<tr>
 				  <td>Dr. Cseh Katalin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">7.8% &emsp; <span id="id_momentum2">(5.2%)</span></td>
+				    <td id="id_momentum">2.6%</td>
+				   <td>-2.6%</td>
 			</tr>
 <tr>
 <td>Baranyi Krisztina -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">7.2% &emsp; <span id="id_egyutt2">(4.5%)</span></td>
+			<td id="id_egyutt">3.1%</td>
+				   <td>-1.4%</td>
 </tr>    
 <tr>
 <td>Racskó Gábor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">2.3% &emsp; <span id="id_mkkp2">(1.9%)</span></td>
+				<td id="id_mkkp">2.3%</td>
+				   <td>+0.4%</td>
 </tr>             
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz és baloldal között)</span></strong></h6>
