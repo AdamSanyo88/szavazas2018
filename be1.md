@@ -21,32 +21,32 @@ permalink: /be1
               <tbody>
              <tr>
                   <td>Herczeg Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">44.7%</td>
+				   <td id="id_fidesz">44.7%</td>
 				   <td>+5.0%</td>
 			</tr>
 			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">33.1%</td>
+			<td id="id_jobbik">33.1%</td>
 				   <td>+4.4%</td>
 			</tr>
 <tr>
                   <td>Nagy-Huszein Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   td id="id_baloldal">11.0%</td>
+				   <td id="id_baloldal">11.0%</td>
 				   <td>-9.1%</td>
 			</tr>
 			<tr>
                   <td>Kovács Katalin Ildikó - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  td id="id_lmp">5.3%</td>
+				  <td id="id_lmp">5.3%</td>
 				   <td>-1.4%</td>
 			</tr>
 			<tr>
 				  <td>Almási István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   td id="id_momentum">1.8%</td>
+				   <td id="id_momentum">1.8%</td>
 				   <td>-1.2%</td>
 			</tr>
    
 <tr>
 <td>Babiniszki Péter - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- td id="id_mkkp">1.7%</td>
+ <td id="id_mkkp">1.7%</td>
 				   <td>-0.1%</td>
 </tr>                
               </tbody>

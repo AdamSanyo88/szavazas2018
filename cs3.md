@@ -21,31 +21,31 @@ permalink: /cs3
               <tbody>
              <tr>
                   <td>Farkas Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">49.6%</td>
+				   <td id="id_fidesz">49.6%</td>
 				   <td>+5.5%</td>
 			</tr>
 			<tr><td>Szabó Zoltán Ferenc - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">37.8%</td>
+			<td id="id_jobbik">37.8%</td>
 				   <td>+4.3%</td>
 			</tr>
 <tr>
                   <td>dr. Eörsi Mátyás - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   td id="id_baloldal">4.9%</td>
+				   <td id="id_baloldal">4.9%</td>
 				   <td>-9.4%</td>
 			</tr>
 			<tr>
                   <td>D'Elia Viktor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">2.8%</td>
+				   <td id="id_lmp">2.8%</td>
 				   <td>-2.4%</td>
 			</tr>
 			<tr>
 				  <td>Hegedűs Barnabás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   td id="id_momentum">1.6%</td>
+				   <td id="id_momentum">1.6%</td>
 				   <td>-0.2%</td>
 			</tr>
 <tr>
 <td>Dombi Gábor - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- td id="id_egyutt">0.9%</td>
+ <td id="id_egyutt">0.9%</td>
 				   <td>-0.2%</td>
 </tr>                
               </tbody>

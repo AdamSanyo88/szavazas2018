@@ -44,7 +44,7 @@ permalink: /bp2
 			</tr>            
 <tr>
                   <td>Fischer Roland - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <<td id="id_mkkp">1.8%</td>
+				   <<<td id="id_mkkp">1.8%</td>
 				   <td>-0.3%</td>
 			</tr>		
               </tbody>

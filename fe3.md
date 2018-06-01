@@ -21,26 +21,26 @@ permalink: /fe3
               <tbody>
              <tr>
                   <td>Tessely Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">53.0%</td>
+				   <td id="id_fidesz">53.0%</td>
 				   <td>+3.9%</td>
 			</tr>
 			<tr><td>Varga László Béla - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">23.4%</td>
+			<td id="id_jobbik">23.4%</td>
 				   <td>+0.1%</td>
 			</tr>
 <tr>
                   <td>Szilágyi László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   td id="id_baloldal">15.0%</td>
+				   <td id="id_baloldal">15.0%</td>
 				   <td>-0.7%</td>
 			</tr>
 			<tr>
                   <td>Szatmári Ildikó - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">5.1%</td>
+				   <td id="id_lmp">5.1%</td>
 				   <td>-3.7%</td>
 			</tr>
 			<tr>
 				  <td>Molnár Dániel - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   td id="id_momentum">2.6%</td>
+				   <td id="id_momentum">2.6%</td>
 				   <td>-0.5%</td>
 			</tr>
                 

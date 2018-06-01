@@ -21,32 +21,32 @@ permalink: /bk4
               <tbody>
              <tr>
                   <td>Lezsák Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">60.2%</td>
+				   <td id="id_fidesz">60.2%</td>
 				   <td>+10.2%</td>
 			</tr>
 			<tr><td>Kollár László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">21.1%</td>
+			<td id="id_jobbik">21.1%</td>
 				   <td>-7.5%</td>
 			</tr>
 <tr>
                   <td>Horváth Tamás - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  td id="id_baloldal">12.2%</td>
+				  <td id="id_baloldal">12.2%</td>
 				   <td>+0.0%</td>
 			</tr>
 			<tr>
                   <td>Kis-Szeniczey Kálmán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">2.9%</td>
+				   <td id="id_lmp">2.9%</td>
 				   <td>-1.8%</td>
 			</tr>
 			<tr>
 				  <td>Tabajdi Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   td id="id_momentum">1.1%</td>
+				   <td id="id_momentum">1.1%</td>
 				   <td>-0.6%</td>
 			</tr>
        
 <tr>
 <td>Bodor Sándor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- td id="id_mkkp">1.4%</td>
+ <td id="id_mkkp">1.4%</td>
 				   <td>-1.5%</td>
 </tr>            
               </tbody>

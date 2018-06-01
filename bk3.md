@@ -21,26 +21,26 @@ permalink: /bk3
               <tbody>
              <tr>
                   <td>Font Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  td id="id_fidesz">53.2%</td>
+				  <td id="id_fidesz">53.2%</td>
 				   <td>+4.8%</td>
 			</tr>
 			<tr><td>Suhajda Krisztián - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">30.2%</td>
+			<td id="id_jobbik">30.2%</td>
 				   <td>-1.1%</td>
 			</tr>
 <tr>
                   <td>dr. Angeli Gabriella - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   td id="id_baloldal">11.1%</td>
+				   <td id="id_baloldal">11.1%</td>
 				   <td>-2.5%</td>
 			</tr>
 			<tr>
                   <td>Kerpács Rezső - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">2.7%</td>
+				   <td id="id_lmp">2.7%</td>
 				   <td>-2.2%</td>
 			</tr>
 			<tr>
 				  <td>Környei Balázs - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  td id="id_momentum">1.3%</td>
+				  <td id="id_momentum">1.3%</td>
 				   <td>-0.4%</td>
 			</tr>
                 

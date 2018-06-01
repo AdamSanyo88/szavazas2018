@@ -21,26 +21,26 @@ permalink: /cs4
               <tbody>
              <tr>
                   <td>Lázár János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">51.8%</td>
+				   <td id="id_fidesz">51.8%</td>
 				   <td>+13.5%</td>
 			</tr>
 			<tr><td>Dr. Kiss Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">36.7%</td>
+			<td id="id_jobbik">36.7%</td>
 				   <td>-4.4%</td>
 			</tr>
 <tr>
                   <td>Rója István - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  td id="id_baloldal">7.4%</td>
+				  <td id="id_baloldal">7.4%</td>
 				   <td>-3.3%</td>
 			</tr>
 			<tr>
                   <td>Pongrácz Gergely - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">1.8%</td>
+				   <td id="id_lmp">1.8%</td>
 				   <td>-7.1%</td>
 			</tr>
 <tr>
 <td>Farkas Tamás - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- td id="id_mkkp">1.3%</td>
+ <td id="id_mkkp">1.3%</td>
 				   <td>+0.3%</td>
 </tr>                 
               </tbody>

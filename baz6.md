@@ -21,21 +21,21 @@ permalink: /baz6
               <tbody>
              <tr>
                   <td>Koncz Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">49.3%</td>
+				   <td id="id_fidesz">49.3%</td>
 				   <td>+9.0%</td>
 			</tr>
 			<tr><td>Bíró László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">31.6%</td>
+			<td id="id_jobbik">31.6%</td>
 				   <td>-9.6%</td>
 			</tr>
 <tr>
                   <td>Pap Zsolt - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  td id="id_baloldal">14.9%</td>
+				  <td id="id_baloldal">14.9%</td>
 				   <td>-0.6%</td>
 			</tr>
 			<tr>
                   <td>dr. Tarnai Gábor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">2.3%</td>
+				   <td id="id_lmp">2.3%</td>
 				   <td>-0.7%</td>
 			</tr>
 			<tr>

@@ -21,36 +21,36 @@ permalink: /cs2
               <tbody>
              <tr>
                   <td>B. Nagy László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">44.6%</td>
+				   <td id="id_fidesz">44.6%</td>
 				   <td>+3.0%</td>
 			</tr>
 			<tr><td>Fackelmann István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">11.4%</td>
+			<td id="id_jobbik">11.4%</td>
 				   <td>-1.1%</td>
 			</tr>
 <tr>
                   <td>Joób Márton - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  td id="id_baloldal">35.4%</td>
+				  <td id="id_baloldal">35.4%</td>
 				   <td>+1.9%</td>
 			</tr>
 			<tr>
                   <td>dr. Tessényi Judit - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">4.1%</td>
+				   <td id="id_lmp">4.1%</td>
 				   <td>-3.2%</td>
 			</tr>
 			<tr>
 				  <td>Boros-Gyevi Gergely - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  td id="id_momentum">1.8%</td>
+				  <td id="id_momentum">1.8%</td>
 				   <td>-0.8%</td>
 			</tr>
 <tr>
 <td>Györgyey János - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- td id="id_egyutt">0.5%</td>
+ <td id="id_egyutt">0.5%</td>
 				   <td>-1.1%</td>
 </tr> 
 <tr>
 <td>Pose Rozalinda - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- td id="id_mkkp">2.0%</td>
+ <td id="id_mkkp">2.0%</td>
 				   <td>+1.0%</td>
 </tr>            
               </tbody>

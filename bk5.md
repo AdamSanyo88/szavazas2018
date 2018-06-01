@@ -21,26 +21,26 @@ permalink: /bk5
               <tbody>
              <tr>
                   <td>Bányai Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">55.9%</td>
+				   <td id="id_fidesz">55.9%</td>
 				   <td>+6.2%</td>
 			</tr>
 			<tr><td>Farkas Gergely - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">33.3%</td>
+			<td id="id_jobbik">33.3%</td>
 				   <td>-1.8%</td>
 			</tr>
 <tr>
                   <td>Molnár László - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				  td id="id_baloldal">5.9%</td>
+				  <td id="id_baloldal">5.9%</td>
 				   <td>-5.9%</td>
 			</tr>
 			<tr>
                   <td>Midi Melánia - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  td id="id_lmp">2.3%</td>
+				  <td id="id_lmp">2.3%</td>
 				   <td>-0.2%</td>
 			</tr>
 			<tr>
 				  <td>Takács Zoltán - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  td id="id_momentum">1.0%</td>
+				  <td id="id_momentum">1.0%</td>
 				   <td>+0.1%</td>
 			</tr>
                 

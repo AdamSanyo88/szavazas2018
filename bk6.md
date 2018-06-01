@@ -21,26 +21,26 @@ permalink: /bk6
               <tbody>
              <tr>
                   <td>Zsigó Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">54.5%</td>
+				   <td id="id_fidesz">54.5%</td>
 				   <td>+6.1%</td>
 			</tr>
 			<tr><td>Grünfelder Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">18.7%</td>
+			<td id="id_jobbik">18.7%</td>
 				   <td>-0.1%</td>
 			</tr>
 <tr>
                   <td>Hajdú Miklós - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  td id="id_baloldal">18.0%</td>
+				  <td id="id_baloldal">18.0%</td>
 				   <td>-5.9%</td>
 			</tr>
 			<tr>
                   <td>Ikotity István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">5.8%</td>
+				   <td id="id_lmp">5.8%</td>
 				   <td>-1.3%</td>
 			</tr>
 			<tr>
 				  <td>Béni Kornél - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   td id="id_momentum">1.7%</td>
+				   <td id="id_momentum">1.7%</td>
 				   <td>-0.1%</td>
 			</tr>
                 

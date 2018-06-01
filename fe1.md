@@ -21,21 +21,21 @@ permalink: /fe1
               <tbody>
              <tr>
                   <td>Vargha Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">47.2%</td>
+				   <td id="id_fidesz">47.2%</td>
 				   <td>+3.7%</td>
 			</tr>
 			<tr><td>Tóth Nóra Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">13.9%</td>
+			<td id="id_jobbik">13.9%</td>
 				   <td>-4.1%</td>
 			</tr>
 <tr>
                   <td>Ráczné Földi Judit - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   td id="id_baloldal">31.0%</td>
+				   <td id="id_baloldal">31.0%</td>
 				   <td>-0.4%</td>
 			</tr>
 			<tr>
                   <td>Rákosi Judit - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				  td id="id_lmp">6.0%</td>
+				  <td id="id_lmp">6.0%</td>
 				   <td>-1.1%</td>
 			</tr>
               </tbody>

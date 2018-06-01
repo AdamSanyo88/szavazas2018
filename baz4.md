@@ -21,31 +21,31 @@ permalink: /baz4
               <tbody>
              <tr>
                   <td>Demeter Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">44.7%</td>
+				   <td id="id_fidesz">44.7%</td>
 				   <td>+6.9%</td>
 			</tr>
 			<tr><td>Egyed Zsolt - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">30.1%</td>
+			<td id="id_jobbik">30.1%</td>
 				   <td>-9.3%</td>
 			</tr>
 <tr>
                   <td>Gúr Nándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   td id="id_baloldal">17.3%</td>
+				   <td id="id_baloldal">17.3%</td>
 				   <td>-2.1%</td>
 			</tr>
 			<tr>
                   <td>Üveges Gábor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">3.4%</td>
+				   <td id="id_lmp">3.4%</td>
 				   <td>+1.2%</td>
 			</tr>
 			<tr>
 				  <td>Győri Gyula - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				  td id="id_momentum">0.7%</td>
+				  <td id="id_momentum">0.7%</td>
 				   <td>-0.1%</td>
 			</tr>
 <tr>
 <td>Elek Zsófia -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- td id="id_egyutt">0.2%</td>
+ <td id="id_egyutt">0.2%</td>
 				   <td>-0.3%</td>
 </tr>                
               </tbody>

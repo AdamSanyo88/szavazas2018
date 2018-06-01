@@ -20,26 +20,26 @@ permalink: /fe4
               <tbody>
              <tr>
                   <td>dr. Galambos Dénes - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   td id="id_fidesz">39.6%</td>
+				   <td id="id_fidesz">39.6%</td>
 				   <td>+3.5%</td>
 			</tr>
 			<tr><td>Pintér Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">43.5%</td>
+			<td id="id_jobbik">43.5%</td>
 				   <td>+10.3%</td>
 			</tr>
 <tr>
                   <td>Mezei Zsolt - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   td id="id_baloldal">10.0%</td>
+				   <td id="id_baloldal">10.0%</td>
 				   <td>-13.9%</td>
 			</tr>
 			<tr>
                   <td>Illésy István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">3.5%</td>
+				   <td id="id_lmp">3.5%</td>
 				   <td>-1.5%</td>
 			</tr>
 			<tr>
 				  <td>Kaszó Róbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   td id="id_momentum">1.4%</td>
+				   <td id="id_momentum">1.4%</td>
 				   <td>-0.4%</td>
 			</tr>
                 

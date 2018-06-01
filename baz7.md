@@ -21,28 +21,28 @@ permalink: /baz7
               <tbody>
              <tr>
                   <td>Tállai András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				  td id="id_fidesz">54.8%</td>
+				  <td id="id_fidesz">54.8%</td>
 				   <td>+7.5%</td>
 			</tr>
 			<tr><td>Lukács Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			td id="id_jobbik">31.3%</td>
+			<td id="id_jobbik">31.3%</td>
 				   <td>-6.1%</td>
 			</tr>
 <tr>
                   <td>Kormos Anna - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				  td id="id_baloldal">8.4%</td>
+				  <td id="id_baloldal">8.4%</td>
 				   <td>-4.0%</td>
 			</tr>
 			<tr>
                   <td>Ambrus Gyöngyi - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   td id="id_lmp">3.4%</td>
+				   <td id="id_lmp">3.4%</td>
 				   <td>+1.1%</td>
 			</tr>
 			<tr>
 				  </tr>
 <tr>
 <td>Kiss Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- td id="id_egyutt">0.2%</td>
+ <td id="id_egyutt">0.2%</td>
 				   <td>-0.3%</td>
 </tr>                
               </tbody>
