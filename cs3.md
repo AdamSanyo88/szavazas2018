@@ -21,24 +21,32 @@ permalink: /cs3
               <tbody>
              <tr>
                   <td>Farkas Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">45.1% &emsp; <span id="id_fidesz2">(44.1%)</span></td>
+				   td id="id_fidesz">49.6%</td>
+				   <td>+5.5%</td>
 			</tr>
-			<tr><td>Szabó Zoltán Ferenc - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.2% &emsp; <span id="id_jobbik2">(33.5%)</span></td></tr>
+			<tr><td>Szabó Zoltán Ferenc - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">37.8%</td>
+				   <td>+4.3%</td>
+			</tr>
 <tr>
                   <td>dr. Eörsi Mátyás - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">16.4% &emsp; <span id="id_baloldal2">(14.3%)</span></td>
+				   td id="id_baloldal">4.9%</td>
+				   <td>-9.4%</td>
 			</tr>
 			<tr>
                   <td>D'Elia Viktor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">6.6% &emsp; <span id="id_lmp2">(5.2%)</span></td>
+				   td id="id_lmp">2.8%</td>
+				   <td>-2.4%</td>
 			</tr>
 			<tr>
 				  <td>Hegedűs Barnabás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.3% &emsp; <span id="id_momentum2">(1.8%)</span></td>
+				   td id="id_momentum">1.6%</td>
+				   <td>-0.2%</td>
 			</tr>
 <tr>
 <td>Dombi Gábor - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">1.6% &emsp; <span id="id_egyutt2">(1.1%)</span></td>
+ td id="id_egyutt">0.9%</td>
+				   <td>-0.2%</td>
 </tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>

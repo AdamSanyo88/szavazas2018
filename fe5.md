@@ -21,20 +21,27 @@ permalink: /fe5
               <tbody>
              <tr>
                   <td>Varga Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">45.2% &emsp; <span id="id_fidesz2">(46.1%)</span></td>
+				   td id="id_fidesz">56.0%</td>
+				   <td>+9.9%</td>
 			</tr>
-			<tr><td>Árgyelán János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.9% &emsp; <span id="id_jobbik2">(37.5%)</span></td></tr>
+			<tr><td>Árgyelán János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">32.2%</td>
+				   <td>-5.3%</td>
+			</tr>
 <tr>
                   <td>Szilveszterné Nyúli Ilona - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">11.6% &emsp; <span id="id_baloldal2">(9.4%)</span></td>
+				   td id="id_baloldal">5.9%</td>
+				   <td>-3.5%</td>
 			</tr>
 			<tr>
                   <td>Lapos Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">4.3% &emsp; <span id="id_lmp2">(3.6%)</span></td>
+				  td id="id_lmp">2.8%</td>
+				   <td>-0.8%</td>
 			</tr>
 <tr>
 <td>Szigetvári Viktor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">4.9% &emsp; <span id="id_egyutt2">(3.5%)</span></td>
+ td id="id_egyutt">1.4%</td>
+				   <td>-2.1%</td>
 </tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>

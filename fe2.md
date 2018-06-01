@@ -21,20 +21,28 @@ permalink: /fe2
               <tbody>
              <tr>
                   <td>Törő Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">48.5% &emsp; <span id="id_fidesz2">(48.2%)</span></td>
+				   td id="id_fidesz">53.7%</td>
+				   <td>+5.5%</td>
 			</tr>
-			<tr><td>Fazakas Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">24.1% &emsp; <span id="id_jobbik2">(30.4%)</span></td></tr>
+			<tr><td>Fazakas Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">28.9%</td>
+				   <td>-1.5%</td>
+			</tr>
 <tr>
                   <td>Horváth András - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">14.4% &emsp; <span id="id_baloldal2">(12.9%)</span></td>
+				  td id="id_baloldal">9.4%</td>
+				   <td>-3.5%</td>
+				   </td>
 			</tr>
 			<tr>
                   <td>Perneczky László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(6.3%)</span></td>
+				  td id="id_lmp">4.3%</td>
+				   <td>-2.0%</td>
 			</tr>
 			<tr>
 				  <td>Tóth Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(2.2%)</span></td>
+				  td id="id_momentum">2.0%</td>
+				   <td>-0.2%</td>
 			</tr>
                 
               </tbody>

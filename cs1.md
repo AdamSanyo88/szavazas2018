@@ -20,25 +20,33 @@ permalink: /cs1
               <tbody>
              <tr>
                   <td>Bartók Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">30.8% &emsp; <span id="id_fidesz2">(31.8%)</span></td>
+				   td id="id_fidesz">35.7%</td>
+				   <td>+3.9%</td>
 			</tr>
-			<tr><td>Tóth Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">15.1% &emsp; <span id="id_jobbik2">(11.7%)</span></td></tr>
+			<tr><td>Tóth Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">11.0%</td>
+				   <td>-0.7%</td>
+			</tr>
 <tr>
                   <td>Szabó Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">30.8% &emsp; <span id="id_baloldal2">(42.5%)</span></td>
+				   td id="id_baloldal">43.7%</td>
+				   <td>+1.2%</td>
 			</tr>
 			<tr>
                   <td>Bodrog Zoltán - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">12.6% &emsp; <span id="id_lmp2">(8.5%)</span></td>
+				   td id="id_lmp">4.3%</td>
+				   <td>-4.2%</td>
 			</tr>
 			<tr>
 				  <td>Mihálik Edvin - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">5.4% &emsp; <span id="id_momentum2">(3.6%)</span></td>
+				   td id="id_momentum">1.7%</td>
+				   <td>-1.9%</td>
 			</tr>
                 
 <tr>
 <td>Pál Anna - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">2.4% &emsp; <span id="id_mkkp2">(2.0%)</span></td>
+ td id="id_mkkp">2.6%</td>
+				   <td>+0.6%</td>
 </tr>
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
