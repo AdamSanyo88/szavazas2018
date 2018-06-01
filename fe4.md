@@ -14,7 +14,8 @@ permalink: /fe4
               <thead>
                 <tr>
                     <th>Jelöltek</th>
-                    <th>Várható szavazatarány egyéniben (zárójelben az arányok átszavazás esetén)  </th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Eltérés a becsléstől</th>
                 </tr>
               </thead>
               <tbody>
