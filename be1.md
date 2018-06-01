@@ -21,25 +21,33 @@ permalink: /be1
               <tbody>
              <tr>
                   <td>Herczeg Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">38.6% &emsp; <span id="id_fidesz2">(39.7%)</span></td>
+				   td id="id_fidesz">44.7%</td>
+				   <td>+5.0%</td>
 			</tr>
-			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">22.2% &emsp; <span id="id_jobbik2">(28.7%)</span></td></tr>
+			<tr><td>Kocziha Tünde - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">33.1%</td>
+				   <td>+4.4%</td>
+			</tr>
 <tr>
                   <td>Nagy-Huszein Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">20.0% &emsp; <span id="id_baloldal2">(20.1%)</span></td>
+				   td id="id_baloldal">11.0%</td>
+				   <td>-9.1%</td>
 			</tr>
 			<tr>
                   <td>Kovács Katalin Ildikó - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">10.1% &emsp; <span id="id_lmp2">(6.7%)</span></td>
+				  td id="id_lmp">5.3%</td>
+				   <td>-1.4%</td>
 			</tr>
 			<tr>
 				  <td>Almási István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(3.0%)</span></td>
+				   td id="id_momentum">1.8%</td>
+				   <td>-1.2%</td>
 			</tr>
    
 <tr>
 <td>Babiniszki Péter - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">2.2% &emsp; <span id="id_mkkp2">(1.8%)</span></td>
+ td id="id_mkkp">1.7%</td>
+				   <td>-0.1%</td>
 </tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>

@@ -21,20 +21,27 @@ permalink: /be2
               <tbody>
              <tr>
                   <td>Dankó Béla - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">46.7% &emsp; <span id="id_fidesz2">(46.5%)</span></td>
+				   td id="id_fidesz">52.0%</td>
+				   <td>+5.5%</td>
 			</tr>
-			<tr><td>Samu Tamás Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">28.3% &emsp; <span id="id_jobbik2">(34.4%)</span></td></tr>
+			<tr><td>Samu Tamás Gergő - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">29.4%</td>
+				   <td>-5.0%</td>
+			</tr>
 <tr>
                   <td>dr. Kondé Gábor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">14.1% &emsp; <span id="id_baloldal2">(12.0%)</span></td>
+				   td id="id_baloldal">8.7%</td>
+				   <td>-3.3%</td>
 			</tr>
 			<tr>
                   <td>Bencsik Mihály - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">6.4% &emsp; <span id="id_lmp2">(5.3%)</span></td>
+				   td id="id_lmp">5.5%</td>
+				   <td>+0.2%</td>
 			</tr>
 			<tr>
 				  <td>Babinszki Bence - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.3% &emsp; <span id="id_momentum2">(1.8%)</span></td>
+				  td id="id_momentum">1.5%</td>
+				   <td>-0.3%</td>
 			</tr>
                 
               </tbody>

@@ -21,20 +21,27 @@ permalink: /baz1
               <tbody>
              <tr>
                   <td>Csöbör Katalin - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">32.8% &emsp; <span id="id_fidesz2">(32.2%)</span></td>
+				   <td id="id_fidesz">39.0%</td>
+				   <td>+6.8%</td>
 			</tr>
-			<tr><td>Jakab Péter Dénes - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">35.6% &emsp; <span id="id_jobbik2">(44.2%)</span></td></tr>
+			<tr><td>Jakab Péter Dénes - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">38.7%</td>
+				   <td>-5.5%</td>
+			</tr>
 <tr>
                   <td>dr. Debreczeni József - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">21.1% &emsp; <span id="id_baloldal2">(18.2%)</span></td>
+				   <td id="id_baloldal">11.6%</td>
+				   <td>-6.6%</td>
 			</tr>
 			<tr>
                   <td>Csoma László - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.6% &emsp; <span id="id_lmp2">(3.6%)</span></td>
+				   <td id="id_lmp">3.1%</td>
+				   <td>-0.5%</td>
 			</tr>
 			<tr>
 				  <td>Szopkó Tibor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.9% &emsp; <span id="id_momentum2">(1.9%)</span></td>
+				  <td id="id_momentum">1.1%</td>
+				   <td>-0.8%</td>
 			</tr>
                 
               </tbody>

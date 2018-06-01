@@ -21,28 +21,37 @@ permalink: /ba4
               <tbody>
              <tr>
                   <td>Nagy Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">43.4% &emsp; <span id="id_fidesz2">(44.0%)</span></td>
+				   <td id="id_fidesz">48.9%</td>
+				   <td>+4.9%</td>
 			</tr>
-			<tr><td>Andrics Alíz - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">22.9% &emsp; <span id="id_jobbik2">(22.8%)</span></td></tr>
+			<tr><td>Andrics Alíz - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">15.8%</td>
+				   <td>-7.0%</td>
+			</tr>
 <tr>
                   <td>dr. Vass Péter - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">24.0% &emsp; <span id="id_baloldal2">(27.6%)</span></td>
+				  <td id="id_baloldal">27.2%</td>
+				   <td>-0.4%</td>
 			</tr>
 			<tr>
                   <td>Angyal Károly Tibor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.7% &emsp; <span id="id_lmp2">(3.8%)</span></td>
+				   <td id="id_lmp">3.3%</td>
+				   <td>-0.5%</td>
 			</tr>
 			<tr>
 				  <td>Gergely Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.0% &emsp; <span id="id_momentum2">(1.3%)</span></td>
+				   <td id="id_momentum">0.7%</td>
+				   <td>-0.6%</td>
 			</tr>
     <tr>
 <td>Rajnai Attila - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">1.3% &emsp; <span id="id_egyutt2">(0.0%)</span></td>
+ <td id="id_egyutt">0.3%</td>
+				   <td>+0.3%</td>
 </tr>          
 <tr>
 <td>Iván Petra - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">0.7% &emsp; <span id="id_mkkp2">(0.5%)</span></td>
+ <td id="id_mkkp">1.1%</td>
+				   <td>+0.6%</td>
 </tr>          
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>

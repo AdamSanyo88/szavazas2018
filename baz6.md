@@ -21,16 +21,22 @@ permalink: /baz6
               <tbody>
              <tr>
                   <td>Koncz Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">40.3% &emsp; <span id="id_fidesz2">(40.3%)</span></td>
+				   td id="id_fidesz">49.3%</td>
+				   <td>+9.0%</td>
 			</tr>
-			<tr><td>Bíró László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">33.5% &emsp; <span id="id_jobbik2">(41.2%)</span></td></tr>
+			<tr><td>Bíró László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">31.6%</td>
+				   <td>-9.6%</td>
+			</tr>
 <tr>
                   <td>Pap Zsolt - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">18.3% &emsp; <span id="id_baloldal2">(15.5%)</span></td>
+				  td id="id_baloldal">14.9%</td>
+				   <td>-0.6%</td>
 			</tr>
 			<tr>
                   <td>dr. Tarnai Gábor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">4.6% &emsp; <span id="id_lmp2">(3.0%)</span></td>
+				   td id="id_lmp">2.3%</td>
+				   <td>-0.7%</td>
 			</tr>
 			<tr>
 				  </tr>

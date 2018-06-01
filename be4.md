@@ -21,24 +21,32 @@ permalink: /be4
               <tbody>
              <tr>
                   <td>Simonka György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">45.6% &emsp; <span id="id_fidesz2">(44.3%)</span></td>
+				   td id="id_fidesz">43.2%</td>
+				   <td>-1.1%</td>
 			</tr>
-			<tr><td>Dr. Szabó Ervin - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">26.0% &emsp; <span id="id_jobbik2">(33.4%)</span></td></tr>
+			<tr><td>Dr. Szabó Ervin - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">39.5%</td>
+				   <td>+6.1%</td>
+			</tr>
 <tr>
                   <td>Füvesi Sándor - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">18.4% &emsp; <span id="id_baloldal2">(16.5%)</span></td>
+				   td id="id_baloldal">10.3%</td>
+				   <td>-6.2%</td>
 			</tr>
 			<tr>
                   <td>Németh Sándor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.9% &emsp; <span id="id_lmp2">(3.7%)</span></td>
+				   td id="id_lmp">2.2%</td>
+				   <td>-1.5%</td>
 			</tr>
 			<tr>
 				  <td>Sebők Éva - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.1% &emsp; <span id="id_momentum2">(1.3%)</span></td>
+				  td id="id_momentum">1.1%</td>
+				   <td>-0.2%</td>
 			</tr>
 <tr>
 <td>Bod Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">1.4% &emsp; <span id="id_egyutt2">(0.8%)</span></td>
+ td id="id_egyutt">1.1%</td>
+				   <td>+0.3%</td>
 </tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>

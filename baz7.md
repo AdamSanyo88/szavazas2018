@@ -21,22 +21,29 @@ permalink: /baz7
               <tbody>
              <tr>
                   <td>Tállai András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">47.6% &emsp; <span id="id_fidesz2">(47.3%)</span></td>
+				  td id="id_fidesz">54.8%</td>
+				   <td>+7.5%</td>
 			</tr>
-			<tr><td>Lukács Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.4% &emsp; <span id="id_jobbik2">(37.4%)</span></td></tr>
+			<tr><td>Lukács Attila - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			td id="id_jobbik">31.3%</td>
+				   <td>-6.1%</td>
+			</tr>
 <tr>
                   <td>Kormos Anna - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">15.0% &emsp; <span id="id_baloldal2">(12.4%)</span></td>
+				  td id="id_baloldal">8.4%</td>
+				   <td>-4.0%</td>
 			</tr>
 			<tr>
                   <td>Ambrus Gyöngyi - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">3.5% &emsp; <span id="id_lmp2">(2.3%)</span></td>
+				   td id="id_lmp">3.4%</td>
+				   <td>+1.1%</td>
 			</tr>
 			<tr>
 				  </tr>
 <tr>
 <td>Kiss Tamás -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">0.8% &emsp; <span id="id_egyutt2">(0.5%)</span></td>
+ td id="id_egyutt">0.2%</td>
+				   <td>-0.3%</td>
 </tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>

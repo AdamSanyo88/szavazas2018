@@ -21,13 +21,23 @@ permalink: /baz2
               <tbody>
              <tr>
                   <td>Hubay György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">33.2% &emsp; <span id="id_fidesz2">(34.7%)</span></td>
+				  <td id="id_fidesz">38.1%</td>
+				   <td>+3.4%</td>
 			</tr>
-			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.7% &emsp; <span id="id_jobbik2">(28.4%)</span></td></tr>
+			<tr><td>Pakusza Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">28.3%</td>
+				   <td>-0.1%</td>
+			</tr>
 <tr>
                   <td>dr. Varga László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">28.5% &emsp; <span id="id_baloldal2">(36.9%)</span></td>
+				  <td id="id_baloldal">29.9%</td>
+				   <td>-7.0%</td>
 			</tr>    
+			<tr>
+				  <td>Dudás Norbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
+				  <td id="id_momentum">1.3%</td>
+				   <td>+1.3%</td>
+			</tr>
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Háromesélyes</span></strong></h6>
 <br/>

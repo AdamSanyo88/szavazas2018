@@ -21,21 +21,33 @@ permalink: /baz3
               <tbody>
              <tr>
                   <td>Riz Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">39.6% &emsp; <span id="id_fidesz2">(38.8%)</span></td>
+				   <td id="id_fidesz">48.1%</td>
+				   <td>+9.3%</td>
 			</tr>
-			<tr><td>Farkas Péter Barnabás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">35.3% &emsp; <span id="id_jobbik2">(41.9%)</span></td></tr>
+			<tr><td>Farkas Péter Barnabás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">36.7%</td>
+				   <td>-5.2%</td>
+			</tr>
 <tr>
                   <td>Varga Gergő - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">20.3% &emsp; <span id="id_baloldal2">(16.9%)</span></td>
+				   <td id="id_baloldal">8.0%</td>
+				   <td>-8.9%</td>
 			</tr>
 			<tr>
                   <td>Koleszár István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">2.8% &emsp; <span id="id_lmp2">(1.8%)</span></td>
+				   <td id="id_lmp">2.7%</td>
+				   <td>+0.9%</td>
 			</tr>
 			<tr>
 				  <td>Kovács József - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">1.0% &emsp; <span id="id_momentum2">(0.6%)</span></td>
+				   <td id="id_momentum">1.1%</td>
+				   <td>+0.5%</td>
 			</tr>
+			<tr>
+<td>Báder József - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+ <td id="id_egyutt">0.3%</td>
+				   <td>+0.3%</td>
+</tr> 
                 
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (Jobbik / baloldal az esélyes kihívók)</span></strong></h6>

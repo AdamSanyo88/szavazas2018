@@ -21,31 +21,38 @@ permalink: /ba2
               <tbody>
              <tr>
                   <td>dr. Hoppál Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">33.3% &emsp; <span id="id_fidesz2">(33.7%)</span></td>
+				   <td id="id_fidesz">40.1%</td>
+				   <td>+6.4%</td>
 			</tr>
 			<tr>
 			<td>Gyimesi Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-			 <td id="id_jobbik">20.9% &emsp; <span id="id_jobbik2">(20.9%)</span></td>
+			<td id="id_jobbik">22.2%</td>
+				   <td>+1.3%</td>
 			</tr>
 <tr>
                   <td>Nagy Ferenc - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.2% &emsp; <span id="id_baloldal2">(29.8%)</span></td>
+				   <td id="id_baloldal">20.9%</td>
+				   <td>-8.9%</td>
 			</tr>
 			<tr>
                   <td>Hohn Krisztina - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">15.0% &emsp; <span id="id_lmp2">(9.9%)</span></td>
+				 <td id="id_lmp">9.2%</td>
+				   <td>-0,7%</td>
 			</tr>
 			<tr>
 				  <td>Körömi Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.3% &emsp; <span id="id_momentum2">(2.8%)</span></td>
+				  <td id="id_momentum">1.9%</td>
+				   <td>-0.9%</td>
 			</tr>
 <tr>
 <td>Berkecz Balázs - Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">2.8% &emsp; <span id="id_egyutt2">(1.7%)</span></td>
+ <td id="id_egyutt">2.4%</td>
+				   <td>+0.7%</td>
 </tr>
 <tr>               
 <td>Marton Csongor - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">1.4% &emsp; <span id="id_mkkp2">(1.2%)</span></td>
+ <td id="id_mkkp">1.9%</td>
+				   <td>+0.7%</td>
 </tr>   
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>
