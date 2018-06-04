@@ -30,7 +30,7 @@ permalink: /bp6
 			</tr>
 <tr>
                   <td>Ara-Kovács Attila - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				    <td id="id_baloldal">35.5%</td>
+				    <td id="id_baloldal">32.2%</td>
 				   <td>-3.3%</td>
 			</tr>
 			<tr>

@@ -10,12 +10,13 @@ permalink: /be3
     <div class="row">
           <div class="col s12">
 		  <h5>Békés megye 3-as választókerület (Gyula)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/>
+<table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
                     <th>Szavazatarány (százalék)</th>
-<th>Eltérés a becsléstől</th>
+					<th>Eltérés a becsléstől</th>
                 </tr>
               </thead>
               <tbody>
@@ -24,11 +25,12 @@ permalink: /be3
 				   <td id="id_fidesz">50.4%</td>
 				   <td>-0.4%</td>
 			</tr>
-			<tr><td>Dr. Dévényi-Dabrowsky Géza - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<tr>
+			<td>Dr. Dévényi-Dabrowsky Géza - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
 			<td id="id_jobbik">23.1%</td>
 				   <td>-2.8%</td>
 			</tr>
-<tr>
+			<tr>
                   <td>Pluhár László - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				   <td id="id_baloldal">18.6%</td>
 				   <td>-0.1%</td>
@@ -43,9 +45,9 @@ permalink: /be3
 				   <td id="id_momentum">1.6%</td>
 				   <td>+0.4%</td>
 			</tr>
-                
               </tbody>
-            </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
+            </table>
+			<h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
 <h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/be3.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>

@@ -39,7 +39,7 @@ permalink: /bp4
 			</tr>
 			<tr>
 				  <td>Benedek Márton - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">5.1%</td>
+				   <td id="id_momentum">2.7%</td>
 				   <td>-2.4%</td>
 			</tr>   
 <tr>
