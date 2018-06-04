@@ -10,7 +10,7 @@ permalink: /sz3
     <div class="row">
           <div class="col s12">
 		  <h5>Jász-Nagykun-Szolnok megye 3-as választókerület (Karcag)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+<br/><h5><strong>2018-as egyéni eredmények</strong></h5><br/><img src="images/vk_charts/egyeni_sz3.png" style="height: 100%; width: 100%; object-fit: contain"><br/><table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -41,13 +41,13 @@ permalink: /sz3
 			<tr>
 				  <td>Mikle Richárd - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">0.9%</td>
-				   <td>+0.2%</td>
+				   <td>-0.2%</td>
 			</tr>
                 
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/sz3.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<h5><strong>2018. április 8-i becslések (átszavazással):</strong></h5><br/><img src="images/vk_charts/sz3.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Dr. Lukács László György (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Dr. Lukács László György (Jobbik)</strong></h5>

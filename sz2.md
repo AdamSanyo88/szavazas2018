@@ -10,7 +10,7 @@ permalink: /sz2
     <div class="row">
           <div class="col s12">
 		  <h5>Jász-Nagykun-Szolnok megye 2-es választókerület (Jászberény)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+<br/><h5><strong>2018-as egyéni eredmények</strong></h5><br/><img src="images/vk_charts/egyeni_sz2.png" style="height: 100%; width: 100%; object-fit: contain"><br/><table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -22,7 +22,7 @@ permalink: /sz2
              <tr>
                   <td>Pócs János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="id_fidesz">51.2%</td>
-				   <td>+10.1%</td>
+				   <td>+9.1%</td>
 			</tr>
 			<tr><td>Budai Lóránt - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
 			<td id="id_jobbik">33.5%</td>
@@ -36,7 +36,7 @@ permalink: /sz2
 			<tr>
                   <td>Eszes Béla - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				 <td id="id_lmp">4.3%</td>
-				   <td>-1.5%</td>
+				   <td>+1.5%</td>
 			</tr>
 			<tr>
 				  <td>Pálffy István - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -56,7 +56,7 @@ permalink: /sz2
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/sz2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<h5><strong>2018. április 8-i becslések (átszavazással):</strong></h5><br/><img src="images/vk_charts/sz2.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">A Jobbikos jelölt az egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Budai Lóránt (Jobbik)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Budai Lóránt (Jobbik) </strong></h5>

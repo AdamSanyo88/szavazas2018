@@ -10,7 +10,7 @@ permalink: /gy1
     <div class="row">
           <div class="col s12">
 		  <h5>Győr-Moson-Sopron megye 1-es választókerület (Győr)</h5>
-<br/><h5><strong>2018-as eredmények</strong></h5><br/><br/><table class="striped">
+<br/><h5><strong>2018-as egyéni eredmények</strong></h5><br/><img src="images/vk_charts/egyeni_gy1.png" style="height: 100%; width: 100%; object-fit: contain"><br/><table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek</th>
@@ -36,7 +36,7 @@ permalink: /gy1
 			<tr>
                   <td>Jenei Ferenc - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
 				   <td id="id_lmp">6.4%</td>
-				   <td>-0.1%</td>
+				   <td>+0.1%</td>
 			</tr>
 			<tr>
 				  <td>Molnár József - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
@@ -47,7 +47,7 @@ permalink: /gy1
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
 <br/>
-<h6><strong>Legfrissebb 2018-as becslések eredménye (átszavazással):</strong></h6><br/><img src="images/vk_charts/gy1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<h5><strong>2018. április 8-i becslések (átszavazással):</strong></h5><br/><img src="images/vk_charts/gy1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 			<h6><strong>Becslés megbízhatósága a legesélyesebb jelöltről:</strong> <strong><span id="biztos_jelolt">Nincs egyértelmű esélyes</span></strong></h6><br/>
 <h5><strong>Legesélyesebb ellenzéki jelölt: <span id="masodik">Glázer Tímea (DK)</span><span id="esely2"></span><span></span></strong></h5>
 <h5><strong><a href="https://rendszervaltas2018.hu">Márki-Zay Péter ajánlása</a>: Glázer Tímea (DK)</strong></h5>
