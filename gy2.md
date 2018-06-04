@@ -21,20 +21,27 @@ permalink: /gy2
               <tbody>
              <tr>
                   <td>Kara Ákos - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">51.0% &emsp; <span id="id_fidesz2">(51.9%)</span></td>
+				   <td id="id_fidesz">57.6%</td>
+				   <td>+5.7%</td>
 			</tr>
-			<tr><td>Dr. Menyhárt Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.7% &emsp; <span id="id_jobbik2">(17.8%)</span></td></tr>
+			<tr><td>Dr. Menyhárt Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">21.1%</td>
+				   <td>+3.3%</td>
+			</tr>
 <tr>
                   <td>Greguss András - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">18.0% &emsp; <span id="id_baloldal2">(21.5%)</span></td>
+				   <td id="id_baloldal">13.2%</td>
+				   <td>-8.3%</td>
 			</tr>
 			<tr>
                   <td>Takács András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.8% &emsp; <span id="id_lmp2">(6.5%)</span></td>
+				   <td id="id_lmp">4.7%</td>
+				   <td>-1.8%</td>
 			</tr>
 			<tr>
 				  <td>Liszi Norbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(2.3%)</span></td>
+				   <td id="id_momentum">2.1%</td>
+				   <td>-0.2%</td>
 			</tr>
      
            

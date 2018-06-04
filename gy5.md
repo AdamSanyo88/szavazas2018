@@ -21,26 +21,33 @@ permalink: /gy5
               <tbody>
              <tr>
                   <td>Dr. Nagy István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">48.5% &emsp; <span id="id_fidesz2">(49.8%)</span></td>
+				   <td id="id_fidesz">54.9%</td>
+				   <td>+5.1%</td>
 			</tr>
-			<tr><td>Jávor Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">20.6% &emsp; <span id="id_jobbik2">(24.6%)</span></td></tr>
+			<tr><td>Jávor Miklós - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">26.1%</td>
+				   <td>+1.5%</td>
+			</tr>
 <tr>
                   <td>Bogyai Zsolt - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">16.6% &emsp; <span id="id_baloldal2">(16.3%)</span></td>
+				  <td id="id_baloldal">9.9%</td>
+				   <td>-6.4%</td>
 			</tr>
 			<tr>
                   <td>Goda Bálint Zsolt - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">8.4% &emsp; <span id="id_lmp2">(7.1%)</span></td>
+				   <td id="id_lmp">5.2%</td>
+				   <td>-1.9%</td>
 			</tr>
-			<tr>
-				  </tr>
+
 <tr>
 <td>Deschelák Károly Ferenc -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">2.0% &emsp; <span id="id_egyutt2">(1.4%)</span></td>
+ <td id="id_egyutt">0.4%</td>
+				   <td>-1.0%</td>
 </tr>                
 <tr>
 <td>Nagy Péter Krisztián - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">1.0% &emsp; <span id="id_mkkp2">(0.8%)</span></td>
+ <td id="id_mkkp">1.7%</td>
+				   <td>+0.9%</td>
 </tr> 
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>

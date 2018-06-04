@@ -21,25 +21,33 @@ permalink: /gy4
               <tbody>
              <tr>
                   <td>Barcza Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">45.6% &emsp; <span id="id_fidesz2">(46.8%)</span></td>
+				   <td id="id_fidesz">54.4%</td>
+				   <td>+7.6%</td>
 			</tr>
-			<tr><td>Dr. Brenner Koloman - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">16.8% &emsp; <span id="id_jobbik2">(17.1%)</span></td></tr>
+			<tr><td>Dr. Brenner Koloman - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">18.1%</td>
+				   <td>+1.0%</td>
+			</tr>
 <tr>
                   <td>Póczik Roland - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">17.2% &emsp; <span id="id_baloldal2">(20.8%)</span></td>
+				   <td id="id_baloldal">16.8%</td>
+				   <td>-4.0%</td>
 			</tr>
 			<tr>
                   <td>Szakács Gyula - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">10.3% &emsp; <span id="id_lmp2">(8.8%)</span></td>
+				   <td id="id_lmp">4.5%</td>
+				   <td>-4.3%</td>
 			</tr> 
 			<tr>
 				  <td>Supka-Kovácsné Holzhofer Tünde - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">3.6% &emsp; <span id="id_momentum2">(3.1%)</span></td>
+				   <td id="id_momentum">3.2%</td>
+				   <td>+0.1%</td>
 			</tr>
       
 <tr>
 <td>Tichy-Rács József - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">4.1% &emsp; <span id="id_mkkp2">(3.4%)</span></td>
+ <td id="id_mkkp">2.1%</td>
+				   <td>-1.3%</td>
 </tr>          
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>
