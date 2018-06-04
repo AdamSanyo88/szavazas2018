@@ -21,20 +21,27 @@ permalink: /szb6
               <tbody>
              <tr>
                   <td>dr. Simon Miklós - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">47.6% &emsp; <span id="id_fidesz2">(47.0%)</span></td>
+				    <td id="id_fidesz">56.5%</td>
+				   <td>+9.5%</td>
 			</tr>
-			<tr><td>Kész Géza - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">32.4% &emsp; <span id="id_jobbik2">(37.9%)</span></td></tr>
+			<tr><td>Kész Géza - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">20.3%</td>
+				   <td>-17.6%</td>
+			</tr>
 <tr>
                   <td>dr. Veres János - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">15.6% &emsp; <span id="id_baloldal2">(12.8%)</span></td>
+				   <td id="id_baloldal">19.5%</td>
+				   <td>+6.7%</td>
 			</tr>
 			<tr>
                   <td>Czimre József - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">2.5% &emsp; <span id="id_lmp2">(1.6%)</span></td>
+				   <td id="id_lmp">1.5%</td>
+				   <td>-0.1%</td>
 			</tr>
 			<tr>
 				  <td>Bankus Tibor János - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">0.9% &emsp; <span id="id_momentum2">(0.6%)</span></td>
+				 <td id="id_momentum">0.7%</td>
+				   <td>+0.1%</td>
 			</tr>
                 
               </tbody>

@@ -21,20 +21,27 @@ permalink: /ve4
               <tbody>
              <tr>
                   <td>dr. Kovács Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">49.5% &emsp; <span id="id_fidesz2">(48.6%)</span></td>
+				    <td id="id_fidesz">58.3%</td>
+				   <td>+9.7%</td>
 			</tr>
-			<tr><td>Töreki Milán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">25.4% &emsp; <span id="id_jobbik2">(32.3%)</span></td></tr>
+			<tr><td>Töreki Milán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">24.3%</td>
+				   <td>-8.0%</td>
+			</tr>
 <tr>
                   <td>Gőgös Zoltán - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">16.5% &emsp; <span id="id_baloldal2">(14.8%)</span></td>
+				    <td id="id_baloldal">13.3%</td>
+				   <td>-1.5%</td>
 			</tr>
 			<tr>
                   <td>Tomán Attila - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.1% &emsp; <span id="id_lmp2">(3.2%)</span></td>
+				    <td id="id_lmp">2.2%</td>
+				   <td>-1.0%</td>
 			</tr>
 			<tr>
 				  <td>Iker Áron - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">1.8% &emsp; <span id="id_momentum2">(1.1%)</span></td>
+				    <td id="id_momentum">0.8%</td>
+				   <td>-0.3%</td>
 			</tr>
                 
               </tbody>

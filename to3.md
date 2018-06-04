@@ -21,20 +21,27 @@ permalink: /to3
               <tbody>
              <tr>
                   <td>Süli János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">48.8% &emsp; <span id="id_fidesz2">(48.1%)</span></td>
+				    <td id="id_fidesz">57.8%</td>
+				   <td>+9.7%</td>
 			</tr>
-			<tr><td>Bencze János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">25.1% &emsp; <span id="id_jobbik2">(31.4%)</span></td></tr>
+			<tr><td>Bencze János - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+		 <td id="id_jobbik">24.2%</td>
+				   <td>-7.2%</td>
+			</tr>
 <tr>
                   <td>Heringes Anita - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">15.6% &emsp; <span id="id_baloldal2">(13.9%)</span></td>
+				    <td id="id_baloldal">11.8%</td>
+				   <td>-2.1%</td>
 			</tr>
 			<tr>
                   <td>Dömötörné Solymár Orsika - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">6.1% &emsp; <span id="id_lmp2">(4.9%)</span></td>
+				   <td id="id_lmp">3.1%</td>
+				   <td>-1.8%</td>
 			</tr>
 			<tr>
 				  <td>Dobosi Norbert - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.2% &emsp; <span id="id_momentum2">(1.7%)</span></td>
+				   <td id="id_momentum">1.3%</td>
+				   <td>-0.4%</td>
 			</tr>
                 
               </tbody>

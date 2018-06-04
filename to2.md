@@ -21,20 +21,27 @@ permalink: /to2
               <tbody>
              <tr>
                   <td>Potápi Árpád János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">46.7% &emsp; <span id="id_fidesz2">(45.6%)</span></td>
+				   <td id="id_fidesz">58.5%</td>
+				   <td>+12.9%</td>
 			</tr>
-			<tr><td>Fenyvesi Csaba Zsolt - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">26.0% &emsp; <span id="id_jobbik2">(33.4%)</span></td></tr>
+			<tr><td>Fenyvesi Csaba Zsolt - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">24.8%</td>
+				   <td>-9.6%</td>
+			</tr>
 <tr>
                   <td>Gecséné dr. Slárku Szilvia - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">18.3% &emsp; <span id="id_baloldal2">(16.5%)</span></td>
+				    <td id="id_baloldal">8.5%</td>
+				   <td>-8.0%</td>
 			</tr>
 			<tr>
                   <td>dr. Kretz István József - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.3% &emsp; <span id="id_lmp2">(3.3%)</span></td>
+				   <td id="id_lmp">4.8%</td>
+				   <td>+1.5%</td>
 			</tr>
 			<tr>
 				  <td>Sárdi Csaba László - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">1.9% &emsp; <span id="id_momentum2">(1.2%)</span></td>
+				  <td id="id_momentum">1.1%</td>
+				   <td>-0.1%</td>
 			</tr>
                 
               </tbody>

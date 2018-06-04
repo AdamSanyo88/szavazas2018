@@ -21,20 +21,27 @@ permalink: /va2
               <tbody>
              <tr>
                   <td>Ágh Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">51.0% &emsp; <span id="id_fidesz2">(52.2%)</span></td>
+				    <td id="id_fidesz">61.4%</td>
+				   <td>+9.2%</td>
 			</tr>
-			<tr><td>Rába Kálmán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.4% &emsp; <span id="id_jobbik2">(18.8%)</span></td></tr>
+			<tr><td>Rába Kálmán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">18.2%</td>
+				   <td>-0.6%</td>
+			</tr>
 <tr>
                   <td>dr. Horváth Attila - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">19.0% &emsp; <span id="id_baloldal2">(22.9%)</span></td>
+				   <td id="id_baloldal">14.0%</td>
+				   <td>-8.9%</td>
 			</tr>
 			<tr>
                   <td>György István Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">6.8% &emsp; <span id="id_lmp2">(4.5%)</span></td>
+				    <td id="id_lmp">3.6%</td>
+				   <td>-0.9%</td>
 			</tr>
 			<tr>
 				  <td>Kovács Attila - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.4% &emsp; <span id="id_momentum2">(1.6%)</span></td>
+				   <td id="id_momentum">1.3%</td>
+				   <td>-0.3%</td>
 			</tr>
                 
               </tbody>

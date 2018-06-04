@@ -21,20 +21,27 @@ permalink: /va3
               <tbody>
              <tr>
                   <td>V. Németh Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">55.1% &emsp; <span id="id_fidesz2">(54.9%)</span></td>
+				  <td id="id_fidesz">63.5%</td>
+				   <td>+8.6%</td>
 			</tr>
-			<tr><td>Bana Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">24.2% &emsp; <span id="id_jobbik2">(29.0%)</span></td></tr>
+			<tr><td>Bana Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">26.8%</td>
+				   <td>-2.2%</td>
+			</tr>
 <tr>
                   <td>Balogh Tibor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">11.2% &emsp; <span id="id_baloldal2">(9.7%)</span></td>
+				   <td id="id_baloldal">4.3%</td>
+				   <td>-5.4%</td>
 			</tr>
 			<tr>
                   <td>Bogáti András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.5% &emsp; <span id="id_lmp2">(4.6%)</span></td>
+				   <td id="id_lmp">3.1%</td>
+				   <td>-1.5%</td>
 			</tr>
 			<tr>
 				  <td>Gerencsér Mária - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">1.9% &emsp; <span id="id_momentum2">(1.6%)</span></td>
+				    <td id="id_momentum">1.0%</td>
+				   <td>-0.6%</td>
 			</tr>
                 
               </tbody>

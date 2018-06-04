@@ -20,16 +20,22 @@ permalink: /to1
               <tbody>
              <tr>
                   <td>Horváth István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">34.7% &emsp; <span id="id_fidesz2">(39.6%)</span></td>
+				    <td id="id_fidesz">51.6%</td>
+				   <td>+12.0%</td>
 			</tr>
-			<tr><td>Szabó Balázs György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">18.6% &emsp; <span id="id_jobbik2">(20.6%)</span></td></tr>
+			<tr><td>Szabó Balázs György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">9.4%</td>
+				   <td>-11.2%</td>
+			</tr>
 			<tr>
                   <td>dr. Hadházy Ákos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">19.2% &emsp; <span id="id_lmp2">(38.1%)</span></td>
+				    <td id="id_lmp">35.8%</td>
+				   <td>-2.3%</td>
 			</tr>
 <tr>
 <td>Pesti Vendel - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">1.9% &emsp; <span id="id_mkkp2">(1.7%)</span></td>
+  <td id="id_mkkp">1.4%</td>
+				   <td>-0.3%</td>
 </tr>        
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős az LMP)</span></strong></h6>

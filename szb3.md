@@ -21,20 +21,27 @@ permalink: /szb3
               <tbody>
              <tr>
                   <td>dr. Seszták Miklós - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">49.7% &emsp; <span id="id_fidesz2">(49.2%)</span></td>
+				   <td id="id_fidesz">61.9%</td>
+				   <td>+12.7%</td>
 			</tr>
-			<tr><td>Dr. Gyüre Csaba - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">30.3% &emsp; <span id="id_jobbik2">(35.8%)</span></td></tr>
+			<tr><td>Dr. Gyüre Csaba - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">27.7%</td>
+				   <td>-8.1%</td>
+			</tr>
 <tr>
                   <td>Rakóczki Dénesné - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">14.8% &emsp; <span id="id_baloldal2">(12.3%)</span></td>
+				    <td id="id_baloldal">4.8%</td>
+				   <td>-7.5%</td>
 			</tr>
 			<tr>
                   <td>Makranczi István - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">3.1% &emsp; <span id="id_lmp2">(2.0%)</span></td>
+				   <td id="id_lmp">2.4%</td>
+				   <td>+0.4%</td>
 			</tr>
 			<tr>
 				  <td>Matejka Rita - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">1.1% &emsp; <span id="id_momentum2">(0.7%)</span></td>
+				   <td id="id_momentum">0.7%</td>
+				   <td>+0.0%</td>
 			</tr>
                 
               </tbody>

@@ -21,20 +21,27 @@ permalink: /szb2
               <tbody>
              <tr>
                   <td>dr. Vinnai Győző - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">42.3% &emsp; <span id="id_fidesz2">(41.7%)</span></td>
+				    <td id="id_fidesz">47.9%</td>
+				   <td>+6.2%</td>
 			</tr>
-			<tr><td>dr. Fülöp Erik - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">33.8% &emsp; <span id="id_jobbik2">(40.3%)</span></td></tr>
+			<tr><td>dr. Fülöp Erik - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">35.0%</td>
+				   <td>-5.3%</td>
+			</tr>
 <tr>
                   <td>dr. Helmeczy László - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">17.1% &emsp; <span id="id_baloldal2">(14.5%)</span></td>
+				   <td id="id_baloldal">10.5%</td>
+				   <td>-4.0%</td>
 			</tr>
 			<tr>
                   <td>Cselószki Tamás - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">4.0% &emsp; <span id="id_lmp2">(2.5%)</span></td>
+				    <td id="id_lmp">2.8%</td>
+				   <td>+0.3%</td>
 			</tr>
 			<tr>
 				  <td>Szántó Gábor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">1.4% &emsp; <span id="id_momentum2">(0.9%)</span></td>
+				   <td id="id_momentum">1.1%</td>
+				   <td>+0.2%</td>
 			</tr>
        
          

@@ -21,23 +21,30 @@ permalink: /ve3
               <tbody>
              <tr>
                   <td>Fenyvesi Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">40.8% &emsp; <span id="id_fidesz2">(40.1%)</span></td>
+				    <td id="id_fidesz">46.9%</td>
+				   <td>+6.8%</td>
 			</tr>
-			<tr><td>Rig Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.7% &emsp; <span id="id_jobbik2">(39.2%)</span></td></tr>
+			<tr><td>Rig Lajos - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">40.6%</td>
+				   <td>+1.4%</td>
+			</tr>
 <tr>
                   <td>Kárpáti Lajos - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">19.4% &emsp; <span id="id_baloldal2">(17.2%)</span></td>
+				   <td id="id_baloldal">8.2%</td>
+				   <td>-9.0%</td>
 			</tr>
 			<tr>
                   <td>Takács Lajos - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">4.7% &emsp; <span id="id_lmp2">(3.0%)</span></td>
+				   <td id="id_lmp">2.3%</td>
+				   <td>-0.7%</td>
 			</tr>
 			<tr>
 				  </tr>
     
 <tr>
 <td>Pavlovics Márk - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">0.6% &emsp; <span id="id_mkkp2">(0.4%)</span></td>
+  <td id="id_mkkp">1.2%</td>
+				   <td>+0.8%</td>
 </tr>            
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz és Jobbik között)</span></strong></h6>

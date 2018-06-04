@@ -21,20 +21,27 @@ permalink: /szb5
               <tbody>
              <tr>
                   <td>Kovács Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">51.0% &emsp; <span id="id_fidesz2">(50.4%)</span></td>
+				    <td id="id_fidesz">58.6%</td>
+				   <td>+8.2%</td>
 			</tr>
-			<tr><td>dr. Apáti István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">31.1% &emsp; <span id="id_jobbik2">(36.0%)</span></td></tr>
+			<tr><td>dr. Apáti István - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">32.9%</td>
+				   <td>-3.1%</td>
+			</tr>
 <tr>
                   <td>Csomáliné Rácz Erika - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">14.3% &emsp; <span id="id_baloldal2">(11.8%)</span></td>
+				   <td id="id_baloldal">4.2%</td>
+				   <td>-7.6%</td>
 			</tr>
 			<tr>
                   <td>Tárkányi Sándor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">2.1% &emsp; <span id="id_lmp2">(1.3%)</span></td>
+				    <td id="id_lmp">1.8%</td>
+				   <td>+0.5%</td>
 			</tr>
 			<tr>
 				  <td>Magyar Péter - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">0.7% &emsp; <span id="id_momentum2">(0.5%)</span></td>
+				    <td id="id_momentum">0.7%</td>
+				   <td>+0.2%</td>
 			</tr>
                 
               </tbody>

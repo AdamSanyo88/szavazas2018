@@ -21,20 +21,27 @@ permalink: /za3
               <tbody>
              <tr>
                   <td>Cseresnyés Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">39.2% &emsp; <span id="id_fidesz2">(38.4%)</span></td>
+				    <td id="id_fidesz">48.8%</td>
+				   <td>+10.4%</td>
 			</tr>
-			<tr><td>Zakó László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">30.7% &emsp; <span id="id_jobbik2">(38.9%)</span></td></tr>
+			<tr><td>Zakó László - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			 <td id="id_jobbik">34.6%</td>
+				   <td>-4.3%</td>
+			</tr>
 <tr>
                   <td>Horváth Jácint - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">20.2% &emsp; <span id="id_baloldal2">(17.7%)</span></td>
+				    <td id="id_baloldal">10.0%</td>
+				   <td>-7.7%</td>
 			</tr>
 			<tr>
                   <td>dr. Károlyi Attila József - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.8% &emsp; <span id="id_lmp2">(3.7%)</span></td>
+				    <td id="id_lmp">3.6%</td>
+				   <td>-0.1%</td>
 			</tr>
 			<tr>
 				  <td>dr. Polónyi Tamás - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.0% &emsp; <span id="id_momentum2">(1.3%)</span></td>
+				   <td id="id_momentum">1.5%</td>
+				   <td>+0.2%</td>
 			</tr>
                 
               </tbody>
