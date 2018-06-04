@@ -21,16 +21,22 @@ permalink: /no2
               <tbody>
              <tr>
                   <td>Balla Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">49.0% &emsp; <span id="id_fidesz2">(48.8%)</span></td>
+				   <td id="id_fidesz">54.3%</td>
+				   <td>+5.5%</td>
 			</tr>
-			<tr><td>Dobrocsi Lénárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">25.5% &emsp; <span id="id_jobbik2">(33.0%)</span></td></tr>
+			<tr><td>Dobrocsi Lénárd - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+		<td id="id_jobbik">27.5%</td>
+				   <td>-5.5%</td>
+			</tr>
 <tr>
                   <td>Csukáné Szerémy Andrea <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">16.2% &emsp; <span id="id_baloldal2">(14.6%)</span></td>
+				   <td id="id_baloldal">12.4%</td>
+				   <td>-2.2%</td>
 			</tr>
 			<tr>
                   <td>Gyenes Szilárd - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.5% &emsp; <span id="id_lmp2">(3.6%)</span></td>
+				   <td id="id_lmp">3.8%</td>
+				   <td>+0.2%</td>
 			</tr>
 			<tr>
 				  </tr>

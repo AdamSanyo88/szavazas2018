@@ -21,24 +21,32 @@ permalink: /pe7
               <tbody>
              <tr>
                   <td>dr. Szűcs Lajos - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">41.0% &emsp; <span id="id_fidesz2">(41.6%)</span></td>
+				   <td id="id_fidesz">44.8%</td>
+				   <td>+3.2%</td>
 			</tr>
-			<tr><td>Sas Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">24.2% &emsp; <span id="id_jobbik2">(28.5%)</span></td></tr>
+			<tr><td>Sas Zoltán - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">29.5%</td>
+				   <td>-1.0%</td>
+			</tr>
 <tr>
                   <td>Nyeste Andrea - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">21.7% &emsp; <span id="id_baloldal2">(22.0%)</span></td>
+				   <td id="id_baloldal">14.3%</td>
+				   <td>-7.7%</td>
 			</tr>
 			<tr>
                   <td>Apostol Klaudia - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(5.0%)</span></td>
+				   <td id="id_lmp">5.8%</td>
+				   <td>+0.8%</td>
 			</tr>
 			<tr>
 				  <td>Kalasovszky Bernadett - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.7% &emsp; <span id="id_momentum2">(1.8%)</span></td>
+				   <td id="id_momentum">2.2%</td>
+				   <td>+0.4%</td>
 			</tr>
 <tr>
 <td>Tóth Judit -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">1.8% &emsp; <span id="id_egyutt2">(1.1%)</span></td>
+ <td id="id_egyutt">1.2%</td>
+				   <td>+0.1%</td>
 </tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>

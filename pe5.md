@@ -21,16 +21,22 @@ permalink: /pe5
               <tbody>
              <tr>
                   <td>Tuzson Bence - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">38.5% &emsp; <span id="id_fidesz2">(40.3%)</span></td>
+				   <td id="id_fidesz">43.3%</td>
+				   <td>+3.0%</td>
 			</tr>
-			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">17.3% &emsp; <span id="id_jobbik2">(17.2%)</span></td></tr>
+			<tr><td>Varga Zoltán Péter - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">15.5%</td>
+				   <td>-1.7%</td>
+			</tr>
 <tr>
                   <td>Rónai Sándor - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">22.5% &emsp; <span id="id_baloldal2">(38.7%)</span></td>
+				  <td id="id_baloldal">36.2%</td>
+				   <td>-2.5%</td>
 			</tr>
 			<tr>
 				  <td>Kohut Ákos - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.5% &emsp; <span id="id_momentum2">(3.8%)</span></td>
+				  <td id="id_momentum">3.5%</td>
+				   <td>-0.3%</td>
 			</tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Enyhén Fideszes (baloldali kihívó)</span></strong></h6>

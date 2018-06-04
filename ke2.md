@@ -21,27 +21,32 @@ permalink: /ke2
               <tbody>
              <tr>
                   <td>dr. Völner Pál - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">44.0% &emsp; <span id="id_fidesz2">(45.5%)</span></td>
+				   <td id="id_fidesz">45.2%</td>
+				   <td>-0.3%</td>
 			</tr>
-			<tr><td>Nunkovics Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">22.9% &emsp; <span id="id_jobbik2">(27.2%)</span></td></tr>
+			<tr><td>Nunkovics Tibor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">34.3%</td>
+				   <td>+7.1%</td>
+			</tr>
 <tr>
                   <td>dr. Vadai Ágnes - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">18.3% &emsp; <span id="id_baloldal2">(18.7%)</span></td>
+				   <td id="id_baloldal">11.2%</td>
+				   <td>-7.5%</td>
 			</tr>
 			<tr>
                   <td>dr. Munkácsy Béla Attila - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">6.7% &emsp; <span id="id_lmp2">(4.9%)</span></td>
+				   <td id="id_lmp">4.6%</td>
+				   <td>-0.3%</td>
 			</tr>
-			<tr>
-				  </tr>
-        
 <tr>
 <td>Papp László - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">0.8% &emsp; <span id="id_mkkp2">(0.7%)</span></td>
+ <td id="id_mkkp">1.7%</td>
+				   <td>+1.0%</td>
 </tr>     
 <tr>
 <td>Cserép János - független</td>
-<td id="id_egyeb2">3.0% &emsp; (3.0%)</td>
+<td id="id_egyeb2">1.5%</td>
+				   <td>-1.5%</td>
 </tr>       
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>

@@ -21,20 +21,27 @@ permalink: /so4
               <tbody>
              <tr>
                   <td>Witzmann Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">45.1% &emsp; <span id="id_fidesz2">(46.1%)</span></td>
+				 <td id="id_fidesz">51.1%</td>
+				   <td>+5.0%</td>
 			</tr>
-			<tr><td>Potocskáné Kőrösi Anita - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">21.6% &emsp; <span id="id_jobbik2">(21.5%)</span></td></tr>
+			<tr><td>Potocskáné Kőrösi Anita - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+		<td id="id_jobbik">19.3%</td>
+				   <td>-2.2%</td>
+			</tr>
 <tr>
                   <td>dr. Magyar György - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">21.8% &emsp; <span id="id_baloldal2">(26.3%)</span></td>
+				   <td id="id_baloldal">25.0%</td>
+				   <td>+1.3%</td>
 			</tr>
 			<tr>
                   <td>Gál Ferenc - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">6.8% &emsp; <span id="id_lmp2">(4.5%)</span></td>
+				 <td id="id_lmp">2.1%</td>
+				   <td>-2.4%</td>
 			</tr>
 			<tr>
 				  <td>Nagy Dávid - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">2.4% &emsp; <span id="id_momentum2">(1.6%)</span></td>
+				 <td id="id_momentum">1.1%</td>
+				   <td>-0.5%</td>
 			</tr>
                 
               </tbody>

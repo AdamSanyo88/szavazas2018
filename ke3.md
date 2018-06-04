@@ -21,25 +21,33 @@ permalink: /ke3
               <tbody>
              <tr>
                   <td>Czunyiné dr. Bertalan Judit - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">44.3% &emsp; <span id="id_fidesz2">(45.2%)</span></td>
+				  <td id="id_fidesz">51.0%</td>
+				   <td>+5.8%</td>
 			</tr>
-			<tr><td>Tóth Endre - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">21.4% &emsp; <span id="id_jobbik2">(27.1%)</span></td></tr>
+			<tr><td>Tóth Endre - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">26.6%</td>
+				   <td>-0.5%</td>
+			</tr>
 <tr>
                   <td>Sólyon Jöran - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">18.4% &emsp; <span id="id_baloldal2">(18.2%)</span></td>
+				<td id="id_baloldal">12.4%</td>
+				   <td>-5.8%</td>
 			</tr>
 			<tr>
                   <td>Talabér Gábor - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.6% &emsp; <span id="id_lmp2">(5.0%)</span></td>
+				  <td id="id_lmp">4.9%</td>
+				   <td>-0.1%</td>
 			</tr>
 			<tr>
 				  <td>Lakatos Béla - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">5.6% &emsp; <span id="id_momentum2">(3.7%)</span></td>
+				  <td id="id_momentum">2.4%</td>
+				   <td>-1.3%</td>
 			</tr>
               
 <tr>
 <td>Velki Dávid - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">0.9% &emsp; <span id="id_mkkp2">(0.7%)</span></td>
+ <td id="id_mkkp">1.7%</td>
+				   <td>+1.0%</td>
 </tr>    
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Biztos Fideszes</span></strong></h6>

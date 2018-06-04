@@ -21,24 +21,32 @@ permalink: /so1
               <tbody>
              <tr>
                   <td>Gelencsér Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">38.5% &emsp; <span id="id_fidesz2">(39.3%)</span></td>
+				   <td id="id_fidesz">43.7%</td>
+				   <td>+4.4%</td>
 			</tr>
-			<tr><td>Miháldinecz Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">23.7% &emsp; <span id="id_jobbik2">(29.4%)</span></td></tr>
+			<tr><td>Miháldinecz Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">31.9%</td>
+				   <td>+2.5%</td>
+			</tr>
 <tr>
                   <td>dr. László Imre - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">21.2% &emsp; <span id="id_baloldal2">(21.1%)</span></td>
+				   <td id="id_baloldal">12.8%</td>
+				   <td>-8.3%</td>
 			</tr>
 			<tr>
                   <td>dr. Busa József - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">8.6% &emsp; <span id="id_lmp2">(5.7%)</span></td>
+				   <td id="id_lmp">4.6%</td>
+				   <td>-1.1%</td>
 			</tr>
 			<tr>
 				  <td>Berg Dániel - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">4.0% &emsp; <span id="id_momentum2">(2.7%)</span></td>
+				  <td id="id_momentum">1.7%</td>
+				   <td>-1.0%</td>
 			</tr>
 <tr>
 <td>Kerepesi Tibor -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">3.0% &emsp; <span id="id_egyutt2">(1.8%)</span></td>
+ <td id="id_egyutt">1.0%</td>
+				   <td>-0.8%</td>
 </tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes</span></strong></h6>

@@ -21,22 +21,29 @@ permalink: /he2
               <tbody>
              <tr>
                   <td>Horváth László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">35.6% &emsp; <span id="id_fidesz2">(35.8%)</span></td>
+				   <td id="id_fidesz">46.2%</td>
+				   <td>+10.4%</td>
 			</tr>
-			<tr><td>Vona Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">40.9% &emsp; <span id="id_jobbik2">(48.2%)</span></td></tr>
+			<tr><td>Vona Gábor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">41.9%</td>
+				   <td>-6.3%</td>
+			</tr>
 <tr>
                   <td>Orosz Bálint János - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">16.2% &emsp; <span id="id_baloldal2">(12.6%)</span></td>
+				   <td id="id_baloldal">8.3%</td>
+				   <td>-4.3%</td>
 			</tr>
 			<tr>
                   <td>Reichenberger János Gyula - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">4.3% &emsp; <span id="id_lmp2">(2.8%)</span></td>
+				   <td id="id_lmp">2.3%</td>
+				   <td>-0.5%</td>
 			</tr>
 			<tr>
 				  </tr>
 <tr>
 <td>Réz Ágnes -  Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
- <td id="id_egyutt">1.0% &emsp; <span id="id_egyutt2">(0.6%)</span></td>
+ <td id="id_egyutt">0.3%</td>
+				   <td>-0.3%</td>
 </tr>                
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Kétesélyes (Fidesz és Jobbik között)</span></strong></h6>

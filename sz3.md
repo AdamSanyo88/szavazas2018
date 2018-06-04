@@ -21,20 +21,27 @@ permalink: /sz3
               <tbody>
              <tr>
                   <td>Kovács Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">51.3% &emsp; <span id="id_fidesz2">(50.9%)</span></td>
+				   <td id="id_fidesz">55.3%</td>
+				   <td>+4.4%</td>
 			</tr>
-			<tr><td>Dr. Lukács László György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">28.9% &emsp; <span id="id_jobbik2">(33.9%)</span></td></tr>
+			<tr><td>Dr. Lukács László György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">32.9%</td>
+				   <td>-1.0%</td>
+			</tr>
 <tr>
                   <td>Bodó Jánosné - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_baloldal">13.4% &emsp; <span id="id_baloldal2">(11.2%)</span></td>
+				   <td id="id_baloldal">5.4%</td>
+				   <td>-5.8%</td>
 			</tr>
 			<tr>
                   <td>Sallai Róbert Benedek - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">3.8% &emsp; <span id="id_lmp2">(3.0%)</span></td>
+				   <td id="id_lmp">3.4%</td>
+				   <td>+0.4%</td>
 			</tr>
 			<tr>
 				  <td>Mikle Richárd - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">1.3% &emsp; <span id="id_momentum2">(1.1%)</span></td>
+				   <td id="id_momentum">0.9%</td>
+				   <td>+0.2%</td>
 			</tr>
                 
               </tbody>

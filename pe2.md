@@ -21,16 +21,22 @@ permalink: /pe2
               <tbody>
              <tr>
                   <td>Csenger-Zalán Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">41.0% &emsp; <span id="id_fidesz2">(44.3%)</span></td>
+				  <td id="id_fidesz">44.1%</td>
+				   <td>-0.2%</td>
 			</tr>
-			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">11.2% &emsp; <span id="id_jobbik2">(9.1%)</span></td></tr>
+			<tr><td>Császárné Kollár Tímea - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">8.4%</td>
+				   <td>-0.7%</td>
+			</tr>
 			<tr>
                   <td>dr. Szél Bernadett - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">17.2% &emsp; <span id="id_lmp2">(44.9%)</span></td>
+				  <td id="id_lmp">43.7%</td>
+				   <td>-1.2%</td>
 			</tr>    
 <tr>
 <td>Betlehem Csaba - MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
- <td id="id_mkkp">2.0% &emsp; <span id="id_mkkp2">(1.7%)</span></td>
+ <td id="id_mkkp">2.2%</td>
+				   <td>+0.5%</td>
 </tr>  
               </tbody>
             </table><h6><strong>Választókerületi profil (2014-ben): <span id="profil">Stabil Fideszes (erős az LMP)</span></strong></h6>

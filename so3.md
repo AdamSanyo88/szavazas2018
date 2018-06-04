@@ -21,16 +21,22 @@ permalink: /so3
               <tbody>
              <tr>
                   <td>Móring József Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">46.3% &emsp; <span id="id_fidesz2">(45.4%)</span></td>
+				   <td id="id_fidesz">51.9%</td>
+				   <td>+6.5%</td>
 			</tr>
-			<tr><td>Dr. Steinmetz Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">27.5% &emsp; <span id="id_jobbik2">(34.6%)</span></td></tr>
+			<tr><td>Dr. Steinmetz Ádám - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">37.2%</td>
+				   <td>+2.6%</td>
+			</tr>
 <tr>
                   <td>dr. Mészáros Géza József - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">16.9% &emsp; <span id="id_baloldal2">(15.3%)</span></td>
+				   <td id="id_baloldal">7.2%</td>
+				   <td>-8.1%</td>
 			</tr>
 			<tr>
                   <td>Filák Péter - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">5.5% &emsp; <span id="id_lmp2">(3.5%)</span></td>
+				  <td id="id_lmp">2.0%</td>
+				   <td>-1.5%</td>
 			</tr>
                 
               </tbody>

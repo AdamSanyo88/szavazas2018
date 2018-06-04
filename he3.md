@@ -21,20 +21,27 @@ permalink: /he3
               <tbody>
              <tr>
                   <td>Szabó Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">40.5% &emsp; <span id="id_fidesz2">(40.2%)</span></td>
+				   <td id="id_fidesz">50.8%</td>
+				   <td>+10.6%</td>
 			</tr>
-			<tr><td>Sneider Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> <td id="id_jobbik">36.5% &emsp; <span id="id_jobbik2">(43.0%)</span></td></tr>
+			<tr><td>Sneider Tamás - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_jobbik">35.2%</td>
+				   <td>-7.8%</td>
+			</tr>
 <tr>
                   <td>Tóth Norbert - MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_baloldal">16.4% &emsp; <span id="id_baloldal2">(13.3%)</span></td>
+				   <td id="id_baloldal">8.7%</td>
+				   <td>-4.6%</td>
 			</tr>
 			<tr>
                   <td>Tóth Norbert - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">3.9% &emsp; <span id="id_lmp2">(2.5%)</span></td>
+				   <td id="id_lmp">3.1%</td>
+				   <td>+0.6%</td>
 			</tr>
 			<tr>
 				  <td>Déri Tibor - Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">1.4% &emsp; <span id="id_momentum2">(0.9%)</span></td>
+				   <td id="id_momentum">1.0%</td>
+				   <td>+0.1%</td>
 			</tr>
                 
               </tbody>
