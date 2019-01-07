@@ -23,6 +23,8 @@ permalink: /valasztas2018
 
 <h5>Átszavazási hajlandóság</h5>
 
+<iframe width="900" height="1022" src="https://datastudio.google.com/embed/reporting/1lfsGiKJsNm1N1sd9cCB2s2nJk0wVHxBC/page/pTPS" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 <h5>Esélyes jelöltek és választókerületek</h5>
 
 <h5>Különbség jelöltek között</h5>
