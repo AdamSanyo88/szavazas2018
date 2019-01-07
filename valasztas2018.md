@@ -8,6 +8,7 @@ permalink: /valasztas2018
 
 <div class="section">
 
+<div class="container">
    <div class="row">
           <div class="col s12">
 <h5>Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcsolatos összes lényeges információ.</h5>
@@ -18,7 +19,9 @@ permalink: /valasztas2018
 
 </div>
 </div>
+</div>
 
+<div class="container">
     <div class="row">
           <div class="col s12">
 <h4 id="106">A 106 esélyes és választókerületek eredménye</h4>
@@ -681,11 +684,20 @@ permalink: /valasztas2018
 			
           </div>
 	 </div>
+	 </div>
+<div class="container>
 <div class="row">
           <div class="col s12">
 
 <h4 id="elemzes">A 2018-as választás elemzése</h4>
 
+<h5>Átszavazási hajlandóság</h5>
+
+<h5>Esélyes jelöltek</h5>
+
+<h5>Különbség jelöltek között</h5>
+
+</div>
 </div>
 </div>
 
