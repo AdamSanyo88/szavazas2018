@@ -24,9 +24,12 @@ permalink: /rolam
         </div>
 		<div class="col l5 offset-l1 card light-green lighten-4">
           <div class="card-content">
-            <span class="center card-title">Mennyire megbízhatók az ilyen előrejelzések?</span>
+            <span class="center card-title">Cikkek és tanulmányok a taktikai szavazásról</span>
 
-<p>A becslések a választókerületek többségében megbizható előrejelzést adnak az esélyes jelölt személyére. Ám várható, hogy lesznek olyan körzetek, ahol vagy nem lehet megjósolni az esélyest, vagy az előrejelzés ellenére mégis más személy lesz a tényleges esélyes. Ugyanez vonatkozik az adott kerület várható győztesére is.</p>
+<p><a href="https://444.hu/2018/03/24/honnan-tudhatjuk-hogy-ki-az-eselyes-ellenzeki-jelolt">Honnan tudhatjuk, hogy ki az esélyes ellenzéki jelölt? (444.hu)</a></p>
+<p><a href="https://merce.hu/2018/04/11/a-taktikai-szavazas-lett-a-rendszervaltas-utani-magyar-politika-egyik-legnagyobb-mozgalma/">A taktikai szavazás lett a rendszerváltás utáni magyar politika egyik legnagyobb mozgalma (Mérce.hu)</a></p>
+<p>Böcskei Balázs és Szabó Andrea: Várakozások és valóságok - Parlamenti választás 2018 (Napvilág Kiadó) - több tanulmány is elemzi a taktikai szavazás hatásait</a></p>
+
           </div>
 		  </div>
     </div>

@@ -12,17 +12,10 @@ permalink: /valasztas2018
           <div class="col s12">
 Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcsolatos összes lényeges információ. Az alábbi listában különböző témakörök közül lehet választani (mint például az egyes választókerületek eredményei vagy az esélyes jelöltek listája).
 
-<table class="striped">
-              <thead>
-                <tr>
-                    <th><a href="#106">106 esélyes jelölt listája</a></th>
-                    <th><a href="#keruletek">Egyéni választókerületek listája és eredményei</a></th>
-					<th><a href="#elemzes">A 2018-as választásról készült elemzés</a></th>
-                </tr>
-              </thead>
-              <tbody>
-			  </tbody>
-</table>
+<h5><a href="#106">- 106 esélyes jelölt listája</a></h5>
+<h5><a href="#keruletek">- Egyéni választókerületek listája és eredményei</a></h5>
+<h5><a href="#elemzes">- A 2018-as választásról készült elemzés</a></h5>
+
 
 </div>
 </div>
@@ -578,10 +571,9 @@ Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcs
               </tbody>
             </table>
           </div>
-    </div>
-	
-<div class="row">
-          <div class="col m6">
+
+
+          <div class="col l5 offset-l1 card light-green lighten-3">
 		  <h3 id="keruletek">Választókerületek eredménye</h3> 
 <p class="light">Az alábbi táblázat megmutatja, hogy mely települések tartoznak egy-egy választókerülethez. Ha egy adott településre vagy budapesti kerületre keresésnél, használd a <strong>Ctrl+F</strong> billentyűkombinációt vagy válaszd a <strong>Keresés az oldalon</strong> opciót okostelefonról és tabletről.</p>
             <table class="striped">
