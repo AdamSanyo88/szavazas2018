@@ -673,7 +673,7 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_za3"><strong>Zakó László (Jobbik)</strong></td>
 </tr>	
               </tbody>
-            </table>
+</table>
 			
 
 <h4 id="elemzes">A 2018-as választás elemzése</h4>
@@ -684,6 +684,7 @@ permalink: /valasztas2018
 
 <h5>Különbség jelöltek között</h5>
 
+</div>
 </div>
 </div>
 
