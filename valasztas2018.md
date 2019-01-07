@@ -301,7 +301,7 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_cs2"><strong>Joób Márton (MSZP-Párbeszéd)</strong></td>
 </tr>	
 <tr><td><a href="../cs3">Csongrád megyei 3.</a></td>
-<td class="green accent-3 id="gyoztes_cs3">Szabó Zoltán Ferenc (Jobbik)</td>
+<td class="green accent-3" id="gyoztes_cs3">Szabó Zoltán Ferenc (Jobbik)</td>
 <td id="masodik_cs3">Szabó Zoltán Ferenc (Jobbik)</td>
 <td id="masodik_cs3">---</td>
 <td class="green accent-3" id="gyoztes_cs3">Szabó Zoltán Ferenc (Jobbik)</td>
