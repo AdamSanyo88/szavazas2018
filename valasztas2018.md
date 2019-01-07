@@ -13,7 +13,6 @@ permalink: /valasztas2018
 Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcsolatos összes lényeges információ. Az alábbi listában különböző témakörök közül lehet választani (mint például az egyes választókerületek eredményei vagy az esélyes jelöltek listája).
 
 <h5><a href="#106">- 106 esélyes jelölt listája és választókerületek eredménye</a></h5>
-<h5><a href="#keruletek">- Egyéni választókerületek listája és eredményei</a></h5>
 <h5><a href="#elemzes">- A 2018-as választásról készült elemzés</a></h5>
 
 
@@ -22,9 +21,10 @@ Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcs
 
     <div class="row">
           <div class="col m8">
-<h3 id="106">A 106 esélyes és választókerületek eredménye</h3>
+<h4 id="106">A 106 esélyes és választókerületek eredménye</h4>
 <h5>Az alábbi lista tartalmazza a 106 esélyes jelölt nevét a <strong>taktikaiszavazas.hu</strong>, a <strong>Rendszerváltás 2018 (Márki-Zay Péter)</strong> és a <strong>V18 csoport</strong> ajánlásai alapján.</h5>
-<p><strong><span class="green accent-3">Kiemelve jelenik meg</span> az 53 ellenzéki nyerhető kerületek listája.</strong></p>. Az utolsó oszlop ("Tényleges esélyes") pedig megmutatja, hogy ki lett volna a tényleg legesélyesebb kihívó a Fidesszel szemben.</p>
+<p><strong><span class="green accent-3">Kiemelve jelenik meg</span> az 53 ellenzéki nyerhető kerületek listája.</strong></p>. 
+<p>Az utolsó oszlop (<strong>Tényleges esélyes</strong>) pedig megmutatja, hogy ki lett volna a tényleg legesélyesebb kihívó a Fidesszel szemben.</p>
 <br/>
 
 <table class="striped">
