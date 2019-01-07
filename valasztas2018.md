@@ -9,15 +9,35 @@ permalink: /valasztas2018
 <div class="section">
    <div class="row">
           <div class="col s12">
+
 <h5>Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcsolatos összes lényeges információ.</h5>
 
-<h5><a href="#106">106 esélyes jelölt listája és választókerületek eredményei</a></h5>
 <h5><a href="#elemzes">A 2018-as választásról készült elemzés</a></h5>
+<h5><a href="#106">106 esélyes jelölt listája és választókerületek eredményei</a></h5>
 
 <br/>
+		  
+		  
+<h4 id="elemzes">A 2018-as választás elemzése</h4>
+
+
+<h5>Átszavazási hajlandóság</h5>
+
+<h5>Esélyes jelöltek és választókerületek</h5>
+
+<h5>Különbség jelöltek között</h5>
+
+</div>	
+</div>		
+</div>		
+
+<div class="section">
+   <div class="row">
+          <div class="col s12">
+
 
 <h4 id="106">A 106 esélyes és választókerületek eredménye</h4>
-<p>Az alábbi lista tartalmazza a 106 esélyes jelölt nevét a <strong>taktikaiszavazas.hu</strong>, a <strong>Rendszerváltás 2018 (Márki-Zay Péter)</strong> és a <strong>V18 csoport</strong> ajánlásai alapján.</hp>
+<p>Az alábbi lista tartalmazza a 106 esélyes jelölt nevét a <strong>taktikaiszavazas.hu</strong>, a <strong>Rendszerváltás 2018 (Márki-Zay Péter)</strong> és a <strong>V18 csoport</strong> ajánlásai alapján.</p>
 <p><strong><span class="green accent-3">Kiemelve jelenik meg</span> azon jelöltek neve, akik tényleg a legesélyesebbek voltak a Fidesszel szemben.</strong></p> 
 
 <br/>
@@ -673,22 +693,6 @@ permalink: /valasztas2018
 </tr>	
               </tbody>
 </table>
-
-</div>	
-</div>		
-</div>		
-
-<div class="section">
-   <div class="row">
-          <div class="col s12">
-
-<h4 id="elemzes">A 2018-as választás elemzése</h4>
-
-<h5>Átszavazási hajlandóság</h5>
-
-<h5>Esélyes jelöltek</h5>
-
-<h5>Különbség jelöltek között</h5>
 
 </div>	
 </div>		
