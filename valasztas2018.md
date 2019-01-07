@@ -304,7 +304,7 @@ permalink: /valasztas2018
 <td class="green accent-3 id="gyoztes_cs3">Szabó Zoltán Ferenc (Jobbik)</td>
 <td id="masodik_cs3">Szabó Zoltán Ferenc (Jobbik)</td>
 <td id="masodik_cs3">---</td>
-<td class="green accent-3 id="gyoztes_cs3">Szabó Zoltán Ferenc (Jobbik)</td>
+<td class="green accent-3" id="gyoztes_cs3">Szabó Zoltán Ferenc (Jobbik)</td>
 </tr>	
 <tr><td><a href="../cs4">Csongrád megyei 4.</a></td>
 <td class="green accent-3" id="gyoztes_cs4"><strong>Dr. Kiss Attila (Jobbik)</strong></td>
@@ -504,7 +504,7 @@ permalink: /valasztas2018
 <td class="red accent-3" id="gyoztes_pe4">Matkovich Ilona (LMP)</td>
 <td id="masodik_pe4">Matkovich Ilona (LMP)</td>
 <td id="masodik_pe4">---</td>
-<td class="red accent-3" id="gyoztes_pe4">Fehér Zsolt (Jobbik)</td
+<td class="red accent-3" id="gyoztes_pe4">Fehér Zsolt (Jobbik)</td>
 </tr>	
 <tr><td><a href="../pe5">Pest megyei 5.</a></td>
 <td class="green accent-3" id="gyoztes_pe5"><strong>Rónai Sándor (DK)</strong></td>
@@ -676,7 +676,7 @@ permalink: /valasztas2018
 </tr>	
 <tr><td><a href="../za1">Zala megyei 1.</a></td>
 <td class="green accent-3" id="gyoztes_za1"><strong>Benke Richárd (Jobbik)</strong></td>
-<td class="green accent-3" id="masodik_za1"><strong>Góra Balázs (MSZP-Párbeszéd)</strong></td>
+<td id="masodik_za1"><strong>Góra Balázs (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_za1"><strong>Góra Balázs (MSZP-Párbeszéd)</strong></td>
 <td class="green accent-3" id="gyoztes_za1"><strong>Benke Richárd (Jobbik)</strong></td>
 </tr>	
