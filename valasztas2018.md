@@ -12,18 +12,18 @@ permalink: /valasztas2018
 
 <h5>Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcsolatos összes lényeges információ.</h5>
 
-<h5><a href="#elemzes">A 2018-as választásról készült elemzés</a></h5>
+<h5><a href="#elemzes">A 2018-as választás összefoglalója</a></h5>
 <h5><a href="#106">106 esélyes jelölt listája és választókerületek eredményei</a></h5>
 
 <br/>
 		  
 		  
-<h4 id="elemzes">A 2018-as választás elemzése</h4>
+<h4 id="elemzes">A 2018-as választás eredményei</h4>
 
 
-<h5>Átszavazási hajlandóság és listás eredmények</h5>
+<h5>Egyéni és listás szavazatok, átszavazási hajlandóság</h5>
 
-<p>Az alábbi táblázatok és grafikonok a kerületenkénti átszavazási hajlandóságot és a különböző pártok listás eredményét mutatják meg. Mind a grafikonok, mind a táblázatok szabadon letölthetők bárki számára. A táblázatok jobb alsó sarkába kattintva érhető el a teljes képernyős megtekintési mód.</p>
+<p>Az alábbi táblázatok és grafikonok a kerületenkénti átszavazási hajlandóságot és a különböző pártok egyéni és listás eredményeit mutatják meg. Mind a grafikonok, mind a táblázatok szabadon letölthetők bárki számára. A táblázatok jobb alsó sarkába kattintva érhető el a teljes képernyős megtekintési mód.</p>
 
 
 <h5>Választókerületi adatok</h5>
@@ -31,14 +31,13 @@ permalink: /valasztas2018
 <iframe width="900" height="1022" src="https://datastudio.google.com/embed/reporting/1lfsGiKJsNm1N1sd9cCB2s2nJk0wVHxBC/page/pTPS" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br/>
-<h5>Megyei, budapesti, és megyei jogú városok adatai</h5>
+<h5>Összes település adatai (kiemelve Budapest és a megyei jogú városok)</h5>
 <br/>
 <iframe width="900" height="1013" src="https://datastudio.google.com/embed/reporting/1IkYaL_au-1TtnmQtrni1ljT1_LdkZgLy/page/tLPS" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <h5>Esélyes jelöltek és választókerületi előrejelzések</h5>
 
-<p>Ahogy az eredmények szekcióban is ki van emelve, 106-ból 96 kerületben sikeres volt az esélyes jelölt előrejelzése. 10 esetben a Jobbik erősebbnek bizonyult a vártnál a MSZP-DK közös jelöltjénél. Ezek a hibák nem voltak hatással egy mandátum sorsára sem (csak olyan körzetekben volt rossz előrejelzés, amelyekben az ellenzéknek nem volt esélye nyerni).</p>
-
+<p>A végső előrejelzés 106-ból 96 kerületben sikeresen mutatta meg az esélyes jelöltet. 10 esetben a Jobbik erősebbnek bizonyult a vártnál a MSZP-DK közös jelöltjénél. Ezek a hibák nem voltak hatással egy mandátum sorsára sem (csak olyan körzetekben volt rossz előrejelzés, amelyekben az ellenzéknek nem volt esélye nyerni).</p>
 
 </div>	
 </div>		
