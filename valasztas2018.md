@@ -39,7 +39,7 @@ permalink: /valasztas2018
 <h4 id="106">A 106 esélyes és választókerületek eredménye</h4>
 <p>Az alábbi lista tartalmazza a 106 esélyes jelölt nevét a <strong>taktikaiszavazas.hu</strong>, a <strong>Rendszerváltás 2018 (Márki-Zay Péter)</strong> és a <strong>V18 csoport</strong> ajánlásai alapján.</p>
 <p><strong><span class="green accent-3">Zölddel kiemelve jelenik meg</span></strong> azon jelöltek neve, akik tényleg a legesélyesebbek voltak a Fidesszel szemben.</p>
-<p><strong><span class="red accent-3">Pirossal kiemelve jelenik meg</strong> azon jelöltek listája, ahol hibás volt az esélyes jelöltre adott előrejelzés.</p>
+<p><strong><span class="red accent-1">Pirossal kiemelve jelenik meg<</span>/strong> azon jelöltek listája, ahol hibás volt az esélyes jelöltre adott előrejelzés.</p>
 
 <br/>
 
@@ -193,10 +193,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_bk5">Farkas Gergely (Jobbik)</td>
 </tr>	
 <tr><td><a href="../bk6">Bács-Kiskun megyei 6.</a></td>
-<td class="red accent-3" id="gyoztes_bk6">Hajdú Miklós (MSZP-Párbeszéd)</td>
+<td class="red accent-1" id="gyoztes_bk6">Hajdú Miklós (MSZP-Párbeszéd)</td>
 <td id="masodik_bk6">Hajdú Miklós (MSZP-Párbeszéd)</td>
 <td id="masodik_bk6">---</td>
-<td class="red accent-3" id="gyoztes_bk6">Grünfelder Zoltán (Jobbik)</td>
+<td class="red accent-1" id="gyoztes_bk6">Grünfelder Zoltán (Jobbik)</td>
 </tr>	
 <tr><td><a href="../ba1">Baranya megyei 1.</a></td>
 <td class="green accent-3" id="gyoztes_ba1"><strong>Dr. Mellár Tamás (független)</strong></td>
@@ -205,10 +205,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_ba1"><strong>Dr. Mellár Tamás (független)</strong></td>
 </tr>	
 <tr><td><a href="../ba2">Baranya megyei 2.</a></td>
-<td class="red accent-3" id="gyoztes_ba2"><strong>Nagy Ferenc (DK)</strong></td>
+<td class="red accent-1" id="gyoztes_ba2"><strong>Nagy Ferenc (DK)</strong></td>
 <td id="masodik_ba2"><strong>Nagy Ferenc (DK)</strong></td>
 <td id="masodik_ba2"><strong>Nagy Ferenc (DK)</strong></td>
-<td class="red accent-3" id="gyoztes_ba2"><strong>Gyimesi Gábor (Jobbik)</strong></td>
+<td class="red accent-1" id="gyoztes_ba2"><strong>Gyimesi Gábor (Jobbik)</strong></td>
 </tr>	
 <tr><td><a href="../ba3">Baranya megyei 3.</a></td>
 <td class="green accent-3"  id="gyoztes_ba3">Szőcs Norbert (Jobbik)</td>
@@ -217,10 +217,10 @@ permalink: /valasztas2018
 <td class="green accent-3"  id="gyoztes_ba3">Szőcs Norbert (Jobbik)</td>
 </tr>	
 <tr><td><a href="../ba4">Baranya megyei 4.</a></td>
-<td class="red accent-3" id="gyoztes_ba4"><strong>dr. Vass Péter (MSZP-Párbeszéd)</strong></td>
+<td class="red accent-1" id="gyoztes_ba4"><strong>dr. Vass Péter (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_ba4"><strong>dr. Vass Péter (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_ba4"><strong>dr. Vass Péter (MSZP-Párbeszéd)</strong></td>
-<td class="red accent-3" id="gyoztes_ba4"><strong>Andrics Alíz (Jobbik)</strong></td>
+<td class="red accent-1" id="gyoztes_ba4"><strong>Andrics Alíz (Jobbik)</strong></td>
 </tr>	
 <tr><td><a href="../be1">Békés megyei 1.</a></td>
 <td class="green accent-3" id="gyoztes_be1">Kocziha Tünde (Jobbik)</td>
@@ -253,10 +253,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_baz1"><strong>Jakab Péter Dénes (Jobbik)</strong></td>
 </tr>
 <tr><td><a href="../baz2">Borsod-Abaúj-Zemplén megyei 2.</a></td>
-<td class="red accent-3" id="gyoztes_baz2"><strong>dr. Varga László (MSZP-Párbeszéd)</strong></td>
+<td class="red accent-1" id="gyoztes_baz2"><strong>dr. Varga László (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_baz2"><strong>dr. Varga László (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_baz2"><strong>dr. Varga László (MSZP-Párbeszéd)</strong></td>
-<td class="red accent-3" id="gyoztes_baz2"><strong>Pakusza Zoltán (Jobbik)</strong></td>
+<td class="red accent-1" id="gyoztes_baz2"><strong>Pakusza Zoltán (Jobbik)</strong></td>
 </tr>	
 <tr><td><a href="../baz3">Borsod-Abaúj-Zemplén megyei 3.</a></td>
 <td class="green accent-3" id="gyoztes_baz3"><strong>Farkas Péter Barnabás (Jobbik)</strong></td>
@@ -349,10 +349,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_gy1">Glázer Tímea (DK)</td>
 </tr>	
 <tr><td><a href="../gy2">Győr-Moson-Sopron megyei 2.</a></td>
-<td class="red accent-3" id="gyoztes_gy2">Greguss András (MSZP-Párbeszéd)</td>
+<td class="red accent-1" id="gyoztes_gy2">Greguss András (MSZP-Párbeszéd)</td>
 <td id="masodik_gy2">Greguss András (MSZP-Párbeszéd)</td>
 <td id="masodik_gy2">---</td>
-<td class="red accent-3" id="gyoztes_gy2">Dr. Menyhárt Miklós András (Jobbik)</td>
+<td class="red accent-1" id="gyoztes_gy2">Dr. Menyhárt Miklós András (Jobbik)</td>
 </tr>	
 <tr><td><a href="../gy3">Győr-Moson-Sopron megyei 3.</a></td>
 <td class="green accent-3" id="gyoztes_gy3">Magyar Zoltán (Jobbik)</td>
@@ -361,10 +361,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_gy3">Magyar Zoltán (Jobbik)</td>
 </tr>	
 <tr><td><a href="../gy4">Győr-Moson-Sopron megyei 4.</a></td>
-<td class="red accent-3" id="gyoztes_gy4">Póczik Roland (MSZP-Párbeszéd)</td>
+<td class="red accent-1" id="gyoztes_gy4">Póczik Roland (MSZP-Párbeszéd)</td>
 <td id="masodik_gy4">Póczik Roland (MSZP-Párbeszéd)</td>
 <td id="masodik_gy4">---</td>
-<td class="red accent-3" id="gyoztes_gy4">Dr. Brenner Koloman (Jobbik)</td>
+<td class="red accent-1" id="gyoztes_gy4">Dr. Brenner Koloman (Jobbik)</td>
 </tr>	
 <tr><td><a href="../gy5">Győr-Moson-Sopron megyei 5.</a></td>
 <td class="green accent-3" id="gyoztes_gy5">Jávor Miklós (Jobbik)</td>
@@ -453,10 +453,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_sz4"><strong>Csányi Tamás (Jobbik)</strong></td>
 </tr>	
 <tr><td><a href="../ke1">Komárom-Esztergom megyei 1.</a></td>
-<td class="red accent-3" id="gyoztes_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
+<td class="red accent-1" id="gyoztes_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
-<td class="red accent-3" id="gyoztes_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
+<td class="red accent-1" id="gyoztes_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
 </tr>	
 <tr><td><a href="../ke2">Komárom-Esztergom megyei 2.</a></td>
 <td class="green accent-3" id="gyoztes_ke2">Nunkovics Tibor (Jobbik)</td>
@@ -501,10 +501,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_pe3">Király Miklós (DK)</td>
 </tr>	
 <tr><td><a href="../pe4">Pest megyei 4.</a></td>
-<td class="red accent-3" id="gyoztes_pe4">Matkovich Ilona (LMP)</td>
+<td class="red accent-1" id="gyoztes_pe4">Matkovich Ilona (LMP)</td>
 <td id="masodik_pe4">Matkovich Ilona (LMP)</td>
 <td id="masodik_pe4">---</td>
-<td class="red accent-3" id="gyoztes_pe4">Fehér Zsolt (Jobbik)</td>
+<td class="red accent-1" id="gyoztes_pe4">Fehér Zsolt (Jobbik)</td>
 </tr>	
 <tr><td><a href="../pe5">Pest megyei 5.</a></td>
 <td class="green accent-3" id="gyoztes_pe5"><strong>Rónai Sándor (DK)</strong></td>
@@ -573,10 +573,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_so3">Dr. Steinmetz Ádám (Jobbik)</td>
 </tr>	
 <tr><td><a href="../so4">Somogy megyei 4.</a></td>
-<td class="red accent-3" id="gyoztes_so4"><strong>dr. Magyar György (MSZP-Párbeszéd)</strong></td>
+<td class="red accent-1" id="gyoztes_so4"><strong>dr. Magyar György (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_so4"><strong>dr. Magyar György (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_so4"><strong>dr. Magyar György (MSZP-Párbeszéd)</strong></td>
-<td class="red accent-3" id="gyoztes_so4"><strong>Potocskáné Kőrösi Anita (Jobbik)</strong></td>
+<td class="red accent-1" id="gyoztes_so4"><strong>Potocskáné Kőrösi Anita (Jobbik)</strong></td>
 </tr>	
 <tr><td><a href="../szb1">Szabolcs-Szatmár-Bereg megyei 1.</a></td>
 <td class="green accent-3" id="gyoztes_szb1"><strong>Csabai Lászlóné (MSZP-Párbeszéd)</strong></td>
@@ -639,10 +639,10 @@ permalink: /valasztas2018
 <td class="green accent-3" id="gyoztes_va1">dr. Nemény András (MSZP-Párbeszéd)</td>
 </tr>	
 <tr><td><a href="../va2">Vas megyei 2.</a></td>
-<td class="red accent-3" id="gyoztes_va2">dr. Horváth Attila (MSZP-Párbeszéd)</td>
+<td class="red accent-1" id="gyoztes_va2">dr. Horváth Attila (MSZP-Párbeszéd)</td>
 <td id="masodik_va2">dr. Horváth Attila (MSZP-Párbeszéd)</td>
 <td id="masodik_va2">---</td>
-<td class="red accent-3" id="gyoztes_va2">Rába Kálmán (Jobbik)</td>
+<td class="red accent-1" id="gyoztes_va2">Rába Kálmán (Jobbik)</td>
 </tr>	
 <tr><td><a href="../va3">Vas megyei 3.</a></td>
 <td class="green accent-3" id="gyoztes_va3">Bana Tibor (Jobbik)</td>
