@@ -20,7 +20,7 @@ Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcs
 </div>
 
     <div class="row">
-          <div class="col m8">
+          <div class="col s12">
 <h4 id="106">A 106 esélyes és választókerületek eredménye</h4>
 <h5>Az alábbi lista tartalmazza a 106 esélyes jelölt nevét a <strong>taktikaiszavazas.hu</strong>, a <strong>Rendszerváltás 2018 (Márki-Zay Péter)</strong> és a <strong>V18 csoport</strong> ajánlásai alapján.</h5>
 <p><strong><span class="green accent-3">Kiemelve jelenik meg</span> az 53 ellenzéki nyerhető kerületek listája.</strong></p>. 
