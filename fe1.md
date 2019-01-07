@@ -77,7 +77,7 @@ permalink: /fe1
 			
 
 
-<p>Az aktuális becslés leírásáról <a href="../metodologia#0406">bővebben itt olvashatsz</a>.</p>
+
           </div>
     </div>
 </div>
