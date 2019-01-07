@@ -698,6 +698,4 @@ permalink: /valasztas2018
 <h5>Különbség jelöltek között</h5>
 
 </div>
-</div>
-</div>
 
