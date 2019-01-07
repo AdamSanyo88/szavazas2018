@@ -690,11 +690,5 @@ permalink: /valasztas2018
 <td id="masodik_za3"><strong>Zakó László (Jobbik)</strong></td>
 <td id="masodik_za3"><strong>Zakó László (Jobbik)</strong></td>
 <td class="green accent-3" id="gyoztes_za3"><strong>Zakó László (Jobbik)</strong></td>
-</tr>	
-              </tbody>
-</table>
-
-</div>	
-</div>		
-</div>		
+</tr>			
 
