@@ -456,7 +456,7 @@ permalink: /valasztas2018
 <td class="red accent-1" id="gyoztes_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
 <td id="masodik_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
-<td class="red accent-1" id="gyoztes_ke1"><strong>Fekete Miklós (MSZP-Párbeszéd)</strong></td>
+<td class="red accent-1" id="gyoztes_ke1"><strong>Boda Bánk László (Jobbik)</strong></td>
 </tr>	
 <tr><td><a href="../ke2">Komárom-Esztergom megyei 2.</a></td>
 <td class="green accent-3" id="gyoztes_ke2">Nunkovics Tibor (Jobbik)</td>
