@@ -10,8 +10,7 @@ permalink: /budapest1
     <div class="row">
           <div class="col s12">
 		  <h5>Budapest I. kerület</h5>
-<br/><h5><strong>2014-es polgármester választás eredménye</strong></h5><br/><img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/><table class="striped">
-
+<br/><h5><strong>2014-es polgármester választás eredménye</strong></h5><br/><img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 <table class="striped">
               <thead>
@@ -27,7 +26,7 @@ permalink: /budapest1
 				   <td id="id_fidesz">55.5%</td>
 				   <td id="id_fidesz2">5,914</td>
 			</tr>
-			<tr><td>Dr. Kakuk György András - DK <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<tr><td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:23px;height:30px;"></td> 
 			<td id="id_masodik">10.3%</td>
 			<td id="id_masodik_2">1,095</td>
 			</tr>
@@ -55,7 +54,7 @@ permalink: /budapest1
 			<td id="id_jobbik">7.7%</td>
 			</tr>
 			<tr>
-                  <td>MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:34px;height:30px;"></td>
+                  <td>MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
 				   <td id="id_mszp">14.9%</td>
 			</tr>
 			<tr>
@@ -63,15 +62,15 @@ permalink: /budapest1
 				   <td id="id_lmp">14.8%</td>
 			</tr>
 			<tr>
-                  <td>DK <img src="images/dk_logo.png" style="width:52px;height:30px;"></td>
+                  <td>DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 				   <td id="id_dk">6.4%</td>
 			</tr>
 			<tr>
-                  <td>Momentum <img src="images/momentum_logo.png" style="width:52px;height:30px;"></td>
+                  <td>Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
 				   <td id="id_momentum">7.5%</td>
 			</tr>
              <tr>
-                  <td>MKKP <img src="images/mkkp_logo.png" style="width:52px;height:30px;"></td>
+                  <td>MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
 				   <td id="id_mkkp">3.2%</td>
 			</tr>
    
