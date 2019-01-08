@@ -11,7 +11,7 @@ permalink: /budapest1
           <div class="col s12">
 		  <h5>Budapest I. kerület</h5>
 <br/>
-<h5><strong>2014-es polgármester választás eredménye</strong></h5>
+<h5><strong><a href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T001/tjk.html">2014-es polgármester választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain">
 <br/>
@@ -26,17 +26,59 @@ permalink: /budapest1
               <tbody>
              <tr>
                    <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">55.5%</td>
-				   <td id="id_fidesz2">5,914</td>
+				   <td id="id_fidesz_2014">55.5%</td>
+				   <td id="id_fidesz2_2014">5,914</td>
 			</tr>
 			<tr>
 			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
-			<td id="id_masodik">10.3%</td>
-			<td id="id_masodik2">1,095</td>
+			<td id="id_masodik_2014">10.3%</td>
+			<td id="id_masodik2_2014">1,095</td>
 			</tr>
               </tbody>
             </table>
 <br/>
+
+<h5><strong>2014-es önkormányzati választáson nyert egyéni mandátumok</strong></h5><br/><br/>
+
+<table class="striped">
+              <thead>
+                <tr>
+                    <th>Pártok</th>
+                    <th>Mandátumok</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                  <td>Fidesz-KDNP</td>
+				   <td>10</td>
+			</tr>
+			<tr><td>Jobbik</td> 
+				<td>0</td>
+			</tr>
+			<tr>
+                  <td>MSZP</td>
+				   <td>0</td>
+			</tr>
+			<tr>
+                  <td>LMP</td>
+				   <td>0</td>
+			</tr>
+			<tr>
+                  <td>DK</td>
+				   <td>0</td>
+			</tr>
+			<tr>
+                  <td>Együtt</td>
+				   <td>0</td>
+			</tr>
+             <tr>
+                  <td>Független</td>
+				   <td>0</td>
+			</tr>
+   
+              </tbody>
+            </table>
+
 <h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
