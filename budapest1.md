@@ -11,10 +11,10 @@ permalink: /budapest1
           <div class="col s12">
 		  <h5>Budapest I. kerület</h5>
 <br/>
-<h5><strong><a href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T001/tjk.html">2014-es polgármester választás eredménye</a></strong></h5>
+<h5><strong><a href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T001/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain">
-<br/>
+
 			<table class="striped">
               <thead>
                 <tr>
