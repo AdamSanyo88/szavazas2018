@@ -11,14 +11,16 @@ permalink: /budapest1
           <div class="col s12">
 		  <h5>Budapest I. kerület</h5>
 <br/>
-<h5><strong>2014-es polgármester választás eredménye</strong></h5><br/><img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
-
+<h5><strong>2014-es polgármester választás eredménye</strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain">
+<br/>
 			<table class="striped">
               <thead>
                 <tr>
                     <th>Jelöltek (első két helyezett)</th>
                     <th>Szavazatarány (százalék)</th>
-					<th>Szavazatok száma<th>
+					<th>Szavazatok száma</th>
                 </tr>
               </thead>
               <tbody>
@@ -27,14 +29,15 @@ permalink: /budapest1
 				   <td id="id_fidesz">55.5%</td>
 				   <td id="id_fidesz2">5,914</td>
 			</tr>
-			<tr><td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<tr>
+			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
 			<td id="id_masodik">10.3%</td>
 			<td id="id_masodik2">1,095</td>
 			</tr>
               </tbody>
             </table>
-
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/>
+<h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>
