@@ -10,7 +10,7 @@ permalink: /valasztas2018
    <div class="row">
           <div class="col s12">
 
-<h5>Ezen az oldalon megtalálható a 2018-as országgyűlési választásokkal kapcsolatos összes lényeges információ.</h5>
+<h6>Ezen az oldalon megtalálható a 2018-as országgyűlési választások eredményeinek összefoglalója és a választásokat megelőző erőjelzések listája.</h6>
 
 <h5><a href="#elemzes">A 2018-as választás összefoglalója</a></h5>
 <h5><a href="#106">106 esélyes jelölt listája és választókerületek eredményei</a></h5>
@@ -37,7 +37,7 @@ permalink: /valasztas2018
 
 <h5>Esélyes jelöltek és választókerületi előrejelzések</h5>
 
-<p>A végső előrejelzés 106-ból 96 kerületben sikeresen mutatta meg az esélyes jelöltet. 10 esetben a Jobbik erősebbnek bizonyult a vártnál a MSZP-DK közös jelöltjénél. Ezek a hibák nem voltak hatással egy mandátum sorsára sem (csak olyan körzetekben volt rossz előrejelzés, amelyekben az ellenzéknek nem volt esélye nyerni).</p>
+<p>A végső előrejelzés 106-ból 96 kerületben sikeresen mutatta meg az esélyes jelöltet. 10 esetben a Jobbik jelöltje népszerűbbnek bizonyult a vártnál a MSZP-DK közös jelöltjéhez képest. Ezek a hibák nem voltak hatással egy mandátum sorsára sem (csak olyan körzetekben volt rossz előrejelzés, amelyekben az ellenzéknek nem volt esélye nyerni).</p>
 
 </div>	
 </div>		
