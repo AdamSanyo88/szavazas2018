@@ -16,28 +16,21 @@ permalink: /budapest1
 <table class="striped">
               <thead>
                 <tr>
-                    <th>Jelöltek (első három)</th>
+                    <th>Jelöltek (első két helyezett)</th>
                     <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma<th>
                 </tr>
               </thead>
               <tbody>
              <tr>
-                  <td>dr. Hargitai János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">57.6%</td>
+                  <td>	Dr. Nagy Gábor Tamás <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="id_fidesz">55.5%</td>
+				   <td id="id_fidesz2">5,914</td>
 			</tr>
-			<tr><td>Szőcs Norbert - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			<td id="id_masodik">23.7%</td>
+			<tr><td>Dr. Kakuk György András - DK <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="id_masodik">10.3%</td>
+			<td id="id_masodik_2">1,095</td>
 			</tr>
-<tr>
-                  <td>Lukács János - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_harmadik">8.9%</td>
-			</tr>
-			<tr>
-                  <td>Bosnyák András - LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.0%</td>
-			</tr>
-			<tr>
-				  </tr>
              
    
               </tbody>
@@ -56,30 +49,30 @@ permalink: /budapest1
               <tbody>
              <tr>
                   <td>Fidesz <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">57.6%</td>
+				   <td id="id_fidesz">42.8%</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			<td id="id_jobbik">23.7%</td>
+			<td id="id_jobbik">7.7%</td>
 			</tr>
 			<tr>
                   <td>MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_mszp">8.9%</td>
+				   <td id="id_mszp">14.9%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">7.0%</td>
+				   <td id="id_lmp">14.8%</td>
 			</tr>
 			<tr>
                   <td>DK <img src="images/dk_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_dk">7.0%</td>
+				   <td id="id_dk">6.4%</td>
 			</tr>
 			<tr>
                   <td>Momentum <img src="images/momentum_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_momentum">7.0%</td>
+				   <td id="id_momentum">7.5%</td>
 			</tr>
              <tr>
                   <td>MKKP <img src="images/mkkp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_mkkp">7.0%</td>
+				   <td id="id_mkkp">3.2%</td>
 			</tr>
    
               </tbody>
