@@ -11,7 +11,7 @@ permalink: /budapest1
           <div class="col s12">
 		  <h5>Budapest I. kerület</h5>
 <br/>
-<h5><strong><a id="webURL" href="xx">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M14/T014/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -37,7 +37,7 @@ permalink: /budapest1
               </tbody>
             </table>
 <br/>
-<p><span id="megjegyzes"></span></p>
+
 <br/>
 
 <h5><strong>2014-es önkormányzati választáson nyert egyéni képviselőhelyek száma</strong></h5><br/><br/>
@@ -85,7 +85,8 @@ permalink: /budapest1
               </tbody>
             </table>
 
-<h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<p><span id="megjegyzes"></span><br/></p>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>
