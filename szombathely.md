@@ -11,7 +11,7 @@ permalink: /budapest1
           <div class="col s12">
 		  <h5>Budapest I. kerület</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T001/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="xx">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -26,60 +26,60 @@ permalink: /budapest1
               <tbody>
              <tr>
                    <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz_2014">55.5%</td>
-				   <td id="id_fidesz2_2014">5,914</td>
+				   <td id="fidesz_mayor">43.8%</td>
+				   <td id="fidesz_mayor2">12,582</td>
 			</tr>
 			<tr>
 			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
-			<td id="id_masodik_2014">10.3%</td>
-			<td id="id_masodik2_2014">1,095</td>
+			<td id="ellenzek_mayor">41.9%</td>
+			<td id="ellenzek_mayor2">12,022</td>
 			</tr>
               </tbody>
             </table>
 <br/>
-<p><span id="megjegyzes">xxx</span></p>
+<p><span id="megjegyzes">* ÉLJEN SZOMBATHELY-MSZP-DK-EGYÜTT közös jelölt</span></p>
 <br/>
 
-<h5><strong>2014-es önkormányzati választáson nyert egyéni mandátumok</strong></h5><br/><br/>
+<h5><strong>2014-es önkormányzati választáson nyert egyéni képviselőhelyek száma</strong></h5><br/><br/>
 
 <table class="striped">
               <thead>
                 <tr>
                     <th>Pártok</th>
-                    <th>Mandátumok</th>
+                    <th>Egyéni képviselőhelyek</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Fidesz-KDNP</td>
-				   <td>10</td>
+				   <td id="fidesz_mp">7</td>
 			</tr>
 			<tr><td>Jobbik</td> 
-				<td>0</td>
+				<td id="jobbik_mp">0</td>
 			</tr>
 			<tr>
                   <td>MSZP</td>
-				   <td>0</td>
+				   <td id="mszp_mp">7 *</td>
 			</tr>
 			<tr>
                   <td>LMP</td>
-				   <td>0</td>
+				   <td id="lmp_mp">0</td>
 			</tr>
 			<tr>
                   <td>DK</td>
-				   <td>0</td>
+				   <td id="dk_mp">0</td>
 			</tr>
 			<tr>
                   <td>Együtt</td>
-				   <td>0</td>
+				   <td id="egyutt_mp">0</td>
 			</tr>
 			 <tr>
-                  <td>Egyéb párt</td>
-				   <td>0</td>
+                  <td>Egyéb szervezet</td>
+				   <td id="egyeb_mp">0</td>
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td>0</td>
+				   <td id="fuggetlen_mp">0</td>
 			</tr>
    
               </tbody>
@@ -97,30 +97,34 @@ permalink: /budapest1
               <tbody>
              <tr>
                   <td>Fidesz <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="id_fidesz">42.8%</td>
+				   <td id="fidesz_2018">49.2%</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			<td id="id_jobbik">7.7%</td>
+			<td id="jobbik_2018">13.3%</td>
 			</tr>
 			<tr>
                   <td>MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="id_mszp">14.9%</td>
+				   <td id="mszp_2018">16.5%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="id_lmp">14.8%</td>
+				   <td id="lmp_2018">8.6%</td>
 			</tr>
 			<tr>
                   <td>DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="id_dk">6.4%</td>
+				   <td id="dk_2018">5.5%</td>
 			</tr>
 			<tr>
                   <td>Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="id_momentum">7.5%</td>
+				   <td id="momentum_2018">3.5%</td>
+			</tr>
+			<tr>
+                  <td>Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
+				   <td id="egyutt_2018">0.6%</td>
 			</tr>
              <tr>
                   <td>MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="id_mkkp">3.2%</td>
+				   <td id="mkkp_2018">1.9%</td>
 			</tr>
    
               </tbody>
