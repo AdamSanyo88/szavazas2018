@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Budapest I. kerület
-permalink: /budapest1
+title: Eger
+permalink: /eger
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
@@ -9,11 +9,11 @@ permalink: /budapest1
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest I. kerület</h5>
+		  <h5>Eger</h5>
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M10/T025/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/budapest1.png" style="height: 100%; width: 100%; object-fit: contain">
+<img src="images/2014_onkormanyzat/eger.png" style="height: 100%; width: 100%; object-fit: contain">
 
 			<table class="striped">
               <thead>
@@ -86,7 +86,7 @@ permalink: /budapest1
             </table>
 
 <p><span id="megjegyzes"></span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/eger.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>

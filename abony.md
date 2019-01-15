@@ -13,7 +13,7 @@ permalink: /abony
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M14/T001/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/abony1.png" style="height: 100%; width: 100%; object-fit: contain">
+<img src="images/2014_onkormanyzat/abony.png" style="height: 100%; width: 100%; object-fit: contain">
 
 			<table class="striped">
               <thead>
@@ -86,7 +86,7 @@ permalink: /abony
             </table>
 
 <p><span id="megjegyzes"></span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/abony1.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/abony.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>
