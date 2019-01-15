@@ -25,12 +25,12 @@ permalink: /ajka
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>	Fenyvesi Zoltán Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">42.7%</td>
 				   <td id="fidesz_mayor2">4,258</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Schwartz Béla - MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;">
 			<td id="ellenzek_mayor">50.8%</td>
 			<td id="ellenzek_mayor2">5,062</td>
 			</tr>

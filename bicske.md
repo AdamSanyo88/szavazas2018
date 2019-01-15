@@ -25,12 +25,12 @@ permalink: /bicske
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Pálffy Károly - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">54.2%</td>
 				   <td id="fidesz_mayor2">2,007</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Szilágyi László - PM</td> 
 			<td id="ellenzek_mayor">24.2%</td>
 			<td id="ellenzek_mayor2">897</td>
 			</tr>

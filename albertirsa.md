@@ -25,12 +25,12 @@ permalink: /albertirsa
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>	Szőke Szabolcs Károly - Fidesz <img src="images/fidesz2_logo.png" style="width:30px;height:30px;"></td>
 				   <td id="fidesz_mayor">22.2%</td>
 				   <td id="fidesz_mayor2">937</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Fazekas László - TEAM-VÁLASZTÁSI SZÖV</td> 
 			<td id="ellenzek_mayor">54.0%</td>
 			<td id="ellenzek_mayor2">2,281</td>
 			</tr>

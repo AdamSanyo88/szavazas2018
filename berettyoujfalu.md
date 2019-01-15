@@ -25,12 +25,12 @@ permalink: /berettyoujfalu
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>	Muraközi István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">62.9%</td>
 				   <td id="fidesz_mayor2">2,742</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Szeifert Ferenc - Független</td> 
 			<td id="ellenzek_mayor">19.5%</td>
 			<td id="ellenzek_mayor2">851</td>
 			</tr>

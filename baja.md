@@ -25,12 +25,12 @@ permalink: /baja
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Fercsák Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">50.2%</td>
 				   <td id="fidesz_mayor2">5,278</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>	Széll Péter László - Sikeres Bajáért</td> 
 			<td id="ellenzek_mayor">38.5%</td>
 			<td id="ellenzek_mayor2">4,049</td>
 			</tr>

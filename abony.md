@@ -25,12 +25,12 @@ permalink: /abony
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Magyar Gábor Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">40.5%</td>
 				   <td id="fidesz_mayor2">1,811</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>	Romhányiné Dr. Balogh Edit - Független</td> 
 			<td id="ellenzek_mayor">53.0%</td>
 			<td id="ellenzek_mayor2">2,370</td>
 			</tr>

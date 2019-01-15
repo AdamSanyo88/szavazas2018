@@ -25,12 +25,12 @@ permalink: /bekes
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>	Rácz Attila Tibor - Fidesz <img src="images/fidesz2_logo.png" style="width:30px;height:30px;"></td>
 				   <td id="fidesz_mayor">26.2%</td>
 				   <td id="fidesz_mayor2">1,711</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Izsó Gábor Lajos - Független</td> 
 			<td id="ellenzek_mayor">59.9%</td>
 			<td id="ellenzek_mayor2">3,920</td>
 			</tr>
