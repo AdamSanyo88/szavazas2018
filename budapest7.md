@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Budapest VII. kerület
-permalink: /budapest1
+permalink: /budapest7
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
