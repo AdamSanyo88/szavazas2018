@@ -30,7 +30,7 @@ permalink: /budapest9
 				   <td id="fidesz_mayor2">7,954</td>
 			</tr>
 			<tr>
-			<td>Dr. Gegesy Ferenc József - Együtt-PM</td> 
+			<td>Dr. Gegesy Ferenc József - Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td> 
 			<td id="ellenzek_mayor">43.1%</td>
 			<td id="ellenzek_mayor2">7,720</td>
 			</tr>

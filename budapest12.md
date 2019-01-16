@@ -30,7 +30,7 @@ permalink: /budapest12
 				   <td id="fidesz_mayor2">13,893</td>
 			</tr>
 			<tr>
-			<td>Dr. Komáromi Zoltán Pál - Együtt-PM</td> 
+			<td>Dr. Komáromi Zoltán Pál - Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td> 
 			<td id="ellenzek_mayor">11.1%</td>
 			<td id="ellenzek_mayor2">2,701</td>
 			</tr>

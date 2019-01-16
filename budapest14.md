@@ -30,7 +30,7 @@ permalink: /budapest14
 				   <td id="fidesz_mayor2">16,914</td>
 			</tr>
 			<tr>
-			<td>Karácsony Gergely Szilveszter - Együtt-PM</td> 
+			<td>Karácsony Gergely Szilveszter - Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td> 
 			<td id="ellenzek_mayor">42.5%</td>
 			<td id="ellenzek_mayor2">18,126</td>
 			</tr>

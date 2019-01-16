@@ -30,7 +30,7 @@ permalink: /budapest6
 				   <td id="fidesz_mayor2">5,686</td>
 			</tr>
 			<tr>
-			<td>Dr. Kiss Róbert - Együtt-PM</td> 
+			<td>Dr. Kiss Róbert - Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td> 
 			<td id="ellenzek_mayor">32.8%</td>
 			<td id="ellenzek_mayor2">3,779</td>
 			</tr>

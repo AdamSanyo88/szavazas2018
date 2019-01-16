@@ -30,7 +30,7 @@ permalink: /budapest3
 				   <td id="fidesz_mayor2">23,615</td>
 			</tr>
 			<tr>
-			<td>Béres András - Együtt-PM</td> 
+			<td>Béres András - Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td> 
 			<td id="ellenzek_mayor">28.1%</td>
 			<td id="ellenzek_mayor2">12,417</td>
 			</tr>
