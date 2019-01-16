@@ -113,7 +113,7 @@ permalink: /salgotarjan
             </table>
 
 <p><span id="megjegyzes">* MSZP-DK-EGYÜTT-TVE-ST közös jelölt</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/salgotarjan.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/salgotarjan.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>

@@ -86,7 +86,7 @@ permalink: /budapest14
             </table>
 
 <p><span id="megjegyzes">* MSZP-EGYÜTT-DK-PM-ÖSSZEFOGÁS ZUGLÓ közös jelölt</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest14.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/budapest14.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>

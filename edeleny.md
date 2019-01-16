@@ -86,7 +86,7 @@ permalink: /edeleny
             </table>
 
 <p><span id="megjegyzes">* 2 CIVIL ÖSSZEFOGÁS, 1 CSAK EDELÉNY jelölt     ** A Fidesz jelöltje 3. lett</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/edeleny.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/edeleny.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>

@@ -86,7 +86,7 @@ permalink: /gyomaendrod
             </table>
 
 <p><span id="megjegyzes">* 2 Fidesz és 2 KDNP jelölt     ** KVE jelölt</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/gyomaendrod.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/gyomaendrod.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>

@@ -86,7 +86,7 @@ permalink: /budapest23
             </table>
 
 <p><span id="megjegyzes">* 3 IVE és 1 CIVIL SZERVEZETEK jelölt</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest23.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/budapest23.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>

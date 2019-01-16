@@ -86,7 +86,7 @@ permalink: /budapest4
             </table>
 
 <p><span id="megjegyzes">* Fidesz-ÚE közös jelölt    ** 1 MSZP-DK-EGYÜTT-PM közös jelölt</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_chart/budapest4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/budapest4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
               <thead>
