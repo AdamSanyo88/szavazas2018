@@ -10,6 +10,31 @@ permalink: /budapest15
     <div class="row">
           <div class="col s12">
 		  <h5>Budapest XV. kerület</h5>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-xv.-kerulet-20180930">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/budapest15_2.png" style="height: 100%; width: 100%; object-fit: contain">
+
+			<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>László Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">47.8%</td>
+				   <td id="fidesz_mayor2">10,590</td>
+			</tr>
+			<tr>
+			<td>Németh Angéla - RÁTE-Szolidaritás</td> 
+			<td>51.0%</td>
+			<td>11,287</td>
+			</tr>
+              </tbody>
+            </table>
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T015/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>

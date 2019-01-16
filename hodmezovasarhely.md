@@ -11,6 +11,32 @@ permalink: /hodmezovasarhely
           <div class="col s12">
 		  <h5>Hódmezővásárhely</h5>
 <br/>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/hodmezovasarhely-20180225">2018. februári időközi polgármester-választás eredménye</a></strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/hodmezovasarhely2.png" style="height: 100%; width: 100%; object-fit: contain">
+
+			<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Hegedűs Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">41.6%</td>
+				   <td id="fidesz_mayor2">9,468</td>
+			</tr>
+			<tr>
+			<td>Dr. Márki-Zay Péter - Független</td> 
+			<td id="ellenzek_mayor">57.5%</td>
+			<td id="ellenzek_mayor2">13,076</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M06/T024/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/hodmezovasarhely.png" style="height: 100%; width: 100%; object-fit: contain">

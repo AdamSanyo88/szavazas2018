@@ -10,6 +10,57 @@ permalink: /gyomro
     <div class="row">
           <div class="col s12">
 		  <h5>Gyömrő</h5>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/gyomro-20170423">2017. áprilisi időközi polgármester-választás eredménye</a></strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/gyomro3.png" style="height: 100%; width: 100%; object-fit: contain">
+
+			<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Nem indult - Fidesz-KDNP</td>
+				   <td>-</td>
+				   <td>-</td>
+			</tr>
+			<tr>
+			<td>Mezey Attila - GYÖMRŐ 2000 KÖR</td> 
+			<td id="ellenzek_mayor">74.3%</td>
+			<td id="ellenzek_mayor2">3,330</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/gyomro-20160828">2016. augusztusi időközi polgármester-választás eredménye</a></strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/gyomro2.png" style="height: 100%; width: 100%; object-fit: contain">
+
+			<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Nem indult - Fidesz-KDNP</td>
+				   <td>-</td>
+				   <td>-</td>
+			</tr>
+			<tr>
+			<td>Gyenes Levente Zoltán - GYÖMRŐ 2000 KÖR</td> 
+			<td id="ellenzek_mayor">77.4%</td>
+			<td id="ellenzek_mayor2">4,610</td>
+			</tr>
+              </tbody>
+            </table>
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M14/T049/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>

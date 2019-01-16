@@ -11,6 +11,32 @@ permalink: /budapest8
           <div class="col s12">
 		  <h5>Budapest VIII. kerület</h5>
 <br/>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-viii.-kerulet-20180708">2018. júliusi időközi polgármester-választás eredménye</a></strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/budapest8_2.png" style="height: 100%; width: 100%; object-fit: contain">
+
+			<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Dr. Sára Botond - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">62.9%</td>
+				   <td id="fidesz_mayor2">8,269</td>
+			</tr>
+			<tr>
+			<td>Győri Péter - Független</td> 
+			<td id="ellenzek_mayor">36.4%</td>
+			<td id="ellenzek_mayor2">4,787</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T008/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/budapest8.png" style="height: 100%; width: 100%; object-fit: contain">

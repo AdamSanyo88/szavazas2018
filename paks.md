@@ -10,6 +10,31 @@ permalink: /paks
     <div class="row">
           <div class="col s12">
 		  <h5>Paks</h5>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/paks-20170910">2017. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/paks2.png" style="height: 100%; width: 100%; object-fit: contain">
+
+			<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Kozmann György - FIDESZ-KDNP-LOKÁLPATRIOTÁK</td>
+				   <td>68.3%</td>
+				   <td>3,414</td>
+			</tr>
+			<tr>
+			<td>Mezősi Árpád György - Független</td> 
+			<td>28.5%</td>
+			<td>1,423</td>
+			</tr>
+              </tbody>
+            </table>
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M17/T079/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>

@@ -11,9 +11,9 @@ permalink: /balmazujvaros
           <div class="col s12">
 		  <h5>Balmazújváros</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M09/T005/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/balmazujvaros-20180812">2018. augusztusi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/balmazujvaros.png" style="height: 100%; width: 100%; object-fit: contain">
+<img src="images/2014_onkormanyzat/balmazujvaros2.png" style="height: 100%; width: 100%; object-fit: contain">
 
 			<table class="striped">
               <thead>
@@ -26,13 +26,13 @@ permalink: /balmazujvaros
               <tbody>
              <tr>
                    <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">67.8%</td>
-				   <td id="fidesz_mayor2">3,633</td>
+				   <td>-</td>
+				   <td>-</td>
 			</tr>
 			<tr>
-			<td>Dr. Veres Margit - Független</td> 
-			<td id="ellenzek_mayor">15.1%</td>
-			<td id="ellenzek_mayor2">810</td>
+			<td>Hegedüs Péter - Független</td> 
+			<td id="ellenzek_mayor">53.2%</td>
+			<td id="ellenzek_mayor2">2,053</td>
 			</tr>
               </tbody>
             </table>
