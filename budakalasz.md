@@ -25,12 +25,12 @@ permalink: /budakalasz
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Rogán László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">82.3%</td>
 				   <td id="fidesz_mayor2">3,014</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Orbán Erika - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
 			<td id="ellenzek_mayor">17.7%</td>
 			<td id="ellenzek_mayor2">650</td>
 			</tr>

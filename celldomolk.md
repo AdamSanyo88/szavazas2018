@@ -25,12 +25,12 @@ permalink: /celldomolk
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Rozmán László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">37.9%</td>
 				   <td id="fidesz_mayor2">2,057</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Fehér László István - CSÖCE</td> 
 			<td id="ellenzek_mayor">62.1%</td>
 			<td id="ellenzek_mayor2">3,367</td>
 			</tr>

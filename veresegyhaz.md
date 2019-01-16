@@ -25,12 +25,12 @@ permalink: /veresegyhaz
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Szabóné Tolnai Ildikó - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">12.6%</td>
 				   <td id="fidesz_mayor2">748</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Pásztor Béla - Független</td> 
 			<td id="ellenzek_mayor">87.4%</td>
 			<td id="ellenzek_mayor2">5,196</td>
 			</tr>

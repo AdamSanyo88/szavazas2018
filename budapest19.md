@@ -25,12 +25,12 @@ permalink: /budapest19
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dódity Gabriella Etelka - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">31.5%</td>
 				   <td id="fidesz_mayor2">7,216</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Gajda Péter - MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td> 
 			<td id="ellenzek_mayor">60.6%</td>
 			<td id="ellenzek_mayor2">13,858</td>
 			</tr>

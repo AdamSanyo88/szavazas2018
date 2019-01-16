@@ -25,12 +25,12 @@ permalink: /kalocsa
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Török Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">42.2%</td>
 				   <td id="fidesz_mayor2">2,640</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Bálint József Miklós - Független</td> 
 			<td id="ellenzek_mayor">57.8%</td>
 			<td id="ellenzek_mayor2">3,621</td>
 			</tr>

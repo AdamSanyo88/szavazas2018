@@ -25,12 +25,12 @@ permalink: /szombathely
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Puskás Tivadar - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">43.8%</td>
 				   <td id="fidesz_mayor2">12,582</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Ipkovich György - ÉLJEN SZOMBATHELY-MSZP-DK-EGYÜTT</td> 
 			<td id="ellenzek_mayor">41.9%</td>
 			<td id="ellenzek_mayor2">12,022</td>
 			</tr>

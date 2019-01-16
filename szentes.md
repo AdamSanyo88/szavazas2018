@@ -25,12 +25,12 @@ permalink: /szentes
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Bozó Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">47.9%</td>
 				   <td id="fidesz_mayor2">5,392</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Szirbik Imre - MSZP-DK-EGYÜTT-PM</td> 
 			<td id="ellenzek_mayor">43.4%</td>
 			<td id="ellenzek_mayor2">4,885</td>
 			</tr>

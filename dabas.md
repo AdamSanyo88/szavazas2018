@@ -25,12 +25,12 @@ permalink: /dabas
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Kőszegi Zoltán - Fidesz <img src="images/fidesz2_logo.png" style="width:30px;height:30px;"></td>
 				   <td id="fidesz_mayor">79.6%</td>
 				   <td id="fidesz_mayor2">3,613</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Mátyus Csaba - PELE Egyesület</td> 
 			<td id="ellenzek_mayor">20.4%</td>
 			<td id="ellenzek_mayor2">929</td>
 			</tr>

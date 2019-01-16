@@ -25,12 +25,12 @@ permalink: /budapest16
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Kovács Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">60.5%</td>
 				   <td id="fidesz_mayor2">16,064</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Abonyi János - MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td> 
 			<td id="ellenzek_mayor">9.7%</td>
 			<td id="ellenzek_mayor2">2,578</td>
 			</tr>

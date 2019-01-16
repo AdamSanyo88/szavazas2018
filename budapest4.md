@@ -25,12 +25,12 @@ permalink: /budapest4
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>	Wintermantel Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">52.5%</td>
 				   <td id="fidesz_mayor2">18,276</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Trippon Norbert - MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td> 
 			<td id="ellenzek_mayor">35.8%</td>
 			<td id="ellenzek_mayor2">12,457</td>
 			</tr>

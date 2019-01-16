@@ -25,12 +25,12 @@ permalink: /budapest9
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Bácskai János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">44.5%</td>
 				   <td id="fidesz_mayor2">7,954</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Gegesy Ferenc József - Együtt-PM</td> 
 			<td id="ellenzek_mayor">43.1%</td>
 			<td id="ellenzek_mayor2">7,720</td>
 			</tr>

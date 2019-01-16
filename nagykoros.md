@@ -25,12 +25,12 @@ permalink: /nagykoros
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Czira Sándor Szabolcs - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">57.9%</td>
 				   <td id="fidesz_mayor2">3,452</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Ábrahám Edit - Jobb Nagykőrös</td> 
 			<td id="ellenzek_mayor">31.3%</td>
 			<td id="ellenzek_mayor2">1,868</td>
 			</tr>

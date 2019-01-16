@@ -25,12 +25,12 @@ permalink: /marcali
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Kis-Dörnyei László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">43.4%</td>
 				   <td id="fidesz_mayor2">1,735</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Sütő László - MOTTE</td> 
 			<td id="ellenzek_mayor">56.6%</td>
 			<td id="ellenzek_mayor2">2,267</td>
 			</tr>

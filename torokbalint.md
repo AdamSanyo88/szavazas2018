@@ -25,12 +25,12 @@ permalink: /torokbalint
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Elek Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">33.9%</td>
 				   <td id="fidesz_mayor2">1,581</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Csuka Attila - BPKE</td> 
 			<td id="ellenzek_mayor">16.4%</td>
 			<td id="ellenzek_mayor2">766</td>
 			</tr>

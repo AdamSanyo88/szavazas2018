@@ -25,12 +25,12 @@ permalink: /tiszafured
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Ujvári Imre - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">51.6%</td>
 				   <td id="fidesz_mayor2">2,125</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Pintér Erika Györgyike - Független</td> 
 			<td id="ellenzek_mayor">22.3%</td>
 			<td id="ellenzek_mayor2">917</td>
 			</tr>

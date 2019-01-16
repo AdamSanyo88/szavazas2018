@@ -25,7 +25,7 @@ permalink: /balmazujvaros
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult</td>
+                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">67.8%</td>
 				   <td id="fidesz_mayor2">3,633</td>
 			</tr>

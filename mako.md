@@ -25,12 +25,12 @@ permalink: /mako
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Farkas Éva Erzsébet - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">44.4%</td>
 				   <td id="fidesz_mayor2">4,144</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Buzás Péter - PSZM-MSZP-DK</td> 
 			<td id="ellenzek_mayor">42.3%</td>
 			<td id="ellenzek_mayor2">3,947</td>
 			</tr>

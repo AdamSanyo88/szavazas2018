@@ -25,12 +25,12 @@ permalink: /god
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Markó József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">39.0%</td>
 				   <td id="fidesz_mayor2">2,450</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Kovacsik Tamás Gyula - Független</td> 
 			<td id="ellenzek_mayor">27.8%</td>
 			<td id="ellenzek_mayor2">1,745</td>
 			</tr>

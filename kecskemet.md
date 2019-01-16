@@ -25,12 +25,12 @@ permalink: /kecskemet
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Szemereyné Pataki Klaudia - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">59.3%</td>
 				   <td id="fidesz_mayor2">15,930</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Hugyecz Zoltán - Független</td> 
 			<td id="ellenzek_mayor">22.6%</td>
 			<td id="ellenzek_mayor2">6,058</td>
 			</tr>

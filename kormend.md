@@ -25,12 +25,12 @@ permalink: /kormend
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Bebes István Géza - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">62.8%</td>
 				   <td id="fidesz_mayor2">2,438</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Szlávik Csaba - Független</td> 
 			<td id="ellenzek_mayor">20.2%</td>
 			<td id="ellenzek_mayor2">783</td>
 			</tr>

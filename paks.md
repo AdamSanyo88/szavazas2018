@@ -25,12 +25,12 @@ permalink: /paks
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Kozmann György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">22.2%</td>
 				   <td id="fidesz_mayor2">2,022</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Süli János - NP</td> 
 			<td id="ellenzek_mayor">77.8%</td>
 			<td id="ellenzek_mayor2">7,082</td>
 			</tr>

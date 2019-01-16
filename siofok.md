@@ -25,12 +25,12 @@ permalink: /siofok
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Balázs Árpád - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">62.2%</td>
 				   <td id="fidesz_mayor2">5,982</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Lengyel Róbert - Független</td> 
 			<td id="ellenzek_mayor">35.1%</td>
 			<td id="ellenzek_mayor2">3,374</td>
 			</tr>

@@ -25,12 +25,12 @@ permalink: /budapest23
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Orbán Gyöngyi - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">26.4%</td>
 				   <td id="fidesz_mayor2">2,169</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Geiger Ferenc - CIVIL SZERVEZETEK</td> 
 			<td id="ellenzek_mayor">37.3%</td>
 			<td id="ellenzek_mayor2">3,061</td>
 			</tr>

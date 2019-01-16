@@ -25,12 +25,12 @@ permalink: /gyomaendrod
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Várfi András - Fidesz <img src="images/fidesz2_logo.png" style="width:30px;height:30px;"></td>
 				   <td id="fidesz_mayor">31.8%</td>
 				   <td id="fidesz_mayor2">1,613</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Toldi Balázs - KVE</td> 
 			<td id="ellenzek_mayor">48.7%</td>
 			<td id="ellenzek_mayor2">2,467</td>
 			</tr>

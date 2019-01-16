@@ -25,12 +25,12 @@ permalink: /mor
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>	Fenyves Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">81.9%</td>
 				   <td id="fidesz_mayor2">3,815</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Pábli Antal - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
 			<td id="ellenzek_mayor">18.1%</td>
 			<td id="ellenzek_mayor2">846</td>
 			</tr>

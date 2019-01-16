@@ -25,12 +25,12 @@ permalink: /rackeve
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Szadai József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">60.1%</td>
 				   <td id="fidesz_mayor2">1,764</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Czerny Róbert Károly - Független</td> 
 			<td id="ellenzek_mayor">28.0%</td>
 			<td id="ellenzek_mayor2">822</td>
 			</tr>

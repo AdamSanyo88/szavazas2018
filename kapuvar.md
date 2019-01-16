@@ -25,12 +25,12 @@ permalink: /kapuvar
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Hámori György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">78.3%</td>
 				   <td id="fidesz_mayor2">2,722</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Csákány Annamária - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
 			<td id="ellenzek_mayor">21.7%</td>
 			<td id="ellenzek_mayor2">753</td>
 			</tr>

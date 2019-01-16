@@ -25,12 +25,12 @@ permalink: /budapest3
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Bús Balázs - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">53.3%</td>
 				   <td id="fidesz_mayor2">23,615</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Béres András - Együtt-PM</td> 
 			<td id="ellenzek_mayor">28.1%</td>
 			<td id="ellenzek_mayor2">12,417</td>
 			</tr>

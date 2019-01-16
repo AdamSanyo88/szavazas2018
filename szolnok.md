@@ -25,12 +25,12 @@ permalink: /szolnok
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Szalay Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">53.0%</td>
 				   <td id="fidesz_mayor2">11,483</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Radócz Zoltán István - MSZP-DK-SZOLIDARITÁS-EGYÜTT</td> 
 			<td id="ellenzek_mayor">27.3%</td>
 			<td id="ellenzek_mayor2">3,110</td>
 			</tr>

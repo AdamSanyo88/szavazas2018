@@ -25,12 +25,12 @@ permalink: /hatvan
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Horváth Richárd - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">65.4%</td>
 				   <td id="fidesz_mayor2">4,210</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Palik Józsefné - EGYÜTT HATVANÉRT</td> 
 			<td id="ellenzek_mayor">17.8%</td>
 			<td id="ellenzek_mayor2">1,144</td>
 			</tr>

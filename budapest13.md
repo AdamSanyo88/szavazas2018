@@ -25,12 +25,12 @@ permalink: /budapest13
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Bagdy Gábor József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">22.6%</td>
 				   <td id="fidesz_mayor2">9,098</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Dr. Tóth József Sándor - MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td> 
 			<td id="ellenzek_mayor">69.9%</td>
 			<td id="ellenzek_mayor2">28,140</td>
 			</tr>

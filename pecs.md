@@ -25,12 +25,12 @@ permalink: /pecs
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Páva Zsolt- Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">39.3%</td>
 				   <td id="fidesz_mayor2">16,631</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Cserfainé Dr. Kovács Ágnes Ilona - FORUM-MSZP-EGYÜTT-PM</td> 
 			<td id="ellenzek_mayor">28.0%</td>
 			<td id="ellenzek_mayor2">11,864</td>
 			</tr>

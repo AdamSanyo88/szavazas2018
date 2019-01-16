@@ -25,12 +25,12 @@ permalink: /budapest21
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Borbély Lénárd László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">47.1%</td>
 				   <td id="fidesz_mayor2">12,158</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Horváth Gyula - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
 			<td id="ellenzek_mayor">35.6%</td>
 			<td id="ellenzek_mayor2">9,183</td>
 			</tr>
