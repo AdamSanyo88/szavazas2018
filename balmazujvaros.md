@@ -38,6 +38,33 @@ permalink: /balmazujvaros
             </table>
 <br/>
 
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M09/T005/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/balmazujvaros.png" style="height: 100%; width: 100%; object-fit: contain">
+
+			<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">67.8%</td>
+				   <td id="fidesz_mayor2">3,633</td>
+			</tr>
+			<tr>
+			<td>Hegedüs Péter - Független</td> 
+			<td id="ellenzek_mayor">15.1%</td>
+			<td id="ellenzek_mayor2">810</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
+
 <br/>
 
 <h5><strong>2014-es önkormányzati választáson nyert egyéni képviselőhelyek száma</strong></h5><br/><br/>

@@ -11,7 +11,7 @@ permalink: /salgotarjan
           <div class="col s12">
 		  <h5>Salgótarján</h5>
 		  
-<h5><strong><ahref="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/salgotarjan-20160228">2016. februári időközi polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/salgotarjan-20160228">2016. februári időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/salgotarjan2.png" style="height: 100%; width: 100%; object-fit: contain">
 

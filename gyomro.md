@@ -24,7 +24,7 @@ permalink: /gyomro
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP</td>
+                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td>-</td>
 				   <td>-</td>
 			</tr>
@@ -50,7 +50,7 @@ permalink: /gyomro
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP</td>
+                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td>-</td>
 				   <td>-</td>
 			</tr>

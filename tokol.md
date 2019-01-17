@@ -30,7 +30,7 @@ permalink: /tokol
 				   <td id="fidesz_mayor2">1,404</td>
 			</tr>
 			<tr>
-			<td>Eperjesiné Farkas Mária Zsuzsanna - Független/td> 
+			<td>Eperjesiné Farkas Mária Zsuzsanna - Független</td> 
 			<td id="ellenzek_mayor">25.1%</td>
 			<td id="ellenzek_mayor2">612</td>
 			</tr>

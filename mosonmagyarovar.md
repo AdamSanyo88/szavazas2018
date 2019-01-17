@@ -25,7 +25,7 @@ permalink: /mosonmagyarovar
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Árvay István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Árvay István - FIDESZ-KDNP-Nemzeti Fórum-MPKE-LABE</td>
 				   <td id="fidesz_mayor">51.9%</td>
 				   <td id="fidesz_mayor2">3,854</td>
 			</tr>

@@ -30,7 +30,7 @@ permalink: /fot
 				   <td id="fidesz_mayor2">2,630</td>
 			</tr>
 			<tr>
-			<td>Takács István - <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td> 
+			<td>Takács István - MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td> 
 			<td id="ellenzek_mayor">17.2%</td>
 			<td id="ellenzek_mayor2">1,015</td>
 			</tr>

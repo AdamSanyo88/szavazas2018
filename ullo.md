@@ -30,7 +30,7 @@ permalink: /ullo
 				   <td id="fidesz_mayor2"> -   </td>
 			</tr>
 			<tr>
-			<td>Kissné Szabó Katalin - Független <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Kissné Szabó Katalin - Független</td> 
 			<td id="ellenzek_mayor">72.6%</td>
 			<td id="ellenzek_mayor2">1,968</td>
 			</tr>

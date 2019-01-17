@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Balassagyarmat
-permalink: /budapest1
+permalink: /balassagyarmat
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
