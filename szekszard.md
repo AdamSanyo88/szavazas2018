@@ -55,11 +55,11 @@ permalink: /szekszard
 				   <td id="fidesz_mp">9</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-				<td id="jobbik_mp">1 *</td>
+				<td id="jobbik_mp">0</td>
 			</tr>
 			<tr>
                   <td>MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td>
-				   <td id="mszp_mp">0</td>
+				   <td id="mszp_mp">1 *</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
