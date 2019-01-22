@@ -22,7 +22,8 @@ permalink: /tamogatas
 <p>Facebook reklámok költségei: 524 127 Ft</p>
 <p>Facebook oldal menedzselése: 250 000 Ft</p>
 <p>Molinók és egyéb nyomtatott anyagok: 17 600 Ft</p>
-<p><strong>Összesen: 803 027 Ft</strong>: 
-<p>A 2019-es önkormányzati választásokra fennmaradó összeg: 405 881 Ft</p>
+<p><strong>Költségek összesen: 803 027 Ft</strong></p> 
+<br/>
+<p><strong>A 2019-es önkormányzati választásokra fennmaradó összeg: 405 881 Ft</strong></p>
 
     
