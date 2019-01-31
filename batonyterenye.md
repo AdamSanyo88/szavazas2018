@@ -11,7 +11,7 @@ permalink: /batonyterenye
           <div class="col s12">
 		  <h5>Bátonyterenye</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M02/T234/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M13/T006/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/batonyterenye.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -25,14 +25,14 @@ permalink: /batonyterenye
               </thead>
               <tbody>
              <tr>
-                   <td>Mojzes Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">30.1%</td>
-				   <td id="fidesz_mayor2">1,107</td>
+                   <td>Nagy-Majdon József <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">37.7%</td>
+				   <td id="fidesz_mayor2">1,895</td>
 			</tr>
 			<tr>
-			<td>Dr. Marenics János - Független</td> 
-			<td id="ellenzek_mayor">41.2%</td>
-			<td id="ellenzek_mayor2">1,517</td>
+			<td>Lavajné Dóka Éva - DK-EURÓPAI BALOLDAL-MSZP</td> 
+			<td id="ellenzek_mayor">31.0%</td>
+			<td id="ellenzek_mayor2">1,559</td>
 			</tr>
               </tbody>
             </table>
@@ -52,7 +52,7 @@ permalink: /batonyterenye
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">4</td>
+				   <td id="fidesz_mp">7</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
 				<td id="jobbik_mp">0</td>
@@ -67,7 +67,7 @@ permalink: /batonyterenye
 			</tr>
 			<tr>
                   <td>DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="dk_mp">0</td>
+				   <td id="dk_mp">1 *</td>
 			</tr>
 			<tr>
                   <td>Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td>
@@ -79,13 +79,13 @@ permalink: /batonyterenye
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">4</td>
+				   <td id="fuggetlen_mp">0</td>
 			</tr>
    
               </tbody>
             </table>
 
-<p><span id="megjegyzes"></span><br/></p>
+<p><span id="megjegyzes">* DK-EURÓPAI BALOLDAL-MSZP közös jelölt</span><br/></p>
 <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/batonyterenye.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">

@@ -11,7 +11,33 @@ permalink: /tiszavasvari
           <div class="col s12">
 		  <h5>Tiszavasvári</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M02/T234/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/tiszavasvari-20180916">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
+<br/>
+<img src="images/2014_onkormanyzat/gyomro3.png" style="height: 100%; width: 100%; object-fit: contain">
+
+			<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Szőke Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td>41.7%</td>
+				   <td>1,897</td>
+			</tr>
+			<tr>
+			<td>Badics Ildikó - Független</td> 
+			<td id="ellenzek_mayor">36.9%</td>
+			<td id="ellenzek_mayor2">1,676</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M16/T204/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/tiszavasvari.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -25,14 +51,14 @@ permalink: /tiszavasvari
               </thead>
               <tbody>
              <tr>
-                   <td>Mojzes Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">30.1%</td>
-				   <td id="fidesz_mayor2">1,107</td>
+                   <td>Nem indult - <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">-</td>
+				   <td id="fidesz_mayor2">-</td>
 			</tr>
 			<tr>
-			<td>Dr. Marenics János - Független</td> 
-			<td id="ellenzek_mayor">41.2%</td>
-			<td id="ellenzek_mayor2">1,517</td>
+			<td>Dr. Fülöp Erik Sándor - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td id="ellenzek_mayor">52.1%</td>
+			<td id="ellenzek_mayor2">2,602</td>
 			</tr>
               </tbody>
             </table>
@@ -52,10 +78,10 @@ permalink: /tiszavasvari
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">4</td>
+				   <td id="fidesz_mp">3</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-				<td id="jobbik_mp">0</td>
+				<td id="jobbik_mp">3</td>
 			</tr>
 			<tr>
                   <td>MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td>
@@ -79,7 +105,7 @@ permalink: /tiszavasvari
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">4</td>
+				   <td id="fuggetlen_mp">1</td>
 			</tr>
    
               </tbody>

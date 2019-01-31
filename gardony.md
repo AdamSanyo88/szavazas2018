@@ -11,7 +11,7 @@ permalink: /gardony
           <div class="col s12">
 		  <h5>Gárdony</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M02/T234/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M07/T033/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/gardony.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -25,14 +25,14 @@ permalink: /gardony
               </thead>
               <tbody>
              <tr>
-                   <td>Mojzes Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">30.1%</td>
-				   <td id="fidesz_mayor2">1,107</td>
+                   <td>Tóth István József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">63.9%</td>
+				   <td id="fidesz_mayor2">2,157</td>
 			</tr>
 			<tr>
-			<td>Dr. Marenics János - Független</td> 
-			<td id="ellenzek_mayor">41.2%</td>
-			<td id="ellenzek_mayor2">1,517</td>
+			<td>Dr. Marenics János - DK-EGYÜTT-MSZP-PM</td> 
+			<td id="ellenzek_mayor">36.1%</td>
+			<td id="ellenzek_mayor2">1,218</td>
 			</tr>
               </tbody>
             </table>
@@ -52,7 +52,7 @@ permalink: /gardony
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">4</td>
+				   <td id="fidesz_mp">6</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
 				<td id="jobbik_mp">0</td>
@@ -79,7 +79,7 @@ permalink: /gardony
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">4</td>
+				   <td id="fuggetlen_mp">2</td>
 			</tr>
    
               </tbody>

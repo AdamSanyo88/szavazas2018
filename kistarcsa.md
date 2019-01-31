@@ -11,7 +11,7 @@ permalink: /kistarcsa
           <div class="col s12">
 		  <h5>Kistarcsa</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M02/T234/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M14/T069/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/kistarcsa.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -25,14 +25,14 @@ permalink: /kistarcsa
               </thead>
               <tbody>
              <tr>
-                   <td>Mojzes Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">30.1%</td>
-				   <td id="fidesz_mayor2">1,107</td>
+                   <td>Solymosi Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">41.4%</td>
+				   <td id="fidesz_mayor2">1,484</td>
 			</tr>
 			<tr>
-			<td>Dr. Marenics János - Független</td> 
-			<td id="ellenzek_mayor">41.2%</td>
-			<td id="ellenzek_mayor2">1,517</td>
+			<td>Kovács Gabriella - Független</td> 
+			<td id="ellenzek_mayor">22.2%</td>
+			<td id="ellenzek_mayor2">797</td>
 			</tr>
               </tbody>
             </table>
@@ -52,7 +52,7 @@ permalink: /kistarcsa
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">4</td>
+				   <td id="fidesz_mp">6</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
 				<td id="jobbik_mp">0</td>
@@ -75,17 +75,17 @@ permalink: /kistarcsa
 			</tr>
 			 <tr>
                   <td>Egyéb szervezet</td>
-				   <td id="egyeb_mp">0</td>
+				   <td id="egyeb_mp">1 *</td>
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">4</td>
+				   <td id="fuggetlen_mp">1</td>
 			</tr>
    
               </tbody>
             </table>
 
-<p><span id="megjegyzes"></span><br/></p>
+<p><span id="megjegyzes">* KIVE jelölt</span><br/></p>
 <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/kistarcsa.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">

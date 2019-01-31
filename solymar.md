@@ -11,7 +11,7 @@ permalink: /solymar
           <div class="col s12">
 		  <h5>Solymár</h5>
 <br/>
-<h5><strong><a id="webURL" href="-">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M14/T121/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/solymar.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -25,12 +25,12 @@ permalink: /solymar
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">-</td>
-				   <td id="fidesz_mayor2"> - </td>
+                   <td>Dr. Szente Kálmán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">100%</td>
+				   <td id="fidesz_mayor2">2,365</td>
 			</tr>
 			<tr>
-			<td>Dr. Kakuk György András - DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td> 
+			<td>Nem indult jelölt</td> 
 			<td id="ellenzek_mayor">-</td>
 			<td id="ellenzek_mayor2"> - </td>
 			</tr>
@@ -52,34 +52,34 @@ permalink: /solymar
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">-</td>
+				   <td id="fidesz_mp">8</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-				<td id="jobbik_mp">-</td>
+				<td id="jobbik_mp">0</td>
 			</tr>
 			<tr>
                   <td>MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td>
-				   <td id="mszp_mp">-</td>
+				   <td id="mszp_mp">0</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="lmp_mp">-</td>
+				   <td id="lmp_mp">0</td>
 			</tr>
 			<tr>
                   <td>DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="dk_mp">-</td>
+				   <td id="dk_mp">0</td>
 			</tr>
 			<tr>
                   <td>Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td>
-				   <td id="egyutt_mp">-</td>
+				   <td id="egyutt_mp">0</td>
 			</tr>
 			 <tr>
                   <td>Egyéb szervezet</td>
-				   <td id="egyeb_mp">-</td>
+				   <td id="egyeb_mp">0</td>
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">-</td>
+				   <td id="fuggetlen_mp">0</td>
 			</tr>
    
               </tbody>

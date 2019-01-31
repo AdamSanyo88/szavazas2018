@@ -11,7 +11,7 @@ permalink: /maglod
           <div class="col s12">
 		  <h5>Maglód</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M02/T234/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M14/T078/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/maglod.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -25,14 +25,14 @@ permalink: /maglod
               </thead>
               <tbody>
              <tr>
-                   <td>Mojzes Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">30.1%</td>
-				   <td id="fidesz_mayor2">1,107</td>
+                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">-</td>
+				   <td id="fidesz_mayor2">-</td>
 			</tr>
 			<tr>
-			<td>Dr. Marenics János - Független</td> 
-			<td id="ellenzek_mayor">41.2%</td>
-			<td id="ellenzek_mayor2">1,517</td>
+			<td>Tabányi Pál - Független</td> 
+			<td id="ellenzek_mayor">68.2%</td>
+			<td id="ellenzek_mayor2">2,378</td>
 			</tr>
               </tbody>
             </table>
@@ -52,7 +52,7 @@ permalink: /maglod
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">4</td>
+				   <td id="fidesz_mp">8 *</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
 				<td id="jobbik_mp">0</td>
@@ -79,13 +79,13 @@ permalink: /maglod
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">4</td>
+				   <td id="fuggetlen_mp">0</td>
 			</tr>
    
               </tbody>
             </table>
 
-<p><span id="megjegyzes"></span><br/></p>
+<p><span id="megjegyzes">* MAGLÓDI POLG KÖR-FIDESZ-KDNP közös jelölt</span><br/></p>
 <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/maglod.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">

@@ -11,7 +11,7 @@ permalink: /sajoszentpeter
           <div class="col s12">
 		  <h5>Sajószentpéter</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M02/T234/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M05/T268/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/sajoszentpeter.png" style="height: 100%; width: 100%; object-fit: contain">
 
@@ -25,14 +25,14 @@ permalink: /sajoszentpeter
               </thead>
               <tbody>
              <tr>
-                   <td>Mojzes Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">30.1%</td>
-				   <td id="fidesz_mayor2">1,107</td>
+                   <td>Molnár András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">28.6%</td>
+				   <td id="fidesz_mayor2">1,215</td>
 			</tr>
 			<tr>
-			<td>Dr. Marenics János - Független</td> 
-			<td id="ellenzek_mayor">41.2%</td>
-			<td id="ellenzek_mayor2">1,517</td>
+			<td>Dr. Faragó Péter- MSZP-DK </td> 
+			<td id="ellenzek_mayor">51.4% <img src="images/mszp2_logo.png" <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+			<td id="ellenzek_mayor2">2,184</td>
 			</tr>
               </tbody>
             </table>
@@ -52,14 +52,14 @@ permalink: /sajoszentpeter
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">4</td>
+				   <td id="fidesz_mp">0</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-				<td id="jobbik_mp">0</td>
+				<td id="jobbik_mp">1</td>
 			</tr>
 			<tr>
                   <td>MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td>
-				   <td id="mszp_mp">0</td>
+				   <td id="mszp_mp">4 *</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
@@ -75,17 +75,17 @@ permalink: /sajoszentpeter
 			</tr>
 			 <tr>
                   <td>Egyéb szervezet</td>
-				   <td id="egyeb_mp">0</td>
+				   <td id="egyeb_mp">1 **</td>
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">4</td>
+				   <td id="fuggetlen_mp">2</td>
 			</tr>
    
               </tbody>
             </table>
 
-<p><span id="megjegyzes"></span><br/></p>
+<p><span id="megjegyzes">* MSZP-DK közös jelölt ** S.PÉTERI ZÖLDEK jelölt</span><br/></p>
 <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/sajoszentpeter.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">
