@@ -11,7 +11,7 @@ permalink: /ujfeherto
           <div class="col s12">
 		  <h5>Újfehértó</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M02/T234/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M16/T217/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 <img src="images/2014_onkormanyzat/ujfeherto.png" style="height: 100%; width: 100%; object-fit: contain">
 

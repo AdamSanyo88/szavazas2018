@@ -52,7 +52,7 @@ permalink: /sarospatak
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">8</td>
+				   <td id="fidesz_mp">7</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
 				<td id="jobbik_mp">0</td>
@@ -79,7 +79,7 @@ permalink: /sarospatak
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">0</td>
+				   <td id="fuggetlen_mp">1</td>
 			</tr>
    
               </tbody>

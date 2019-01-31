@@ -13,7 +13,7 @@ permalink: /tiszavasvari
 <br/>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/tiszavasvari-20180916">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/gyomro3.png" style="height: 100%; width: 100%; object-fit: contain">
+<img src="images/2014_onkormanyzat/tiszavasvari2.png" style="height: 100%; width: 100%; object-fit: contain">
 
 			<table class="striped">
               <thead>
