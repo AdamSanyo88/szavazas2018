@@ -53,13 +53,13 @@ permalink: /balmazujvaros
               <tbody>
              <tr>
                    <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">67.8%</td>
-				   <td id="fidesz_mayor2">3,633</td>
+				   <td id="fidesz_mayor">-</td>
+				   <td id="fidesz_mayor2">-</td>
 			</tr>
 			<tr>
-			<td>Hegedüs Péter - Független</td> 
-			<td id="ellenzek_mayor">15.1%</td>
-			<td id="ellenzek_mayor2">810</td>
+			<td>Dr. Veres Margit - Független</td> 
+			<td id="ellenzek_mayor">67.8%</td>
+			<td id="ellenzek_mayor2">3,633</td>
 			</tr>
               </tbody>
             </table>
