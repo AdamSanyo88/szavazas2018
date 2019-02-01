@@ -31,7 +31,7 @@ permalink: /sajoszentpeter
 			</tr>
 			<tr>
 			<td>Dr. Faragó Péter- MSZP-DK </td> 
-			<td id="ellenzek_mayor">51.4% <img src="images/mszp2_logo.png"> <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
+			<td id="ellenzek_mayor">51.4% <img src="images/mszp2_logo.png" style="width:30px;height:30px;"> <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
 			<td id="ellenzek_mayor2">2,184</td>
 			</tr>
               </tbody>
