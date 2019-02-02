@@ -26,13 +26,13 @@ permalink: /siofok
               <tbody>
              <tr>
                    <td>Dr. Balázs Árpád - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">62.2%</td>
-				   <td id="fidesz_mayor2">5,982</td>
+				   <td id="fidesz_mayor">35.1%</td>
+				   <td id="fidesz_mayor2">3,374</td>
 			</tr>
 			<tr>
 			<td>Dr. Lengyel Róbert - Független</td> 
-			<td id="ellenzek_mayor">35.1%</td>
-			<td id="ellenzek_mayor2">3,374</td>
+			<td id="ellenzek_mayor">62.2%</td>
+			<td id="ellenzek_mayor2">5,982</td>
 			</tr>
               </tbody>
             </table>
