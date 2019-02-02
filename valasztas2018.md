@@ -51,7 +51,7 @@ permalink: /valasztas2018
 <h4 id="106">A 106 esélyes és választókerületek eredménye</h4>
 <p>Az alábbi lista tartalmazza a 106 esélyes jelölt nevét a <strong>taktikaiszavazas.hu</strong>, a <strong>Rendszerváltás 2018 (Márki-Zay Péter)</strong> és a <strong>V18 csoport</strong> ajánlásai alapján.</p>
 <p><strong><span class="green accent-3">Zölddel kiemelve jelenik meg</span></strong> azon jelöltek neve, akik tényleg a legesélyesebbek voltak a Fidesszel szemben.</p>
-<p><strong><span class="red accent-1">Pirossal kiemelve jelenik meg</span></strong> azon jelöltek listája, ahol hibás volt az esélyes jelöltre adott előrejelzés.</p>
+<p><strong><span class="red accent-1">Pirossal kiemelve jelenik meg</span></strong> azon jelöltek neve, ahol hibás volt az esélyes jelöltre adott előrejelzés.</p>
 
 <br/>
 
