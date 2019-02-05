@@ -25,7 +25,7 @@ permalink: /oroszlany
               </thead>
               <tbody>
              <tr>
-                   <td>Vargáné Vojnár Katalin <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Vargáné Vojnár Katalin - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">38.9%</td>
 				   <td id="fidesz_mayor2">2,157</td>
 			</tr>

@@ -30,7 +30,7 @@ permalink: /kisujszallas
 				   <td id="fidesz_mayor2">2,242</td>
 			</tr>
 			<tr>
-			<td>Szarvák Márton - <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
+			<td>Szarvák Márton - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
 			<td id="ellenzek_mayor">22.7%</td>
 			<td id="ellenzek_mayor2">769</td>
 			</tr>

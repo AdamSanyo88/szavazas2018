@@ -98,34 +98,34 @@ permalink: /kistarcsa
               <tbody>
              <tr>
                   <td>Fidesz <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_2018">xx%</td>
+				   <td id="fidesz_2018">46.1%</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			<td id="jobbik_2018">xx%</td>
+			<td id="jobbik_2018">18.4%</td>
 			</tr>
 			<tr>
                   <td>MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="mszp_2018">xx%</td>
+				   <td id="mszp_2018">12.2%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="lmp_2018">xx%</td>
+				   <td id="lmp_2018">10.9%</td>
 			</tr>
 			<tr>
                   <td>DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="dk_2018">xx%</td>
+				   <td id="dk_2018">5.0%</td>
 			</tr>
 			<tr>
                   <td>Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="momentum_2018">xx%</td>
+				   <td id="momentum_2018">3.5%</td>
 			</tr>
 			<tr>
                   <td>Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-				   <td id="egyutt_2018">xx%</td>
+				   <td id="egyutt_2018">0.7%</td>
 			</tr>
              <tr>
                   <td>MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="mkkp_2018">xx%</td>
+				   <td id="mkkp_2018">2.1%</td>
 			</tr>
    
               </tbody>

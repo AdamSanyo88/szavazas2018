@@ -26,13 +26,13 @@ permalink: /szentes
               <tbody>
              <tr>
                    <td>Bozó Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">47.9%</td>
-				   <td id="fidesz_mayor2">5,392</td>
+				   <td id="fidesz_mayor">43.4%</td>
+				   <td id="fidesz_mayor2">4,885</td>
 			</tr>
 			<tr>
 			<td>Szirbik Imre - MSZP-DK-EGYÜTT-PM</td> 
-			<td id="ellenzek_mayor">43.4%</td>
-			<td id="ellenzek_mayor2">4,885</td>
+			<td id="ellenzek_mayor">47.9%</td>
+			<td id="ellenzek_mayor2">5,392</td>
 			</tr>
               </tbody>
             </table>

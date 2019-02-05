@@ -24,7 +24,7 @@ permalink: /paks
               </thead>
               <tbody>
              <tr>
-                   <td>Kozmann György - FIDESZ-KDNP-LOKÁLPATRIOTÁK</td>
+                   <td>Szabó Péter - FIDESZ-KDNP-LOKÁLPATRIOTÁK</td>
 				   <td>68.3%</td>
 				   <td>3,414</td>
 			</tr>

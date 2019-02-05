@@ -31,7 +31,7 @@ permalink: /hajdunanas
 			</tr>
 			<tr>
 			<td>Klepács Györgyi - Független</td> 
-			<td id="ellenzek_mayor">24.1%</td>
+			<td id="ellenzek_mayor">24.2%</td>
 			<td id="ellenzek_mayor2">1,339</td>
 			</tr>
               </tbody>

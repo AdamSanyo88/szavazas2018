@@ -25,12 +25,12 @@ permalink: /hajduszoboszlo
               </thead>
               <tbody>
              <tr>
-                   <td>Kocsis Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dr. Györgyi Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">34.8%</td>
 				   <td id="fidesz_mayor2">2,884</td>
 			</tr>
 			<tr>
-			<td>Holoda Attila István - Összefogás Hszob</td> 
+			<td>Dr. Sóvágó László Imre - Összefogás Hszob</td> 
 			<td id="ellenzek_mayor">65.2%</td>
 			<td id="ellenzek_mayor2">5,400</td>
 			</tr>

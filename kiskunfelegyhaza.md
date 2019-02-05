@@ -26,13 +26,13 @@ permalink: /kiskunfelegyhaza
               <tbody>
              <tr>
                    <td>Kapus Krisztián - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">54.9%</td>
-				   <td id="fidesz_mayor2">6,633</td>
+				   <td id="fidesz_mayor">24.4%</td>
+				   <td id="fidesz_mayor2">2,942</td>
 			</tr>
 			<tr>
 			<td>Csányi József - Nemzeti Fórum</td> 
-			<td id="ellenzek_mayor">24.4%</td>
-			<td id="ellenzek_mayor2">2,942</td>
+			<td id="ellenzek_mayor">54.9%</td>
+			<td id="ellenzek_mayor2">6,633</td>
 			</tr>
               </tbody>
             </table>

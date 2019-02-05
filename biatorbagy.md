@@ -27,12 +27,12 @@ permalink: /biatorbagy
              <tr>
                    <td>Tarjáni István János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">51.9%</td>
-				   <td id="fidesz_mayor2">1,107</td>
+				   <td id="fidesz_mayor2">2,192</td>
 			</tr>
 			<tr>
 			<td>Dr. Palovics Lajos - SZBE</td> 
-			<td id="ellenzek_mayor">41.2%</td>
-			<td id="ellenzek_mayor2">1,517</td>
+			<td id="ellenzek_mayor">38.3%</td>
+			<td id="ellenzek_mayor2">1,617</td>
 			</tr>
               </tbody>
             </table>
@@ -98,34 +98,34 @@ permalink: /biatorbagy
               <tbody>
              <tr>
                   <td>Fidesz <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_2018">xx%</td>
+				   <td id="fidesz_2018">47.6%</td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			<td id="jobbik_2018">xx%</td>
+			<td id="jobbik_2018">15.6%</td>
 			</tr>
 			<tr>
                   <td>MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="mszp_2018">xx%</td>
+				   <td id="mszp_2018">8.6%</td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="lmp_2018">xx%</td>
+				   <td id="lmp_2018">15.4%</td>
 			</tr>
 			<tr>
                   <td>DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="dk_2018">xx%</td>
+				   <td id="dk_2018">4.8%</td>
 			</tr>
 			<tr>
                   <td>Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="momentum_2018">xx%</td>
+				   <td id="momentum_2018">4.1%</td>
 			</tr>
 			<tr>
                   <td>Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-				   <td id="egyutt_2018">xx%</td>
+				   <td id="egyutt_2018">1.0%</td>
 			</tr>
              <tr>
                   <td>MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="mkkp_2018">xx%</td>
+				   <td id="mkkp_2018">2.0%</td>
 			</tr>
    
               </tbody>
