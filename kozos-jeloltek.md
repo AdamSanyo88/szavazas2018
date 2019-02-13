@@ -141,7 +141,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../gyomaendrod">Gyomaendrőd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyomro">Gyömrő</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyongyos">Gyöngyös</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyula">Gyula</a></td><td>---</td><td>10</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyula">Gyula</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduboszormeny">Hajdúböszörmény</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduhadhaz">Hajdúhadház</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajdunanas">Hajdúnánás</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -150,7 +150,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../hatvan">Hatvan</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../heves">Heves</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../isaszeg">Isaszeg</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../jaszbereny">Jászberény</a></td><td>---</td><td>10</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../jaszbereny">Jászberény</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kalocsa">Kalocsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kapuvar">Kapuvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../karcag">Karcag</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -158,7 +158,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kerepes">Kerepes</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../keszthely">Keszthely</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunfelegyhaza">Kiskunfélegyháza</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kiskunhalas">Kiskunhalas</a></td><td>---</td><td>10</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kiskunhalas">Kiskunhalas</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunmajsa">Kiskunmajsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskoros">Kiskőrös</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kistarcsa">Kistarcsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -179,7 +179,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../mohacs">Mohács</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../monor">Monor</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../mor">Mór</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../mosonmagyarovar">Mosonmagyaróvár</a></td><td>---</td><td>10</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../mosonmagyarovar">Mosonmagyaróvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagyatad">Nagyatád</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykata">Nagykáta</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykoros">Nagykőrös</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -188,7 +188,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../oroszlany">Oroszlány</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ozd">Ózd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../paks">Paks</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../papa">Pápa</a></td><td>---</td><td>10</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../papa">Pápa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecel">Pécel</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pilis">Pilis</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pilisvorosvar">Pilisvörösvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
