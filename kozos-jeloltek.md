@@ -68,7 +68,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../bekescsaba">Békéscsaba</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../debrecen">Debrecen</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../eger">Eger</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr class="grey lighten-2"><td><a href="../eger">Eger</a></td><td>Mirkóczki Ádám - Jobbik</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../erd">Érd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -84,8 +84,8 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../szombathely">Szombathely</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../tatabanya">Tatabánya</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szombathely">Szombathely</a></td><td>Nemény András - MSZP</td><td>MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
+<tr class="red lighten-4"><td><a href="../tatabanya">Tatabánya</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../veszprem">Veszprém</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 
