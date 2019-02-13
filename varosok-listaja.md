@@ -17,7 +17,6 @@ permalink: /varosok-listaja
 <br/>
 
 
- 
 
 <h5>Budapest kerületei</h5>
 <br/>
@@ -26,7 +25,7 @@ permalink: /varosok-listaja
 <table class="bordered centered">
               <thead>
                 <tr>
-                    <th>Fidesz polgármesterek száma</th>
+                    <th>Fideszes polgármesterek száma</th>
 					<th>Fideszes egyéni képviselők száma (2014)</th>
 					<th>Más párt / független polgármesterek száma (2014)</th>
 					<th>Más párt / független egyéni képviselők száma (2014)</th>
@@ -87,7 +86,7 @@ permalink: /varosok-listaja
 <table class="bordered centered">
               <thead>
                 <tr>
-                    <th>Fidesz polgármesterek száma</th>
+                    <th>Fideszes polgármesterek száma</th>
 					<th>Fideszes egyéni képviselők száma (2014)</th>
 					<th>Más párt / független polgármesterek száma (2014)</th>
 					<th>Más párt / független egyéni képviselők száma (2014)</th>
