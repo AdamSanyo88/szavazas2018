@@ -33,7 +33,7 @@ permalink: /varosok-listaja
                 </tr>
               </thead>
               <tbody>
-<tr><td>17</td><td>219</td><td>6</td><td>74</td><td>17 - 6</td></tr>
+<tr><td>17</td><td>219</td><td>6</td><td>74</td><td>18 - 5</td></tr>
 </tbody>  
 </table>	
   
@@ -91,7 +91,7 @@ permalink: /varosok-listaja
                 </tr>
               </thead>
               <tbody>
-<tr><td>19</td><td>4</td><td>268</td><td>47</td><td>20 - 3</td></tr>
+<tr><td>19</td><td>268</td><td>4</td><td>47</td><td>20 - 3</td></tr>
 </tbody>  
 </table>	
   <br/>
