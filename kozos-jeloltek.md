@@ -57,10 +57,11 @@ permalink: /kozos-jeloltek
 	     <table class="bordered centered">
               <thead>
                 <tr>
-                    <th>Megyei jogú város</th>
-					<th>Polgármester</th>
-					<th>Fidesz-KDNP egyéni képviselők száma (2014)</th>
-					<th>Más párt / független egyéni képviselők száma (2014)</th>
+                    <th>Kerület</th>
+					<th>Közös ellenzéki vagy esélyes jelölt</th>
+					<th>Támogató szervezetek</th>
+					<th>Várható szavazatarány</th>
+					<th>Várható ellenzéki egyéni képviselőhelyek száma</th>
                 </tr>
               </thead>
               <tbody>
@@ -96,10 +97,11 @@ permalink: /kozos-jeloltek
  <table class="bordered centered">
               <thead>
                 <tr>
-                    <th>Település</th>
-					<th>Polgármester</th>
-					<th>Fidesz-KDNP egyéni képviselők száma (2014)</th>
-					<th>Más párt / független egyéni képviselők száma (2014)</th>
+                    <th>Kerület</th>
+					<th>Közös ellenzéki vagy esélyes jelölt</th>
+					<th>Támogató szervezetek</th>
+					<th>Várható szavazatarány</th>
+					<th>Várható ellenzéki egyéni képviselőhelyek száma</th>
                 </tr>
               </thead>
               <tbody>
