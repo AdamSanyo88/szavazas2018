@@ -77,7 +77,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../miskolc">Miskolc</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../pecs">Pécs</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../pecs">Pécs</a></td><td>Péterffy Attila</td><td>MSZP-DK-Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szeged">Szeged</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
