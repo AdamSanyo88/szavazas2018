@@ -12,7 +12,7 @@ permalink: /varosok-listaja
 
 
 <p>Az alábbi lista megmutatja, hogy a 10000 fő feletti lakossággal rendelkező városokban, a megyei jogú városokban, és Budapesten hogyan szerepeltek a 2014-es önkormányzati választáson különböző pártok polgármesterjelöltjei és képviselőjelöltjei.</p>
-<p>A 10000-nél nagyobb lakosságú településeken egyéni képviselőket is választanak a városi közgyűlésbe, így az itt megszerzett képviselő helyek eloszlása is megtalálható.</p>
+<p>A 10000-nél nagyobb lakosságú településeken egyéni képviselőket is választanak a városi közgyűlésbe, így az egyéni körzetekben és kompenzációs listáról szerzett mandátumok is láthatók.</p>
 
 <br/>
 
@@ -50,7 +50,7 @@ permalink: /varosok-listaja
                 </tr>
               </thead>
               <tbody>
-<tr class="orange accent-1"><td width="20%"><a href="../budapest1">I. kerület</a></td><td width="40%">Dr. Nagy Gábor Tamás - Fidesz-KDNP</td><td>10</td><td>0</td><td>---</td></tr>
+<tr class="orange accent-1"><td width="20%"><a href="../budapest1">I. kerület</a></td><td width="40%">Dr. Nagy Gábor Tamás - Fidesz-KDNP</td><td>10 + 0</td><td>0 + 4</td><td>11 - 4</td></tr>
 <tr class="orange accent-1"><td width="20%"><a href="../budapest2">II. kerület</a></td><td width="40%">Dr. Láng Zsolt Péter - Fidesz-KDNP</td><td>13</td><td>1</td><td>---</td></tr>
 <tr class="orange accent-1"><td width="20%"><a href="../budapest3">III. kerület</a></td><td width="40%">Bús Balázs - Fidesz-KDNP</td><td>15</td><td>1</td><td>---</td></tr>
 <tr class="orange accent-1"><td width="20%"><a href="../budapest4">IV. kerület</a></td><td width="40%">Wintermantel Zsolt - Fidesz-KDNP</td><td>12</td><td>2</td><td>---</td></tr>
