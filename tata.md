@@ -47,39 +47,40 @@ permalink: /tata
                 <tr>
                     <th>Pártok</th>
                     <th>Egyéni képviselőhelyek</th>
+<th>Kompenzációs helyek</th>
                 </tr>
               </thead>
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">8</td>
+				   <td id="fidesz_mp">8</td><td id="fidesz_mp_lista"></td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
-				<td id="jobbik_mp">0</td>
+				<td id="jobbik_mp">0</td><td id="jobbik_mp_lista"></td>
 			</tr>
 			<tr>
                   <td>MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td>
-				   <td id="mszp_mp">0</td>
+				   <td id="mszp_mp">0</td><td id="mszp_mp_lista"></td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="lmp_mp">0</td>
+				   <td id="lmp_mp">0</td><td id="lmp_mp_lista"></td>
 			</tr>
 			<tr>
                   <td>DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="dk_mp">0</td>
+				   <td id="dk_mp">0</td><td id="dk_mp_lista"></td>
 			</tr>
 			<tr>
                   <td>Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td>
-				   <td id="egyutt_mp">0</td>
+				   <td id="egyutt_mp">0</td><td id="egyutt_mp_lista"></td>
 			</tr>
 			 <tr>
                   <td>Egyéb szervezet</td>
-				   <td id="egyeb_mp">0</td>
+				   <td id="egyeb_mp">0</td><td id="egyeb_mp_lista"></td>
 			</tr>
              <tr>
                   <td>Független</td>
-				   <td id="fuggetlen_mp">0</td>
+				   <td id="fuggetlen_mp">0</td><td id="fuggetlen_mp_lista"></td>
 			</tr>
    
               </tbody>
