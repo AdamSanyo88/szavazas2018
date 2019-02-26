@@ -26,9 +26,9 @@ permalink: /varosok-listaja
               <thead>
                 <tr>
                     <th>Fideszes polgármesterek száma</th>
-					<th>Fideszes egyéni képviselők száma (2014)</th>
+					<th>Fideszes egyéni + listás képviselők száma (2014)</th>
 					<th>Más párt / független polgármesterek száma (2014)</th>
-					<th>Más párt / független egyéni képviselők száma (2014)</th>
+					<th>Más párt / független egyéni + listás képviselők száma (2014)</th>
 					<th>Közgyűlési többségek (Fidesz-ellenzék)</th>
                 </tr>
               </thead>
@@ -44,9 +44,9 @@ permalink: /varosok-listaja
                 <tr>
                     <th>Kerület</th>
 					<th>Polgármester</th>
-					<th>Fidesz-KDNP egyéni és listás képviselők száma (2014)</th>
-					<th>Más párt / független egyéni és listás képviselők száma (2014)</th>
-<th>Képviselő-testület összetétele</th>
+					<th>Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
+					<th>Más párt / független egyéni + listás képviselők száma (2014)</th>
+<th>Képviselő-testület összetétele (Fidesz - más szervezetek)</th>
                 </tr>
               </thead>
               <tbody>
@@ -85,9 +85,9 @@ permalink: /varosok-listaja
               <thead>
                 <tr>
                     <th>Fideszes polgármesterek száma</th>
-					<th>Fideszes egyéni képviselők száma (2014)</th>
+					<th>Fideszes egyéni + listás képviselők száma (2014)</th>
 					<th>Más párt / független polgármesterek száma (2014)</th>
-					<th>Más párt / független egyéni képviselők száma (2014)</th>
+					<th>Más párt / független egyéni + listás képviselők száma (2014)</th>
 					<th>Közgyűlési többségek (Fidesz-ellenzék)</th>
                 </tr>
               </thead>
@@ -101,9 +101,10 @@ permalink: /varosok-listaja
               <thead>
                 <tr>
                     <th>Megyei jogú város</th>
-					<th>Polgármester</th>
-					<th>Fidesz-KDNP egyéni képviselők száma (2014)</th>
-					<th>Más párt / független egyéni képviselők száma (2014)</th>
+				<th>Polgármester</th>
+					<th>Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
+					<th>Más párt / független egyéni + listás képviselők száma (2014)</th>
+<th>Képviselő-testület összetétele (Fidesz - más szervezetek)</th>
                 </tr>
               </thead>
               <tbody>
@@ -159,8 +160,9 @@ permalink: /varosok-listaja
                 <tr>
                     <th>Település</th>
 					<th>Polgármester</th>
-					<th>Fidesz-KDNP egyéni képviselők száma (2014)</th>
-					<th>Más párt / független egyéni képviselők száma (2014)</th>
+					<th>Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
+					<th>Más párt / független egyéni + listás képviselők száma (2014)</th>
+<th>Képviselő-testület összetétele (Fidesz - más szervezetek)</th>
                 </tr>
               </thead>
               <tbody>
