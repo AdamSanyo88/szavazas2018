@@ -140,7 +140,7 @@ permalink: /varosok-listaja
 <br/>
 <p><strong>Összefoglaló táblázat</strong></p>
 
-<table class="bordered centered">
+<table class="bordered centered blue lighten-5">
               <thead>
                 <tr>
                     <th>Fidesz polgármesterek száma</th>
@@ -155,7 +155,7 @@ permalink: /varosok-listaja
 </tbody>  
   </table>	
   <br/>
-<table class="bordered centered blue lighten-5">
+<table class="bordered centered">
               <thead>
                 <tr>
                     <th>Település</th>
