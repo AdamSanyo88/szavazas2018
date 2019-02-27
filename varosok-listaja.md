@@ -416,7 +416,7 @@ permalink: /varosok-listaja
                 </tr>
               </thead>
               <tbody>
-<tr><td>77</td><td>670 + 68</td><td>46</td><td>356 + 322</td><td>81 - 42</td></tr>
+<tr><td>77</td><td>670 + 68</td><td>46</td><td>356 + 322</td><td>80 - 43</td></tr>
 </tbody>  
   </table>	
   <br/>
@@ -450,21 +450,21 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../baja">Baja</a></td>
-<td>Fercsák Róbert - Fidesz-KDNP</td>
+<td class="orange accent-1">Fercsák Róbert - Fidesz-KDNP</td>
 <td>7 + 1</td>
 <td>3 + 3</td>
 <td>9 - 6</td>
 </tr>
 <tr>
 <td><a href="../balassagyarmat">Balassagyarmat</a></td>
-<td>Medvácz Lajos Ferenc - Fidesz-KDNP</td>
+<td class="orange accent-1">Medvácz Lajos Ferenc - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../balatonfured">Balatonfüred</a></td>
-<td>Dr. Bóka István - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Bóka István - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
@@ -478,14 +478,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../barcs">Barcs</a></td>
-<td>Karvalics Ottó János - Fidesz-KDNP</td>
+<td class="orange accent-1">Karvalics Ottó János - Fidesz-KDNP</td>
 <td>5 + 1</td>
 <td>3 + 2</td>
 <td>7 - 5</td>
 </tr>
 <tr>
 <td><a href="../batonyterenye">Bátonyterenye</a></td>
-<td>Nagy-Majdon József - Fidesz-KDNP</td>
+<td class="orange accent-1">Nagy-Majdon József - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
@@ -499,42 +499,42 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../berettyoujfalu">Berettyóújfalu</a></td>
-<td>Muraközi István - Fidesz-KDNP</td>
+<td class="orange accent-1">Muraközi István - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
 <td><a href="../biatorbagy">Biatorbágy</a></td>
-<td>Tarjáni István János - Fidesz-KDNP</td>
+<td class="orange accent-1">Tarjáni István János - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../bicske">Bicske</a></td>
-<td>Pálffy Károly - Fidesz-KDNP</td>
+<td class="orange accent-1">Pálffy Károly - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../bonyhad">Bonyhád</a></td>
-<td>Filóné Ferencz Ibolya Gyöngyi - Fidesz-KDNP</td>
+<td class="orange accent-1">Filóné Ferencz Ibolya Gyöngyi - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../budakalsz">Budakalász</a></td>
-<td>Rogán László - Fidesz-KDNP</td>
+<td class="orange accent-1">Rogán László - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../budakeszi">Budakeszi</a></td>
-<td>Dr. Csutoráné Dr. Győri Ottilia - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Csutoráné Dr. Győri Ottilia - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
@@ -548,7 +548,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../cegled">Cegléd</a></td>
-<td>Takáts László - Fidesz-KDNP</td>
+<td class="orange accent-1">Takáts László - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
@@ -569,14 +569,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../csorna">Csorna</a></td>
-<td>Dr. Bónáné Dr. Németh Katalin Klára - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Bónáné Dr. Németh Katalin Klára - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../dabas">Dabas</a></td>
-<td>Kőszegi Zoltán - Fidesz</td>
+<td class="orange accent-1">Kőszegi Zoltán - Fidesz</td>
 <td>8 + 1</td>
 <td>0 + 2</td>
 <td>10 - 2</td>
@@ -604,7 +604,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../dunakeszi">Dunakeszi</a></td>
-<td>Dióssi Csaba - Fidesz-KDNP</td>
+<td class="orange accent-1">Dióssi Csaba - Fidesz-KDNP</td>
 <td>9 + 1</td>
 <td>1 + 3</td>
 <td>11 - 4</td>
@@ -618,28 +618,28 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../esztergom">Esztergom</a></td>
-<td>Romanek Etelka - Fidesz-KDNP</td>
+<td class="orange accent-1">Romanek Etelka - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
 <td><a href="../fot">Fót</a></td>
-<td>Bartos Sándor - Fidesz-KDNP</td>
+<td class="orange accent-1">Bartos Sándor - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 4</td>
 <td>8 - 5</td>
 </tr>
 <tr>
 <td><a href="../gardony">Gárdony</a></td>
-<td>Tóth István József - Fidesz-KDNP</td>
+<td class="orange accent-1">Tóth István József - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
 <td><a href="../god">Göd</a></td>
-<td>Markó József - Fidesz-KDNP</td>
+<td class="orange accent-1">Markó József - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
@@ -653,7 +653,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../gyal">Gyál</a></td>
-<td>Pápai Mihály - Fidesz-KDNP</td>
+<td class="orange accent-1">Pápai Mihály - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -681,35 +681,35 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../gyula">Gyula</a></td>
-<td>Dr. Görgényi Ernő István - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Görgényi Ernő István - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
 <td><a href="../hajduboszormeny">Hajdúböszörmény</a></td>
-<td>Kiss Attila - Fidesz-KDNP</td>
+<td class="orange accent-1">Kiss Attila - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
 <td><a href="../hajduhadhaz">Hajdúhadház</a></td>
-<td>Csáfordi Dénes - Fidesz-KDNP</td>
+<td class="orange accent-1">Csáfordi Dénes - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../hajdunanas">Hajdúnánás</a></td>
-<td>Szólláth Tibor Zoltán - Fidesz-KDNP</td>
+<td class="orange accent-1">Szólláth Tibor Zoltán - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../hajdusamson">Hajdúsámson</a></td>
-<td>Antal Szabolcs - Fidesz-KDNP</td>
+<td class="orange accent-1">Antal Szabolcs - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -723,14 +723,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../hatvan">Hatvan</a></td>
-<td>Horváth Richárd - Fidesz-KDNP</td>
+<td class="orange accent-1">Horváth Richárd - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../heves">Heves</a></td>
-<td>Sveiczer Sándor Péter - Fidesz-KDNP</td>
+<td class="orange accent-1">Sveiczer Sándor Péter - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
@@ -744,7 +744,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../jaszbereny">Jászberény</a></td>
-<td>Dr. Szabó Tamás - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Szabó Tamás - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 3</td>
 <td>11 - 3</td>
@@ -758,14 +758,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../kapuvar">Kapuvár</a></td>
-<td>Hámori György - Fidesz-KDNP</td>
+<td class="orange accent-1">Hámori György - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../karcag">Karcag</a></td>
-<td>Dobos László - Fidesz-KDNP</td>
+<td class="orange accent-1">Dobos László - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -786,7 +786,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../keszthely">Keszthely</a></td>
-<td>Ruzsics Ferenc - Fidesz-KDNP</td>
+<td class="orange accent-1">Ruzsics Ferenc - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -800,7 +800,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../kiskunhalas">Kiskunhalas</a></td>
-<td>Fülöp Róbert - Fidesz-KDNP</td>
+<td class="orange accent-1">Fülöp Róbert - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
@@ -814,63 +814,63 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../kiskoros">Kiskőrös</a></td>
-<td>Domonyi László Mihály - Fidesz-KDNP</td>
+<td class="orange accent-1">Domonyi László Mihály - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../kistarcsa">Kistarcsa</a></td>
-<td>Solymosi Sándor - Fidesz-KDNP</td>
+<td class="orange accent-1">Solymosi Sándor - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
 <td><a href="../kisujszallas">Kisújszállás</a></td>
-<td>Kecze István - FIDESZ-NAGYKUN POLGÁRI K</td>
+<td class="orange accent-1">Kecze István - FIDESZ-NAGYKUN POLGÁRI K</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../kisvarda">Kisvárda</a></td>
-<td>Leleszi Tibor - Fidesz-KDNP</td>
+<td class="orange accent-1">Leleszi Tibor - Fidesz-KDNP</td>
 <td>7 + 1</td>
 <td>1 + 2</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../komarom">Komárom</a></td>
-<td>Dr. Molnár Attila - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Molnár Attila - Fidesz-KDNP</td>
 <td>5 + 1</td>
 <td>3 + 2</td>
 <td>7 - 5</td>
 </tr>
 <tr>
 <td><a href="../komlo">Komló</a></td>
-<td>Polics József - Fidesz-KDNP</td>
+<td class="orange accent-1">Polics József - Fidesz-KDNP</td>
 <td>7 + 1</td>
 <td>3 + 3</td>
 <td>9 - 6</td>
 </tr>
 <tr>
 <td><a href="../kormend">Körmend</a></td>
-<td>Bebes István Géza - Fidesz-KDNP</td>
+<td class="orange accent-1">Bebes István Géza - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../koszeg">Kőszeg</a></td>
-<td>Huber László György - Fidesz-KDNP</td>
+<td class="orange accent-1">Huber László György - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../lajosmizse">Lajosmizse</a></td>
-<td>Basky András - Fidesz-KDNP</td>
+<td class="orange accent-1">Basky András - Fidesz-KDNP</td>
 <td>4 + 1</td>
 <td>4 + 2</td>
 <td>6 - 6</td>
@@ -884,7 +884,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../mako">Makó</a></td>
-<td>Farkas Éva Erzsébet - Fidesz-KDNP</td>
+<td class="orange accent-1">Farkas Éva Erzsébet - Fidesz-KDNP</td>
 <td>6 + 1</td>
 <td>2 + 2</td>
 <td>8 - 4</td>
@@ -898,7 +898,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../mateszalka">Mátészalka</a></td>
-<td>Hanusi Péter - Fidesz-KDNP</td>
+<td class="orange accent-1">Hanusi Péter - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -912,42 +912,42 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../mezokovesd">Mezőkövesd</a></td>
-<td>Dr. Fekete Zoltán - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Fekete Zoltán - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../mezotur">Mezőtúr</a></td>
-<td>Herczeg Zsolt - Fidesz-KDNP</td>
+<td class="orange accent-1">Herczeg Zsolt - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../mohacs">Mohács</a></td>
-<td>Szekó József - Fidesz-KDNP</td>
+<td class="orange accent-1">Szekó József - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../monor">Monor</a></td>
-<td>Dr. Zsombok László Krisztián - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Zsombok László Krisztián - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../mor">Mór</a></td>
-<td>Fenyves Péter - Fidesz-KDNP</td>
+<td class="orange accent-1">Fenyves Péter - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../mosonmagyarovar">Mosonmagyaróvár</a></td>
-<td>Dr. Árvay István - FIDESZ-KDNP-Nemzeti Fórum-MPKE-LABE</td>
+<td class="orange accent-1">Dr. Árvay István - FIDESZ-KDNP-Nemzeti Fórum-MPKE-LABE</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
@@ -961,14 +961,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../nagykata">Nagykáta</a></td>
-<td>Dorner Gábor - Fidesz-KDNP</td>
+<td class="orange accent-1">Dorner Gábor - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../nagykoros">Nagykőrös</a></td>
-<td>Dr. Czira Sándor Szabolcs - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Czira Sándor Szabolcs - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -982,7 +982,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../oroshaza">Orosháza</a></td>
-<td>Dávid Zoltán - Fidesz-KDNP</td>
+<td class="orange accent-1">Dávid Zoltán - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
@@ -1003,14 +1003,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../paks">Paks</a></td>
-<td>Kozmann György - FIDESZ-KDNP-LOKÁLPATRIOTÁK</td>
+<td class="orange accent-1">Kozmann György - FIDESZ-KDNP-LOKÁLPATRIOTÁK</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>2 - 10</td>
 </tr>
 <tr>
 <td><a href="../papa">Pápa</a></td>
-<td>Dr. Áldozó Tamás Róbert - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Áldozó Tamás Róbert - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
@@ -1024,7 +1024,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../pilis">Pilis</a></td>
-<td>Szabó Márton Elemér - Fidesz-KDNP</td>
+<td class="orange accent-1">Szabó Márton Elemér - Fidesz-KDNP</td>
 <td>2 + 1</td>
 <td>5 + 2</td>
 <td>4 - 7</td>
@@ -1038,21 +1038,21 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../pomaz">Pomáz</a></td>
-<td>Vicsi László Csaba - Fidesz-KDNP</td>
+<td class="orange accent-1">Vicsi László Csaba - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../puspokladany">Püspökladány</a></td>
-<td>Dombi Imréné - Fidesz-KDNP</td>
+<td class="orange accent-1">Dombi Imréné - Fidesz-KDNP</td>
 <td>5 + 1</td>
 <td>3 + 2</td>
 <td>7 - 5</td>
 </tr>
 <tr>
 <td><a href="../rackeve">Ráckeve</a></td>
-<td>Szadai József - Fidesz-KDNP</td>
+<td class="orange accent-1">Szadai József - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -1066,35 +1066,35 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../sarbogard">Sárbogárd</a></td>
-<td>Dr. Sükösd Tamás - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Sükösd Tamás - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../sarkad">Sarkad</a></td>
-<td>Dr. Mokán István - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Mokán István - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../sarospatak">Sárospatak</a></td>
-<td>Aros János - Fidesz-KDNP</td>
+<td class="orange accent-1">Aros János - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../sarvar">Sárvár</a></td>
-<td>Kondora István - Fidesz-KDNP</td>
+<td class="orange accent-1">Kondora István - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
 <td><a href="../satoraljaujhely">Sátoraljaújhely</a></td>
-<td>Szamosvölgyi Péter István - Fidesz-KDNP</td>
+<td class="orange accent-1">Szamosvölgyi Péter István - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -1115,14 +1115,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../solymar">Solymár</a></td>
-<td>Dr. Szente Kálmán - Fidesz-KDNP</td>
+<td class="orange accent-1">Dr. Szente Kálmán - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../szarvas">Szarvas</a></td>
-<td>Babák Mihály - Fidesz-KDNP</td>
+<td class="orange accent-1">Babák Mihály - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
@@ -1136,7 +1136,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../szentendre">Szentendre</a></td>
-<td>Verseghi-Nagy Miklós Zoltán - Fidesz-KDNP</td>
+<td class="orange accent-1">Verseghi-Nagy Miklós Zoltán - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
@@ -1157,7 +1157,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../szigetszentmiklos">Szigetszentmiklós</a></td>
-<td>Szabó József - Fidesz-KDNP</td>
+<td class="orange accent-1">Szabó József - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 4</td>
 <td>9 - 4</td>
@@ -1178,7 +1178,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../tata">Tata</a></td>
-<td>Michl József Imre - Fidesz-KDNP</td>
+<td class="orange accent-1">Michl József Imre - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -1192,14 +1192,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../tiszafured">Tiszafüred</a></td>
-<td>Ujvári Imre - Fidesz-KDNP</td>
+<td class="orange accent-1">Ujvári Imre - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../tiszakecske">Tiszakécske</a></td>
-<td>Tóth János - Fidesz</td>
+<td class="orange accent-1">Tóth János - Fidesz</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
@@ -1213,28 +1213,28 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../tiszavasvari">Tiszavasvári</a></td>
-<td>Szőke Zoltán - Fidesz-KDNP</td>
+<td class="orange accent-1">Szőke Zoltán - Fidesz-KDNP</td>
 <td>3 + 1</td>
 <td>4 + 2</td>
 <td>5 - 6</td>
 </tr>
 <tr>
 <td><a href="../tokol">Tököl</a></td>
-<td>Hoffman Pál - Fidesz-KDNP</td>
+<td class="orange accent-1">Hoffman Pál - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
 <td><a href="../tolna">Tolna</a></td>
-<td>Appelshoffer Ágnes - Fidesz-KDNP</td>
+<td class="orange accent-1">Appelshoffer Ágnes - Fidesz-KDNP</td>
 <td>6 + 1</td>
 <td>2 + 2</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../torokbalint">Törökbálint</a></td>
-<td>Elek Sándor - Fidesz-KDNP</td>
+<td class="orange accent-1">Elek Sándor - Fidesz-KDNP</td>
 <td>5 + 0</td>
 <td>3 + 3</td>
 <td>6 - 6</td>
@@ -1262,21 +1262,21 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../vac">Vác</a></td>
-<td>Fördős József Attila - Fidesz-KDNP</td>
+<td class="orange accent-1">Fördős József Attila - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>2 + 3</td>
 <td>9 - 5</td>
 </tr>
 <tr>
 <td><a href="../varpalota">Várpalota</a></td>
-<td>Talabér Márta - Fidesz-KDNP</td>
+<td class="orange accent-1">Talabér Márta - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
 <td><a href="../vecses">Vecsés</a></td>
-<td>Szlahó Csaba - Fidesz-KDNP</td>
+<td class="orange accent-1">Szlahó Csaba - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
