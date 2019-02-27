@@ -47,161 +47,161 @@ permalink: /varosok-listaja
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
 </tr></thead>
 <tbody><tr>
-<td>I. kerület</td>
+<td><a href="../budapest1">I. kerület</a></td>
 <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>II. kerület</td>
+<td><a href="../budapest2">II. kerület</a></td>
 <td>Dr. Láng Zsolt Péter - Fidesz-KDNP</td>
 <td>13 + 0</td>
 <td>1 + 6</td>
 <td>14 - 7</td>
 </tr>
 <tr>
-<td>III. kerület</td>
+<td><a href="../budapest3">III. kerület</a></td>
 <td>Bús Balázs - Fidesz-KDNP</td>
 <td>15 + 0</td>
 <td>1 + 6</td>
 <td>16 - 7</td>
 </tr>
 <tr>
-<td>IV. kerület</td>
+<td><a href="../budapest4">IV. kerület</a></td>
 <td>Wintermantel Zsolt - Fidesz-KDNP</td>
 <td>12 + 1</td>
 <td>2 + 5</td>
 <td>14 - 7</td>
 </tr>
 <tr>
-<td>V. kerület</td>
+<td><a href="../budapest5">V. kerület</a></td>
 <td>Szentgyörgyvölgyi Péter - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>VI. kerület</td>
+<td><a href="../budapest6">VI. kerület</a></td>
 <td>Hassay Zsófia - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td>VII. kerület</td>
+<td><a href="../budapest7">VII. kerület</a></td>
 <td>Vattamány Zsolt - Fidesz-KDNP</td>
 <td>7 + 1</td>
 <td>5 + 4</td>
 <td>9 - 9</td>
 </tr>
 <tr>
-<td>VIII. kerület</td>
+<td><a href="../budapest8">VIII. kerület</a></td>
 <td>Dr. Sára Botond - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>IX. kerület</td>
+<td><a href="../budapest9">IX. kerület</a></td>
 <td>Bácskai János - Fidesz-KDNP</td>
 <td>10 + 1</td>
 <td>2 + 4</td>
 <td>12 - 6</td>
 </tr>
 <tr>
-<td>X. kerület</td>
+<td><a href="../budapest10">X. kerület</a></td>
 <td>Kovács Róbert - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>XI. kerület</td>
+<td><a href="../budapest11">XI. kerület</a></td>
 <td>Hoffmann Tamás - Fidesz-KDNP</td>
 <td>15 + 0</td>
 <td>2 + 7</td>
 <td>16 - 9</td>
 </tr>
 <tr>
-<td>XII. kerület</td>
+<td><a href="../budapest12">XII. kerület</a></td>
 <td>Pokorni Zoltán - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>XIII. kerület</td>
+<td><a href="../budapest13">XIII. kerület</a></td>
 <td>Dr. Tóth József Sándor - MSZP</td>
 <td>0 + 3</td>
 <td>15 + 3</td>
 <td>3 - 19</td>
 </tr>
 <tr>
-<td>XIV. kerület</td>
+<td><a href="../budapest14">XIV. kerület</a></td>
 <td>Karácsony Gergely Szilveszter - Együtt-PM</td>
 <td>7 + 2</td>
 <td>8 + 4</td>
 <td>9 - 13</td>
 </tr>
 <tr>
-<td>XV. kerület</td>
+<td><a href="../budapest15">XV. kerület</a></td>
 <td>Németh Angéla - RÁTE-Szolidaritás</td>
 <td>8 + 2</td>
 <td>6 + 4</td>
 <td>10 - 11</td>
 </tr>
 <tr>
-<td>XVI. kerület</td>
+<td><a href="../budapest16">XVI. kerület</a></td>
 <td>Kovács Péter - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>XVII. kerület</td>
+<td><a href="../budapest17">XVII. kerület</a></td>
 <td>Riz Levente - Fidesz-KDNP</td>
 <td>14 + 0</td>
 <td>0 + 6</td>
 <td>15 - 6</td>
 </tr>
 <tr>
-<td>XVIII. kerület</td>
+<td><a href="../budapest18">XVIII. kerület</a></td>
 <td>Ughy Attila - Fidesz-KDNP</td>
 <td>11 + 1</td>
 <td>3 + 5</td>
 <td>13 - 8</td>
 </tr>
 <tr>
-<td>XIX. kerület</td>
+<td><a href="../budapest19">XIX. kerület</a></td>
 <td>Gajda Péter - MSZP</td>
 <td>1 + 3</td>
 <td>11 + 2</td>
 <td>4 - 14</td>
 </tr>
 <tr>
-<td>XX. kerület</td>
+<td><a href="../budapest20">XX. kerület</a></td>
 <td>Szabados Ákos - MSZP-DK-Együtt-PM</td>
 <td>4 + 2</td>
 <td>8 + 3</td>
 <td>6 - 12</td>
 </tr>
 <tr>
-<td>XXI. kerület</td>
+<td><a href="../budapest21">XXI. kerület</a></td>
 <td>Borbély Lénárd - Fidesz-KDNP</td>
 <td>10 + 1</td>
 <td>4 + 5</td>
 <td>12 - 9</td>
 </tr>
 <tr>
-<td>XXII. kerület</td>
+<td><a href="../budapest22">XXII. kerület</a></td>
 <td>Karsay Ferenc - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>XXIII. kerület</td>
+<td><a href="../budapest23">XXIII. kerület</a></td>
 <td>Geiger Ferenc - CIVIL SZERVEZETEK</td>
 <td>3 + 1</td>
 <td>5 + 2</td>
@@ -238,161 +238,161 @@ permalink: /varosok-listaja
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
 </tr></thead>
 <tbody><tr>
-<td>Békéscsaba</td>
+<td><a href="../bekescsaba">Békéscsaba</a></td>
 <td>Szarvas Péter - Független</td>
 <td>10 + 1</td>
 <td>2 + 4</td>
 <td>11 - 7</td>
 </tr>
 <tr>
-<td>Debrecen</td>
+<td><a href="../debrecen">Debrecen</a></td>
 <td>Dr. Papp László - Fidesz-KDNP</td>
 <td>24 + 0</td>
 <td>0 + 10</td>
 <td>25 - 10</td>
 </tr>
 <tr>
-<td>Dunaújváros</td>
+<td><a href="../dunaujvaros">Dunaújváros</a></td>
 <td>Cserna Gábor Ferenc - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td>Eger</td>
+<td><a href="../eger">Eger</a></td>
 <td>Habis László - Fidesz-KDNP</td>
 <td>11 + 0</td>
 <td>1 + 5</td>
 <td>12 - 6</td>
 </tr>
 <tr>
-<td>Érd</td>
+<td><a href="../erd">Érd</a></td>
 <td>T. Mészáros András József - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>Győr</td>
+<td><a href="../gyor">Győr</a></td>
 <td>Borkai Zsolt - Fidesz-KDNP</td>
 <td>15 + 0</td>
 <td>1 + 7</td>
 <td>16 - 8</td>
 </tr>
 <tr>
-<td>Hódmezővásárhely</td>
+<td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td>
 <td>Dr. Márki-Zay Péter - Független</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td>Kaposvár</td>
+<td><a href="../kaposvar">Kaposvár</a></td>
 <td>Szita Károly - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>Kecskemét</td>
+<td><a href="../kecskemet">Kecskemét</a></td>
 <td>Szemereyné Pataki Klaudia - Fidesz-KDNP</td>
 <td>15 + 0</td>
 <td>0 + 6</td>
 <td>16 - 6</td>
 </tr>
 <tr>
-<td>Miskolc</td>
+<td><a href="../miskolc">Miskolc</a></td>
 <td>Dr. Kriza Ákos - Fidesz-KDNP</td>
 <td>16 + 1</td>
 <td>4 + 7</td>
 <td>18 - 11</td>
 </tr>
 <tr>
-<td>Nagykanizsa</td>
+<td><a href="../nagykanizsa">Nagykanizsa</a></td>
 <td>Dénes Sándor - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>Nyíregyháza</td>
+<td><a href="../nyiregyhaza">Nyíregyháza</a></td>
 <td>Dr. Kovács Ferenc - Fidesz-KDNP</td>
 <td>13 + 1</td>
 <td>2 + 5</td>
 <td>15 - 7</td>
 </tr>
 <tr>
-<td>Pécs</td>
+<td><a href="../pecs">Pécs</a></td>
 <td>Dr. Páva Zsolt- Fidesz-KDNP</td>
 <td>19 + 0</td>
 <td>0 + 8</td>
 <td>20 - 8</td>
 </tr>
 <tr>
-<td>Salgótarján</td>
+<td><a href="../salgotarjan">Salgótarján</a></td>
 <td>Dóra Ottó - MSZP-DK-EGYÜTT-TVE-ST</td>
 <td>3 + 2</td>
 <td>7 + 2</td>
 <td>5 - 10</td>
 </tr>
 <tr>
-<td>Sopron</td>
+<td><a href="../sopron">Sopron</a></td>
 <td>Dr. Fodor Tamás József - Fidesz-KDNP</td>
 <td>11 + 0</td>
 <td>1 + 5</td>
 <td>12 - 6</td>
 </tr>
 <tr>
-<td>Szeged</td>
+<td><a href="../szeged">Szeged</a></td>
 <td>Dr. Botka László István - MSZP-DK-EGYÜTT-PM-Szegedért</td>
 <td>3 + 6</td>
 <td>17 + 2</td>
 <td>9 - 20</td>
 </tr>
 <tr>
-<td>Székesfehérvár</td>
+<td><a href="../szekesfehervar">Székesfehérvár</a></td>
 <td>Dr. Cser-Palkovics András - Fidesz-KDNP</td>
 <td>12 + 1</td>
 <td>2 + 5</td>
 <td>14 - 7</td>
 </tr>
 <tr>
-<td>Szekszárd</td>
+<td><a href="../szekszard">Szekszárd</a></td>
 <td>Ács Rezső - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td>Szolnok</td>
+<td><a href="../szolnok">Szolnok</a></td>
 <td>Szalay Ferenc - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>Szombathely</td>
+<td><a href="../szombathely">Szombathely</a></td>
 <td>Dr. Puskás Tivadar - Fidesz-KDNP</td>
 <td>7 + 2</td>
 <td>7 + 4</td>
 <td>10 - 11</td>
 </tr>
 <tr>
-<td>Tatabánya</td>
+<td><a href="../tatabanya">Tatabánya</a></td>
 <td>Schmidt Csaba - Fidesz-KDNP</td>
 <td>11 + 0</td>
 <td>1 + 5</td>
 <td>12 - 6</td>
 </tr>
 <tr>
-<td>Veszprém</td>
+<td><a href="../veszprem">Veszprém</a></td>
 <td>Porga Gyula - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td>Zalaegerszeg</td>
+<td><a href="../zalaegerszeg">Zalaegerszeg</a></td>
 <td>Balaicz Zoltán - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
@@ -428,861 +428,861 @@ permalink: /varosok-listaja
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
 </tr></thead>
 <tbody><tr>
-<td>Abony</td>
+<td><a href="../abony">Abony</a></td>
 <td>Romhányiné Dr. Balogh Edit - Független</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>6 - 6</td>
 </tr>
 <tr>
-<td>Ajka</td>
+<td><a href="../ajka">Ajka</a></td>
 <td>Schwartz Béla - MSZP</td>
 <td>3 + 1</td>
 <td>7 + 2</td>
 <td>4 - 10</td>
 </tr>
 <tr>
-<td>Albertirsa</td>
+<td><a href="../albertirsa">Albertirsa</a></td>
 <td>Fazekas László - TEAM-VÁLASZTÁSI SZÖV</td>
 <td>4 + 0</td>
 <td>4 + 3</td>
 <td>4 - 8</td>
 </tr>
 <tr>
-<td>Baja</td>
+<td><a href="../baja">Baja</a></td>
 <td>Fercsák Róbert - Fidesz-KDNP</td>
 <td>7 + 1</td>
 <td>3 + 3</td>
 <td>9 - 6</td>
 </tr>
 <tr>
-<td>Balassagyarmat</td>
+<td><a href="../balassagyarmat">Balassagyarmat</a></td>
 <td>Medvácz Lajos Ferenc - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Balatonfüred</td>
+<td><a href="../balatonfured">Balatonfüred</a></td>
 <td>Dr. Bóka István - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Balmazújváros</td>
+<td><a href="../balmazujvaros">Balmazújváros</a></td>
 <td>Hegedüs Péter - Független</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Barcs</td>
+<td><a href="../barcs">Barcs</a></td>
 <td>Karvalics Ottó János - Fidesz-KDNP</td>
 <td>5 + 1</td>
 <td>3 + 2</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Bátonyterenye</td>
+<td><a href="../batonyterenye">Bátonyterenye</a></td>
 <td>Nagy-Majdon József - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Békés</td>
+<td><a href="../bekes">Békés</a></td>
 <td>Izsó Gábor Lajos - Független</td>
 <td>2 + 1</td>
 <td>6 + 2</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Berettyóújfalu</td>
+<td><a href="../berettyoujfalu">Berettyóújfalu</a></td>
 <td>Muraközi István - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Biatorbágy</td>
+<td><a href="../biatorbagy">Biatorbágy</a></td>
 <td>Tarjáni István János - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Bicske</td>
+<td><a href="../bicske">Bicske</a></td>
 <td>Pálffy Károly - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Bonyhád</td>
+<td><a href="../bonyhad">Bonyhád</a></td>
 <td>Filóné Ferencz Ibolya Gyöngyi - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Budakalász</td>
+<td><a href="../budakalsz">Budakalász</a></td>
 <td>Rogán László - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Budakeszi</td>
+<td><a href="../budakeszi">Budakeszi</a></td>
 <td>Dr. Csutoráné Dr. Győri Ottilia - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Budaörs</td>
+<td><a href="../budaors">Budaörs</a></td>
 <td>Wittinghoff Tamás - BFE</td>
 <td>0 + 3</td>
 <td>10 + 1</td>
 <td>3 - 12</td>
 </tr>
 <tr>
-<td>Cegléd</td>
+<td><a href="../cegled">Cegléd</a></td>
 <td>Takáts László - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td>Celldömölk</td>
+<td><a href="../celldomolk">Celldömölk</a></td>
 <td>Fehér László István - CSÖCE</td>
 <td>2 + 2</td>
 <td>6 + 1</td>
 <td>4 - 8</td>
 </tr>
 <tr>
-<td>Csongrád</td>
+<td><a href="../csongrad">Csongrád</a></td>
 <td>Bedő Tamás Albert - Független</td>
 <td>3 + 1</td>
 <td>5 + 2</td>
 <td>4 - 8</td>
 </tr>
 <tr>
-<td>Csorna</td>
+<td><a href="../csorna">Csorna</a></td>
 <td>Dr. Bónáné Dr. Németh Katalin Klára - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Dabas</td>
+<td><a href="../dabas">Dabas</a></td>
 <td>Kőszegi Zoltán - Fidesz</td>
 <td>8 + 1</td>
 <td>0 + 2</td>
 <td>10 - 2</td>
 </tr>
 <tr>
-<td>Dombóvár</td>
+<td><a href="../dombovar">Dombóvár</a></td>
 <td>Szabó Loránd - Természetesen</td>
 <td>0 + 2</td>
 <td>8 + 1</td>
 <td>2 - 10</td>
 </tr>
 <tr>
-<td>Dorog</td>
+<td><a href="../dorog">Dorog</a></td>
 <td>Dr. Tittmann János - Független</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>1 - 11</td>
 </tr>
 <tr>
-<td>Dunaharaszti</td>
+<td><a href="../dunaharaszti">Dunaharaszti</a></td>
 <td>Dr. Szalay László András - Független</td>
 <td>2 + 1</td>
 <td>6 + 2</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Dunakeszi</td>
+<td><a href="../dunakeszi">Dunakeszi</a></td>
 <td>Dióssi Csaba - Fidesz-KDNP</td>
 <td>9 + 1</td>
 <td>1 + 3</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>Edelény</td>
+<td><a href="../edeleny">Edelény</a></td>
 <td>Molnár Oszkár - Független</td>
 <td>1 + 1</td>
 <td>7 + 2</td>
 <td>2 - 10</td>
 </tr>
 <tr>
-<td>Esztergom</td>
+<td><a href="../esztergom">Esztergom</a></td>
 <td>Romanek Etelka - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>Fót</td>
+<td><a href="../fot">Fót</a></td>
 <td>Bartos Sándor - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 4</td>
 <td>8 - 5</td>
 </tr>
 <tr>
-<td>Gárdony</td>
+<td><a href="../gardony">Gárdony</a></td>
 <td>Tóth István József - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Göd</td>
+<td><a href="../god">Göd</a></td>
 <td>Markó József - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Gödöllő</td>
+<td><a href="../godollo">Gödöllő</a></td>
 <td>Dr. Gémesi György András - GLK</td>
 <td>0 + 2</td>
 <td>10 + 2</td>
 <td>2 - 13</td>
 </tr>
 <tr>
-<td>Gyál</td>
+<td><a href="../gyal">Gyál</a></td>
 <td>Pápai Mihály - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Gyomaendrőd</td>
+<td><a href="../gyomaendrod">Gyomaendrőd</a></td>
 <td>Toldi Balázs - KVE</td>
 <td>4 + 2</td>
 <td>4 + 1</td>
 <td>6 - 6</td>
 </tr>
 <tr>
-<td>Gyömrő</td>
+<td><a href="../gyomro">Gyömrő</a></td>
 <td>Mezey Attila - GYÖMRŐ 2000 KÖR</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>1 - 11</td>
 </tr>
 <tr>
-<td>Gyöngyös</td>
+<td><a href="../gyongyos">Gyöngyös</a></td>
 <td>Hiesz György - MSZP-DK-EGYÜTT</td>
 <td>1 + 2</td>
 <td>9 + 2</td>
 <td>3 - 12</td>
 </tr>
 <tr>
-<td>Gyula</td>
+<td><a href="../gyula">Gyula</a></td>
 <td>Dr. Görgényi Ernő István - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>Hajdúböszörmény</td>
+<td><a href="../hajduboszormeny">Hajdúböszörmény</a></td>
 <td>Kiss Attila - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td>Hajdúhadház</td>
+<td><a href="../hajduhadhaz">Hajdúhadház</a></td>
 <td>Csáfordi Dénes - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Hajdúnánás</td>
+<td><a href="../hajdunanas">Hajdúnánás</a></td>
 <td>Szólláth Tibor Zoltán - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Hajdúsámson</td>
+<td><a href="../hajdusamson">Hajdúsámson</a></td>
 <td>Antal Szabolcs - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Hajdúszoboszló</td>
+<td><a href="../hajduszoboszlo">Hajdúszoboszló</a></td>
 <td>Dr. Sóvágó László Imre - Összefogás Hszob</td>
 <td>1 + 2</td>
 <td>7 + 1</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Hatvan</td>
+<td><a href="../hatvan">Hatvan</a></td>
 <td>Horváth Richárd - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Heves</td>
+<td><a href="../heves">Heves</a></td>
 <td>Sveiczer Sándor Péter - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Isaszeg</td>
+<td><a href="../isaszeg">Isaszeg</a></td>
 <td>Hatvani Miklós László - Április 6. Kör</td>
 <td>1 + 1</td>
 <td>7 + 2</td>
 <td>2 - 10</td>
 </tr>
 <tr>
-<td>Jászberény</td>
+<td><a href="../jaszbereny">Jászberény</a></td>
 <td>Dr. Szabó Tamás - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 3</td>
 <td>11 - 3</td>
 </tr>
 <tr>
-<td>Kalocsa</td>
+<td><a href="../kalocsa">Kalocsa</a></td>
 <td>Dr. Bálint József Miklós - Független</td>
 <td>3 + 1</td>
 <td>5 + 2</td>
 <td>4 - 8</td>
 </tr>
 <tr>
-<td>Kapuvár</td>
+<td><a href="../kapuvar">Kapuvár</a></td>
 <td>Hámori György - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Karcag</td>
+<td><a href="../karcag">Karcag</a></td>
 <td>Dobos László - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Kazincbarcika</td>
+<td><a href="../kazincbarcika">Kazincbarcika</a></td>
 <td>Szitka Péter - MSZP-DK-EGYÜTT-PM</td>
 <td>0 + 3</td>
 <td>10 + 1</td>
 <td>3 - 12</td>
 </tr>
 <tr>
-<td>Kerepes</td>
+<td><a href="../kerepes">Kerepes</a></td>
 <td>Franka Pál Tibor - ÖKE</td>
 <td>0 + 0</td>
 <td>8 + 3</td>
 <td>0 - 12</td>
 </tr>
 <tr>
-<td>Keszthely</td>
+<td><a href="../keszthely">Keszthely</a></td>
 <td>Ruzsics Ferenc - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Kiskunfélegyháza</td>
+<td><a href="../kiskunfelegyhaza">Kiskunfélegyháza</a></td>
 <td>Csányi József - Nemzeti Fórum</td>
 <td>1 + 2</td>
 <td>9 + 2</td>
 <td>3 - 12</td>
 </tr>
 <tr>
-<td>Kiskunhalas</td>
+<td><a href="../kiskunhalas">Kiskunhalas</a></td>
 <td>Fülöp Róbert - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>Kiskunmajsa</td>
+<td><a href="../kiskunmajsa">Kiskunmajsa</a></td>
 <td>Ábrahám-Fúrús András - ÉK</td>
 <td>1 + 1</td>
 <td>7 + 2</td>
 <td>2 - 10</td>
 </tr>
 <tr>
-<td>Kiskőrös</td>
+<td><a href="../kiskoros">Kiskőrös</a></td>
 <td>Domonyi László Mihály - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Kistarcsa</td>
+<td><a href="../kistarcsa">Kistarcsa</a></td>
 <td>Solymosi Sándor - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Kisújszállás</td>
+<td><a href="../kisujszallas">Kisújszállás</a></td>
 <td>Kecze István - FIDESZ-NAGYKUN POLGÁRI K</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Kisvárda</td>
+<td><a href="../kisvarda">Kisvárda</a></td>
 <td>Leleszi Tibor - Fidesz-KDNP</td>
 <td>7 + 1</td>
 <td>1 + 2</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Komárom</td>
+<td><a href="../komarom">Komárom</a></td>
 <td>Dr. Molnár Attila - Fidesz-KDNP</td>
 <td>5 + 1</td>
 <td>3 + 2</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Komló</td>
+<td><a href="../komlo">Komló</a></td>
 <td>Polics József - Fidesz-KDNP</td>
 <td>7 + 1</td>
 <td>3 + 3</td>
 <td>9 - 6</td>
 </tr>
 <tr>
-<td>Körmend</td>
+<td><a href="../kormend">Körmend</a></td>
 <td>Bebes István Géza - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Kőszeg</td>
+<td><a href="../koszeg">Kőszeg</a></td>
 <td>Huber László György - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Lajosmizse</td>
+<td><a href="../lajosmizse">Lajosmizse</a></td>
 <td>Basky András - Fidesz-KDNP</td>
 <td>4 + 1</td>
 <td>4 + 2</td>
 <td>6 - 6</td>
 </tr>
 <tr>
-<td>Maglód</td>
+<td><a href="../maglod">Maglód</a></td>
 <td>Tabányi Pál - Független</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Makó</td>
+<td><a href="../mako">Makó</a></td>
 <td>Farkas Éva Erzsébet - Fidesz-KDNP</td>
 <td>6 + 1</td>
 <td>2 + 2</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Marcali</td>
+<td><a href="../marcali">Marcali</a></td>
 <td>Dr. Sütő László - MOTTE</td>
 <td>1 + 2</td>
 <td>7 + 1</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Mátészalka</td>
+<td><a href="../mateszalka">Mátészalka</a></td>
 <td>Hanusi Péter - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Mezőberény</td>
+<td><a href="../mezobereny">Mezőberény</a></td>
 <td>Siklósi István - Független</td>
 <td>1 + 1</td>
 <td>7 + 2</td>
 <td>2 - 10</td>
 </tr>
 <tr>
-<td>Mezőkövesd</td>
+<td><a href="../mezokovesd">Mezőkövesd</a></td>
 <td>Dr. Fekete Zoltán - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Mezőtúr</td>
+<td><a href="../mezotur">Mezőtúr</a></td>
 <td>Herczeg Zsolt - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Mohács</td>
+<td><a href="../mohacs">Mohács</a></td>
 <td>Szekó József - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Monor</td>
+<td><a href="../monor">Monor</a></td>
 <td>Dr. Zsombok László Krisztián - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Mór</td>
+<td><a href="../mor">Mór</a></td>
 <td>Fenyves Péter - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Mosonmagyaróvár</td>
+<td><a href="../mosonmagyarovar">Mosonmagyaróvár</a></td>
 <td>Dr. Árvay István - FIDESZ-KDNP-Nemzeti Fórum-MPKE-LABE</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>Nagyatád</td>
+<td><a href="../nagyatad">Nagyatád</a></td>
 <td>Ormai István - Nagyatádért</td>
 <td>2 + 1</td>
 <td>6 + 2</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Nagykáta</td>
+<td><a href="../nagykata">Nagykáta</a></td>
 <td>Dorner Gábor - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Nagykőrös</td>
+<td><a href="../nagykoros">Nagykőrös</a></td>
 <td>Dr. Czira Sándor Szabolcs - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Nyírbátor</td>
+<td><a href="../nyirbator">Nyírbátor</a></td>
 <td>Máté Antal - Független</td>
 <td>2 + 1</td>
 <td>6 + 2</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Orosháza</td>
+<td><a href="../oroshaza">Orosháza</a></td>
 <td>Dávid Zoltán - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td>Oroszlány</td>
+<td><a href="../oroszlany">Oroszlány</a></td>
 <td>Lazók Zoltán - MSZP-DK-Együtt</td>
 <td>3 + 1</td>
 <td>5 + 2</td>
 <td>4 - 8</td>
 </tr>
 <tr>
-<td>Ózd</td>
+<td><a href="../ozd">Ózd</a></td>
 <td>Janiczak Dávid - Jobbik</td>
 <td>7 + 1</td>
 <td>3 + 3</td>
 <td>8 - 7</td>
 </tr>
 <tr>
-<td>Paks</td>
+<td><a href="../paks">Paks</a></td>
 <td>Kozmann György - FIDESZ-KDNP-LOKÁLPATRIOTÁK</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>2 - 10</td>
 </tr>
 <tr>
-<td>Pápa</td>
+<td><a href="../papa">Pápa</a></td>
 <td>Dr. Áldozó Tamás Róbert - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td>Pécel</td>
+<td><a href="../pecel">Pécel</a></td>
 <td>Szöllősi Ferenc - 2119 EGYESÜLET</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>1 - 11</td>
 </tr>
 <tr>
-<td>Pilis</td>
+<td><a href="../pilis">Pilis</a></td>
 <td>Szabó Márton Elemér - Fidesz-KDNP</td>
 <td>2 + 1</td>
 <td>5 + 2</td>
 <td>4 - 7</td>
 </tr>
 <tr>
-<td>Pilisvörösvár</td>
+<td><a href="../pilisvorosvar">Pilisvörösvár</a></td>
 <td>Gromon István - VKE</td>
 <td>1 + 2</td>
 <td>7 + 1</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Pomáz</td>
+<td><a href="../pomaz">Pomáz</a></td>
 <td>Vicsi László Csaba - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Püspökladány</td>
+<td><a href="../puspokladany">Püspökladány</a></td>
 <td>Dombi Imréné - Fidesz-KDNP</td>
 <td>5 + 1</td>
 <td>3 + 2</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Ráckeve</td>
+<td><a href="../rackeve">Ráckeve</a></td>
 <td>Szadai József - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Sajószentpéter</td>
+<td><a href="../sajoszentpeter">Sajószentpéter</a></td>
 <td>Dr. Faragó Péter- MSZP-DK</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>1 - 11</td>
 </tr>
 <tr>
-<td>Sárbogárd</td>
+<td><a href="../sarbogard">Sárbogárd</a></td>
 <td>Dr. Sükösd Tamás - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Sarkad</td>
+<td><a href="../sarkad">Sarkad</a></td>
 <td>Dr. Mokán István - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Sárospatak</td>
+<td><a href="../sarospatak">Sárospatak</a></td>
 <td>Aros János - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Sárvár</td>
+<td><a href="../sarvar">Sárvár</a></td>
 <td>Kondora István - Fidesz-KDNP</td>
 <td>6 + 0</td>
 <td>2 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Sátoraljaújhely</td>
+<td><a href="../satoraljaujhely">Sátoraljaújhely</a></td>
 <td>Szamosvölgyi Péter István - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Siklós</td>
+<td><a href="../siklos">Siklós</a></td>
 <td>Dr. Marenics János - Független</td>
 <td>4 + 1</td>
 <td>4 + 2</td>
 <td>5 - 7</td>
 </tr>
 <tr>
-<td>Siófok</td>
+<td><a href="../siofok">Siófok</a></td>
 <td>Dr. Balázs Róbert - Független</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>7 - 5</td>
 </tr>
 <tr>
-<td>Solymár</td>
+<td><a href="../solymar">Solymár</a></td>
 <td>Dr. Szente Kálmán - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Szarvas</td>
+<td><a href="../szarvas">Szarvas</a></td>
 <td>Babák Mihály - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Százhalombatta</td>
+<td><a href="../szazhalombatta">Százhalombatta</a></td>
 <td>Vezér Mihály - ÉSZKE</td>
 <td>2 + 1</td>
 <td>6 + 2</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Szentendre</td>
+<td><a href="../szentendre">Szentendre</a></td>
 <td>Verseghi-Nagy Miklós Zoltán - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td>Szentes</td>
+<td><a href="../szentes">Szentes</a></td>
 <td>Szirbik Imre - MSZP-DK-EGYÜTT-PM</td>
 <td>8 + 0</td>
 <td>2 + 4</td>
 <td>8 - 7</td>
 </tr>
 <tr>
-<td>Szigethalom</td>
+<td><a href="../szigethalom">Szigethalom</a></td>
 <td>Fáki László - ÖSSZE</td>
 <td>1 + 2</td>
 <td>7 + 1</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Szigetszentmiklós</td>
+<td><a href="../szigetszentmiklos">Szigetszentmiklós</a></td>
 <td>Szabó József - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 4</td>
 <td>9 - 4</td>
 </tr>
 <tr>
-<td>Szigetvár</td>
+<td><a href="../szigetvar">Szigetvár</a></td>
 <td>Dr. Vass Péter - Független</td>
 <td>1 + 1</td>
 <td>7 + 2</td>
 <td>2 - 10</td>
 </tr>
 <tr>
-<td>Tapolca</td>
+<td><a href="../tapolca">Tapolca</a></td>
 <td>Dobó Zoltán - Jobbik</td>
 <td>4 + 1</td>
 <td>4 + 2</td>
 <td>5 - 7</td>
 </tr>
 <tr>
-<td>Tata</td>
+<td><a href="../tata">Tata</a></td>
 <td>Michl József Imre - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Tiszaföldvár</td>
+<td><a href="../tiszafoldvar">Tiszaföldvár</a></td>
 <td>Hegedűs István - Független</td>
 <td>3 + 1</td>
 <td>5 + 2</td>
 <td>4 - 8</td>
 </tr>
 <tr>
-<td>Tiszafüred</td>
+<td><a href="../tiszafured">Tiszafüred</a></td>
 <td>Ujvári Imre - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Tiszakécske</td>
+<td><a href="../tiszakecske">Tiszakécske</a></td>
 <td>Tóth János - Fidesz</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Tiszaújváros</td>
+<td><a href="../tiszaujvaros">Tiszaújváros</a></td>
 <td>Bráz György - MSZP</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>1 - 11</td>
 </tr>
 <tr>
-<td>Tiszavasvári</td>
+<td><a href="../tiszavasvari">Tiszavasvári</a></td>
 <td>Szőke Zoltán - Fidesz-KDNP</td>
 <td>3 + 1</td>
 <td>4 + 2</td>
 <td>5 - 6</td>
 </tr>
 <tr>
-<td>Tököl</td>
+<td><a href="../tokol">Tököl</a></td>
 <td>Hoffman Pál - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Tolna</td>
+<td><a href="../tolna">Tolna</a></td>
 <td>Appelshoffer Ágnes - Fidesz-KDNP</td>
 <td>6 + 1</td>
 <td>2 + 2</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Törökbálint</td>
+<td><a href="../torokbalint">Törökbálint</a></td>
 <td>Elek Sándor - Fidesz-KDNP</td>
 <td>5 + 0</td>
 <td>3 + 3</td>
 <td>6 - 6</td>
 </tr>
 <tr>
-<td>Törökszentmiklós</td>
+<td><a href="../torokszentmiklos">Törökszentmiklós</a></td>
 <td>Markót Imre - Jobbik</td>
 <td>1 + 2</td>
 <td>7 + 1</td>
 <td>3 - 9</td>
 </tr>
 <tr>
-<td>Újfehértó</td>
+<td><a href="../ujfeherto">Újfehértó</a></td>
 <td>Nagy Sándor - Független</td>
 <td>2 + 2</td>
 <td>6 + 1</td>
 <td>4 - 8</td>
 </tr>
 <tr>
-<td>Üllő</td>
+<td><a href="../ullo">Üllő</a></td>
 <td>Kissné Szabó Katalin - Független</td>
 <td>5 + 0</td>
 <td>3 + 3</td>
 <td>5 - 7</td>
 </tr>
 <tr>
-<td>Vác</td>
+<td><a href="../vac">Vác</a></td>
 <td>Fördős József Attila - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>2 + 3</td>
 <td>9 - 5</td>
 </tr>
 <tr>
-<td>Várpalota</td>
+<td><a href="../varpalota">Várpalota</a></td>
 <td>Talabér Márta - Fidesz-KDNP</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>8 - 4</td>
 </tr>
 <tr>
-<td>Vecsés</td>
+<td><a href="../vecses">Vecsés</a></td>
 <td>Szlahó Csaba - Fidesz-KDNP</td>
 <td>8 + 0</td>
 <td>0 + 3</td>
 <td>9 - 3</td>
 </tr>
 <tr>
-<td>Veresegyház</td>
+<td><a href="../veresegyhaz">Veresegyház</a></td>
 <td>Pásztor Béla - Független</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
