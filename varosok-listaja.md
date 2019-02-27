@@ -40,169 +40,169 @@ permalink: /varosok-listaja
   <br/>
   
 <table class="bordered centered">
-<thead><tr><th title="Field #1">Kerület</th>
-<th title="Field #2">Polgármester</th>
+<thead><tr><th title="Field #1" width="20%">Kerület</th>
+<th title="Field #2" width="30%">Polgármester</th>
 <th title="Field #3">Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
 <th title="Field #4">Más párt / független egyéni + listás képviselők száma (2014)</th>
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
 </tr></thead>
 <tbody><tr>
-<td width="20%">I. kerület</td>
+<td>I. kerület</td>
 <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td width="20%">II. kerület</td>
-<td width="40%">Dr. Láng Zsolt Péter - Fidesz-KDNP</td>
+<td>II. kerület</td>
+<td>Dr. Láng Zsolt Péter - Fidesz-KDNP</td>
 <td>13 + 0</td>
 <td>1 + 6</td>
 <td>14 - 7</td>
 </tr>
 <tr>
-<td width="20%">III. kerület</td>
-<td width="40%">Bús Balázs - Fidesz-KDNP</td>
+<td>III. kerület</td>
+<td>Bús Balázs - Fidesz-KDNP</td>
 <td>15 + 0</td>
 <td>1 + 6</td>
 <td>16 - 7</td>
 </tr>
 <tr>
-<td width="20%">IV. kerület</td>
-<td width="40%">Wintermantel Zsolt - Fidesz-KDNP</td>
+<td>IV. kerület</td>
+<td>Wintermantel Zsolt - Fidesz-KDNP</td>
 <td>12 + 1</td>
 <td>2 + 5</td>
 <td>14 - 7</td>
 </tr>
 <tr>
-<td width="20%">V. kerület</td>
-<td width="40%">Szentgyörgyvölgyi Péter - Fidesz-KDNP</td>
+<td>V. kerület</td>
+<td>Szentgyörgyvölgyi Péter - Fidesz-KDNP</td>
 <td>10 + 0</td>
 <td>0 + 4</td>
 <td>11 - 4</td>
 </tr>
 <tr>
-<td width="20%">VI. kerület</td>
-<td width="40%">Hassay Zsófia - Fidesz-KDNP</td>
+<td>VI. kerület</td>
+<td>Hassay Zsófia - Fidesz-KDNP</td>
 <td>9 + 0</td>
 <td>1 + 4</td>
 <td>10 - 5</td>
 </tr>
 <tr>
-<td width="20%">VII. kerület</td>
-<td width="40%">Vattamány Zsolt - Fidesz-KDNP</td>
+<td>VII. kerület</td>
+<td>Vattamány Zsolt - Fidesz-KDNP</td>
 <td>7 + 1</td>
 <td>5 + 4</td>
 <td>9 - 9</td>
 </tr>
 <tr>
-<td width="20%">VIII. kerület</td>
-<td width="40%">Dr. Sára Botond - Fidesz-KDNP</td>
+<td>VIII. kerület</td>
+<td>Dr. Sára Botond - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td width="20%">IX. kerület</td>
-<td width="40%">Bácskai János - Fidesz-KDNP</td>
+<td>IX. kerület</td>
+<td>Bácskai János - Fidesz-KDNP</td>
 <td>10 + 1</td>
 <td>2 + 4</td>
 <td>12 - 6</td>
 </tr>
 <tr>
-<td width="20%">X. kerület</td>
-<td width="40%">Kovács Róbert - Fidesz-KDNP</td>
+<td>X. kerület</td>
+<td>Kovács Róbert - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td width="20%">XI. kerület</td>
-<td width="40%">Hoffmann Tamás - Fidesz-KDNP</td>
+<td>XI. kerület</td>
+<td>Hoffmann Tamás - Fidesz-KDNP</td>
 <td>15 + 0</td>
 <td>2 + 7</td>
 <td>16 - 9</td>
 </tr>
 <tr>
-<td width="20%">XII. kerület</td>
-<td width="40%">Pokorni Zoltán - Fidesz-KDNP</td>
+<td>XII. kerület</td>
+<td>Pokorni Zoltán - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td width="20%">XIII. kerület</td>
-<td width="40%">Dr. Tóth József Sándor - MSZP</td>
+<td>XIII. kerület</td>
+<td>Dr. Tóth József Sándor - MSZP</td>
 <td>0 + 3</td>
 <td>15 + 3</td>
 <td>3 - 19</td>
 </tr>
 <tr>
-<td width="20%">XIV. kerület</td>
-<td width="40%">Karácsony Gergely Szilveszter - Együtt-PM</td>
+<td>XIV. kerület</td>
+<td>Karácsony Gergely Szilveszter - Együtt-PM</td>
 <td>7 + 2</td>
 <td>8 + 4</td>
 <td>9 - 13</td>
 </tr>
 <tr>
-<td width="20%">XV. kerület</td>
-<td width="40%">Németh Angéla - RÁTE-Szolidaritás</td>
+<td>XV. kerület</td>
+<td>Németh Angéla - RÁTE-Szolidaritás</td>
 <td>8 + 2</td>
 <td>6 + 4</td>
 <td>10 - 11</td>
 </tr>
 <tr>
-<td width="20%">XVI. kerület</td>
-<td width="40%">Kovács Péter - Fidesz-KDNP</td>
+<td>XVI. kerület</td>
+<td>Kovács Péter - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td width="20%">XVII. kerület</td>
-<td width="40%">Riz Levente - Fidesz-KDNP</td>
+<td>XVII. kerület</td>
+<td>Riz Levente - Fidesz-KDNP</td>
 <td>14 + 0</td>
 <td>0 + 6</td>
 <td>15 - 6</td>
 </tr>
 <tr>
-<td width="20%">XVIII. kerület</td>
-<td width="40%">Ughy Attila - Fidesz-KDNP</td>
+<td>XVIII. kerület</td>
+<td>Ughy Attila - Fidesz-KDNP</td>
 <td>11 + 1</td>
-<td width="40%">3 + 5</td>
+<td>3 + 5</td>
 <td>13 - 8</td>
 </tr>
 <tr>
-<td width="20%">XIX. kerület</td>
-<td width="40%">Gajda Péter - MSZP</td>
+<td>XIX. kerület</td>
+<td>Gajda Péter - MSZP</td>
 <td>1 + 3</td>
 <td>11 + 2</td>
 <td>4 - 14</td>
 </tr>
 <tr>
-<td width="20%">XX. kerület</td>
-<td width="40%">Szabados Ákos - MSZP-DK-Együtt-PM</td>
+<td>XX. kerület</td>
+<td>Szabados Ákos - MSZP-DK-Együtt-PM</td>
 <td>4 + 2</td>
 <td>8 + 3</td>
 <td>6 - 12</td>
 </tr>
 <tr>
-<td width="20%">XXI. kerület</td>
-<td width="40%">Borbély Lénárd - Fidesz-KDNP</td>
+<td>XXI. kerület</td>
+<td>Borbély Lénárd - Fidesz-KDNP</td>
 <td>10 + 1</td>
 <td>4 + 5</td>
 <td>12 - 9</td>
 </tr>
 <tr>
-<td width="20%">XXII. kerület</td>
-<td width="40%">Karsay Ferenc - Fidesz-KDNP</td>
+<td>XXII. kerület</td>
+<td>Karsay Ferenc - Fidesz-KDNP</td>
 <td>12 + 0</td>
 <td>0 + 5</td>
 <td>13 - 5</td>
 </tr>
 <tr>
-<td width="20%">XXIII. kerület</td>
-<td width="40%">Geiger Ferenc - CIVIL SZERVEZETEK</td>
+<td>XXIII. kerület</td>
+<td>Geiger Ferenc - CIVIL SZERVEZETEK</td>
 <td>3 + 1</td>
 <td>5 + 2</td>
 <td>4 - 8</td>
@@ -230,9 +230,9 @@ permalink: /varosok-listaja
 </table>	
   <br/>
   
-	     <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Megyei jogú város</th>
-<th title="Field #2">Polgármester</th>
+	     <table class="bordered centered">
+<thead><tr><th title="Field #1" width="20%">Megyei jogú város</th>
+<th title="Field #2" width="30%">Polgármester</th>
 <th title="Field #3">Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
 <th title="Field #4">Más párt / független egyéni + listás képviselők száma (2014)</th>
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
@@ -420,9 +420,9 @@ permalink: /varosok-listaja
 </tbody>  
   </table>	
   <br/>
-<table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Település</th>
-<th title="Field #2">Polgármester</th>
+<table class="bordered centered">
+<thead><tr><th title="Field #1" width="20%">Település</th>
+<th title="Field #2" width="30%">Polgármester</th>
 <th title="Field #3">Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
 <th title="Field #4">Más párt / független egyéni + listás képviselők száma (2014)</th>
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
