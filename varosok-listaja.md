@@ -40,8 +40,8 @@ permalink: /varosok-listaja
   <br/>
   
 <table class="bordered centered">
-<thead><tr><th title="Field #1" width="20%">Kerület</th>
-<th title="Field #2" width="30%">Polgármester</th>
+<thead><tr><th title="Field #1" width="15%">Kerület</th>
+<th title="Field #2" width="40%">Polgármester</th>
 <th title="Field #3">Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
 <th title="Field #4">Más párt / független egyéni + listás képviselők száma (2014)</th>
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
@@ -231,8 +231,8 @@ permalink: /varosok-listaja
   <br/>
   
 	     <table class="bordered centered">
-<thead><tr><th title="Field #1" width="20%">Megyei jogú város</th>
-<th title="Field #2" width="30%">Polgármester</th>
+<thead><tr><th title="Field #1" width="15%">Megyei jogú város</th>
+<th title="Field #2" width="40%">Polgármester</th>
 <th title="Field #3">Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
 <th title="Field #4">Más párt / független egyéni + listás képviselők száma (2014)</th>
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
@@ -421,8 +421,8 @@ permalink: /varosok-listaja
   </table>	
   <br/>
 <table class="bordered centered">
-<thead><tr><th title="Field #1" width="20%">Település</th>
-<th title="Field #2" width="30%">Polgármester</th>
+<thead><tr><th title="Field #1" width="15%">Település</th>
+<th title="Field #2" width="40%">Polgármester</th>
 <th title="Field #3">Fidesz-KDNP egyéni + listás képviselők száma (2014)</th>
 <th title="Field #4">Más párt / független egyéni + listás képviselők száma (2014)</th>
 <th title="Field #5">Képviselő-testület összetétele (Fidesz - ellenzék)</th>
