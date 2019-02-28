@@ -330,7 +330,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../salgotarjan">Salgótarján</a></td>
-<td class="deep-purple lighten-4">Dóra Ottó - MSZP-DK-EGYÜTT-TVE-ST</td>
+<td class="deep-purple lighten-4">Fekete Zsolt - DK-MSZP-TVE</td>
 <td>3 + 2</td>
 <td>7 + 2</td>
 <td>5 - 10</td>
