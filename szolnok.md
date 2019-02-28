@@ -32,7 +32,7 @@ permalink: /szolnok
 			<tr>
 			<td>Radócz Zoltán István - MSZP-DK-SZOLIDARITÁS-EGYÜTT</td> 
 			<td id="ellenzek_mayor">27.3%</td>
-			<td id="ellenzek_mayor2">3,110</td>
+			<td id="ellenzek_mayor2">5,913</td>
 			</tr>
               </tbody>
             </table>
