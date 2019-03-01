@@ -53,14 +53,14 @@ permalink: /budapest4
               <tbody>
              <tr>
                   <td>Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mp">12 *</td><td id="fidesz_mp_lista"></td>
+				   <td id="fidesz_mp">13 *</td><td id="fidesz_mp_lista"></td>
 			</tr>
 			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
 				<td id="jobbik_mp">0</td><td id="jobbik_mp_lista"></td>
 			</tr>
 			<tr>
                   <td>MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td>
-				   <td id="mszp_mp">2 **</td><td id="mszp_mp_lista"></td>
+				   <td id="mszp_mp">1 **</td><td id="mszp_mp_lista"></td>
 			</tr>
 			<tr>
                   <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
@@ -86,7 +86,7 @@ permalink: /budapest4
               </tbody>
             </table>
 
-<p><span id="megjegyzes">* Fidesz-ÚE közös jelölt    ** 1 MSZP-DK-EGYÜTT-PM közös jelölt</span><br/></p>
+<p><span id="megjegyzes">* Fidesz-ÚE közös jelölt    ** MSZP-DK-EGYÜTT-PM közös jelölt</span><br/></p>
 <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/budapest4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
 
 			<table class="striped">

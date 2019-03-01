@@ -33,7 +33,7 @@ permalink: /varosok-listaja
                 </tr>
               </thead>
               <tbody>
-<tr><td>17</td><td>219 + 18</td><td>6</td><td>74 + 103</td><td>17 - 6</td></tr>
+<tr><td>17</td><td>220 + 18</td><td>6</td><td>74 + 103</td><td>17 - 6</td></tr>
 </tbody>  
 </table>	
   
@@ -70,9 +70,9 @@ permalink: /varosok-listaja
 <tr>
 <td><a href="../budapest4">IV. kerület</a></td>
 <td class="orange accent-1">Wintermantel Zsolt - Fidesz-KDNP</td>
-<td>12 + 1</td>
-<td>2 + 5</td>
-<td>14 - 7</td>
+<td>13 + 1</td>
+<td>1 + 5</td>
+<td>15 - 6</td>
 </tr>
 <tr>
 <td><a href="../budapest5">V. kerület</a></td>
@@ -416,7 +416,7 @@ permalink: /varosok-listaja
                 </tr>
               </thead>
               <tbody>
-<tr><td>77</td><td>670 + 68</td><td>46</td><td>356 + 322</td><td>80 - 43</td></tr>
+<tr><td>77</td><td>669 + 68</td><td>46</td><td>356 + 322</td><td>80 - 43</td></tr>
 </tbody>  
   </table>	
   <br/>
@@ -605,9 +605,9 @@ permalink: /varosok-listaja
 <tr>
 <td><a href="../dunakeszi">Dunakeszi</a></td>
 <td class="orange accent-1">Dióssi Csaba - Fidesz-KDNP</td>
-<td>9 + 1</td>
-<td>1 + 3</td>
-<td>11 - 4</td>
+<td>9 + 0</td>
+<td>1 + 4</td>
+<td>10 - 5</td>
 </tr>
 <tr>
 <td><a href="../edeleny">Edelény</a></td>
@@ -920,9 +920,9 @@ permalink: /varosok-listaja
 <tr>
 <td><a href="../mezotur">Mezőtúr</a></td>
 <td class="orange accent-1">Herczeg Zsolt - Fidesz-KDNP</td>
-<td>8 + 0</td>
+<td>7 + 0</td>
 <td>0 + 3</td>
-<td>9 - 3</td>
+<td>8 - 3</td>
 </tr>
 <tr>
 <td><a href="../mohacs">Mohács</a></td>
