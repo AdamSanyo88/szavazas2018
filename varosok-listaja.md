@@ -1158,9 +1158,9 @@ permalink: /varosok-listaja
 <tr>
 <td><a href="../szigetszentmiklos">Szigetszentmiklós</a></td>
 <td class="orange accent-1">Szabó József - Fidesz-KDNP</td>
-<td>8 + 0</td>
+<td>8 + 2</td>
 <td>0 + 4</td>
-<td>9 - 4</td>
+<td>9 - 6</td>
 </tr>
 <tr>
 <td><a href="../szigetvar">Szigetvár</a></td>
