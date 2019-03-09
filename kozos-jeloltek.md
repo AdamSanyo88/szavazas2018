@@ -36,7 +36,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest8">VIII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest9">IX. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest10">X. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest11">XI. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest11">XI. kerület</a></td><td>László Imre - DK</td><td>DK-MSZP-Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest12">XII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest13">XIII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest14">XIV. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -202,7 +202,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../sarvar">Sárvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../satoraljaujhely">Sátoraljaújhely</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../siklos">Siklós</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../siofok">Siófok</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../siofok">Siófok</a></td><td>Lengyel Róbert - Független</td><td>Összes ellenzéki párt</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../solymar">Solymár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szarvas">Szarvas</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szazhalombatta">Százhalombatta</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
