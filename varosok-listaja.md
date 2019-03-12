@@ -436,7 +436,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../ajka">Ajka</a></td>
-<td>Schwartz Béla - MSZP</td>
+<td class="red lighten-4">Schwartz Béla - MSZP</td>
 <td>3 + 1</td>
 <td>7 + 2</td>
 <td>4 - 10</td>
@@ -674,7 +674,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../gyongyos">Gyöngyös</a></td>
-<td>Hiesz György - MSZP-DK-EGYÜTT</td>
+<td class="deep-purple lighten-4">Hiesz György - MSZP-DK-EGYÜTT</td>
 <td>1 + 2</td>
 <td>9 + 2</td>
 <td>3 - 12</td>
@@ -989,14 +989,14 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../oroszlany">Oroszlány</a></td>
-<td>Lazók Zoltán - MSZP-DK-Együtt</td>
+<td class="deep-purple lighten-4">Lazók Zoltán - MSZP-DK-Együtt</td>
 <td>3 + 1</td>
 <td>5 + 2</td>
 <td>4 - 8</td>
 </tr>
 <tr>
 <td><a href="../ozd">Ózd</a></td>
-<td>Janiczak Dávid - Jobbik</td>
+<td class="grey lighten-2">Janiczak Dávid - Jobbik</td>
 <td>7 + 1</td>
 <td>3 + 3</td>
 <td>8 - 7</td>
@@ -1059,7 +1059,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../sajoszentpeter">Sajószentpéter</a></td>
-<td>Dr. Faragó Péter- MSZP-DK</td>
+<td class="deep-purple lighten-4">Dr. Faragó Péter- MSZP-DK</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>1 - 11</td>
@@ -1143,7 +1143,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../szentes">Szentes</a></td>
-<td>Szirbik Imre - MSZP-DK-EGYÜTT-PM</td>
+<td class="deep-purple lighten-4">Szirbik Imre - MSZP-DK-EGYÜTT-PM</td>
 <td>8 + 0</td>
 <td>2 + 4</td>
 <td>8 - 7</td>
@@ -1171,7 +1171,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../tapolca">Tapolca</a></td>
-<td>Dobó Zoltán - Jobbik</td>
+<td class="grey lighten-2">Dobó Zoltán - Jobbik</td>
 <td>4 + 1</td>
 <td>4 + 2</td>
 <td>5 - 7</td>
@@ -1241,7 +1241,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../torokszentmiklos">Törökszentmiklós</a></td>
-<td>Markót Imre - Jobbik</td>
+<td class="grey lighten-2">Markót Imre - Jobbik</td>
 <td>1 + 2</td>
 <td>7 + 1</td>
 <td>3 - 9</td>
