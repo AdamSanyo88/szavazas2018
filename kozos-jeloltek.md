@@ -29,7 +29,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest1">I. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest2">II. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest3">III. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest4">IV. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest4">IV. kerület</a></td><td>Szalma Botond Gyula</td><td>MSZP-DK-Jobbik-LMP-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest5">V. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest6">VI. kerülett</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest7">VII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
