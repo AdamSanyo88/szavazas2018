@@ -165,7 +165,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kisujszallas">Kisújszállás</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kisvarda">Kisvárda</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../komarom">Komárom</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../komlo">Komló</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../komlo">Komló</a></td><td>Ferenczy Tamás - Komló Összeköt</td>MSZP-LMP-Momentum<td></td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kormend">Körmend</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../koszeg">Kőszeg</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../lajosmizse">Lajosmizse</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -184,7 +184,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../nagykata">Nagykáta</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykoros">Nagykőrös</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyirbator">Nyírbátor</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../oroshaza">Orosháza</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../oroshaza">Orosháza</a></td><td>Dr. Szabó Ervin</td><td>Jobbik-MSZP-DK-Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../oroszlany">Oroszlány</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ozd">Ózd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../paks">Paks</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
