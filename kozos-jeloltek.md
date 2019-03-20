@@ -13,6 +13,11 @@ permalink: /kozos-jeloltek
 
 <p>Az alábbi lista megmutatja, hogy a nagyobb városokban kik a közös ellenzéki jelöltek a 2019-es önkormányzati választáson és hogy milyen esélyei vannak az adott jelöltnek a Fidesz jelöltjével szemben.</p>
 
+<h4 class="center">Bejelentett közös jelöltek</h4>
+<h5 class="center">Budapest kerületei: 2 / 23</h5>
+<h5 class="center">Megyei jogú városok: 3 / 23</h5>
+<h5 class="center">10000 fő feletti városok: 3 / 123</h5>
+
 <br/>
 <h5>Budapest kerületei</h5>
  <table class="bordered centered">
