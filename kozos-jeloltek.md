@@ -14,7 +14,7 @@ permalink: /kozos-jeloltek
 <p>Az alábbi lista megmutatja, hogy a nagyobb városokban kik a közös ellenzéki jelöltek a 2019-es önkormányzati választáson és hogy milyen esélyei vannak az adott jelöltnek a Fidesz jelöltjével szemben.</p>
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
-<h5 class="center">Budapest kerületei: 2 / 23</h5>
+<h5 class="center">Budapest kerületei: 1 / 23</h5>
 <h5 class="center">Megyei jogú városok: 3 / 23</h5>
 <h5 class="center">10000 fő feletti városok: 3 / 123</h5>
 
@@ -34,7 +34,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest1">I. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest2">II. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest3">III. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest4">IV. kerület</a></td><td>Szalma Botond Gyula</td><td>MSZP-DK-Jobbik-LMP-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest4">IV. kerület</a></td><td></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest5">V. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest6">VI. kerülett</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest7">VII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
