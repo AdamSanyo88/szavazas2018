@@ -82,11 +82,11 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../miskolc">Miskolc</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../pecs">Pécs</a></td><td>Péterffy Attila</td><td>MSZP-DK-Momentum</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../pecs">Pécs</a></td><td>Péterffy Attila - Független</td><td>MSZP-DK-Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szeged">Szeged</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>Márton Roland - MSZP</td><td>MSZP-DK-LMP-Momentum-Jobbik-MMM</td><td>---</td><td>---</td></tr>
+<tr class="red lighten-4"><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>Márton Roland - MSZP</td><td>MSZP-DK-LMP-Momentum-Jobbik-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr class="red lighten-4"><td><a href="../szombathely">Szombathely</a></td><td>Nemény András - MSZP</td><td>MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
