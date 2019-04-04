@@ -15,7 +15,7 @@ permalink: /kozos-jeloltek
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 1 / 23</h5>
-<h5 class="center">Megyei jogú városok: 3 / 23</h5>
+<h5 class="center">Megyei jogú városok: 4 / 23</h5>
 <h5 class="center">10000 fő feletti városok: 3 / 123</h5>
 
 <br/>
@@ -86,7 +86,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szeged">Szeged</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>Márton Roland - MSZP</td><td>MSZP-DK-LMP-Momentum-Jobbik-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr class="red lighten-4"><td><a href="../szombathely">Szombathely</a></td><td>Nemény András - MSZP</td><td>MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
