@@ -14,7 +14,7 @@ permalink: /kozos-jeloltek
 <p>Az alábbi lista megmutatja, hogy a nagyobb városokban kik a közös ellenzéki jelöltek a 2019-es önkormányzati választáson és hogy milyen esélyei vannak az adott jelöltnek a Fidesz jelöltjével szemben.</p>
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
-<h5 class="center">Budapest kerületei: 1 / 23</h5>
+<h5 class="center">Budapest kerületei: 21 / 23</h5>
 <h5 class="center">Megyei jogú városok: 4 / 23</h5>
 <h5 class="center">10000 fő feletti városok: 3 / 123</h5>
 
@@ -31,28 +31,28 @@ permalink: /kozos-jeloltek
                 </tr>
               </thead>
               <tbody>
-<tr><td><a href="../budapest1">I. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest2">II. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest3">III. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest4">IV. kerület</a></td><td></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest5">V. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest6">VI. kerülett</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest7">VII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest8">VIII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest1">I. kerület</a></td><td>V. Naszály Márta - Párbeszéd</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest2">II. kerület</a></td><td>Őrsi Gergely - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest3">III. kerület</a></td><td>Kiss László - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest4">IV. kerület</a></td><td></td><td>Déri Tibor - Momentum</td><td></td><td>---</td></tr>
+<tr><td><a href="../budapest5">V. kerület</a></td><td>Tüttő Kata - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest6">VI. kerülett</a></td><td>Soproni Tamás - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest7">VII. kerület</a></td><td>Niedermüller Péter - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest8">VIII. kerület</a></td><td>Pikó András - Független/Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest9">IX. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest10">X. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest11">XI. kerület</a></td><td>László Imre - DK</td><td>DK-MSZP-Momentum</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest12">XII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest13">XIII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest14">XIV. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest15">XV. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest16">XVI. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest17">XVII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest18">XVIII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest19">XIX. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest20">XX. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest21">XXI. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest22">XXII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest10">X. kerület</a></td><td>Somlyódy Csaba - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest11">XI. kerület</a></td><td>László Imre - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest12">XII. kerület</a></td><td>Élő Norbert - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest13">XIII. kerület</a></td><td>Tóth József - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest14">XIV. kerület</a></td><td>Horváth Csaba - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest15">XV. kerület</a></td><td>Németh Angéla - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest16">XVI. kerület</a></td><td>Nemes Gábor - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest17">XVII. kerület</a></td><td>Gy. Németh Erzsébet - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest18">XVIII. kerület</a></td><td>Szaniszló Sándor - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest19">XIX. kerület</a></td><td>Gajda Péter - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest20">XX. kerület</a></td><td>Szabados Ákos - Független/MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest21">XXI. kerület</a></td><td>Takács Mónika Független/MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest22">XXII. kerület</a></td><td>Havasi Gábor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest23">XXIII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 </tbody>  
   </table>	
