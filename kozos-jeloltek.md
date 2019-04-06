@@ -49,7 +49,7 @@ permalink: /kozos-jeloltek
 <tr class="light-blue accent-3"><td><a href="../budapest16">XVI. kerület</a></td><td>Nemes Gábor - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr class="light-blue accent-3"><td><a href="../budapest17">XVII. kerület</a></td><td>Gy. Németh Erzsébet - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr class="red lighten-2"><td><a href="../budapest18">XVIII. kerület</a></td><td>Szaniszló Sándor - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr class="red lighten-2" ><td><a href="../budapest19">XIX. kerület</a></td><td>Gajda Péter - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr class="red lighten-2"><td><a href="../budapest19">XIX. kerület</a></td><td>Gajda Péter - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr class="red lighten-2"><td><a href="../budapest20">XX. kerület</a></td><td>Szabados Ákos - Független/MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr class="red lighten-2"><td><a href="../budapest21">XXI. kerület</a></td><td>Takács Mónika Független/MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr class="purple lighten-3"><td><a href="../budapest22">XXII. kerület</a></td><td>Havasi Gábor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
