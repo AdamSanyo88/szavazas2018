@@ -34,7 +34,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest1">I. kerület</a></td><td class="teal accent-2">V. Naszály Márta - Párbeszéd</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest2">II. kerület</a></td><td class="red lighten-2">Őrsi Gergely - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest3">III. kerület</a></td><td class="red lighten-2">Kiss László - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest4">IV. kerület</a><td class="purple lighten-3">Déri Tibor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest4">IV. kerület</a></td><td class="purple lighten-3">Déri Tibor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest5">V. kerület</a></td><td class="red lighten-2">Tüttő Kata - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest6">VI. kerülett</a></td><td class="purple lighten-3">Soproni Tamás - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest7">VII. kerület</a></td><td class="light-blue accent-3">Niedermüller Péter - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
