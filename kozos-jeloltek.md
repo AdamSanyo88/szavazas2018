@@ -52,7 +52,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest19">XIX. kerület</a></td><td class="red lighten-2">Gajda Péter - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest20">XX. kerület</a></td><td class="red lighten-2">Szabados Ákos - Független/MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest21">XXI. kerület</a></td><td class="red lighten-2">Takács Mónika Független/MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest22">XXII. kerület</a></td><td class="purple lighten-3"><td>Havasi Gábor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest22">XXII. kerület</a></td><td class="purple lighten-3">Havasi Gábor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest23">XXIII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 </tbody>  
   </table>	
