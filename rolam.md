@@ -26,13 +26,13 @@ permalink: /rolam
 		
 		<div class="col l4 offset-l1 card light-green lighten-4">
 		 <div class="card-content">
-            <span class="center card-title">Cikkeim az online médiában</span>
-<p><a href="https://merce.hu/2019/03/31/a-2276-onkormanyzati-kepviselohely-varhato-sorsa/">2276 önkormányzati képviselőhely várható sorsa (Mérce.hu)</a></p>
+            <span class="center card-title">Cikkeim a 2019-es önkormányzati választás esélyeiről</span>
+<br/>
+<p><a href="https://merce.hu/2019/04/07/ellenzeki-eselyek-a-megyei-jogu-varosokban">Ellenzéki esélyek megyei jogú városokban (Mérce.hu)</a></p>
 <br/>
 <p><a href="https://merce.hu/2019/02/21/visszanyerheto-e-a-fovaros-a-fidesztol">Visszanyerhető-e a főváros a Fidesztől? (Mérce.hu)</a></p>
 <br/>
-<p><a href="https://www.facebook.com/notes/taktikaiszavazashu/f%C3%B3kuszban-1-r%C3%A9sz-ellenz%C3%A9ki-es%C3%A9lyek-megyei-jog%C3%BA-v%C3%A1rosokban/278965359448723/">Ellenzéki esélyek megyei jogú városokban (saját kiadás)</a></p>
-<br/>
+<p><a href="https://merce.hu/2019/03/31/a-2276-onkormanyzati-kepviselohely-varhato-sorsa/">2276 önkormányzati képviselőhely várható sorsa (Mérce.hu)</a></p>
           </div>
           <div class="card-content">
             <span class="center card-title">Cikkek és tanulmányok a taktikaiszavazas.hu-ról</span>
