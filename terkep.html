@@ -64,7 +64,8 @@ function style(feature) {
 
 
 function onEachFeature(feature, layer) {
-    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
+							
+    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.telepules '</a></center>', {autoPan: false, keepInView: true, closeButton: false});
     layer.on({
         mouseover: buborek
     });
@@ -98,39 +99,6 @@ function buborek(e) {
 
 
 
-function getColor(t) {
-    switch (t) {
-       case "Budapest": 
-       case "Bács-Kiskun megye":
-       case "Hajdú-Bihar megye": 
-       case "Nógrád megye":
-       case "Veszprém megye":
-             return '#f33';
-             break; 
-       case "Baranya megye":
-       case "Fejér megye":
-       case "Jász-Nagykun-Szolnok megye":
-       case "Szabolcs-Szatmár-Bereg megye":
-       case "Vas megye":
-             return '#0f3';
-             break;
-       case "Békés megye":
-       case "Borsod-Abaúj-Zemplén megye":
-       case "Győr-Moson-Sopron megye":
-       case "Pest megye":
-       case "Somogy megye":
-             return '#33f';
-             break;
-       case "Csongrád megye": 
-       case "Heves megye": 
-       case "Komárom-Esztergom megye":
-       case "Tolna megye":
-       case "Zala megye":
-             return '#ff3';
-             break; 
-       default: '#555';
-    }
-}
 
 
 </script>
