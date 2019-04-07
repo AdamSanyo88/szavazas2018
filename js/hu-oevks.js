@@ -1,5 +1,5 @@
 ﻿var oevks = {"type":"FeatureCollection","features":[
-{"type":"Feature","id":"001","properties":{"megye":"Budapest","mid":"1","tid":"budapest1"},"geometry":{"type":"Polygon","coordinates":[[[47.503045,19.028015],
+{"type":"Feature","id":"001","properties":{"megye":"Budapest","mid":"1","tid":"bp1"},"geometry":{"type":"Polygon","coordinates":[[[47.503045,19.028015],
 	[47.5025349354587,19.0285876375147],
 	[47.502238,19.028921],
 	[47.501809462434,19.029556952132],
