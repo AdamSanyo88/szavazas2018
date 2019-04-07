@@ -73,7 +73,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../bekescsaba">Békéscsaba</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../debrecen">Debrecen</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr class="grey lighten-2"><td><a href="../eger">Eger</a></td><td>Mirkóczki Ádám - EKE</td><td>Jobbik-MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../eger">Eger</a></td><td class="grey lighten-2">Mirkóczki Ádám - EKE</td><td>Jobbik-MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../erd">Érd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -86,10 +86,10 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szeged">Szeged</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr class="red lighten-2"><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>Márton Roland - MSZP</td><td>MSZP-DK-LMP-Momentum-Jobbik-MMM</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td class="red lighten-2">Márton Roland - MSZP</td><td>MSZP-DK-LMP-Momentum-Jobbik-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr class="red lighten-2"><td><a href="../szombathely">Szombathely</a></td><td>Nemény András - MSZP</td><td>MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szombathely">Szombathely</a></td><td class="red lighten-2">Nemény András - MSZP</td><td>MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tatabanya">Tatabánya</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../veszprem">Veszprém</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
