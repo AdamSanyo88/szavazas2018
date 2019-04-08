@@ -14,7 +14,7 @@ permalink: /varosok-listaja
  <br/>
 <p>Az alábbi lista megmutatja, hogy a 10000 fő feletti lakossággal rendelkező városokban, a megyei jogú városokban, és Budapesten hogyan szerepeltek a 2014-es önkormányzati választáson különböző pártok polgármesterjelöltjei és képviselőjelöltjei.</p>
 <p>A 10000-nél nagyobb lakosságú településeken egyéni képviselőket is választanak a városi közgyűlésbe, így az egyéni körzetekben és kompenzációs listáról szerzett mandátumok is láthatók.</p>
-<p>Ha egy adott település vagy budapesti kerület eredményeire vagy kíváncsi, használd a fenti térképes keresőt, vagy asztali gépen a <strong>Ctrl+F</strong> billentyűkombinációt, okostelefonról és tabletről pedig a <strong>Keresés az oldalon</strong> opciót.
+<p>Ha egy adott település vagy budapesti kerület eredményeire vagy kíváncsi, használd a fenti térképes keresőt, vagy asztali gépen a <strong>Ctrl+F</strong> billentyűkombinációt, okostelefonról és tabletről pedig a <strong>Keresés az oldalon</strong> opciót.</p>
 
 <br/>
 
