@@ -21,11 +21,11 @@
        var zoomThreshold = 9;  
         var opc = 0.2;
 
-        var oevk2 = L.geoJson(oevks, {style: style, onEachFeature: onEachFeature});
-
+        var oevk2 = L.geoJson(oevks, {style: style, onEachFeature: onMegye});
+		var telepules2 = L.geoJson(telepules, {style: style, onEachFeature: onTelepules3});
 
         var oevk = L.layerGroup([oevk2]);
-
+		var telepules3 = L.layerGroup([telepules2]);
 
         var  mbAttr = 'Térképadatok &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> közreműködők, ' +
 			        '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
@@ -40,7 +40,7 @@
         var mymap = L.map('mapid', {
              center: [47.180086, 19.503736],
              zoom: 7,
-             layers: [oevk,telepules]
+             layers: [oevk,telepules3]
         });
 
 
@@ -61,17 +61,20 @@ function style(feature) {
 
 
 
-
-
-function onEachFeature(feature, layer) {
-	if ( typeof feature.properties.tid !== "undefined" ) {
-    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.telepules + '</a></center>', {autoPan: false, keepInView: true, closeButton: false});
-	} else { layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
-	}
+function onMegye(feature, layer) {
+    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
     layer.on({
         mouseover: buborek
     });
 }
+
+function onTelepules3(feature, layer) {
+    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.telepules + '</a></center>', {autoPan: false, keepInView: true, closeButton: false});
+	layer.on({
+        mouseover: buborek
+    });
+}
+
 
 
 mymap.on('zoomend', function () {
@@ -114,7 +117,7 @@ function getColor(t) {
        case "Fejér megye":
        case "Jász-Nagykun-Szolnok megye":
        case "Szabolcs-Szatmár-Bereg megye":
-       case "Vas megye"
+       case "Vas megye":
 	   case "Veszprém":
 	   case "Várpalota":
 	   case "Balatonfüred":
