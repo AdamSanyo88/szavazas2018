@@ -40,7 +40,7 @@
         var mymap = L.map('mapid', {
              center: [47.180086, 19.503736],
              zoom: 7,
-             layers: [oevk]
+             layers: [oevk,telepules]
         });
 
 
@@ -64,7 +64,10 @@ function style(feature) {
 
 
 function onEachFeature(feature, layer) {
+	if ( typeof feature.properties.tid !== "undefined" ) {
     layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.telepules + '</a></center>', {autoPan: false, keepInView: true, closeButton: false});
+	} else { layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
+	}
     layer.on({
         mouseover: buborek
     });
