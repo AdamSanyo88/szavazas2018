@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>Magyarország választókerületi térképe (2018)</title>
+	<title>10000 fő feletti városok térképe (2019)</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -49,7 +49,7 @@
 
 function style(feature) {
     return {
-        fillColor: getColor(feature.properties.megye),
+        fillColor: getColor(feature.properties.telepules),
         weight: 1,
         opacity: 1,
         color: 'gray',
@@ -64,7 +64,7 @@ function style(feature) {
 
 
 function onEachFeature(feature, layer) {
-    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
+    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.telepules + '</a></center>', {autoPan: false, keepInView: true, closeButton: false});
     layer.on({
         mouseover: buborek
     });
@@ -100,32 +100,16 @@ function buborek(e) {
 
 function getColor(t) {
     switch (t) {
-       case "Budapest": 
-       case "Bács-Kiskun megye":
-       case "Hajdú-Bihar megye": 
-       case "Nógrád megye":
-       case "Veszprém megye":
+       case "Veszprém": 
              return '#f33';
              break; 
-       case "Baranya megye":
-       case "Fejér megye":
-       case "Jász-Nagykun-Szolnok megye":
-       case "Szabolcs-Szatmár-Bereg megye":
-       case "Vas megye":
+       case "Pápa":
              return '#0f3';
              break;
-       case "Békés megye":
-       case "Borsod-Abaúj-Zemplén megye":
-       case "Győr-Moson-Sopron megye":
-       case "Pest megye":
-       case "Somogy megye":
+       case "Ajka":
              return '#33f';
              break;
-       case "Csongrád megye": 
-       case "Heves megye": 
-       case "Komárom-Esztergom megye":
-       case "Tolna megye":
-       case "Zala megye":
+       case "Balatonfüred": 
              return '#ff3';
              break; 
        default: '#555';
