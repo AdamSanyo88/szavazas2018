@@ -6,4 +6,6 @@
 {"type":"Feature","id":"102","properties":{"telepules":"Ajka","tid":"ajka"},"geometry":{"type":"Polygon","coordinates":[[[17.5518,47.1186],[17.5818,47.1036],[17.5518,47.0886],[17.5218,47.1036],[17.5518,47.1186]]]}},
 
 {"type":"Feature","id":"103","properties":{"telepules":"Balatonfüred","tid":"balatonfured"},"geometry":{"type":"Polygon","coordinates":[[[17.8851,46.9749],[17.9151,46.9599],[17.8851,46.9449],[17.8551,46.9599],[17.8851,46.9749]]]}},
+
+{"type":"Feature","id":"104","properties":{"telepules":"Várpalota","tid":"varpalota"},"geometry":{"type":"Polygon","coordinates":[[[18.1614,47.2156],[18.1914,47.2006],[18.1614,47.1856],[18.1314,47.2006],[18.1614,47.2156]]]}},
 ]};
