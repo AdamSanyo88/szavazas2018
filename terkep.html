@@ -103,17 +103,37 @@ function buborek(e) {
 
 function getColor(t) {
     switch (t) {
-       case "Veszprém": 
+	   case "Budapest": 
+       case "Bács-Kiskun megye":
+       case "Hajdú-Bihar megye": 
+       case "Nógrád megye":
+       case "Veszprém megye":
              return '#f33';
              break; 
-       case "Pápa":
+       case "Baranya megye":
+       case "Fejér megye":
+       case "Jász-Nagykun-Szolnok megye":
+       case "Szabolcs-Szatmár-Bereg megye":
+       case "Vas megye"
+	   case "Veszprém":
+	   case "Várpalota":
+	   case "Balatonfüred":
+	   case "Ajka":
+	   case "Pápa":
              return '#0f3';
              break;
-       case "Ajka":
+       case "Békés megye":
+       case "Borsod-Abaúj-Zemplén megye":
+       case "Győr-Moson-Sopron megye":
+       case "Pest megye":
+       case "Somogy megye":
              return '#33f';
              break;
-       case "Balatonfüred": 
-		case "Várpalota":
+       case "Csongrád megye": 
+       case "Heves megye": 
+       case "Komárom-Esztergom megye":
+       case "Tolna megye":
+       case "Zala megye":
              return '#ff3';
              break; 
        default: '#555';
