@@ -10,8 +10,9 @@ permalink: /kozos-jeloltek
     <div class="row">
           <div class="col s12">
 
-
-<p>Az alábbi lista megmutatja, hogy a nagyobb városokban kik a közös ellenzéki jelöltek a 2019-es önkormányzati választáson és hogy milyen esélyei vannak az adott jelöltnek a Fidesz jelöltjével szemben.</p>
+		   <iframe src="/terkep.html" frameBorder="0" width="100%" height="400"></iframe>
+ <br/>
+<p>Az alábbi lista megmutatja, hogy a nagyobb városokban kik a közös ellenzéki jelöltek a 2019-es önkormányzati választáson és hogy milyen esélyei vannak az adott jelöltnek a Fidesz jelöltjével szemben. A 10000 főnél nagyobb településekre vonatkozó előrejelzéseket a fenti térképen is megtalálhatod.</p>
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 21 / 23</h5>

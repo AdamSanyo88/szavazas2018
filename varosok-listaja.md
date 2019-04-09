@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Térképes településkereső
+title: 2014-es önkormányzati választás eredményei
 permalink: /varosok-listaja
 ---
 
