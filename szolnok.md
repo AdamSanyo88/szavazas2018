@@ -16,6 +16,27 @@ permalink: /szolnok
 
 		<iframe width="900" height="600" src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/4Iwm" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br/>
+<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek (első két helyezett)</th>
+                    <th>Szavazatarány (százalék)</th>
+					<th>Szavazatok száma</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Szalay Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;" /></td>
+				   <td id="fidesz_mayor">53.0%</td>
+				   <td id="fidesz_mayor2">11,483</td>
+			</tr>
+			<tr>
+			<td>Radócz Zoltán István - MSZP-DK-SZOLIDARITÁS-EGYÜTT</td> 
+			<td id="ellenzek_mayor">27.3%</td>
+			<td id="ellenzek_mayor2">5,913</td>
+			</tr>
+              </tbody>
+            </table>
 
 <br/>
 
