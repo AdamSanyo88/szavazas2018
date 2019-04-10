@@ -13,29 +13,8 @@ permalink: /szolnok
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M11/T052/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/szolnok.png" style="height: 100%; width: 100%; object-fit: contain">
 
-			<table class="striped">
-              <thead>
-                <tr>
-                    <th>Jelöltek (első két helyezett)</th>
-                    <th>Szavazatarány (százalék)</th>
-					<th>Szavazatok száma</th>
-                </tr>
-              </thead>
-              <tbody>
-             <tr>
-                   <td>Szalay Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">53.0%</td>
-				   <td id="fidesz_mayor2">11,483</td>
-			</tr>
-			<tr>
-			<td>Radócz Zoltán István - MSZP-DK-SZOLIDARITÁS-EGYÜTT</td> 
-			<td id="ellenzek_mayor">27.3%</td>
-			<td id="ellenzek_mayor2">5,913</td>
-			</tr>
-              </tbody>
-            </table>
+		<iframe width="900" height="600" src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/4Iwm" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br/>
 
 <br/>
