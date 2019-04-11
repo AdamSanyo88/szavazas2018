@@ -42,7 +42,6 @@ permalink: /szolnok
 
 <h5><strong>2014-es önkormányzati választáson nyert egyéni képviselőhelyek száma</strong></h5><br/><br/>
 
-<iframe width="900" height="758" src="https://datastudio.google.com/embed/reporting/1VfwoQmp99OdRe6PrTLbVf6hfRCYLBRM6/page/JVCj" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <table class="striped">
               <thead>
