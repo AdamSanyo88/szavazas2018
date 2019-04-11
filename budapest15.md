@@ -12,7 +12,7 @@ permalink: /budapest15
 		  <h5>Budapest XV. kerület</h5>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-xv.-kerulet-20180930">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
-<iframe width="900" height="600" src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/GQym" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="images/2014_onkormanyzat/budapest15_2.png" style="height: 100%; width: 100%; object-fit: contain">
 
 			<table class="striped">
               <thead>
@@ -38,7 +38,7 @@ permalink: /budapest15
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T015/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/budapest15.png" style="height: 100%; width: 100%; object-fit: contain">
+<iframe src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/GQym" frameborder="0" style="border:0" allowfullscreen style="height: 100%; width: 100%; object-fit: contain" ></iframe>
 
 			<table class="striped">
               <thead>
