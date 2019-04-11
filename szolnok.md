@@ -14,7 +14,7 @@ permalink: /szolnok
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M11/T052/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 
-		<iframe width="900" height="600" src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/4Iwm" frameborder="0" style="border:0" allowfullscreen></iframe>
+		<iframe src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/4Iwm" frameborder="0" style="border:0" allowfullscreen style="height: 80vh; width: 100vh; object-fit: contain"></iframe>
 <br/>
 <table class="striped">
               <thead>
