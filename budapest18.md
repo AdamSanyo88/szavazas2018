@@ -13,7 +13,7 @@ permalink: /budapest18
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T018/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/budapest18.png" style="height: 100%; width: 100%; object-fit: contain">
+<iframe width="900" height="600" src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/KQym" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 			<table class="striped">
               <thead>

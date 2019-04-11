@@ -12,7 +12,7 @@ permalink: /budapest15
 		  <h5>Budapest XV. kerület</h5>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-xv.-kerulet-20180930">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/budapest15_2.png" style="height: 100%; width: 100%; object-fit: contain">
+<iframe width="900" height="600" src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/GQym" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 			<table class="striped">
               <thead>

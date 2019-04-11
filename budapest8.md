@@ -13,7 +13,7 @@ permalink: /budapest8
 <br/>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-viii.-kerulet-20180708">2018. júliusi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/budapest8_2.png" style="height: 100%; width: 100%; object-fit: contain">
+<iframe width="900" height="600" src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/6Pym" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 			<table class="striped">
               <thead>
