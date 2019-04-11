@@ -38,7 +38,7 @@ permalink: /budapest15
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T015/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
-<iframe src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/GQym" frameborder="0" style="border:0" allowfullscreen style="height: 100vh; width: 100vw" ></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/GQym" frameborder="0" style="border:0" allowfullscreen style="height: 80vh; width: 100vh; object-fit: contain"></iframe>
 
 			<table class="striped">
               <thead>
