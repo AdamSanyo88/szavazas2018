@@ -17,7 +17,7 @@ permalink: /kozos-jeloltek
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 21 / 23</h5>
 <h5 class="center">Megyei jogú városok: 4 / 23</h5>
-<h5 class="center">10000 fő feletti városok: 3 / 123</h5>
+<h5 class="center">10000 fő feletti városok: 4 / 123</h5>
 
 <br/>
 <h5>Budapest kerületei</h5>
@@ -114,7 +114,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../abony">Abony</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ajka">Ajka</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../albertirsa">Albertirsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../baja">Baja</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../baja">Baja</a></td><td class="purple lighten-3">Nyitrai Klára - Momentum</td><td>Ellenzéki pártok</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../balassagyarmat">Balassagyarmat</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../balatonfured">Balatonfüred</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../balmazujvaros">Balmazújváros</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>

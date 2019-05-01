@@ -1110,7 +1110,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../siofok">Siófok</a></td>
-<td>Dr. Balázs Róbert - Független</td>
+<td>Dr. Lengyel Róbert - Független</td>
 <td>7 + 0</td>
 <td>1 + 3</td>
 <td>7 - 5</td>
