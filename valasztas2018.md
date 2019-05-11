@@ -24,7 +24,7 @@ permalink: /valasztas2018
 <h5>Egyéni és listás szavazatok, átszavazási hajlandóság</h5>
 
 <p>Az alábbi táblázatok és grafikonok a kerületenkénti átszavazási hajlandóságot és a különböző pártok egyéni és listás eredményeit mutatják meg. Mind a grafikonok, mind a táblázatok szabadon letölthetők bárki számára.</p>
-<p>A táblázatok jobb alsó sarkába kattintva érhető el a teljes képernyős megtekintési mód. A táblázatok több fület tartalmaznak, amely fülek között a bal alsó sarokban lévő nyilakkal lehet váltani. A településkereső (ami szűrőként működik) az összes település eredményeit mutató táblázatban elérhető.</p>
+<p>A táblázatok jobb alsó sarkába kattintva érhető el a teljes képernyős megtekintési mód. A táblázatok több fület tartalmaznak, amely fülek között a bal alsó sarokban lévő nyilakkal lehet váltani. A településkereső (ami szűrőként működik) az összes település eredményeit mutató táblázatban érhető el.</p>
 
 
 <h5>Választókerületi adatok</h5>
