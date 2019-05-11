@@ -23,17 +23,18 @@ permalink: /valasztas2018
 
 <h5>Egyéni és listás szavazatok, átszavazási hajlandóság</h5>
 
-<p>Az alábbi táblázatok és grafikonok a kerületenkénti átszavazási hajlandóságot és a különböző pártok egyéni és listás eredményeit mutatják meg. Mind a grafikonok, mind a táblázatok szabadon letölthetők bárki számára. A táblázatok jobb alsó sarkába kattintva érhető el a teljes képernyős megtekintési mód.</p>
+<p>Az alábbi táblázatok és grafikonok a kerületenkénti átszavazási hajlandóságot és a különböző pártok egyéni és listás eredményeit mutatják meg. Mind a grafikonok, mind a táblázatok szabadon letölthetők bárki számára.</p>
+<p>A táblázatok jobb alsó sarkába kattintva érhető el a teljes képernyős megtekintési mód. A táblázatok több fület tartalmaznak, amely fülek között a bal alsó sarokban lévő nyilakkal lehet váltani. A településkereső (ami szűrőként működik) az összes település eredményeit mutató táblázatban elérhető.</p>
 
 
 <h5>Választókerületi adatok</h5>
 <br/>
-<iframe src="https://datastudio.google.com/embed/reporting/1lfsGiKJsNm1N1sd9cCB2s2nJk0wVHxBC/page/pTPS" frameborder="0" style="border:0" allowfullscreen style="height: 80vh; width: 100vh; object-fit: contain"></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/1lfsGiKJsNm1N1sd9cCB2s2nJk0wVHxBC/page/pTPS" frameborder="0" style="border:0" allowfullscreen style="width: 100%; object-fit: contain"></iframe>
 
 <br/>
 <h5>Összes település adatai (kiemelve Budapest és a megyei jogú városok)</h5>
 <br/>
-<iframe src="https://datastudio.google.com/embed/reporting/1IkYaL_au-1TtnmQtrni1ljT1_LdkZgLy/page/tLPS" frameborder="0" style="border:0" allowfullscreen style="height: 80vh; width: 100vh; object-fit: contain"></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/1IkYaL_au-1TtnmQtrni1ljT1_LdkZgLy/page/tLPS" frameborder="0" style="border:0" allowfullscreen style="width: 100%; object-fit: contain"></iframe>
 
 <h5>Esélyes jelöltek és választókerületi előrejelzések</h5>
 
