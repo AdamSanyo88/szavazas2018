@@ -29,12 +29,12 @@ permalink: /valasztas2018
 
 <h5>Választókerületi adatok</h5>
 <br/>
-<iframe src="https://datastudio.google.com/embed/reporting/1lfsGiKJsNm1N1sd9cCB2s2nJk0wVHxBC/page/pTPS" frameborder="0" style="border:0" allowfullscreen style="width: 100%; object-fit: contain"></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/1lfsGiKJsNm1N1sd9cCB2s2nJk0wVHxBC/page/pTPS" frameborder="0" style="border:0" allowfullscreen style="width: 100%;  height: 80vh; object-fit: contain"></iframe>
 
 <br/>
 <h5>Összes település adatai (kiemelve Budapest és a megyei jogú városok)</h5>
 <br/>
-<iframe src="https://datastudio.google.com/embed/reporting/1IkYaL_au-1TtnmQtrni1ljT1_LdkZgLy/page/tLPS" frameborder="0" style="border:0" allowfullscreen style="width: 100%; object-fit: contain"></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/1IkYaL_au-1TtnmQtrni1ljT1_LdkZgLy/page/tLPS" frameborder="0" style="border:0" allowfullscreen style="width: 100%; height:80vh; object-fit: contain"></iframe>
 
 <h5>Esélyes jelöltek és választókerületi előrejelzések</h5>
 
