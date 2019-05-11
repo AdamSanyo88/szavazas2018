@@ -138,7 +138,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunakeszi">Dunakeszi</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../edeleny">Edelény</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../esztergom">Esztergom</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../esztergom">Esztergom</a></td><td>Cserép János - Független</td><td>MSZP-Jobbik-LMP-DK-Párbeszéd-Momentum-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../fot">Fót</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gardony">Gárdony</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../god">Göd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
