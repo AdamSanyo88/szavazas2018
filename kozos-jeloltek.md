@@ -16,7 +16,7 @@ permalink: /kozos-jeloltek
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 21 / 23</h5>
-<h5 class="center">Megyei jogú városok: 4 / 23</h5>
+<h5 class="center">Megyei jogú városok: 6 / 23</h5>
 <h5 class="center">10000 fő feletti városok: 5 / 123</h5>
 
 <br/>
@@ -73,7 +73,7 @@ permalink: /kozos-jeloltek
               <tbody>
 <tr><td><a href="../bekescsaba">Békéscsaba</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../debrecen">Debrecen</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td class="grey lighten-2">Pintér Tamás - Jobbik </td><td>Jobbik-DK-LMP-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../eger">Eger</a></td><td class="grey lighten-2">Mirkóczki Ádám - EKE</td><td>Jobbik-MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../erd">Érd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -84,7 +84,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecs">Pécs</a></td><td>Péterffy Attila - Független</td><td>MSZP-DK-Momentum</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../salgotarjan">Salgótarján</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../salgotarjan">Salgótarján</a></td><td class="red lighten-2">Fekete Zsolt - MSZŐ</td><td>MSZP-DK-LMP-Momentum-Jobbik-Párbeszéd-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szeged">Szeged</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td class="red lighten-2">Márton Roland - MSZP</td><td>MSZP-DK-LMP-Momentum-Jobbik-MMM</td><td>---</td><td>---</td></tr>
