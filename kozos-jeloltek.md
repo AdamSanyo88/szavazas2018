@@ -17,7 +17,7 @@ permalink: /kozos-jeloltek
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 21 / 23</h5>
 <h5 class="center">Megyei jogú városok: 6 / 23</h5>
-<h5 class="center">10000 fő feletti városok: 5 / 123</h5>
+<h5 class="center">10000 fő feletti városok: 6 / 123</h5>
 
 <br/>
 <h5>Budapest kerületei</h5>
