@@ -15,9 +15,9 @@ permalink: /kozos-jeloltek
 <p>Az alábbi lista megmutatja, hogy a nagyobb városokban kik a közös ellenzéki jelöltek a 2019-es önkormányzati választáson és hogy milyen esélyei vannak az adott jelöltnek a Fidesz jelöltjével szemben. A 10000 főnél nagyobb településekre vonatkozó előrejelzéseket a fenti térképen is megtalálhatod.</p>
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
-<h5 class="center">Budapest kerületei: 21 / 23</h5>
-<h5 class="center">Megyei jogú városok: 7 / 23</h5>
-<h5 class="center">10000 fő feletti városok: 6 / 123</h5>
+<h5 class="center">Budapest kerületei: 22 / 23</h5>
+<h5 class="center">Megyei jogú városok: 14 / 23</h5>
+<h5 class="center">10000 fő feletti városok: 8 / 123</h5>
 
 <br/>
 <h5>Budapest kerületei</h5>
@@ -32,29 +32,29 @@ permalink: /kozos-jeloltek
                 </tr>
               </thead>
               <tbody>
-<tr><td><a href="../budapest1">I. kerület</a></td><td class="teal accent-2">V. Naszály Márta - Párbeszéd</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest2">II. kerület</a></td><td class="red lighten-2">Őrsi Gergely - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest3">III. kerület</a></td><td class="red lighten-2">Kiss László - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest4">IV. kerület</a></td><td class="purple lighten-3">Déri Tibor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest5">V. kerület</a></td><td class="red lighten-2">Tüttő Kata - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest6">VI. kerülett</a></td><td class="purple lighten-3">Soproni Tamás - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest7">VII. kerület</a></td><td class="light-blue accent-3">Niedermüller Péter - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest8">VIII. kerület</a></td><td class="purple lighten-3">Pikó András - Független/Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest1">I. kerület</a></td><td class="teal accent-2">V. Naszály Márta - Párbeszéd</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest2">II. kerület</a></td><td class="red lighten-2">Őrsi Gergely - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest3">III. kerület</a></td><td class="red lighten-2">Kiss László - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest4">IV. kerület</a></td><td class="purple lighten-3">Déri Tibor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest5">V. kerület</a></td><td class="red lighten-2">Tüttő Kata - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest6">VI. kerülett</a></td><td class="purple lighten-3">Soproni Tamás - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest7">VII. kerület</a></td><td class="light-blue accent-3">Niedermüller Péter - DK</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest8">VIII. kerület</a></td><td>Pikó András - Független</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest9">IX. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest10">X. kerület</a></td><td class="red lighten-2">Somlyódy Csaba - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest11">XI. kerület</a></td><td class="light-blue accent-3">László Imre - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest12">XII. kerület</a></td><td class="light-blue accent-3">Élő Norbert - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest13">XIII. kerület</a></td><td class="red lighten-2">Tóth József - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest14">XIV. kerület</a></td><td class="red lighten-2">Horváth Csaba - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest15">XV. kerület</a></td><td class="light-blue accent-3">Németh Angéla - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest16">XVI. kerület</a></td><td class="light-blue accent-3">Nemes Gábor - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest17">XVII. kerület</a></td><td class="light-blue accent-3">Gy. Németh Erzsébet - DK</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest18">XVIII. kerület</a></td><td class="red lighten-2">Szaniszló Sándor - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest19">XIX. kerület</a></td><td class="red lighten-2">Gajda Péter - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest20">XX. kerület</a></td><td class="red lighten-2">Szabados Ákos - Független/MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest21">XXI. kerület</a></td><td class="red lighten-2">Takács Mónika Független/MSZP</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest22">XXII. kerület</a></td><td class="purple lighten-3">Havasi Gábor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest23">XXIII. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest10">X. kerület</a></td><td class="red lighten-2">Somlyódy Csaba - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest11">XI. kerület</a></td><td class="light-blue accent-3">László Imre - DK</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest12">XII. kerület</a></td><td class="light-blue accent-3">Élő Norbert - DK</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest13">XIII. kerület</a></td><td class="red lighten-2">Tóth József - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest14">XIV. kerület</a></td><td class="red lighten-2">Horváth Csaba - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest15">XV. kerület</a></td><td class="light-blue accent-3">Németh Angéla - DK</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest16">XVI. kerület</a></td><td class="light-blue accent-3">Nemes Gábor - DK</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest17">XVII. kerület</a></td><td class="light-blue accent-3">Gy. Németh Erzsébet - DK</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest18">XVIII. kerület</a></td><td class="red lighten-2">Szaniszló Sándor - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest19">XIX. kerület</a></td><td class="red lighten-2">Gajda Péter - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest20">XX. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest21">XXI. kerület</a></td><td>Erdősi Éva - Párbeszéd</td><td>MSZP-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest22">XXII. kerület</a></td><td class="purple lighten-3">Havasi Gábor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest23">XXIII. kerület</a></td><td class="grey lighten-2">Berecki Miklós - Jobbik</td><td>Jobbik-MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 </tbody>  
   </table>	
 
@@ -75,18 +75,18 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../debrecen">Debrecen</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td class="grey lighten-2">Pintér Tamás - Jobbik </td><td>Jobbik-DK-LMP-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../eger">Eger</a></td><td class="grey lighten-2">Mirkóczki Ádám - Jobbik (EKE)</td><td>Jobbik-MSZP-DK-LMP-Momentum</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../erd">Érd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../erd">Érd</a></td><td>Csőzik László</td><td>Jobbik-LMP-DK-Momentum-MSZP-Párbeszéd-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td class="light-blue accent-3">Glázer Tímea - DK</td><td>MSZP-DK-LMP-Momentum-Jobbik</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kaposvar">Kaposvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kecskemet">Kecskemét</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../miskolc">Miskolc</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td>Dr. Márki-Zay-Péter</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kaposvar">Kaposvár</a></td><td>Horváth Ákos (?)</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kecskemet">Kecskemét</a></td><td>Lejer Zoltán - Jobbik (?)</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../miskolc">Miskolc</a></td><td>Veres Pál - Független</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td>Jeszekszki András - MSZP</td><td>MSZP-Jobbik-DK-LMP-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecs">Pécs</a></td><td>Péterffy Attila - Független</td><td>MSZP-DK-Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td class="red lighten-2">Fekete Zsolt - MSZP</td><td>MSZP-DK-LMP-Momentum-Jobbik-Párbeszéd-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../szeged">Szeged</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szeged">Szeged</a></td><td>Botka László - MSZP</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td class="red lighten-2">Márton Roland - MSZP</td><td>MSZP-DK-LMP-Momentum-Jobbik-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -121,7 +121,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../barcs">Barcs</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../batonyterenye">Bátonyterenye</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bekes">Békés</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../berettyoujfalu">Berettyóújfalu</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../berettyoujfalu">Berettyóújfalu</a></td><td>dr. Zákány Zsolt - Független</td><td>Jobbik-MSZP-LMP-Momentum-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../biatorbagy">Biatorbágy</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bicske">Bicske</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bonyhad">Bonyhád</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
@@ -205,7 +205,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../sarbogard">Sárbogárd</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sarkad">Sarkad</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sarospatak">Sárospatak</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../sarvar">Sárvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../sarvar">Sárvár</a></td><td>Németh Zsolt - MMM</td><td>Híd a Jövőnkért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../satoraljaujhely">Sátoraljaújhely</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../siklos">Siklós</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../siofok">Siófok</a></td><td>Lengyel Róbert - Független</td><td>Összes ellenzéki párt</td><td>---</td><td>---</td></tr>
