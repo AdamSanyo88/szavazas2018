@@ -16,7 +16,7 @@ permalink: /kozos-jeloltek
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 22 / 23</h5>
-<h5 class="center">Megyei jogú városok: 14 / 23</h5>
+<h5 class="center">Megyei jogú városok: 12 / 23</h5>
 <h5 class="center">10000 fő feletti városok: 8 / 123</h5>
 
 <br/>
@@ -39,7 +39,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest5">V. kerület</a></td><td class="red lighten-2">Tüttő Kata - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest6">VI. kerülett</a></td><td class="purple lighten-3">Soproni Tamás - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest7">VII. kerület</a></td><td class="light-blue accent-3">Niedermüller Péter - DK</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest8">VIII. kerület</a></td><td>Pikó András - Független</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik-LMP</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest8">VIII. kerület</a></td><td>Pikó András - Független</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest9">IX. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest10">X. kerület</a></td><td class="red lighten-2">Somlyódy Csaba - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest11">XI. kerület</a></td><td class="light-blue accent-3">László Imre - DK</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
@@ -52,9 +52,9 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest18">XVIII. kerület</a></td><td class="red lighten-2">Szaniszló Sándor - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest19">XIX. kerület</a></td><td class="red lighten-2">Gajda Péter - MSZP</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest20">XX. kerület</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest21">XXI. kerület</a></td><td>Erdősi Éva - Párbeszéd</td><td>MSZP-Párbeszéd</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest21">XXI. kerület</a></td><td class="teal accent-2">Erdősi Éva - Párbeszéd</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest22">XXII. kerület</a></td><td class="purple lighten-3">Havasi Gábor - Momentum</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest23">XXIII. kerület</a></td><td class="grey lighten-2">Berecki Miklós - Jobbik</td><td>Jobbik-MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest23">XXIII. kerület</a></td><td class="grey lighten-2">Berecki Miklós - Jobbik</td><td>MSZP-DK-Momentum-Párbeszéd-LMP-Jobbik</td><td>---</td><td>---</td></tr>
 </tbody>  
   </table>	
 
@@ -78,8 +78,8 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../erd">Érd</a></td><td>Csőzik László</td><td>Jobbik-LMP-DK-Momentum-MSZP-Párbeszéd-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td class="light-blue accent-3">Glázer Tímea - DK</td><td>MSZP-DK-LMP-Momentum-Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td>Dr. Márki-Zay-Péter</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kaposvar">Kaposvár</a></td><td>Horváth Ákos (?)</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kecskemet">Kecskemét</a></td><td>Lejer Zoltán - Jobbik (?)</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kaposvar">Kaposvár</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kecskemet">Kecskemét</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../miskolc">Miskolc</a></td><td>Veres Pál - Független</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td>---</td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td>Jeszekszki András - MSZP</td><td>MSZP-Jobbik-DK-LMP-Momentum-Párbeszéd</td><td>---</td><td>---</td></tr>
