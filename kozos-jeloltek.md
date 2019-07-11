@@ -190,7 +190,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../nyirbator">Nyírbátor</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../oroshaza">Orosháza</a></td><td class="blue darken-2 white-text">Dr. Szabó Ervin</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../oroszlany">Oroszlány</a></td><td class="blue darken-2 white-text">Lazók Zoltán</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../ozd">Ózd</a></td><td class="blue darken-2 white-text">Janiczak Dávid - Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../ozd">Ózd</a></td><td class="grey lighten-2">Janiczak Dávid - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../paks">Paks</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../papa">Pápa</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecel">Pécel</a></td><td class="blue darken-2 white-text">Szőllősi Ferenc</td><td>---</td><td>---</td></tr>
@@ -237,7 +237,4 @@ permalink: /kozos-jeloltek
   </table>
 
 	
-    </div>
-		 
-          </div>
-    </div>
+   
