@@ -17,7 +17,7 @@ permalink: /kozos-jeloltek
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 21 / 23</h5>
-<h5 class="center">Megyei jogú városok: 13 / 23</h5>
+<h5 class="center">Megyei jogú városok: 14 / 23</h5>
 <h5 class="center">10000 fő feletti városok: 34 / 123</h5>
 
 <br/>
@@ -91,7 +91,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szolnok">Szolnok</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szombathely">Szombathely</a></td><td class="red lighten-2 white-text">Nemény András - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tatabanya">Tatabánya</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../veszprem">Veszprém</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../veszprem">Veszprém</a></td><td class="blue darken-2 white-text">Katanics Sándor - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td>---</td><td>---</td><td>---</td></tr>
 
 </tbody>  
