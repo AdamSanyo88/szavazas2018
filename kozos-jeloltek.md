@@ -16,7 +16,7 @@ permalink: /kozos-jeloltek
 <p><strong>FONTOS: a jelöltek listája az októberi választásig változhat, a táblázat több forrásból gyűjtött információkat tartalmaz, amelyek nem feltétlenül a végleges állapotokat jelölik!</strong>
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
-<h5 class="center">Budapest kerületei: 21 / 23</h5>
+<h5 class="center">Budapest kerületei: 22 / 23</h5>
 <h5 class="center">Megyei jogú városok: 14 / 23</h5>
 <h5 class="center">10000 fő feletti városok: 34 / 123</h5>
 
@@ -40,7 +40,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest6">VI. kerülett</a></td><td class="purple lighten-3 white-text">Soproni Tamás - Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest7">VII. kerület</a></td><td class="light-blue accent-3 white-text">Niedermüller Péter - DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest8">VIII. kerület</a></td><td class="purple lighten-3 white-text">Pikó András - Független/Momentum</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budapest9">IX. kerület</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budapest9">IX. kerület</a></td><td>Baranyi Krisztina / Jancsó Andrea</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest10">X. kerület</a></td><td class="red lighten-2 white-text">Somlyódy Csaba - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest11">XI. kerület</a></td><td class="light-blue accent-3 white-text">László Imre - DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budapest12">XII. kerület</a></td><td class="light-blue accent-3 white-text">Élő Norbert - DK</td><td>---</td><td>---</td></tr>
