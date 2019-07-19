@@ -18,7 +18,7 @@ permalink: /kozos-jeloltek
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 22 / 23</h5>
 <h5 class="center">Megyei jogú városok: 14 / 23</h5>
-<h5 class="center">10000 fő feletti városok: 34 / 123</h5>
+<h5 class="center">10000 fő feletti városok: 35 / 123</h5>
 
 <br/>
 <h5>Budapest kerületei</h5>
@@ -79,7 +79,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td class="blue darken-2 white-text">Dr. Márki-Zay-Péter - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kaposvar">Kaposvár</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td class="grey lighten-2">Lejer Zoltán - Jobbik</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Veres Pál - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Varga Andrea - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td class="red lighten-2 white-text">Jeszekszki András - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecs">Pécs</a></td><td class="blue darken-2 white-text">Péterffy Attila - Független</td><td>---</td><td>---</td></tr>
@@ -229,7 +229,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../ujfeherto">Újfehértó</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ullo">Üllő</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../vac">Vác</a></td><td class="blue darken-2 white-text">Matkovics Ilona - Független </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../varpalota">Várpalota</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../varpalota">Várpalota</a></td><td class="blue darken-2 white-text">Borsik Ákos - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../vecses">Vecsés</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../veresegyhaz">Veresegyház</a></td><td class="blue darken-2 white-text">Pásztor Béla - Független </td><td>---</td><td>---</td></tr>
 
