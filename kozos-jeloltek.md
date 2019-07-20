@@ -79,7 +79,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td class="blue darken-2 white-text">Dr. Márki-Zay-Péter - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kaposvar">Kaposvár</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td class="grey lighten-2">Lejer Zoltán - Jobbik</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Varga Andrea - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Veres Pál - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td class="red lighten-2 white-text">Jeszekszki András - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecs">Pécs</a></td><td class="blue darken-2 white-text">Péterffy Attila - Független</td><td>---</td><td>---</td></tr>
