@@ -14,7 +14,7 @@ permalink: /rolam
 		  <br/>
 		  <p><img src="images/adam.jpg" style="height: 100%; width: 100%; object-fit: contain"></p>
 		  <br/>
-          <p>Sanyó Ádám vagyok, műszaki szakszövegíróként és adatelemzőként dolgozom egy multicégnél. 2009 óta politikai és civil aktivistaként tevékenykedem, ez a hatodik kampány, amelyben részt veszek. 2009-ben Magyarországon az európai parlamenti választásokon voltam aktivista, 2010-ben pedig egy civil szervezetnek gyűjtöttem aláírásokat egy népszavazási kezdeményezéshez.</p>
+          <p>Sanyó Ádám vagyok és adatelemzőként dolgozom egy multicégnél. 2009 óta politikai és civil aktivistaként tevékenykedem, a 2019-es önkormányzati választási kampány lesz a hetedik választási kampány, amelyben részt veszek. 2009-ben Magyarországon az európai parlamenti választásokon voltam aktivista, 2010-ben pedig egy civil szervezetnek gyűjtöttem aláírásokat egy népszavazási kezdeményezéshez.</p>
 		  <p>2012-2016 között Angliában éltem és dolgoztam. 2014-2016 között angol politikai pártok kampányában segítettem, illetve a 2016-os Brexit népszavazásban az EU-párti kampány egyik önkéntes-koordinátora voltam Cambridge-ben.</p>
 		  <br/>
 		  <p>A politika és a mandátumbecslés a hobbim, a 2015-ös angliai választások óta foglalkozom választási előrejelzések kutatásával, felhasználásával. A választások előrejelzése mindig is érdekelt, Angliában ennek nagy hagyománya van, ezért is gondoltam, hogy létrehozom ezt az oldalt.</p>
