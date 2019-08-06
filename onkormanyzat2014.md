@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2014-es önkormányzati választás eredményei
-permalink: /varosok-listaja
+permalink: /onkormanyzat2014
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
