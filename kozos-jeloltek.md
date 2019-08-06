@@ -18,7 +18,7 @@ permalink: /kozos-jeloltek
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 22 / 23</h5>
 <h5 class="center">Megyei jogú városok: 17 / 23</h5>
-<h5 class="center">10000 fő feletti városok: 44 / 123</h5>
+<h5 class="center">10000 fő feletti városok: 45 / 123</h5>
 
 <br/>
 <h5>Budapest kerületei</h5>
@@ -126,7 +126,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budakalasz">Budakalász</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budakeszi">Budakeszi</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budaors">Budaörs</a></td><td class="blue darken-2 white-text">Wittinghoff Tamás - Független </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../cegled">Cegléd</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../cegled">Cegléd</a></td><td class="blue darken-2 white-text">Csáky András - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../celldomolk">Celldömölk</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../csongrad">Csongrád</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../csorna">Csorna</a></td><td>---</td><td>---</td><td>---</td></tr>
@@ -192,7 +192,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../oroszlany">Oroszlány</a></td><td class="blue darken-2 white-text">Lazók Zoltán - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ozd">Ózd</a></td><td class="grey lighten-2">Janiczak Dávid - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../paks">Paks</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../papa">Pápa</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../papa">Pápa</a></td><td class="blue darken-2 white-text">Grőber Attila - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecel">Pécel</a></td><td class="blue darken-2 white-text">Szőllősi Ferenc - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pilis">Pilis</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pilisvorosvar">Pilisvörösvár</a></td><td class="blue darken-2 white-text">Gromon István - Független </td><td>---</td><td>---</td></tr>
