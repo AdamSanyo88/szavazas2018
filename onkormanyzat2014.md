@@ -1208,7 +1208,7 @@ permalink: /varosok-listaja
 </tr>
 <tr>
 <td><a href="../tiszaujvaros">Tiszaújváros</a></td>
-<td>Bráz György - MSZP</td>
+<td class="red lighten-4">Bráz György - MSZP</td>
 <td>0 + 1</td>
 <td>8 + 2</td>
 <td>1 - 11</td>
