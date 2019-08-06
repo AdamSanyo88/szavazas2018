@@ -80,7 +80,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kaposvar">Kaposvár</a></td><td class="blue darken-2 white-text">Horváth Ákos - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td class="grey lighten-2">Lejer Zoltán - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Veres Pál - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../nagykanizsa">Nagykanizsa</a></td class="blue darken-2 white-text"><td>Hári Tibor</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td class="blue darken-2 white-text">Hári Tibor</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td class="red lighten-2 white-text">Jeszekszki András - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecs">Pécs</a></td><td class="blue darken-2 white-text">Péterffy Attila - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td class="red lighten-2 white-text">Fekete Zsolt - MSZP</td><td>---</td><td>---</td></tr>
@@ -160,7 +160,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../karcag">Karcag</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kazincbarcika">Kazincbarcika</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kerepes">Kerepes</a></td><td class="blue darken-2 white-text">Springer Friedrich - Független </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../keszthely">Keszthely</a></td class="blue darken-2 white-text"><td>Czuth Zoltán László</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../keszthely">Keszthely</a></td><td class="blue darken-2 white-text">Czuth Zoltán László</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunfelegyhaza">Kiskunfélegyháza</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunhalas">Kiskunhalas</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunmajsa">Kiskunmajsa</a></td><td class="blue darken-2 white-text">Faludi Tamás - Független </td><td>---</td><td>---</td></tr>
