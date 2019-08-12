@@ -71,7 +71,7 @@ permalink: /kozos-jeloltek
               </thead>
               <tbody>
 <tr><td><a href="../bekescsaba">Békéscsaba</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../debrecen">Debrecen</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../debrecen">Debrecen</a></td><td>Varga Zoltán - DK / Kőszeghy Csanád Ábel - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td class="grey lighten-2">Pintér Tamás - Jobbik </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../eger">Eger</a></td><td class="grey lighten-2">Mirkóczki Ádám - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../erd">Érd</a></td><td td class="blue darken-2 white-text">Csőzik László - Független</td><td>---</td><td>---</td></tr>
@@ -88,7 +88,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szeged">Szeged</a></td><td class="red lighten-2 white-text">Dr. Botka László - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td class="red lighten-2 white-text">Márton Roland - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../szolnok">Szolnok</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szolnok">Szolnok</a></td><td>Radócz Zoltán / Lukácsi Katalin</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szombathely">Szombathely</a></td><td class="red lighten-2 white-text">Nemény András - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tatabanya">Tatabánya</a></td><td class="blue darken-2 white-text">Szűcsné Posztovics Ilona - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../veszprem">Veszprém</a></td><td class="light-blue accent-3 white-text">Katanics Sándor - DK</td><td>---</td><td>---</td></tr>
@@ -110,7 +110,7 @@ permalink: /kozos-jeloltek
               </thead>
               <tbody>
 <tr><td><a href="../abony">Abony</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../ajka">Ajka</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../ajka">Ajka</a></td><td>Schwartz Béla - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../albertirsa">Albertirsa</a></td><td class="blue darken-2 white-text">Fazekas László - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../baja">Baja</a></td><td class="purple lighten-3 white-text">Nyitrai Klára - Momentum</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../balassagyarmat">Balassagyarmat</a></td><td>---</td><td>---</td><td>---</td></tr>
@@ -145,7 +145,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../gyomaendrod">Gyomaendrőd</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyomro">Gyömrő</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyongyos">Gyöngyös</a></td><td class="blue darken-2 white-text">Hiesz György - Független </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyula">Gyula</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyula">Gyula</a></td><td>Dévényi-Dabrowsky Géza - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduboszormeny">Hajdúböszörmény</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduhadhaz">Hajdúhadház</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajdunanas">Hajdúnánás</a></td><td>---</td><td>---</td><td>---</td></tr>
@@ -161,7 +161,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kazincbarcika">Kazincbarcika</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kerepes">Kerepes</a></td><td class="blue darken-2 white-text">Springer Friedrich - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../keszthely">Keszthely</a></td><td class="blue darken-2 white-text">Czuth Zoltán László</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kiskunfelegyhaza">Kiskunfélegyháza</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kiskunfelegyhaza">Kiskunfélegyháza</a></td><td>Kolossai János - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunhalas">Kiskunhalas</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunmajsa">Kiskunmajsa</a></td><td class="blue darken-2 white-text">Faludi Tamás - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskoros">Kiskőrös</a></td><td>---</td><td>---</td><td>---</td></tr>
@@ -226,7 +226,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../tokol">Tököl</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tolna">Tolna</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../torokbalint">Törökbálint</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../torokszentmiklos">Törökszentmiklós</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../torokszentmiklos">Törökszentmiklós</a></td><td class="grey lighten-2">Markót Imre - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ujfeherto">Újfehértó</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ullo">Üllő</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../vac">Vác</a></td><td class="blue darken-2 white-text">Matkovics Ilona - Független </td><td>---</td><td>---</td></tr>
