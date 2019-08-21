@@ -16,6 +16,13 @@
     <link rel="preload" href="/js/jquery-ui.js" as="script">
     <link rel="preload" href="/js/fingerprint.min.js" as="script">
 
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {packages: ['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
+  ...
+</script>
+	
     <!--
     <link rel="preload" href="/fonts/roboto/Roboto-Regular.woff2" as="font" type="font/woff2">
     <link rel="preload" href="/fonts/roboto/Roboto-Medium.woff2" as="font" type="font/woff2">
