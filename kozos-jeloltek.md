@@ -17,7 +17,7 @@ permalink: /kozos-jeloltek
 
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 23 / 23</h5>
-<h5 class="center">Megyei jogú városok: 19 / 23</h5>
+<h5 class="center">Megyei jogú városok: 20 / 23</h5>
 <h5 class="center">10000 fő feletti városok: 52 / 123</h5>
 
 <br/>
@@ -73,7 +73,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../bekescsaba">Békéscsaba</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../debrecen">Debrecen</a></td><td>Varga Zoltán - DK / Kőszeghy Csanád Ábel - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td class="grey lighten-2">Pintér Tamás - Jobbik </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../eger">Eger</a></td><td class="grey lighten-2">Mirkóczki Ádám - Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../eger">Eger</a></td><td class="grey lighten-2">Mirkóczki Ádám - Egységben a Városért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../erd">Érd</a></td><td td class="blue darken-2 white-text">Csőzik László - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td class="light-blue accent-3 white-text">Glázer Tímea - DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td class="blue darken-2 white-text">Dr. Márki-Zay-Péter - Független </td><td>---</td><td>---</td></tr>
@@ -87,7 +87,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../sopron">Sopron</a></td><td class="blue darken-2 white-text">Varga Norbert - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szeged">Szeged</a></td><td class="red lighten-2 white-text">Dr. Botka László - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td class="red lighten-2 white-text">Márton Roland - MSZP</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../szekszard">Szekszárd</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szekszard">Szekszárd</a></td><td class="blue darken-2 white-text">Bomba Gábor - Éljen Szekszárd Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td class="blue darken-2 white-text">Radócz Zoltán - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szombathely">Szombathely</a></td><td class="red lighten-2 white-text">Nemény András - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tatabanya">Tatabánya</a></td><td class="blue darken-2 white-text">Szűcsné Posztovics Ilona - Független</td><td>---</td><td>---</td></tr>
@@ -120,12 +120,12 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../batonyterenye">Bátonyterenye</a></td><td class="grey lighten-2">Cseresznyés István - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bekes">Békés</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../berettyoujfalu">Berettyóújfalu</a></td><td class="blue darken-2 white-text">dr. Zákány Zsolt - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../biatorbagy">Biatorbágy</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../biatorbagy">Biatorbágy</a></td><td>- Budakörnyék Fejlődéséért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bicske">Bicske</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bonyhad">Bonyhád</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budakalasz">Budakalász</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budakeszi">Budakeszi</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../budaors">Budaörs</a></td><td class="blue darken-2 white-text">Wittinghoff Tamás - Független </td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budakeszi">Budakeszi</a></td><td>- - Budakörnyék Fejlődéséért Egyesület</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../budaors">Budaörs</a></td><td class="blue darken-2 white-text">Wittinghoff Tamás - Budakörnyék Fejlődéséért Egyesület </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../cegled">Cegléd</a></td><td class="blue darken-2 white-text">Csáky András - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../celldomolk">Celldömölk</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../csongrad">Csongrád</a></td><td>---</td><td>---</td><td>---</td></tr>
@@ -208,7 +208,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../satoraljaujhely">Sátoraljaújhely</a></td><td>---</td><td>---</td><td>---</td></tr>
 
 <tr><td><a href="../siofok">Siófok</a></td><td class="blue darken-2 white-text">Lengyel Róbert - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../solymar">Solymár</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../solymar">Solymár</a></td><td>- Budakörnyék Fejlődéséért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szarvas">Szarvas</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szazhalombatta">Százhalombatta</a></td><td class="blue darken-2 white-text">Dr. Vezér Mihály - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szentendre">Szentendre</a></td><td class="blue darken-2 white-text">Fülöp Zsolt - Független </td><td>---</td><td>---</td></tr>
