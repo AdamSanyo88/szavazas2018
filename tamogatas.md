@@ -14,11 +14,11 @@ permalink: /tamogatas
 
 <p>Kedves választópolgár!</p>
 <p>Ezt az oldalt egyedül csinálom, és szeretném, ha az adományok útján mégis eljutna a közös jelöltek listája minél több választóhoz. Szerencsére a Facebookon keresztül közvetlenül lehet reklámozni, ám ennek díja van. Ha szeretnél hozzájárulni a reklámozás költségéhez, akkor az alábbi csatornákon tudsz pénzadományt küldeni:</p>
-<br/>
 
 <p><strong>Fontos: A hatályos adóügyi jogszabályok alapján maximum 150 ezer forintos tételben tudok elfogadni felajánlást (utalásonként), de bármilyen kisebb összegű támogatást is szívesen veszek.</strong></p>
 
 <h6><strong>Paypal adományozó gomb</strong></h6>
+<br/>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="75WFGVY5GEAS8" />
@@ -42,8 +42,8 @@ permalink: /tamogatas
 <h6>Közlemény: támogatás</h6>
 <br/>
 <h5>2019-ben befolyt támogatás: 0 Ft</h5>
-
-
+<br/>
+<br/>
 <h5>2018-ban befolyt támogatás: 1 208 908 Ft</h5>
 <p></p>
 <h6><strong>A részletes kampányköltségek:</strong></h6>
