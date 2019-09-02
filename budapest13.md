@@ -50,7 +50,7 @@ drawChart = function ()
             color: '#4d4d4d'
           }
         },
-        vAxis: {format: 'percent'
+        vAxis: {format: 'percent',
 				minValue: 0,
 				maxValue: 1,
 				gridlines: { count: 10 }}
