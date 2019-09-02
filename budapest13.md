@@ -44,17 +44,7 @@ drawChart = function ()
           }
         },
         vAxis: {
-          title: 'City',
-          textStyle: {
-            fontSize: 14,
-            bold: true,
-            color: '#848484'
-          },
-          titleTextStyle: {
-            fontSize: 14,
-            bold: true,
-            color: '#848484'
-          }
+          title: '%'
         }
       };
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
