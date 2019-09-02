@@ -28,18 +28,25 @@ drawChart = function ()
 
       var options = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
-        chartArea: {width: '100%'},
+        chartArea: {width: '80%'},
+		annotations: {
+          textStyle: {
+            fontSize: 14,
+            color: '#000',
+            auraColor: 'none'
+          }
+		    },
         hAxis: {
           title: '',
           minValue: 0,
           textStyle: {
             bold: true,
-            fontSize: 12,
+            fontSize: 24,
             color: '#4d4d4d'
           },
           titleTextStyle: {
             bold: true,
-            fontSize: 18,
+            fontSize: 26,
             color: '#4d4d4d'
           }
         },
