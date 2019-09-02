@@ -170,7 +170,6 @@ drawChart = function ()
         hAxis: {
           title: '',
           minValue: 0,
-		  direction: 1,
           textStyle: {
             bold: false,
             fontSize: 12,
@@ -203,7 +202,7 @@ drawChart = function ()
         ['Együtt', 0.019, "black", "1.9%"],
         ['MKKP', 0.030, "light grey", "3.0%"]
       ]);
-
+	data_2.sort (function (a, b) {return a[1] > b[1]; } );
       var options_2 = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
         chartArea: {width: '80%'},
@@ -217,7 +216,6 @@ drawChart = function ()
         hAxis: {
           title: '',
           minValue: 0,
-		  direction: 1,
           textStyle: {
             bold: false,
             fontSize: 12,
