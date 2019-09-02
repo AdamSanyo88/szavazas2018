@@ -50,7 +50,10 @@ drawChart = function ()
             color: '#4d4d4d'
           }
         },
-        vAxis: {format: 'percent', gridLines: 7},
+        vAxis: {format: 'percent'
+				minValue: 0,
+				maxValue: 1,
+				gridlines: { count: 10 }}
 		legend: { position: "none" }
       };
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
