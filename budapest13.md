@@ -53,8 +53,9 @@ drawChart = function ()
         vAxis: {format: 'percent',
 				minValue: 0,
 				maxValue: 1,
-				gridlines: { count: 10 }},
-		legend: { position: "none" }
+				gridlines: { count: 5 }},
+		legend: { position: "none" },
+		tooltip: { trigger: "none" }
       };
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
       chart.draw(data, options); }
