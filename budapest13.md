@@ -61,7 +61,7 @@ drawChart = function ()
       chart.draw(data, options); }
 </script>
 
-<div style="position:relative;width:100%;height:0;padding-top: 68.9%;"><iframe src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/DQym" frameborder="0" style="position: absolute;width: 100%;/* object-fit: contain; */height: 100%;top: 0;left: 0;right: 0;bottom: 0;" allowfullscreen=""></iframe></div>
+
 
 			<table class="striped">
               <thead>
