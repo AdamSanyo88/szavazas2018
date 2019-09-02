@@ -40,13 +40,13 @@ drawChart = function ()
           title: '',
           minValue: 0,
           textStyle: {
-            bold: true,
-            fontSize: 18,
+            bold: false,
+            fontSize: 12,
             color: '#4d4d4d'
           },
           titleTextStyle: {
-            bold: true,
-            fontSize: 18,
+            bold: false,
+            fontSize: 12,
             color: '#4d4d4d'
           }
         },
