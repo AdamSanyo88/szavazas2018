@@ -38,15 +38,17 @@ drawChart = function ()
 		    },
         hAxis: {
           title: '',
+		  height: 500,
           minValue: 0,
           textStyle: {
             bold: false,
-            fontSize: 12,
+			slantedTextAngle: 90,
+            fontSize: 16,
             color: '#4d4d4d'
           },
           titleTextStyle: {
             bold: false,
-            fontSize: 12,
+            fontSize: 16,
             color: '#4d4d4d'
           }
         },
