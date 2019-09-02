@@ -204,10 +204,10 @@ drawChart = function ()
       ]; 
 	data_2.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
-			return 1;
+			return -1;
 		}
 		if ( typeof b[1] === "string" ) {
-			return -1;
+			return 1;
 		}
 		if ( a[1] < b[1] ) {
 			return 1;
