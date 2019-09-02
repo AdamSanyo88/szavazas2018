@@ -19,7 +19,7 @@ permalink: /budapest13
 drawChart = function ()
 	{  
 	var data = google.visualization.arrayToDataTable([
-        ['Pártok', 'Szavazatarány (%)', {role: "style" }, , { role: 'annotation' }],
+        ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
         ['MSZP', 0.6986, "red", "69.86%"],
         ['Fidesz', 0.2259, "orange", "22.59%"],
         ['Jobbik', 0.0435, "grey", "4.35%"],
@@ -50,7 +50,7 @@ drawChart = function ()
             color: '#4d4d4d'
           }
         },
-        vAxis: {format: 'percent'},
+        vAxis: {format: 'percent', gridLines: 7},
 		legend: { position: "none" }
       };
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
