@@ -16,7 +16,19 @@
     <link rel="preload" href="/js/jquery-ui.js" as="script">
     <link rel="preload" href="/js/fingerprint.min.js" as="script">
 
-
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+	var drawChart = null
+	var loadChart = function() {
+		if ( drawChart == null ) {
+			setTimeout(function(){if(drawChart!=null)drawChart()},3000);
+		} else {
+			drawChart();
+		}
+	};
+	google.charts.load('current', {packages: ['corechart']});
+	google.charts.setOnLoadCallback(loadChart);
+</script>
 	
     <!--
     <link rel="preload" href="/fonts/roboto/Roboto-Regular.woff2" as="font" type="font/woff2">
