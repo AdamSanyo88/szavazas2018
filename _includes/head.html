@@ -25,19 +25,21 @@
 		} else {
 			drawChart();
 		}
+		window.addEventListener('resize', resize);
 	};
+	var resizeTO = 0;
 	//create trigger to resizeEnd event     
-	$(window).resize(function() {
-		if(this.resizeTO) clearTimeout(this.resizeTO);
-		this.resizeTO = setTimeout(function() {
-			$(this).trigger('resizeEnd');
+	var resize = function() {
+		if(resizeTO) clearTimeout(resizeTO);
+		resizeTO = setTimeout(function() {
+			resizeEnd();
 		}, 500);
-	});
+	};
 
 	//redraw graph when window resize is completed  
-	$(window).on('resizeEnd', function() {
+	var resizeEnd = function() {
 		if(drawChart!=null)drawChart();
-	});
+	};
 	google.charts.load('current', {packages: ['corechart']});
 	google.charts.setOnLoadCallback(loadChart);
 </script>
