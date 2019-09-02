@@ -31,7 +31,7 @@ drawChart = function ()
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
-            fontSize: 14,
+            fontSize: 18,
             color: '#000',
             auraColor: 'none'
           }
@@ -41,12 +41,12 @@ drawChart = function ()
           minValue: 0,
           textStyle: {
             bold: true,
-            fontSize: 24,
+            fontSize: 18,
             color: '#4d4d4d'
           },
           titleTextStyle: {
             bold: true,
-            fontSize: 26,
+            fontSize: 18,
             color: '#4d4d4d'
           }
         },
@@ -62,7 +62,7 @@ drawChart = function ()
 </script>
 
 
-
+<br/>
 			<table class="striped">
               <thead>
                 <tr>
