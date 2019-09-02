@@ -149,14 +149,29 @@ permalink: /budapest13
 <script>
 drawChart = function ()
 	{  
-		var data = google.visualization.arrayToDataTable([
+		var data = [
         ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
         ['MSZP', 0.6986, "red", "69.86%"],
         ['Fidesz', 0.2259, "orange", "22.59%"],
         ['Jobbik', 0.0435, "grey", "4.35%"],
         ['Egyéb', 0.032, "pink", "3.2%"]
-      ]);
-
+      ];
+data.sort( function (a, b) {
+		if ( typeof a[1] === "string" ) {
+			return -1;
+		}
+		if ( typeof b[1] === "string" ) {
+			return 1;
+		}
+		if ( a[1] < b[1] ) {
+			return 1;
+		}
+		if ( a[1] > b[1] ) {
+			return -1;
+		}
+		return 0;
+	});
+	data = google.visualization.arrayToDataTable(data);
       var options = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
         chartArea: {width: '80%'},
