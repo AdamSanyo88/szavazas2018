@@ -14,7 +14,7 @@ permalink: /budapest13
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T013/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
 <br/>
 
-<div id="chart_div"></div>
+<div id="chart_div" style="width: 100%"></div>
 <script>
 drawChart = function ()
 	{  
