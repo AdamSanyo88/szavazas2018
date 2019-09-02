@@ -170,7 +170,7 @@ drawChart = function ()
         hAxis: {
           title: '',
           minValue: 0,
-		  direction: -1,
+		  direction: 1,
           textStyle: {
             bold: false,
             fontSize: 12,
@@ -217,7 +217,7 @@ drawChart = function ()
         hAxis: {
           title: '',
           minValue: 0,
-		  direction: -1,
+		  direction: 1,
           textStyle: {
             bold: false,
             fontSize: 12,
