@@ -18,7 +18,7 @@ permalink: /kozos-jeloltek
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 23 / 23</h5>
 <h5 class="center">Megyei jogú városok: 20 / 23</h5>
-<h5 class="center">10000 fő feletti városok: 52 / 123</h5>
+<h5 class="center">10000 fő feletti városok: 53 / 123</h5>
 
 <br/>
 <h5>Budapest kerületei</h5>
@@ -81,7 +81,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td class="grey lighten-2">Lejer Zoltán - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Veres Pál - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td class="blue darken-2 white-text">Hári Tibor</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td class="red lighten-2 white-text">Jeszekszki András - MSZP</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td class="red lighten-2 white-text">Jeszenszki András - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecs">Pécs</a></td><td class="blue darken-2 white-text">Péterffy Attila - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td class="red lighten-2 white-text">Fekete Zsolt - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td class="blue darken-2 white-text">Varga Norbert - Független</td><td>---</td><td>---</td></tr>
@@ -152,7 +152,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../hajdusamson">Hajdúsámson</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduszoboszlo">Hajdúszoboszló</a></td><td class="blue darken-2 white-text">Holoda Attila - Független</td><td>---</td><td>---</td></tr>
 <tr><td>Halásztelek</td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../hatvan">Hatvan</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../hatvan">Hatvan</a></td><td>Palik Józsefné - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../heves">Heves</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../isaszeg">Isaszeg</a></td><td class="blue darken-2 white-text">Hatvani Miklós - Független </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../jaszbereny">Jászberény</a></td><td class="grey lighten-2">Budai Lóránt - Jobbik</td><td>---</td><td>---</td></tr>
