@@ -191,7 +191,7 @@ drawChart = function ()
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
       chart.draw(data, options);
 	  
-	var data_2 = google.visualization.arrayToDataTable([
+	var data_2 = [
         ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
         ['Fidesz', 0.311, "orange", "31.1%"],
         ['Jobbik', 0.111, "grey", "11.1%"],
@@ -201,7 +201,7 @@ drawChart = function ()
         ['Momentum', 0.069, "purple", "6.9%"],
         ['Együtt', 0.019, "black", "1.9%"],
         ['MKKP', 0.030, "light grey", "3.0%"]
-      ]);
+      ]; 
 	data_2.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return 1;
@@ -217,6 +217,7 @@ drawChart = function ()
 		}
 		return 0;
 	});
+	data_2 = google.visualization.arrayToDataTable(data_2);
       var options_2 = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
         chartArea: {width: '80%'},
