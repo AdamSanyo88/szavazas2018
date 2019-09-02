@@ -135,7 +135,61 @@ drawChart = function ()
             </table>
 
 <p><span id="megjegyzes">* MSZP-LPE közös jelölt</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/budapest13.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+
+
+
+<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><br/>
+
+<div id="chart_div" style="width: 100%"></div>
+<script>
+drawChart = function ()
+	{  
+	var data = google.visualization.arrayToDataTable([
+        ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
+        ['Fidesz', 0.311, "orange", "31.1%"],
+        ['Jobbik', 0.111, "grey", "11.1%"],
+        ['MSZP-P', 0.238, "red", "23.8%"],
+        ['DK', 0.094, "dark blue", "9.4%"],
+		['LMP', 0.118, "green", "11.8%"],
+        ['Momentum', 0.069, "purple", "6.9%"],
+        ['Együtt', 0.019, "black", "1.9%"],
+        ['MKKP', 0.030, "light grey", "3.0%"]
+      ]);
+
+      var options = {
+        title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
+        chartArea: {width: '80%'},
+		annotations: {
+          textStyle: {
+            fontSize: 18,
+            color: '#000',
+            auraColor: 'none'
+          }
+		    },
+        hAxis: {
+          title: '',
+          minValue: 0,
+          textStyle: {
+            bold: false,
+            fontSize: 12,
+            color: '#4d4d4d'
+          },
+          titleTextStyle: {
+            bold: false,
+            fontSize: 12,
+            color: '#4d4d4d'
+          }
+        },
+        vAxis: {format: 'percent',
+				minValue: 0,
+				maxValue: 1,
+				gridlines: { count: 5 }},
+		legend: { position: "none" },
+		tooltip: { trigger: "none" }
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+      chart.draw(data, options); }
+</script>
 
 			<table class="striped">
               <thead>
