@@ -169,8 +169,8 @@ $(document).ready(function() {
 			}
 	    	}
 		for ( var i = 0; i < lines.length; i++ ) {
-			if ( data[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
-				console.log(data[i]);
+			if ( lines[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
+				console.log(lines[i]);
 			}
 		}
 						  
