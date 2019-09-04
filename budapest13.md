@@ -171,7 +171,11 @@ $(document).ready(function() {
 		for ( var i = 0; i < lines.length; i++ ) {
 			if ( lines[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
 				for ( var j=0; j<4; j++ )
-				cdata.push([lines[i][20+(j*3)],lines[i][22+(j*3)],lines[i][21+(j*3)],(lines[i][22+(j*3)]*100)+"%"])
+					cdata.push([lines[i][20+(j*3)],lines[i][22+(j*3)],lines[i][21+(j*3)],(lines[i][22+(j*3)]*100)+"%"])
+				var ogycolors=["orange","green","red"   ,"dark blue","grey",  "purple","black","light grey","pink"];
+				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"]
+				for ( var j=0; j<8; j++ )
+					cdata2.push([ogyparts[j],lines[i][2+(j*3)],ogycolors[j],(lines[i][2+(j*3)]*100)+"%"])
 			}
 			break;
 		}
@@ -233,18 +237,7 @@ cdata.sort( function (a, b) {
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
       chart.draw(cdata, options);
 	  
-	var data_2 = [
-        ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
-        ['Fidesz', 0.311, "orange", "31.1%"],
-        ['Jobbik', 0.111, "grey", "11.1%"],
-        ['MSZP-P', 0.238, "red", "23.8%"],
-        ['DK', 0.094, "dark blue", "9.4%"],
-		['LMP', 0.118, "green", "11.8%"],
-        ['Momentum', 0.069, "purple", "6.9%"],
-        ['Együtt', 0.019, "black", "1.9%"],
-        ['MKKP', 0.030, "light grey", "3.0%"]
-      ]; 
-	data_2.sort( function (a, b) {
+	cdata2.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return -1;
 		}
@@ -259,7 +252,7 @@ cdata.sort( function (a, b) {
 		}
 		return 0;
 	});
-	data_2 = google.visualization.arrayToDataTable(data_2);
+	cdata2 = google.visualization.arrayToDataTable(cdata2);
       var options_2 = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
         chartArea: {width: '80%'},
@@ -292,5 +285,5 @@ cdata.sort( function (a, b) {
 		tooltip: { trigger: "none" }
       };
       var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
-      chart_2.draw(data_2, options_2); }
+      chart_2.draw(cdata2, options_2); }
 </script>
