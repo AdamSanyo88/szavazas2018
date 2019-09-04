@@ -182,13 +182,7 @@ $(document).ready(function() {
 
 drawChart = function ()
 	{  
-		var data = [
-        ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
-        ['MSZP', 0.6986, "red", "69.86%"],
-        ['Fidesz', 0.2259, "orange", "22.59%"],
-        ['Jobbik', 0.0435, "grey", "4.35%"],
-        ['Egyéb', 0.032, "pink", "3.2%"]
-      ];
+
 cdata.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return -1;
@@ -204,7 +198,7 @@ cdata.sort( function (a, b) {
 		}
 		return 0;
 	});
-	cdata = google.visualization.arrayToDataTable(data);
+	cdata = google.visualization.arrayToDataTable(cdata);
       var options = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
         chartArea: {width: '80%'},
