@@ -168,8 +168,13 @@ $(document).ready(function() {
 		    		lines.push(tarr);
 			}
 	    	}
-		console.log(window.location.href.substring(window.location.href.lastIndexOf('/') + 1));
-	}
+		for ( var i = 0; i < lines.length; i++ ) {
+			if ( data[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
+				console.log(data[i]);
+			}
+		}
+						  
+	   }
      });
 });
 
