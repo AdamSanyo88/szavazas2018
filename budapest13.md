@@ -178,8 +178,8 @@ $(document).ready(function() {
 				for ( var j=0; j<8; j++ )
 					cdata2.push([ogyparts[j],lines[i][2+(j*3)],ogycolors[j],(lines[i][2+(j*3)]*100)+"%"])
 				console.log(cdata2)
+				break;
 			}
-			break;
 		}
 						  
 	   }
