@@ -147,8 +147,8 @@ permalink: /budapest13
 </div>
 
 <script>
-var data = [];
-var data2 = [];
+var cdata = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
+var cdata2 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
 $(document).ready(function() {
     $.ajax({
         type: "GET",
@@ -170,8 +170,10 @@ $(document).ready(function() {
 	    	}
 		for ( var i = 0; i < lines.length; i++ ) {
 			if ( lines[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
-				console.log(lines[i]);
+				for ( var j=0; j<4; j++ )
+				cdata.push([lines[i][20+(j*3)],lines[i][22+(j*3)],lines[i][21+(j*3)],(lines[i][22+(j*3)]*100)+"%"])
 			}
+			break;
 		}
 						  
 	   }
@@ -187,7 +189,7 @@ drawChart = function ()
         ['Jobbik', 0.0435, "grey", "4.35%"],
         ['Egyéb', 0.032, "pink", "3.2%"]
       ];
-data.sort( function (a, b) {
+cdata.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return -1;
 		}
@@ -202,7 +204,7 @@ data.sort( function (a, b) {
 		}
 		return 0;
 	});
-	data = google.visualization.arrayToDataTable(data);
+	cdata = google.visualization.arrayToDataTable(data);
       var options = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
         chartArea: {width: '80%'},
@@ -235,7 +237,7 @@ data.sort( function (a, b) {
 		tooltip: { trigger: "none" }
       };
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
-      chart.draw(data, options);
+      chart.draw(cdata, options);
 	  
 	var data_2 = [
         ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
