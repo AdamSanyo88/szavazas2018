@@ -171,13 +171,13 @@ $(document).ready(function() {
 		for ( var i = 0; i < lines.length; i++ ) {
 			if ( lines[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
 				for ( var j=0; j<3; j++ )
-					cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*10000)/10000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]).toFixed(2)+"%"]);
+					cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*10000)/10000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(2)+"%"]);
 				cdata.push(["Egyéb",(Math.round(parseFloat(lines[i][29])*10000)/10000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(2)+"%"])
 				console.log(cdata)
 				var ogycolors=["orange","green","red"   ,"dark blue","grey",  "purple","black","light grey","pink"];
 				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"]
 				for ( var j=0; j<8; j++ )
-					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j*3)])*10000)/10000,ogycolors[j],parseFloat(lines[i][2+(j*3)]).toFixed(2)+"%"]);
+					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j*3)])*10000)/10000,ogycolors[j],parseFloat(lines[i][2+(j*3)*100]).toFixed(2)+"%"]);
 				console.log(cdata2)
 				break;
 			}
