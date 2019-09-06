@@ -177,7 +177,7 @@ $(document).ready(function() {
 				var ogycolors=["orange","green","red"   ,"dark blue","grey",  "purple","black","light grey","pink"];
 				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"]
 				for ( var j=0; j<8; j++ )
-					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*10000)/10000,ogycolors[j],parseFloat(lines[i][2+(3)]*100).toFixed(2)+"%"]);
+					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*10000)/10000,ogycolors[j],parseFloat(lines[i][2+(j)]*100).toFixed(2)+"%"]);
 				console.log(cdata2)
 				break;
 			}
