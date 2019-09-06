@@ -177,7 +177,7 @@ $(document).ready(function() {
 				var ogycolors=["orange","green","red"   ,"dark blue","grey",  "purple","black","light grey","pink"];
 				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"]
 				for ( var j=0; j<8; j++ )
-					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j*3)])*10000)/10000,ogycolors[j],parseFloat(lines[i][2+(j*3)]*100).toFixed(2)+"%"]);
+					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*10000)/10000,ogycolors[j],parseFloat(lines[i][2+(3)]*100).toFixed(2)+"%"]);
 				console.log(cdata2)
 				break;
 			}
@@ -207,7 +207,7 @@ cdata.sort( function (a, b) {
 	});
 	cdata = google.visualization.arrayToDataTable(cdata);
       var options = {
-        title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
+        title: '2014-es önkormányzati eredmények',
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
@@ -257,7 +257,7 @@ cdata.sort( function (a, b) {
 	});
 	cdata2 = google.visualization.arrayToDataTable(cdata2);
       var options_2 = {
-        title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
+        title: '2018-as országgyűlési eredmények',
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
