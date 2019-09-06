@@ -180,7 +180,7 @@ $(document).ready(function() {
 				var ogycolors=["orange","light green","red"   ,"dark blue","grey",  "purple","black","light grey","pink"];
 				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"];
 				var epcolors=["grey", "orange", "purple", "dark green", "red", "light green", "dark blue", "dark red", "light grey"];
-				var epparts =["Jobbik", "Fidesz", "Momentum", "Mi Hazánk", "MSZP-P", "LMP", "DK", Munkáspárt", "MKKP"]
+				var epparts =["Jobbik", "Fidesz", "Momentum", "Mi Hazánk", "MSZP-P", "LMP", "DK", "Munkáspárt", "MKKP"]
 				for ( var j=0; j<9; j++ )
 					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*1000)/1000,ogycolors[j],parseFloat(lines[i][2+(j)]*100).toFixed(2)+"%"]);
 				console.log(cdata2)
