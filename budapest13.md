@@ -13,7 +13,7 @@ permalink: /budapest13
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T013/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
 
-<div id="chart_div_onkor_2014" style="width: 100%"></div>
+<div id="chart_div_onkor_2014" style="width: 100%"; height: 500></div>
 
 
 
@@ -92,14 +92,14 @@ permalink: /budapest13
 <p><span id="megjegyzes">* MSZP-LPE közös jelölt</span><br/></p>
 
 
-<br/><h5><strong>2019-es EP-választás eredményei</strong></h5><br/><br/>
+<br/><h5><strong>2019-es EP-választás eredményei a településen</strong></h5><br/><br/>
 
-<div id="chart_div_ep_2019" style="width: 100%"></div>
+<div id="chart_div_ep_2019" style="width: 100%"; height: 500></div>
 
- <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><br/>
+ <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/><br/>
 
 
-<div id="chart_div_ogy_2018" style="width: 100%"></div>
+<div id="chart_div_ogy_2018" style="width: 100%"; height: 500></div>
 
 
 			<table class="striped">
@@ -149,9 +149,9 @@ permalink: /budapest13
 </div>
 
 <script>
-window.cdata = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
-window.cdata2 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
-window.cdata3 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
+var cdata = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
+var cdata2 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
+var cdata3 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
 $(document).ready(function() {
     $.ajax({
         type: "GET",
@@ -174,19 +174,16 @@ $(document).ready(function() {
 		for ( var i = 0; i < lines.length; i++ ) {
 			if ( lines[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
 				for ( var j=0; j<3; j++ )
-					window.cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*1000)/1000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(1)+"%"]);
-				window.cdata.push(["Egyéb",(Math.round(parseFloat(lines[i][29])*1000)/1000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(2)+"%"])
-				console.log(window.cdata)
+					cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*1000)/1000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(1)+"%"]);
+				cdata.push(["Egyéb",(Math.round(parseFloat(lines[i][29])*1000)/1000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(1)+"%"])
 				var ogycolors=["orange","lightGreen","red"   ,"darkBlue","grey",  "purple","black","lightGrey","pink"];
 				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"];
 				var epcolors=["grey", "orange", "purple", "darkGreen", "red", "lightGreen", "darkBlue", "darkRed", "lightGrey"];
 				var epparts =["Jobbik", "Fidesz", "Momentum", "Mi Hazánk", "MSZP-P", "LMP", "DK", "Munkáspárt", "MKKP"]
 				for ( var j=0; j<9; j++ )
-					window.cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*1000)/1000,ogycolors[j],parseFloat(lines[i][2+(j)]*100).toFixed(1)+"%"]);
-				console.log(window.cdata2)
+					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*1000)/1000,ogycolors[j],parseFloat(lines[i][2+(j)]*100).toFixed(1)+"%"]);
 				for ( var j=0; j<9; j++ )
-					window.cdata3.push([epparts[j],Math.round(parseFloat(lines[i][11+(j)])*1000)/1000,epcolors[j],parseFloat(lines[i][11+(j)]*100).toFixed(1)+"%"]);
-				console.log(window.cdata3)
+					cdata3.push([epparts[j],Math.round(parseFloat(lines[i][11+(j)])*1000)/1000,epcolors[j],parseFloat(lines[i][11+(j)]*100).toFixed(1)+"%"]);
 				break;
 			}
 		}
@@ -198,7 +195,7 @@ $(document).ready(function() {
 drawChart = function ()
 	{  
 
-window.cdata.sort( function (a, b) {
+cdata.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return -1;
 		}
@@ -213,9 +210,9 @@ window.cdata.sort( function (a, b) {
 		}
 		return 0;
 	});
-	window.cdata = google.visualization.arrayToDataTable(window.cdata);
+	cdata = google.visualization.arrayToDataTable(cdata);
       var options = {
-        title: '2014-es polgármester-választás eredményei',
+        title: '',
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
@@ -245,9 +242,9 @@ window.cdata.sort( function (a, b) {
 		tooltip: { trigger: "none" }
       };
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
-      chart.draw(window.cdata, options);
+      chart.draw(cdata, options);
 	  
-	window.cdata2.sort( function (a, b) {
+	cdata2.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return -1;
 		}
@@ -262,9 +259,9 @@ window.cdata.sort( function (a, b) {
 		}
 		return 0;
 	});
-	window.cdata2 = google.visualization.arrayToDataTable(window.cdata2);
+	cdata2 = google.visualization.arrayToDataTable(cdata2);
       var options_2 = {
-        title: '2018-as országgyűlési választás eredményei',
+        title: '',
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
@@ -294,11 +291,11 @@ window.cdata.sort( function (a, b) {
 		tooltip: { trigger: "none" }
       };
       var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
-      chart_2.draw(window.cdata2, options_2);
+      chart_2.draw(cdata2, options_2);
 	  
 	  
 	  
-	  window.cdata3.sort( function (a, b) {
+	  cdata3.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return -1;
 		}
@@ -313,10 +310,10 @@ window.cdata.sort( function (a, b) {
 		}
 		return 0;
 	});
-	window.cdata3 = google.visualization.arrayToDataTable(window.cdata3);
+	cdata3 = google.visualization.arrayToDataTable(cdata3);
       var options_3 = {
-        title: '2019-es EP-választás eredményei',
-        chartArea: {width: '80%', height: '500px'},
+        title: '',
+        chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
             fontSize: "1em",
@@ -345,5 +342,5 @@ window.cdata.sort( function (a, b) {
 		tooltip: { trigger: "none" }
       };
       var chart_3 = new google.visualization.ColumnChart(document.getElementById('chart_div_ep_2019'));
-      chart_3.draw(window.cdata3, options_3); }
+      chart_3.draw(cdata3, options_3); }
 </script>

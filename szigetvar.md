@@ -88,9 +88,9 @@ permalink: /szigetvar
             </table>
 
 <p><span id="megjegyzes">* SZEE    ** A Fidesz jelöltje 3. lett</span><br/></p>
-<br/><h5><strong>2019-es EP-választás eredményei</strong></h5><br/><br/> 
+<br/><h5><strong>2019-es EP-választás eredményei a településen</strong></h5><br/><br/> 
  <div id="chart_div_ep_2019" style="width: 100%"></div> 
- <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/>
+ <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/>
  <div id="chart_div_ogy_2018" style="width: 100%"></div><br/>
 
 			<table class="striped">
