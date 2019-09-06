@@ -296,7 +296,7 @@ cdata.sort( function (a, b) {
 		tooltip: { trigger: "none" }
       };
       var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
-      chart_2.draw(cdata2, options_2); }
+      chart_2.draw(cdata2, options_2);
 	  
 	  
 	  
