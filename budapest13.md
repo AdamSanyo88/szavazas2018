@@ -147,16 +147,50 @@ permalink: /budapest13
 </div>
 
 <script>
+var cdata = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
+var cdata2 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
+$(document).ready(function() {
+    $.ajax({
+        type: "GET",
+        url: "2014_2018_2019_charts.csv",
+        dataType: "text",
+        success: function(data) {
+		var allTextLines = data.split(/\r\n|\n/);
+		var headers = allTextLines[0].split(',');
+   		var lines = [];
+		for (var i=1; i<allTextLines.length; i++) {
+			var data = allTextLines[i].split(',');
+			if (data.length == headers.length) {
+		    		var tarr = [];
+		    		for (var j=0; j<headers.length; j++) {
+					tarr.push(data[j]);
+		    		}
+		    		lines.push(tarr);
+			}
+	    	}
+		for ( var i = 0; i < lines.length; i++ ) {
+			if ( lines[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
+				for ( var j=0; j<3; j++ )
+					cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*10000)/10000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(2)+"%"]);
+				cdata.push(["Egyéb",(Math.round(parseFloat(lines[i][29])*10000)/10000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(2)+"%"])
+				console.log(cdata)
+				var ogycolors=["orange","green","red"   ,"dark blue","grey",  "purple","black","light grey","pink"];
+				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"]
+				for ( var j=0; j<8; j++ )
+					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j*3)])*10000)/10000,ogycolors[j],parseFloat(lines[i][2+(j*3)]*100).toFixed(2)+"%"]);
+				console.log(cdata2)
+				break;
+			}
+		}
+						  
+	   }
+     });
+});
+
 drawChart = function ()
 	{  
-		var data = [
-        ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
-        ['MSZP', 0.6986, "red", "69.86%"],
-        ['Fidesz', 0.2259, "orange", "22.59%"],
-        ['Jobbik', 0.0435, "grey", "4.35%"],
-        ['Egyéb', 0.032, "pink", "3.2%"]
-      ];
-data.sort( function (a, b) {
+
+cdata.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return -1;
 		}
@@ -171,7 +205,7 @@ data.sort( function (a, b) {
 		}
 		return 0;
 	});
-	data = google.visualization.arrayToDataTable(data);
+	cdata = google.visualization.arrayToDataTable(cdata);
       var options = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
         chartArea: {width: '80%'},
@@ -204,20 +238,9 @@ data.sort( function (a, b) {
 		tooltip: { trigger: "none" }
       };
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
-      chart.draw(data, options);
+      chart.draw(cdata, options);
 	  
-	var data_2 = [
-        ['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }],
-        ['Fidesz', 0.311, "orange", "31.1%"],
-        ['Jobbik', 0.111, "grey", "11.1%"],
-        ['MSZP-P', 0.238, "red", "23.8%"],
-        ['DK', 0.094, "dark blue", "9.4%"],
-		['LMP', 0.118, "green", "11.8%"],
-        ['Momentum', 0.069, "purple", "6.9%"],
-        ['Együtt', 0.019, "black", "1.9%"],
-        ['MKKP', 0.030, "light grey", "3.0%"]
-      ]; 
-	data_2.sort( function (a, b) {
+	cdata2.sort( function (a, b) {
 		if ( typeof a[1] === "string" ) {
 			return -1;
 		}
@@ -232,7 +255,7 @@ data.sort( function (a, b) {
 		}
 		return 0;
 	});
-	data_2 = google.visualization.arrayToDataTable(data_2);
+	cdata2 = google.visualization.arrayToDataTable(cdata2);
       var options_2 = {
         title: '2014-es önkormányzati eredmények - Budapest XIII. kerület',
         chartArea: {width: '80%'},
@@ -265,5 +288,5 @@ data.sort( function (a, b) {
 		tooltip: { trigger: "none" }
       };
       var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
-      chart_2.draw(data_2, options_2); }
+      chart_2.draw(cdata2, options_2); }
 </script>
