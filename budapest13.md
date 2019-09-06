@@ -316,7 +316,7 @@ cdata.sort( function (a, b) {
 	cdata3 = google.visualization.arrayToDataTable(cdata3);
       var options_3 = {
         title: '2019-es EP-választás eredményei',
-        chartArea: {width: '80%'},
+        chartArea: {width: '80%', height: '500px'},
 		annotations: {
           textStyle: {
             fontSize: 1em,
