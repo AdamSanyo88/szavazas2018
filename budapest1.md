@@ -165,18 +165,15 @@ $(document).ready(function() {
 			if ( lines[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
 				for ( var j=0; j<3; j++ )
 					cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*1000)/1000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(1)+"%"]);
-				cdata.push(["Egyéb",(Math.round(parseFloat(lines[i][29])*1000)/1000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(2)+"%"])
-				console.log(cdata)
+				cdata.push(["Többi jelölt összesen",(Math.round(parseFloat(lines[i][29])*1000)/1000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(1)+"%"])
 				var ogycolors=["orange","lightGreen","red"   ,"darkBlue","grey",  "purple","black","lightGrey","pink"];
 				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"];
-				var epcolors=["grey", "orange", "purple", "darkGreen", "red", "light green", "darkBlue", "darkRed", "lightGrey"];
+				var epcolors=["grey", "orange", "purple", "darkGreen", "red", "lightGreen", "darkBlue", "darkRed", "lightGrey"];
 				var epparts =["Jobbik", "Fidesz", "Momentum", "Mi Hazánk", "MSZP-P", "LMP", "DK", "Munkáspárt", "MKKP"]
 				for ( var j=0; j<9; j++ )
 					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*1000)/1000,ogycolors[j],parseFloat(lines[i][2+(j)]*100).toFixed(1)+"%"]);
-				console.log(cdata2)
 				for ( var j=0; j<9; j++ )
 					cdata3.push([epparts[j],Math.round(parseFloat(lines[i][11+(j)])*1000)/1000,epcolors[j],parseFloat(lines[i][11+(j)]*100).toFixed(1)+"%"]);
-				console.log(cdata3)
 				break;
 			}
 		}
@@ -205,11 +202,12 @@ cdata.sort( function (a, b) {
 	});
 	cdata = google.visualization.arrayToDataTable(cdata);
       var options = {
-        title: '2014-es polgármester-választás eredményei',
+        title: '',
         chartArea: {width: '80%'},
+		height: 500,
 		annotations: {
           textStyle: {
-            fontSize: 10,
+            fontSize: "1em",
             color: '#000',
             auraColor: 'none'
           }
@@ -230,7 +228,6 @@ cdata.sort( function (a, b) {
         },
         vAxis: {format: 'percent',
 				minValue: 0,
-				maxValue: 1,
 				gridlines: { count: 5 }},
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
@@ -255,11 +252,12 @@ cdata.sort( function (a, b) {
 	});
 	cdata2 = google.visualization.arrayToDataTable(cdata2);
       var options_2 = {
-        title: '2018-as országgyűlési választás eredményei',
+        title: '',
         chartArea: {width: '80%'},
+		height: 500,
 		annotations: {
           textStyle: {
-            fontSize: 10,
+            fontSize: "1em",
             color: '#000',
             auraColor: 'none'
           }
@@ -280,7 +278,6 @@ cdata.sort( function (a, b) {
         },
         vAxis: {format: 'percent',
 				minValue: 0,
-				maxValue: 1,
 				gridlines: { count: 5 }},
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
@@ -307,11 +304,12 @@ cdata.sort( function (a, b) {
 	});
 	cdata3 = google.visualization.arrayToDataTable(cdata3);
       var options_3 = {
-        title: '2019-es EP-választás eredményei',
+        title: '',
         chartArea: {width: '80%'},
+		height: 500,
 		annotations: {
           textStyle: {
-            fontSize: 10,
+            fontSize: "1em",
             color: '#000',
             auraColor: 'none'
           }
@@ -332,7 +330,6 @@ cdata.sort( function (a, b) {
         },
         vAxis: {format: 'percent',
 				minValue: 0,
-				maxValue: 1,
 				gridlines: { count: 5 }},
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
