@@ -70,7 +70,7 @@ permalink: /kozos-jeloltek
                 </tr>
               </thead>
               <tbody>
-<tr><td><a href="../bekescsaba">Békéscsaba</a></td><td class="blue darken-2 white-text">Miklós Attila - </td><td>---</td><td>---</td></tr>
+<tr><td><a href="../bekescsaba">Békéscsaba</a></td><td>Miklós Attila - MSZP-LMP-MMM / Dancsó Attila - Jobbik-DK-Párbeszéd</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../debrecen">Debrecen</a></td><td>Varga Zoltán - DK / Kőszeghy Csanád Ábel - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td class="grey lighten-2">Pintér Tamás - Jobbik </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../eger">Eger</a></td><td class="grey lighten-2">Mirkóczki Ádám - Egységben a Városért Egyesület</td><td>---</td><td>---</td></tr>
@@ -80,7 +80,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kaposvar">Kaposvár</a></td><td class="blue darken-2 white-text">Horváth Ákos - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td class="grey lighten-2">Lejer Zoltán - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Veres Pál - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td class="blue darken-2 white-text">Hári Tibor</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td class="blue darken-2 white-text">Hári Tibor - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td class="red lighten-2 white-text">Jeszenszki András - MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecs">Pécs</a></td><td class="blue darken-2 white-text">Péterffy Attila - Mindenki Pécsért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td class="red lighten-2 white-text">Fekete Zsolt - SSZE + ellenzéki pártok</td><td>---</td><td>---</td></tr>
@@ -92,7 +92,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szombathely">Szombathely</a></td><td class="red lighten-2 white-text">Dr. Nemény András - Éljen Szombathely! Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tatabanya">Tatabánya</a></td><td class="blue darken-2 white-text">Szűcsné Posztovics Ilona - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../veszprem">Veszprém</a></td><td class="light-blue accent-3 white-text">Katanics Sándor - DK</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td>Keresztes Csaba - </td><td>---</td><td>---</td></tr>
+<tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td class="light-blue accent-3 white-text">Keresztes Csaba - DK</td><td>---</td><td>---</td></tr>
 
 </tbody>  
   </table>
