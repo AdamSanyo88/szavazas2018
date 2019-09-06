@@ -93,6 +93,9 @@ permalink: /budapest13
 <p><span id="megjegyzes">* MSZP-LPE közös jelölt</span><br/></p>
 
 
+<br/><h5><strong>2019-es EP-választás eredményei</strong></h5><br/><br/>
+
+<div id="chart_div_ep_2019" style="width: 100%"></div>
 
 <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><br/>
 
@@ -171,14 +174,19 @@ $(document).ready(function() {
 		for ( var i = 0; i < lines.length; i++ ) {
 			if ( lines[i][0] == window.location.href.substring(window.location.href.lastIndexOf('/') + 1) ) {
 				for ( var j=0; j<3; j++ )
-					cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*10000)/10000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(2)+"%"]);
-				cdata.push(["Egyéb",(Math.round(parseFloat(lines[i][29])*10000)/10000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(2)+"%"])
+					cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*1000)/1000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(2)+"%"]);
+				cdata.push(["Egyéb",(Math.round(parseFloat(lines[i][29])*1000)/1000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(2)+"%"])
 				console.log(cdata)
-				var ogycolors=["orange","green","red"   ,"dark blue","grey",  "purple","black","light grey","pink"];
+				var ogycolors=["orange","light green","red"   ,"dark blue","grey",  "purple","black","light grey","pink"];
 				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"]
-				for ( var j=0; j<8; j++ )
-					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*10000)/10000,ogycolors[j],parseFloat(lines[i][2+(j)]*100).toFixed(2)+"%"]);
+				var epcolors=["grey", "orange", "purple", "dark green" "red", "light green","dark blue", "dark red", "light grey"];
+				var epparts =["Jobbik", "Fidesz", "Momentum", "Mi Hazánk", "MSZP-P", "LMP", "DK", Munkáspárt", "MKKP"]
+				for ( var j=0; j<9; j++ )
+					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*1000)/1000,ogycolors[j],parseFloat(lines[i][2+(j)]*100).toFixed(2)+"%"]);
 				console.log(cdata2)
+				for ( var j=0; j<9; j++ )
+					cdata3.push([epparts[j],Math.round(parseFloat(lines[i][11+(j)])*1000)/1000,epcolors[j],parseFloat(lines[i][11+(j)]*100).toFixed(2)+"%"]);
+				console.log(cdata3)
 				break;
 			}
 		}
@@ -207,11 +215,11 @@ cdata.sort( function (a, b) {
 	});
 	cdata = google.visualization.arrayToDataTable(cdata);
       var options = {
-        title: '2014-es önkormányzati eredmények',
+        title: '2014-es polgármester-választás eredményei',
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
-            fontSize: 18,
+            fontSize: 10,
             color: '#000',
             auraColor: 'none'
           }
@@ -257,11 +265,11 @@ cdata.sort( function (a, b) {
 	});
 	cdata2 = google.visualization.arrayToDataTable(cdata2);
       var options_2 = {
-        title: '2018-as országgyűlési eredmények',
+        title: '2018-as országgyűlési választás eredményei',
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
-            fontSize: 18,
+            fontSize: 10,
             color: '#000',
             auraColor: 'none'
           }
@@ -289,4 +297,56 @@ cdata.sort( function (a, b) {
       };
       var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
       chart_2.draw(cdata2, options_2); }
+	  
+	  
+	  
+	  cdata3.sort( function (a, b) {
+		if ( typeof a[1] === "string" ) {
+			return -1;
+		}
+		if ( typeof b[1] === "string" ) {
+			return 1;
+		}
+		if ( a[1] < b[1] ) {
+			return 1;
+		}
+		if ( a[1] > b[1] ) {
+			return -1;
+		}
+		return 0;
+	});
+	cdata3 = google.visualization.arrayToDataTable(cdata3);
+      var options_2 = {
+        title: '2019-es EP-választás eredményei',
+        chartArea: {width: '80%'},
+		annotations: {
+          textStyle: {
+            fontSize: 10,
+            color: '#000',
+            auraColor: 'none'
+          }
+		    },
+        hAxis: {
+          title: '',
+          minValue: 0,
+          textStyle: {
+            bold: false,
+            fontSize: 12,
+            color: '#4d4d4d'
+          },
+          titleTextStyle: {
+            bold: false,
+            fontSize: 12,
+            color: '#4d4d4d'
+          }
+        },
+        vAxis: {format: 'percent',
+				minValue: 0,
+				maxValue: 1,
+				gridlines: { count: 5 }},
+		legend: { position: "none" },
+		tooltip: { trigger: "none" }
+      };
+      var chart_3 = new google.visualization.ColumnChart(document.getElementById('chart_div_ep_2019'));
+      chart_3.draw(cdata3, options_3); }
 </script>
