@@ -317,7 +317,7 @@ cdata.sort( function (a, b) {
 		return 0;
 	});
 	cdata3 = google.visualization.arrayToDataTable(cdata3);
-      var options_2 = {
+      var options_3 = {
         title: '2019-es EP-választás eredményei',
         chartArea: {width: '80%'},
 		annotations: {
