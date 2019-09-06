@@ -152,6 +152,7 @@ permalink: /budapest13
 <script>
 var cdata = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
 var cdata2 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
+var cdata3 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
 $(document).ready(function() {
     $.ajax({
         type: "GET",
