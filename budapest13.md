@@ -13,7 +13,7 @@ permalink: /budapest13
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T013/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
 
-<div id="chart_div_onkor_2014" style="width: 100%"; height: "500px"></div>
+<div id="chart_div_onkor_2014" style="width: 100%"; height: 500"></div>
 
 
 
@@ -94,12 +94,12 @@ permalink: /budapest13
 
 <br/><h5><strong>2019-es EP-választás eredményei a településen</strong></h5><br/><br/>
 
-<div id="chart_div_ep_2019" style="width: 100%"; height: "500px"></div>
+<div id="chart_div_ep_2019" style="width: 100%"; height: 500"></div>
 
  <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/><br/>
 
 
-<div id="chart_div_ogy_2018" style="width: 100%"; height: "500px"></div>
+<div id="chart_div_ogy_2018" style="width: 100%"; height: 500"></div>
 
 
 			<table class="striped">
