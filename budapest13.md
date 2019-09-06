@@ -219,7 +219,7 @@ cdata.sort( function (a, b) {
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
-            fontSize: 10,
+            fontSize: 1em,
             color: '#000',
             auraColor: 'none'
           }
@@ -268,7 +268,7 @@ cdata.sort( function (a, b) {
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
-            fontSize: 10,
+            fontSize: 1em,
             color: '#000',
             auraColor: 'none'
           }
@@ -319,7 +319,7 @@ cdata.sort( function (a, b) {
         chartArea: {width: '80%'},
 		annotations: {
           textStyle: {
-            fontSize: 10,
+            fontSize: 1em,
             color: '#000',
             auraColor: 'none'
           }
