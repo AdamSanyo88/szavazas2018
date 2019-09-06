@@ -11,7 +11,8 @@ permalink: /budapest4
           <div class="col s12">
 		  <h5>Budapest IV. kerület</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T004/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T004/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
+ <div id="chart_div_onkor_2014" style="width: 100%"></div>
 <br/>
 <div style="position:relative;width:100%;height:0;padding-top: 68.9%;"><iframe src="https://datastudio.google.com/embed/reporting/1cNSVSA70K2eq3LFj1NolaTdcqjgr9eKE/page/xPym" frameborder="0" style="position: absolute;width: 100%;/* object-fit: contain; */height: 100%;top: 0;left: 0;right: 0;bottom: 0;" allowfullscreen=""></iframe></div>
 
@@ -87,7 +88,10 @@ permalink: /budapest4
             </table>
 
 <p><span id="megjegyzes">* Fidesz-ÚE közös jelölt    ** MSZP-DK-EGYÜTT-PM közös jelölt</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/budapest4.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2019-es EP-választás eredményei</strong></h5><br/><br/> 
+ <div id="chart_div_ep_2019" style="width: 100%"></div> 
+ <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/>
+ <div id="chart_div_ogy_2018" style="width: 100%"></div><br/>
 
 			<table class="striped">
               <thead>

@@ -11,8 +11,7 @@ permalink: /budapest13
           <div class="col s12">
 		  <h5>Budapest XIII. kerület</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T013/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
-<br/>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T013/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
 
 <div id="chart_div_onkor_2014" style="width: 100%"></div>
 
@@ -97,7 +96,7 @@ permalink: /budapest13
 
 <div id="chart_div_ep_2019" style="width: 100%"></div>
 
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><br/>
+ <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><br/>
 
 
 <div id="chart_div_ogy_2018" style="width: 100%"></div>
@@ -180,7 +179,7 @@ $(document).ready(function() {
 				console.log(cdata)
 				var ogycolors=["orange","lightGreen","red"   ,"darkBlue","grey",  "purple","black","lightGrey","pink"];
 				var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"];
-				var epcolors=["grey", "orange", "purple", "darkGreen", "red", "light green", "darkBlue", "darkRed", "lightGrey"];
+				var epcolors=["grey", "orange", "purple", "darkGreen", "red", "lightGreen", "darkBlue", "darkRed", "lightGrey"];
 				var epparts =["Jobbik", "Fidesz", "Momentum", "Mi Hazánk", "MSZP-P", "LMP", "DK", "Munkáspárt", "MKKP"]
 				for ( var j=0; j<9; j++ )
 					cdata2.push([ogyparts[j],Math.round(parseFloat(lines[i][2+(j)])*1000)/1000,ogycolors[j],parseFloat(lines[i][2+(j)]*100).toFixed(1)+"%"]);
@@ -241,7 +240,6 @@ cdata.sort( function (a, b) {
         },
         vAxis: {format: 'percent',
 				minValue: 0,
-				maxValue: 1,
 				gridlines: { count: 5 }},
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
@@ -291,7 +289,6 @@ cdata.sort( function (a, b) {
         },
         vAxis: {format: 'percent',
 				minValue: 0,
-				maxValue: 1,
 				gridlines: { count: 5 }},
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
@@ -343,7 +340,6 @@ cdata.sort( function (a, b) {
         },
         vAxis: {format: 'percent',
 				minValue: 0,
-				maxValue: 1,
 				gridlines: { count: 5 }},
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }

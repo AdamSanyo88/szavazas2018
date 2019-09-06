@@ -13,7 +13,7 @@ permalink: /tiszavasvari
 <br/>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/tiszavasvari-20180916">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
-<img src="images/2014_onkormanyzat/tiszavasvari2.png" style="height: 100%; width: 100%; object-fit: contain">
+
 
 			<table class="striped">
               <thead>
@@ -37,9 +37,10 @@ permalink: /tiszavasvari
               </tbody>
             </table>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M16/T204/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M16/T204/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
+ <div id="chart_div_onkor_2014" style="width: 100%"></div>
 <br/>
-<img src="images/2014_onkormanyzat/tiszavasvari.png" style="height: 100%; width: 100%; object-fit: contain">
+
 
 			<table class="striped">
               <thead>
@@ -113,7 +114,10 @@ permalink: /tiszavasvari
             </table>
 
 <p><span id="megjegyzes"></span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/tiszavasvari.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2019-es EP-választás eredményei</strong></h5><br/><br/> 
+ <div id="chart_div_ep_2019" style="width: 100%"></div> 
+ <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/>
+ <div id="chart_div_ogy_2018" style="width: 100%"></div><br/>
 
 			<table class="striped">
               <thead>

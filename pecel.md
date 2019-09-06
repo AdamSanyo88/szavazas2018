@@ -11,9 +11,10 @@ permalink: /pecel
           <div class="col s12">
 		  <h5>Pécel</h5>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M14/T102/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M14/T102/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
+ <div id="chart_div_onkor_2014" style="width: 100%"></div>
 <br/>
-<img src="images/2014_onkormanyzat/pecel.png" style="height: 100%; width: 100%; object-fit: contain">
+
 
 			<table class="striped">
               <thead>
@@ -87,7 +88,10 @@ permalink: /pecel
             </table>
 
 <p><span id="megjegyzes">* MSZP-DK-EGYÜTT közös jelölt    ** 2119 EGYESÜLET jelölt    *** A Fidesz jelöltje 3. lett</span><br/></p>
-<br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/><img src="images/listas_charts/pecel.png" style="height: 100%; width: 100%; object-fit: contain"><br/>
+<br/><h5><strong>2019-es EP-választás eredményei</strong></h5><br/><br/> 
+ <div id="chart_div_ep_2019" style="width: 100%"></div> 
+ <br/><h5><strong>2018-as országos listás eredmények</strong></h5><br/>
+ <div id="chart_div_ogy_2018" style="width: 100%"></div><br/>
 
 			<table class="striped">
               <thead>
