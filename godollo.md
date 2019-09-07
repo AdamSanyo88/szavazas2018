@@ -26,9 +26,9 @@ permalink: /godollo
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">0.0%</td>
-				   <td id="fidesz_mayor2"> -   </td>
+                   <td></td>
+				   <td id="fidesz_mayor">Kovács Barnabás</td>
+				   <td id="fidesz_mayor2">1,154</td>
 			</tr>
 			<tr>
 			<td>Dr. Gémesi György András - GLK</td> 

@@ -26,9 +26,9 @@ permalink: /mezobereny
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">0.0%</td>
-				   <td id="fidesz_mayor2"> -   </td>
+                   <td>Öreg István - Független</td>
+				   <td id="fidesz_mayor">14.9%</td>
+				   <td id="fidesz_mayor2">499</td>
 			</tr>
 			<tr>
 			<td>Siklósi István - Független</td> 

@@ -31,7 +31,7 @@ permalink: /tiszakecske
 				   <td id="fidesz_mayor2">1,987</td>
 			</tr>
 			<tr>
-			<td>Csernus Ferenc- MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td> 
+			<td>Csernus Ferenc - MSZP <img src="images/mszp2_logo.png" style="width:30px;height:30px;"></td> 
 			<td id="ellenzek_mayor">21.7%</td>
 			<td id="ellenzek_mayor2">680</td>
 			</tr>

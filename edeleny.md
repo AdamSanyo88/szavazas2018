@@ -26,9 +26,9 @@ permalink: /edeleny
               </thead>
               <tbody>
              <tr>
-                   <td>Loj Balázs - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">23.1% **</td>
-				   <td id="fidesz_mayor2">1,062</td>
+                   <td>Virág Tamás - CIVIL ÖSSZEFOGÁS</td>
+				   <td id="fidesz_mayor">26.2%</td>
+				   <td id="fidesz_mayor2">1,204</td>
 			</tr>
 			<tr>
 			<td>Molnár Oszkár - Független</td> 
@@ -87,7 +87,7 @@ permalink: /edeleny
               </tbody>
             </table>
 
-<p><span id="megjegyzes">* 2 CIVIL ÖSSZEFOGÁS, 1 CSAK EDELÉNY jelölt     ** A Fidesz jelöltje 3. lett</span><br/></p>
+<p><span id="megjegyzes">* 2 CIVIL ÖSSZEFOGÁS, 1 CSAK EDELÉNY jelölt <br/></p>
 <br/><h5><strong>2019-es EP-választás eredményei a településen</strong></h5><br/><br/> 
  <div id="chart_div_ep_2019" style="width: 100%"></div> 
  <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/>

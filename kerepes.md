@@ -26,9 +26,9 @@ permalink: /kerepes
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">0.0%</td>
-				   <td id="fidesz_mayor2"> -   </td>
+                   <td>Springer Friedrich Horst - Független</td>
+				   <td id="fidesz_mayor">23.6%</td>
+				   <td id="fidesz_mayor2">858</td>
 			</tr>
 			<tr>
 			<td>Franka Pál Tibor - ÖKE</td> 

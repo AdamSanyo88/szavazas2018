@@ -27,7 +27,7 @@ permalink: /ujfeherto
               <tbody>
              <tr>
                    <td>Puskás László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">40.3%</td>
+				   <td id="fidesz_mayor">40.2%</td>
 				   <td id="fidesz_mayor2">1,946</td>
 			</tr>
 			<tr>

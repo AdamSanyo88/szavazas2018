@@ -26,9 +26,9 @@ permalink: /maglod
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">-</td>
-				   <td id="fidesz_mayor2">-</td>
+                   <td>Szentirmai Zoltán - Független</td>
+				   <td id="fidesz_mayor">18.3%</td>
+				   <td id="fidesz_mayor2">638</td>
 			</tr>
 			<tr>
 			<td>Tabányi Pál - Független</td> 

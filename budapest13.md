@@ -187,7 +187,9 @@ $(document).ready(function() {
 				break;
 			}
 		}
-						  
+		cdata = google.visualization.arrayToDataTable(cdata);
+		cdata2 = google.visualization.arrayToDataTable(cdata2);
+		cdata3 = google.visualization.arrayToDataTable(cdata3)	
 	   }
      });
 });
@@ -210,7 +212,7 @@ cdata.sort( function (a, b) {
 		}
 		return 0;
 	});
-	cdata = google.visualization.arrayToDataTable(cdata);
+	
       var options = {
         title: '',
         chartArea: {width: '80%'},
@@ -260,7 +262,7 @@ cdata.sort( function (a, b) {
 		}
 		return 0;
 	});
-	cdata2 = google.visualization.arrayToDataTable(cdata2);
+	
       var options_2 = {
         title: '',
         chartArea: {width: '80%'},
@@ -312,7 +314,7 @@ cdata.sort( function (a, b) {
 		}
 		return 0;
 	});
-	cdata3 = google.visualization.arrayToDataTable(cdata3);
+	
       var options_3 = {
         title: '',
         chartArea: {width: '80%'},

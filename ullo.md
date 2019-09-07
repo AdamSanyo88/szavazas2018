@@ -26,9 +26,9 @@ permalink: /ullo
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor"> -   </td>
-				   <td id="fidesz_mayor2"> -   </td>
+                   <td>Kovács Ferenc Attila - <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td>
+				   <td id="fidesz_mayor">15.5%</td>
+				   <td id="fidesz_mayor2">419</td>
 			</tr>
 			<tr>
 			<td>Kissné Szabó Katalin - Független</td> 

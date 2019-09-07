@@ -53,9 +53,9 @@ permalink: /balmazujvaros
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">-</td>
-				   <td id="fidesz_mayor2">-</td>
+                   <td>Dr. Cs.Tóth János - Független</td>
+				   <td id="fidesz_mayor">15.1%</td>
+				   <td id="fidesz_mayor2">810</td>
 			</tr>
 			<tr>
 			<td>Dr. Veres Margit - Független</td> 

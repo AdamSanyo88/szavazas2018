@@ -26,9 +26,9 @@ permalink: /kiskunmajsa
               </thead>
               <tbody>
              <tr>
-                   <td>Koncz Jenő - FIDESZ-KDNP-Nemzeti Fórum-PSZM</td>
-				   <td id="fidesz_mayor">17.4% ***</td>
-				   <td id="fidesz_mayor2">762</td>
+                   <td>Faludi Tamás - EKE</td>
+				   <td id="fidesz_mayor">25.9%</td>
+				   <td id="fidesz_mayor2">1,137</td>
 			</tr>
 			<tr>
 			<td>Ábrahám-Fúrús András - ÉK</td> 
@@ -87,7 +87,7 @@ permalink: /kiskunmajsa
               </tbody>
             </table>
 
-<p><span id="megjegyzes">* FIDESZ-KDNP-Nemzeti Fórum-PSZM közös jelölt     ** 5 ÉK és 1 EKE jelölt     *** A Fidesz jelöltje 3. lett</span><br/></p>
+<p><span id="megjegyzes">* FIDESZ-KDNP-Nemzeti Fórum-PSZM közös jelölt     ** 5 ÉK és 1 EKE jelölt</span><br/></p>
 <br/><h5><strong>2019-es EP-választás eredményei a településen</strong></h5><br/><br/> 
  <div id="chart_div_ep_2019" style="width: 100%"></div> 
  <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/>

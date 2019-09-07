@@ -27,7 +27,7 @@ permalink: /szigethalom
               <tbody>
              <tr>
                    <td>Ferenczi Edit Éva - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">28.8%</td>
+				   <td id="fidesz_mayor">28.7%</td>
 				   <td id="fidesz_mayor2">1,308</td>
 			</tr>
 			<tr>

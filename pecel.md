@@ -26,8 +26,8 @@ permalink: /pecel
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. Kuszák Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">20.3% ***</td>
+                   <td>	Sarlós Imre - MSZP-DK-EGYÜTT</td>
+				   <td id="fidesz_mayor">27.0%</td>
 				   <td id="fidesz_mayor2">1,451</td>
 			</tr>
 			<tr>
@@ -87,7 +87,7 @@ permalink: /pecel
               </tbody>
             </table>
 
-<p><span id="megjegyzes">* MSZP-DK-EGYÜTT közös jelölt    ** 2119 EGYESÜLET jelölt    *** A Fidesz jelöltje 3. lett</span><br/></p>
+<p><span id="megjegyzes">* MSZP-DK-EGYÜTT közös jelölt    ** 2119 EGYESÜLET jelölt</span><br/></p>
 <br/><h5><strong>2019-es EP-választás eredményei a településen</strong></h5><br/><br/> 
  <div id="chart_div_ep_2019" style="width: 100%"></div> 
  <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/>

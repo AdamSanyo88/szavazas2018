@@ -26,8 +26,8 @@ permalink: /szigetvar
               </thead>
               <tbody>
              <tr>
-                   <td>Kolovics János - Fidesz <img src="images/fidesz2_logo.png" style="width:30px;height:30px;"></td>
-				   <td id="fidesz_mayor">28.9% **</td>
+                   <td>Varga Zoltán - SZEE</td>
+				   <td id="fidesz_mayor">29.6%</td>
 				   <td id="fidesz_mayor2">1,434</td>
 			</tr>
 			<tr>
@@ -87,7 +87,7 @@ permalink: /szigetvar
               </tbody>
             </table>
 
-<p><span id="megjegyzes">* SZEE    ** A Fidesz jelöltje 3. lett</span><br/></p>
+<p><span id="megjegyzes">* SZEE</span><br/></p>
 <br/><h5><strong>2019-es EP-választás eredményei a településen</strong></h5><br/><br/> 
  <div id="chart_div_ep_2019" style="width: 100%"></div> 
  <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/>

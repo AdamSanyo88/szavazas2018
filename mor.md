@@ -27,12 +27,12 @@ permalink: /mor
               <tbody>
              <tr>
                    <td>	Fenyves Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">81.9%</td>
+				   <td id="fidesz_mayor">81.8%</td>
 				   <td id="fidesz_mayor2">3,815</td>
 			</tr>
 			<tr>
 			<td>Pábli Antal - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			<td id="ellenzek_mayor">18.1%</td>
+			<td id="ellenzek_mayor">18.2%</td>
 			<td id="ellenzek_mayor2">846</td>
 			</tr>
               </tbody>

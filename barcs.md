@@ -31,7 +31,7 @@ permalink: /barcs
 				   <td id="fidesz_mayor2">1,381</td>
 			</tr>
 			<tr>
-			<td>Remes Gábor - MSZP-DK-EGYÜTT-PM</td> 
+			<td>Ander Balázs - JOBBIK <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
 			<td id="ellenzek_mayor">28.9%</td>
 			<td id="ellenzek_mayor2">1,081</td>
 			</tr>

@@ -73,7 +73,7 @@ permalink: /mako
 			</tr>
 			<tr>
                   <td>Együtt-PM <img src="images/egyutt_pm_logo.png" style="width:42px;height:30px;"></td>
-				   <td id="egyutt_mp"></td><td id="egyutt_mp_lista">0</td>
+				   <td id="egyutt_mp">0</td><td id="egyutt_mp_lista">0</td>
 			</tr>
 			 <tr>
                   <td>Egyéb szervezet</td>

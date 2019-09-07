@@ -32,8 +32,8 @@ permalink: /sarkad
 			</tr>
 			<tr>
 			<td>Bende Róbert - Városszépítő Egy.</td> 
-			<td id="ellenzek_mayor">24.3%</td>
-			<td id="ellenzek_mayor2">1,100</td>
+			<td id="ellenzek_mayor">31.3%</td>
+			<td id="ellenzek_mayor2">1,418</td>
 			</tr>
               </tbody>
             </table>

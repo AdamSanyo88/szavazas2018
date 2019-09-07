@@ -27,12 +27,12 @@ permalink: /dabas
               <tbody>
              <tr>
                    <td>Kőszegi Zoltán - Fidesz <img src="images/fidesz2_logo.png" style="width:30px;height:30px;"></td>
-				   <td id="fidesz_mayor">79.6%</td>
+				   <td id="fidesz_mayor">79.5%</td>
 				   <td id="fidesz_mayor2">3,613</td>
 			</tr>
 			<tr>
 			<td>Mátyus Csaba - PELE Egyesület</td> 
-			<td id="ellenzek_mayor">20.4%</td>
+			<td id="ellenzek_mayor">20.5%</td>
 			<td id="ellenzek_mayor2">929</td>
 			</tr>
               </tbody>
