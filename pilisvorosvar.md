@@ -91,50 +91,7 @@ permalink: /pilisvorosvar
 <br/><h5><strong>2019-es EP-választás eredményei a településen</strong></h5><br/><br/> 
  <div id="chart_div_ep_2019" style="width: 100%"></div> 
  <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/>
- <div id="chart_div_ogy_2018" style="width: 100%"></div><br/>
-
-			<table class="striped">
-              <thead>
-                <tr>
-                    <th>Pártok</th>
-                    <th>Szavazatarány (százalék)</th>
-                </tr>
-              </thead>
-              <tbody>
-             <tr>
-                  <td>Fidesz <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_2018">51.2%</td>
-			</tr>
-			<tr><td>Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			<td id="jobbik_2018">17.8%</td>
-			</tr>
-			<tr>
-                  <td>MSZP-Párbeszéd <img src="images/mszpparbeszed_logo.png" style="width:60px;height:30px;"></td>
-				   <td id="mszp_2018">8.8%</td>
-			</tr>
-			<tr>
-                  <td>LMP <img src="images/lmp_logo.png" style="width:52px;height:30px;"></td>
-				   <td id="lmp_2018">7.9%</td>
-			</tr>
-			<tr>
-                  <td>DK <img src="images/dk_logo.png" style="width:34px;height:30px;"></td>
-				   <td id="dk_2018">6.1%</td>
-			</tr>
-			<tr>
-                  <td>Momentum <img src="images/momentum_logo.png" style="width:44px;height:30px;"></td>
-				   <td id="momentum_2018">3.8%</td>
-			</tr>
-			<tr>
-                  <td>Együtt <img src="images/egyutt_logo2.png" style="width:71px;height:30px;"></td>
-				   <td id="egyutt_2018">1.1%</td>
-			</tr>
-             <tr>
-                  <td>MKKP <img src="images/mkkp_logo.png" style="width:49px;height:30px;"></td>
-				   <td id="mkkp_2018">2.1%</td>
-			</tr>
-   
-              </tbody>
-            </table>
+ <div id="chart_div_ogy_2018" style="width: 100%"></div>
           </div>
     </div>
 </div>
