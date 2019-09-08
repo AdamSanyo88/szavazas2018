@@ -108,6 +108,21 @@ permalink: /budapest13
 var cdata = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
 var cdata2 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
 var cdata3 = [['Pártok', 'Szavazatarány (%)', {role: "style" },{ role: 'annotation' }]];
+var compare = function (a, b) {
+		if ( typeof a[1] === "string" ) {
+			return -1;
+		}
+		if ( typeof b[1] === "string" ) {
+			return 1;
+		}
+		if ( a[1] < b[1] ) {
+			return 1;
+		}
+		if ( a[1] > b[1] ) {
+			return -1;
+		}
+		return 0;
+	}
 $(document).ready(function() {
     $.ajax({
         type: "GET",
@@ -151,21 +166,7 @@ $(document).ready(function() {
 drawChart = function ()
 	{  
 
-cdata.sort( function (a, b) {
-		if ( typeof a[1] === "string" ) {
-			return -1;
-		}
-		if ( typeof b[1] === "string" ) {
-			return 1;
-		}
-		if ( a[1] < b[1] ) {
-			return 1;
-		}
-		if ( a[1] > b[1] ) {
-			return -1;
-		}
-		return 0;
-	});
+cdata.sort( compare );
 	cdata = google.visualization.arrayToDataTable(cdata);
       var options = {
         title: '',
@@ -201,21 +202,7 @@ cdata.sort( function (a, b) {
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
       chart.draw(cdata, options);
 	  
-	cdata2.sort( function (a, b) {
-		if ( typeof a[1] === "string" ) {
-			return -1;
-		}
-		if ( typeof b[1] === "string" ) {
-			return 1;
-		}
-		if ( a[1] < b[1] ) {
-			return 1;
-		}
-		if ( a[1] > b[1] ) {
-			return -1;
-		}
-		return 0;
-	});
+	cdata2.sort( compare );
 	cdata2 = google.visualization.arrayToDataTable(cdata2);
       var options_2 = {
         title: '',
@@ -253,21 +240,7 @@ cdata.sort( function (a, b) {
 	  
 	  
 	  
-	  cdata3.sort( function (a, b) {
-		if ( typeof a[1] === "string" ) {
-			return -1;
-		}
-		if ( typeof b[1] === "string" ) {
-			return 1;
-		}
-		if ( a[1] < b[1] ) {
-			return 1;
-		}
-		if ( a[1] > b[1] ) {
-			return -1;
-		}
-		return 0;
-	});
+	  cdata3.sort( compare );
 	cdata3 = google.visualization.arrayToDataTable(cdata3);
       var options_3 = {
         title: '',
