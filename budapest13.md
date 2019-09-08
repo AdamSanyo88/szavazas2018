@@ -164,6 +164,7 @@ initChart = function() {
 		cdata2 = google.visualization.arrayToDataTable(cdata2);
 	 	cdata3.sort( compare );
 		cdata3 = google.visualization.arrayToDataTable(cdata3);
+		drawChart();
 	   }
      });
 }
@@ -203,8 +204,10 @@ drawChart = function ()
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
       };
-      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
-      chart.draw(cdata, options);
+      if ( $('chart_div_onkor_2014').length ) {
+      	var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
+      	chart.draw(cdata, options);
+      }
       var options_2 = {
         title: '',
         chartArea: {width: '80%'},
@@ -236,8 +239,10 @@ drawChart = function ()
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
       };
-      var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
-      chart_2.draw(cdata2, options_2);
+      if ( $('chart_div_ogy_2018').length ) {
+      	var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
+      	chart_2.draw(cdata2, options_2);
+      }
       var options_3 = {
         title: '',
         chartArea: {width: '80%'},
@@ -269,6 +274,9 @@ drawChart = function ()
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
       };
-      var chart_3 = new google.visualization.ColumnChart(document.getElementById('chart_div_ep_2019'));
-      chart_3.draw(cdata3, options_3); }
+      if ( $('chart_div_ogy_2018').length ) {
+      	var chart_3 = new google.visualization.ColumnChart(document.getElementById('chart_div_ep_2019'));
+      	chart_3.draw(cdata3, options_3); 
+     }
+}
 </script>
