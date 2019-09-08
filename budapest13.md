@@ -204,7 +204,7 @@ drawChart = function ()
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
       };
-      if ( $('chart_div_onkor_2014').length ) {
+      if ( $('#chart_div_onkor_2014').length ) {
       	var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
       	chart.draw(cdata, options);
       }
@@ -239,7 +239,7 @@ drawChart = function ()
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
       };
-      if ( $('chart_div_ogy_2018').length ) {
+      if ( $('#chart_div_ogy_2018').length ) {
       	var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
       	chart_2.draw(cdata2, options_2);
       }
@@ -274,7 +274,7 @@ drawChart = function ()
 		legend: { position: "none" },
 		tooltip: { trigger: "none" }
       };
-      if ( $('chart_div_ogy_2018').length ) {
+      if ( $('#chart_div_ogy_2018').length ) {
       	var chart_3 = new google.visualization.ColumnChart(document.getElementById('chart_div_ep_2019'));
       	chart_3.draw(cdata3, options_3); 
      }
