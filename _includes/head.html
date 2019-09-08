@@ -18,12 +18,12 @@
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
-	var drawChart = null
+	var initChart = null
 	var loadChart = function() {
-		if ( drawChart == null ) {
-			setTimeout(function(){if(drawChart!=null)drawChart()},3000);
+		if ( initChart == null ) {
+			setTimeout(function(){if(drawChart!=null)initChart()},3000);
 		} else {
-			drawChart();
+			initChart();
 		}
 		window.addEventListener('resize', resize);
 	};
