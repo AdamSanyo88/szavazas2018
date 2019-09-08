@@ -18,7 +18,8 @@
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
-	var initChart = null
+	var initChart = null;
+	var drawChart = null;
 	var loadChart = function() {
 		if ( initChart == null ) {
 			setTimeout(function(){if(drawChart!=null)initChart()},3000);
