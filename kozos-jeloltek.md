@@ -18,7 +18,7 @@ permalink: /kozos-jeloltek
 <h4 class="center">Bejelentett közös jelöltek</h4>
 <h5 class="center">Budapest kerületei: 23 / 23</h5>
 <h5 class="center">Megyei jogú városok: 23 / 23</h5>
-<h5 class="center">10000 fő feletti városok: 53 / 123</h5>
+<h5 class="center">10000 fő feletti városok: 54 / 123</h5>
 
 <br/>
 <h5>Budapest kerületei</h5>
@@ -120,7 +120,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../batonyterenye">Bátonyterenye</a></td><td class="grey lighten-2">Cseresznyés István - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bekes">Békés</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../berettyoujfalu">Berettyóújfalu</a></td><td class="blue darken-2 white-text">dr. Zákány Zsolt - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../biatorbagy">Biatorbágy</a></td><td>- Budakörnyék Fejlődéséért Egyesület</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../biatorbagy">Biatorbágy</a></td><td class="blue darken-2 white-text">Makranczi László - Szövetség Biatorbágyért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bicske">Bicske</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bonyhad">Bonyhád</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budakalasz">Budakalász</a></td><td>---</td><td>---</td><td>---</td></tr>
