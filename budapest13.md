@@ -158,7 +158,12 @@ $(document).ready(function() {
 				break;
 			}
 		}
-						  
+		cdata.sort( compare );
+		cdata = google.visualization.arrayToDataTable(cdata);
+		cdata2.sort( compare );
+		cdata2 = google.visualization.arrayToDataTable(cdata2);
+	 	cdata3.sort( compare );
+		cdata3 = google.visualization.arrayToDataTable(cdata3);
 	   }
      });
 });
@@ -166,8 +171,7 @@ $(document).ready(function() {
 drawChart = function ()
 	{  
 
-cdata.sort( compare );
-	cdata = google.visualization.arrayToDataTable(cdata);
+
       var options = {
         title: '',
         chartArea: {width: '80%'},
@@ -201,9 +205,6 @@ cdata.sort( compare );
       };
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div_onkor_2014'));
       chart.draw(cdata, options);
-	  
-	cdata2.sort( compare );
-	cdata2 = google.visualization.arrayToDataTable(cdata2);
       var options_2 = {
         title: '',
         chartArea: {width: '80%'},
@@ -237,11 +238,6 @@ cdata.sort( compare );
       };
       var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
       chart_2.draw(cdata2, options_2);
-	  
-	  
-	  
-	  cdata3.sort( compare );
-	cdata3 = google.visualization.arrayToDataTable(cdata3);
       var options_3 = {
         title: '',
         chartArea: {width: '80%'},
