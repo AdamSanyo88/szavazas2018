@@ -123,7 +123,7 @@ var compare = function (a, b) {
 		}
 		return 0;
 	}
-$(document).ready(function() {
+initChart = function() {
     $.ajax({
         type: "GET",
         url: "2014_2018_2019_charts.csv",
@@ -166,7 +166,7 @@ $(document).ready(function() {
 		cdata3 = google.visualization.arrayToDataTable(cdata3);
 	   }
      });
-});
+}
 
 drawChart = function ()
 	{  
