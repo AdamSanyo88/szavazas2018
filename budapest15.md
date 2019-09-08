@@ -9,7 +9,9 @@ permalink: /budapest15
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Budapest XV. kerület</h5>
+		  <h5>Budapest XV. kerület</h5><br/> 
+ <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
+ <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-xv.-kerulet-20180930">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
 

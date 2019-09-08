@@ -9,7 +9,9 @@ permalink: /tiszavasvari
 <div class="section">
     <div class="row">
           <div class="col s12">
-		  <h5>Tiszavasvári</h5>
+		  <h5>Tiszavasvári</h5><br/> 
+ <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
+ <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
 <br/>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/tiszavasvari-20180916">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
