@@ -22,7 +22,7 @@
 	var drawChart = null;
 	var loadChart = function() {
 		if ( initChart == null ) {
-			setTimeout(function(){if(drawChart!=null)initChart()},3000);
+			setTimeout(function(){if(initChart!=null)initChart()},3000);
 		} else {
 			initChart();
 		}
