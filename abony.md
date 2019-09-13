@@ -13,7 +13,7 @@ permalink: /abony
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
  
- <h5><strong>Az ellenzéki oldal közös jelöltje: --- </strong></h5>
+ <h5><strong>Az ellenzéki oldal közös jelöltje: Pető Zsolt / Guti Tivadar </strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -24,11 +24,11 @@ permalink: /abony
               </thead>
               <tbody>
              <tr>
-                   <td>Dr. --- - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Dévainé Kazinczy Sára - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>--- - Független</td> 
+			<td>Pető Zsolt - VFE / Guti Tivadar - Független</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

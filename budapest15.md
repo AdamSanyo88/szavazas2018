@@ -12,6 +12,27 @@ permalink: /budapest15
 		  <h5>Budapest XV. kerület</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
+ <h5><strong>Az ellenzéki oldal közös jelöltje: Németh Angéla  </strong></h5>
+<br/>
+<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Becsült szavazatarány (százalék)</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Dr. Pintér Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">xx%</td>
+			</tr>
+			<tr>
+			<td>Németh Angéla - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td id="ellenzek_mayor">xx%</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-xv.-kerulet-20180930">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
 
