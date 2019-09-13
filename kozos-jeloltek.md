@@ -75,9 +75,9 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td class="blue darken-2 white-text">Dr. Márki-Zay-Péter - Tiszavásárhelyért Egyesület-MMM </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kaposvar">Kaposvár</a></td><td class="blue darken-2 white-text">Horváth Ákos Ervin- Kaposváriakért Egyesület-DK-JOBBIK-LMP-MOMENTUM-MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td class="grey lighten-2">Lejer Zoltán - SZÖVETSÉG A HÍRÖS VÁROSÉRT</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Veres Pál - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Veres Pál - Függetlenek Szíve-MSZP-MOMENTUM-PÁRBESZÉD-JOBBIK-DK-MMM-Velünk a Város</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td class="blue darken-2 white-text">Hári Tibor - ÉVE-DK-JOBBIK-MSZP-LMP-MOMENTUM</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td class="red lighten-2 white-text">Jeszenszki András - MSZP</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../nyiregyhaza">Nyíregyháza</a></td><td class="red lighten-2 white-text">Jeszenszki András - MMM-LMP-Függetlenek Egyesülete-JOBBIK-MSZP-PÁRBESZÉD-MOMENTUM-DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pecs">Pécs</a></td><td class="blue darken-2 white-text">Péterffy Attila - Mindenki Pécsért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td class="red lighten-2 white-text">Fekete Zsolt - SSZE-DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-TVE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td class="blue darken-2 white-text">Varga Norbert - Független</td><td>---</td><td>---</td></tr>
@@ -164,38 +164,38 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kiskunmajsa">Kiskunmajsa</a></td><td class="blue darken-2 white-text">Faludi Tamás - EKE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskoros">Kiskőrös</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kistarcsa">Kistarcsa</a></td><td class="grey lighten-2">Dőringer Károly - Jobbik</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kisujszallas">Kisújszállás</a></td><td>Baranyai Sándorné - Független (?)</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kisvarda">Kisvárda</a></td><td>Dócs Attila - Független (?)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kisujszallas">Kisújszállás</a></td><td>Máthé Zsolt - DK-MSZP / Szarvák Márton - JOBBIK</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kisvarda">Kisvárda</a></td><td>Dócs Attila - Független / Perdiák János - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../komarom">Komárom</a></td><td class="blue darken-2 white-text">Dr. Nemes Andrea - KMRM-DK-JOBBIK-MSZP-MMM-MOMENTUM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../komlo">Komló</a></td><td class="blue darken-2 white-text">Ferenczy Tamás - Komló Összeköt Egyesület</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kormend">Körmend</a></td><td>Patonay Imre - Független (?)</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../koszeg">Kőszeg</a></td><td class="blue darken-2 white-text">Rába Kálmán - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../lajosmizse">Lajosmizse</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kormend">Körmend</a></td><td>Patonay Imre - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../koszeg">Kőszeg</a></td><td class="blue darken-2 white-text">Rába Kálmán - MMM</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../lajosmizse">Lajosmizse</a></td><td>Sebők Márta - LAJOSMIZSEI GAZDAKÖR</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../maglod">Maglód</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../mako">Makó</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../marcali">Marcali</a></td><td class="blue darken-2 white-text">Dr. Sütő László - Független </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../mateszalka">Mátészalka</a></td><td class="blue darken-2 white-text">Vékony Miklós - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../mezobereny">Mezőberény</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../mako">Makó</a></td><td>Mucsi Tamás - VKKP</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../marcali">Marcali</a></td><td class="blue darken-2 white-text">Dr. Sütő László - MOTTE </td><td>---</td><td>---</td></tr>
+<tr><td><a href="../mateszalka">Mátészalka</a></td><td class="blue darken-2 white-text">Vékony Miklós - TESZ Mátészalka</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../mezobereny">Mezőberény</a></td><td>Csollár Norbert / Siklósi István - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../mezokovesd">Mezőkövesd</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../mezotur">Mezőtúr</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../mohacs">Mohács</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../mezotur">Mezőtúr</a></td><td>Dr. Siposné Varga Ildikó - TEKE</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../mohacs">Mohács</a></td><td>Csorbai Ferenc - MSZP </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../monor">Monor</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../mor">Mór</a></td><td>Brichter Józsefné - MVJE-MMM-JOBBIK-MOMENTUM-MSZP-PÁRBESZÉD-LMP-DK</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../mosonmagyarovar">Mosonmagyaróvár</a></td><td class="blue darken-2 white-text">Szabó Miklós - Független / Goda Bálint Zsolt - LMP (?) / Jávor Miklós - Jobbik (?)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../mosonmagyarovar">Mosonmagyaróvár</a></td><td class="blue darken-2 white-text">Szabó Miklós - Jobbik / Ábrahám Tivadar - DK-MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagyatad">Nagyatád</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../nagykata">Nagykáta</a></td><td class="blue darken-2 white-text">Csókás András - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../nagykoros">Nagykőrös</a></td><td class="grey lighten-2">Zágráb Nándor - Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../nagykata">Nagykáta</a></td><td class="blue darken-2 white-text">Dr. Csókás András - Ébredj Káta</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../nagykoros">Nagykőrös</a></td><td class="grey lighten-2">Zágráb Nándor - Jobb Nagykőrösért</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nyirbator">Nyírbátor</a></td><td>Máté Antal - NYÍRBÁTOR JÖVŐJÉÉRT EGYESÜLET-MSZP-PÁRBESZÉD-MOMENTUM-ÖSSSZEFOGÁS MEGYÉNKÉRT-DK</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../oroshaza">Orosháza</a></td><td class="grey lighten-2">Dr. Szabó Ervin - Jobbik / Fetser János - MSZP</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../oroshaza">Orosháza</a></td><td class="grey lighten-2">Dr. Orosz Ervin - Közösen Orosháza Városáért-JOBBIK-DK-MOMENTUM-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../oroszlany">Oroszlány</a></td><td class="blue darken-2 white-text">Lazók Zoltán - OLPK </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ozd">Ózd</a></td><td class="grey lighten-2">Janiczak Dávid - Ózdiakért és Ózdért Egyesület</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../paks">Paks</a></td><td>Heringes Anita - PDF (?)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../paks">Paks</a></td><td>Heringes Anita - PDF</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../papa">Pápa</a></td><td class="blue darken-2 white-text">Grőber Attila - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../pecel">Pécel</a></td><td class="blue darken-2 white-text">Szőllősi Ferenc - Független / Halázs Antal György / Karsai András / Papp László (???)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../pecel">Pécel</a></td><td class="blue darken-2 white-text">Szőllősi Ferenc - Független / Halázs Antal György / Karsai András / Papp László</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pilis">Pilis</a></td><td>Hajnal Csilla / Rabi-Rizmajer-Andrea / Schwarcz Péter</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pilisvorosvar">Pilisvörösvár</a></td><td class="blue darken-2 white-text">Gromon István - VÖRÖSVÁRÉRT KÖZÉLETI EGYESÜLET</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pomaz">Pomáz</a></td><td class="blue darken-2 white-text">Leidinger István - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../puspokladany">Püspökladány</a></td><td>Balázs Sándor - PÜSPÖKLADÁNY JÖVŐJÉÉRT EGYESÜL-VASÚTBARÁT ÉS ÉRTÉKŐR EGYESÜLE-JOBBIK / Kiss Zsigmond (?)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../puspokladany">Püspökladány</a></td><td>Balázs Sándor - PÜSPÖKLADÁNY JÖVŐJÉÉRT EGYESÜL-VASÚTBARÁT ÉS ÉRTÉKŐR EGYESÜLET-JOBBIK / Kiss Zsigmond - Mi Püspökladányért</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../rackeve">Ráckeve</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sajoszentpeter">Sajószentpéter</a></td><td>Dr. Faragó Péter - MSZP-DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sarbogard">Sárbogárd</a></td><td>Borbély Sándor - DK</td><td>---</td><td>---</td></tr>
