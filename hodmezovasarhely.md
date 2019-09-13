@@ -12,6 +12,27 @@ permalink: /hodmezovasarhely
 		  <h5>Hódmezővásárhely</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
+ <h5><strong>Az ellenzéki oldal közös jelöltje: Dr. Márki-Zay Péter</strong></h5>
+<br/>
+<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Becsült szavazatarány (százalék)</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Dr. Grezsa István</td>
+				   <td id="fidesz_mayor">xx%</td>
+			</tr>
+			<tr>
+			<td>Dr. Márki-Zay Péter - Tiszavásárhelyért Egyesület-MMM</td> 
+			<td id="ellenzek_mayor">xx%</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
 <br/>
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/hodmezovasarhely-20180225">2018. februári időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
