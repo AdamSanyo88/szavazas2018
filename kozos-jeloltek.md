@@ -67,11 +67,11 @@ permalink: /kozos-jeloltek
               </thead>
               <tbody>
 <tr><td><a href="../bekescsaba">Békéscsaba</a></td><td>Miklós Attila - MSZP-LMP-MMM / Dancsó Attila - Jobbik-DK-Párbeszéd</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../debrecen">Debrecen</a></td><td>Varga Zoltán - DK / Kőszeghy Csanád Ábel - Jobbik</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../debrecen">Debrecen</a></td><td>Varga Zoltán - DK-MSZP-PÁRBESZÉD-SZOLIDARITÁS / Kőszeghy Csanád Ábel - MOMENTUM-JOBBIK-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td class="grey lighten-2">Pintér Tamás - RAJTA ÚJVÁROS! EGYESÜLET</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../eger">Eger</a></td><td class="grey lighten-2">Mirkóczki Ádám - Egységben a Városért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../erd">Érd</a></td><td td class="blue darken-2 white-text">Csőzik László - LMP-JOBBIK-DK-MSZP-CÉL-MOMENTUM-MMM-PÁRBESZÉD-MLP</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyor">Győr</a></td><td class="light-blue accent-3 white-text">Glázer Tímea - DK</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyor">Győr</a></td><td class="light-blue accent-3 white-text">Glázer Tímea - DK-MOMENTUM-MSZP-JOBBIK-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td class="blue darken-2 white-text">Dr. Márki-Zay-Péter - MMM-Tiszta Vásárhelyért Egyesület </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kaposvar">Kaposvár</a></td><td class="blue darken-2 white-text">Horváth Ákos - Kaposváriakért Egyesület-DK-JOBBIK-LMP-MOMENTUM-MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td class="grey lighten-2">Lejer Zoltán - SZÖVETSÉG A HÍRÖS VÁROSÉRT</td><td>---</td><td>---</td></tr>
@@ -125,23 +125,23 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../cegled">Cegléd</a></td><td class="blue darken-2 white-text">Csáky András - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../celldomolk">Celldömölk</a></td><td>Fehér László - CSÖCE-ECVE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../csongrad">Csongrád</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../csorna">Csorna</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../csorna">Csorna</a></td><td>Kovácsné Varga Ildikó - DK-MOMENTUM-JOBBIK-MSZP-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dabas">Dabas</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td>Diósd</td><td>Bogó László - ÉLHETŐBB DIÓSDÉRT EGYESÜLET / Novákovics Ferenc - Független (??)</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../dombovar">Dombóvár</a></td><td class="blue darken-2 white-text">Szabó Lóránd - Független </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../dorog">Dorog</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../dombovar">Dombóvár</a></td><td class="blue darken-2 white-text">Szabó Lóránd - Természetesen Dombóvár </td><td>---</td><td>---</td></tr>
+<tr><td><a href="../dorog">Dorog</a></td><td>Dr. Tittmann János - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>Barabás Emőke / Dr. Szalay László</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunakeszi">Dunakeszi</a></td><td class="blue darken-2 white-text">Gerner Péter - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../esztergom">Esztergom</a></td><td class="blue darken-2 white-text">Cserép János - Szeretgom</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../fot">Fót</a></td><td>Merkwart Krisztián - Független (?)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../fot">Fót</a></td><td>Kohut Ákos - DK-MSZP-MMM-JOBBIK-SZOLIDARITÁS-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gardony">Gárdony</a></td><td>Eötvös Pál Árpád - DK-JOBBIK-LMP-MSZP-MMM-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../god">Göd</a></td><td class="purple lighten-3 white-text">Balogh Csaba - Momentum</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../godollo">Gödöllő</a></td><td class="blue darken-2 white-text">Gémesi György - GÖDÖLLŐI LOKÁLPATRIÓTA KLUB</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyal">Gyál</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyomaendrod">Gyomaendrőd</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyomro">Gyömrő</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyongyos">Gyöngyös</a></td><td class="blue darken-2 white-text">Hiesz György - DK-MOMENTUM-MSZP / Kevés Tamás - Jobbik</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyula">Gyula</a></td><td class="blue darken-2 white-text">Dévényi-Dabrowsky Géza - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../god">Göd</a></td><td class="purple lighten-3 white-text">Balogh Csaba - DK-JOBBIK-LMP-MMM-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../godollo">Gödöllő</a></td><td class="blue darken-2 white-text">Dr. Gémesi György - GÖDÖLLŐI LOKÁLPATRIÓTA KLUB</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyal">Gyál</a></td><td>Endre Dávid Bence - MSZP-DK-MOMENTUM</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyomaendrod">Gyomaendrőd</a></td><td>Toldi András / Márjalaki József</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyomro">Gyömrő</a></td><td>Gyenes Levente Zoltán - Jó Itt Élni Közösség / Horváth István Attila - HEGY</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyongyos">Gyöngyös</a></td><td class="blue darken-2 white-text">Hiesz György - DK-MOMENTUM-MSZP / Kévés Tamás - JOBBIK</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyula">Gyula</a></td><td class="blue darken-2 white-text">Galbács Mihály - MMM / Leel-Őssy Gábor - DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduboszormeny">Hajdúböszörmény</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduhadhaz">Hajdúhadház</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajdunanas">Hajdúnánás</a></td><td>---</td><td>---</td><td>---</td></tr>
