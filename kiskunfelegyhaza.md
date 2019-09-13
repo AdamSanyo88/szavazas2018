@@ -12,6 +12,27 @@ permalink: /kiskunfelegyhaza
 		  <h5>Kiskunfélegyháza</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
+ <h5><strong>Az ellenzéki oldal közös jelöltje: Kolossai János</strong></h5>
+<br/>
+<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Becsült szavazatarány (százalék)</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Csányi József - Nemzeti Fórum</td>
+				   <td id="fidesz_mayor">xx%</td>
+			</tr>
+			<tr>
+			<td>Kolossai János - Veled a Városunkért Egyesület</td> 
+			<td id="ellenzek_mayor">xx%</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
 <br/>
 <h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M03/T065/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
  <div id="chart_div_onkor_2014" style="width: 100%"></div>

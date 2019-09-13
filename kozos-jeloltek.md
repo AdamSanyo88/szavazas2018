@@ -73,7 +73,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../erd">Érd</a></td><td td class="blue darken-2 white-text">Csőzik László - LMP-JOBBIK-DK-MSZP-CÉL-MOMENTUM-MMM-PÁRBESZÉD-MLP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td class="light-blue accent-3 white-text">Glázer Tímea - DK-MOMENTUM-MSZP-JOBBIK-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td class="blue darken-2 white-text">Dr. Márki-Zay-Péter - Tiszavásárhelyért Egyesület-MMM </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kaposvar">Kaposvár</a></td><td class="blue darken-2 white-text">Horváth Ákos - Kaposváriakért Egyesület-DK-JOBBIK-LMP-MOMENTUM-MSZP</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kaposvar">Kaposvár</a></td><td class="blue darken-2 white-text">Horváth Ákos Ervin- Kaposváriakért Egyesület-DK-JOBBIK-LMP-MOMENTUM-MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td class="grey lighten-2">Lejer Zoltán - SZÖVETSÉG A HÍRÖS VÁROSÉRT</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../miskolc">Miskolc</a></td><td class="blue darken-2 white-text">Veres Pál - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../nagykanizsa">Nagykanizsa</a></td><td class="blue darken-2 white-text">Hári Tibor - ÉVE-DK-JOBBIK-MSZP-LMP-MOMENTUM</td><td>---</td><td>---</td></tr>
@@ -152,14 +152,15 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../heves">Heves</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../isaszeg">Isaszeg</a></td><td class="blue darken-2 white-text">Hatvani Miklós - ISASZEGI ÁPRILIS 6. KÖR</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../jaszbereny">Jászberény</a></td><td class="grey lighten-2">Budai Lóránt - Közösen Jászberényért Egyesület</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kalocsa">Kalocsa</a></td><td class="blue darken-2 white-text">Bolvári Ferdinánd - Független (?) / Bagó Zoltán / Faragó László (??)</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kapuvar">Kapuvár</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kalocsa">Kalocsa</a></td><td class="blue darken-2 white-text">Bolvári Ferdinánd - B-KE</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kapuvar">Kapuvár</a></td><td>Füzi József - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../karcag">Karcag</a></td><td>Dr. Lukács László György - Jobbik</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kazincbarcika">Kazincbarcika</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kerepes">Kerepes</a></td><td class="blue darken-2 white-text">Springer Friedrich - Független / Mészáros István - Független (?)</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../keszthely">Keszthely</a></td><td class="blue darken-2 white-text">Czuth Zoltán László</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kerepes">Kerepes</a></td><td class="blue darken-2 white-text">Vig János - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD
+</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../keszthely">Keszthely</a></td><td class="blue darken-2 white-text">Czuth Zoltán László - KÉVE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunfelegyhaza">Kiskunfélegyháza</a></td><td>Kolossai János - Veled a Városunkért Egyesület</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../kiskunhalas">Kiskunhalas</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../kiskunhalas">Kiskunhalas</a></td><td>Rétfalvi Józsefné - MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskunmajsa">Kiskunmajsa</a></td><td class="blue darken-2 white-text">Faludi Tamás - EKE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kiskoros">Kiskőrös</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kistarcsa">Kistarcsa</a></td><td class="grey lighten-2">Dőringer Károly - Jobbik</td><td>---</td><td>---</td></tr>
