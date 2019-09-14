@@ -225,7 +225,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../torokbalint">Törökbálint</a></td><td>Dr. Szentmiklósi-Tóth Tamás - MSZP-MLP-PÁRBESZÉD-SZOLIDARITÁS</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../torokszentmiklos">Törökszentmiklós</a></td><td class="grey lighten-2">Markót Imre - OTTHONUNK SZENTMIKLÓS EGYESÜLET</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ujfeherto">Újfehértó</a></td><td>Nagy Sándor - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../ullo">Üllő</a></td><td>Kissné Szabó Katalin - Független (?)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../ullo">Üllő</a></td><td>Kissné Szabó Katalin / Fricskovszky-Tóth Péter</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../vac">Vác</a></td><td class="blue darken-2 white-text">Matkovich Ilona - MOMENTUM-DK-Vácért Lokálpatrióta Egyesület-JOBBIK-LMP-Szavad Egyesület-MMM-MSZP-PÁRBESZÉD </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../varpalota">Várpalota</a></td><td class="blue darken-2 white-text">Borsik Ákos - DK-JOBBIK-MSZP-PÁRBESZÉD-MOMENTUM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../vecses">Vecsés</a></td><td>>Dr. Vonnák Iván Péter - MSZP / Pintér Sándor - MOMENTUM-LMP</td><td>---</td><td>---</td></tr>
