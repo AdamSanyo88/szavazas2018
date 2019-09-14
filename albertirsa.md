@@ -12,7 +12,7 @@ permalink: /albertirsa
 		  <h5>Albertirsa</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>Az ellenzéki oldal közös jelöltje: Gergely Norbert / Fazekas László</strong></h5>
+ <h5><strong>Az ellenzéki oldal közös jelöltje: Gergely Norbert</strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -27,7 +27,7 @@ permalink: /albertirsa
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Fazekas László - Független / Gergely Norbert - CÉL-TVNEt</td> 
+			<td>Gergely Norbert - CÉL-TVNE</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

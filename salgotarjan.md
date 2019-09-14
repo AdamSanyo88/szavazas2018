@@ -12,6 +12,27 @@ permalink: /salgotarjan
 		  <h5>Salgótarján</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
+ <h5><strong>Az ellenzéki oldal közös jelöltje: Fekete Zsolt </strong></h5>
+<br/>
+<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Becsült szavazatarány (százalék)</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Szabó Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">xx%</td>
+			</tr>
+			<tr>
+			<td>Fekete Zsolt - SSZE-DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-TVE</td> 
+			<td id="ellenzek_mayor">xx%</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
 		  
 <h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/salgotarjan-20160228">2016. februári időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
