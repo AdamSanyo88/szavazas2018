@@ -105,7 +105,7 @@ permalink: /kozos-jeloltek
                 </tr>
               </thead>
               <tbody>
-<tr><td><a href="../abony">Abony</a></td><td>Pető Zsolt - VFE / Guti Tivadar - Független (?)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../abony">Abony</a></td><td>Pető Zsolt - VFE / Guti Tivadar - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ajka">Ajka</a></td><td class="red lighten-2 white-text">Schwartz Béla - Közösen Ajkáért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../albertirsa">Albertirsa</a></td><td class="blue darken-2 white-text">Gergely Norbert - CÉL-TVNE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../baja">Baja</a></td><td class="purple lighten-3 white-text">Nyitrai Klára - Sikeres Bajáért</td><td>---</td><td>---</td></tr>
