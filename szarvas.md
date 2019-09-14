@@ -12,7 +12,7 @@ permalink: /szarvas
 		  <h5>Szarvas</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>Az ellenzéki oldal közös jelöltje: Csanádi László - NACSE </strong></h5>
+ <h5><strong>Az ellenzéki oldal közös jelöltje: Pártai Lucia </strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -27,7 +27,7 @@ permalink: /szarvas
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>FCsanádi László - NACSE</td> 
+			<td>Pártai Lucia - Független</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

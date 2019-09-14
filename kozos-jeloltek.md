@@ -206,7 +206,7 @@ permalink: /kozos-jeloltek
 
 <tr><td><a href="../siofok">Siófok</a></td><td class="blue darken-2 white-text">Lengyel Róbert - BSE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../solymar">Solymár</a></td><td>Bárány Balázs - Budakörnyék Fejlődéséért Egyesület</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../szarvas">Szarvas</a></td><td>Csanádi László - NACSE</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szarvas">Szarvas</a></td><td>Pártai Lucia - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szazhalombatta">Százhalombatta</a></td><td class="blue darken-2 white-text">Mánya Zsolt - A Mi Városunk Jövőjéért-DK-MOMENTUM-JOBBIK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szentendre">Szentendre</a></td><td class="blue darken-2 white-text">Fülöp Zsolt - TESZ</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szentes">Szentes</a></td><td class="grey lighten-2">Szabó Zoltán Ferenc - Jövőnk Szentes Egyesület</td><td>---</td><td>---</td></tr>
