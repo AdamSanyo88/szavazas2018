@@ -228,7 +228,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../ullo">Üllő</a></td><td>Kissné Szabó Katalin / Fricskovszky-Tóth Péter</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../vac">Vác</a></td><td class="blue darken-2 white-text">Matkovich Ilona - MOMENTUM-DK-Vácért Lokálpatrióta Egyesület-JOBBIK-LMP-Szavad Egyesület-MMM-MSZP-PÁRBESZÉD </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../varpalota">Várpalota</a></td><td class="blue darken-2 white-text">Borsik Ákos - DK-JOBBIK-MSZP-PÁRBESZÉD-MOMENTUM</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../vecses">Vecsés</a></td><td>>Dr. Vonnák Iván Péter - MSZP / Pintér Sándor - MOMENTUM-LMP</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../vecses">Vecsés</a></td><td>Dr. Vonnák Iván Péter - MSZP / Pintér Sándor - MOMENTUM-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../veresegyhaz">Veresegyház</a></td><td class="blue darken-2 white-text">Pásztor Béla - Független </td><td>---</td><td>---</td></tr>
 
 </tbody>  
