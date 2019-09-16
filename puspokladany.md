@@ -12,7 +12,7 @@ permalink: /puspokladany
 		  <h5>Püspökladány</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
-  <h5><strong>A Fidesz jelöltjének kihívója: Balázs Sándor / Kiss Zsigmond</strong></h5>
+  <h5><strong>A Fidesz jelöltjének kihívója: Balázs Sándor</strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -27,7 +27,7 @@ permalink: /puspokladany
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Balázs Sándor - PÜSPÖKLADÁNY JÖVŐJÉÉRT EGYESÜL-VASÚTBARÁT ÉS ÉRTÉKŐR EGYESÜLET-JOBBIK / Kiss Zsigmond - Mi Püspökladányért</td> 
+			<td>Balázs Sándor - PÜSPÖKLADÁNY JÖVŐJÉÉRT EGYESÜL-VASÚTBARÁT ÉS ÉRTÉKŐR EGYESÜLET-JOBBIK</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

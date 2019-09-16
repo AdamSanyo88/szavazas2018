@@ -27,7 +27,7 @@ permalink: /pilis
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>JHajnal Csilla / Rabi-Rizmajer-Andrea / Schwarcz Péter</td> 
+			<td>Hajnal Csilla / Rabi-Rizmajer-Andrea / Schwarcz Péter / Kerezsán László - DK</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

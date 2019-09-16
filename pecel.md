@@ -23,11 +23,11 @@ permalink: /pecel
               </thead>
               <tbody>
              <tr>
-                   <td>--- <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>--- </td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>---</td> 
+			<td>Szöllősi Ferenc - 2119 EGYESÜLET / Horváth Tibor - Közösség Pécelért Egyesület</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

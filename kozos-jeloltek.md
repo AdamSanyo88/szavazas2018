@@ -105,9 +105,9 @@ permalink: /kozos-jeloltek
                 </tr>
               </thead>
               <tbody>
-<tr><td><a href="../abony">Abony</a></td><td>Pető Zsolt - VFE / Guti Tivadar - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../abony">Abony</a></td><td>Pető Zsolt - VFE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ajka">Ajka</a></td><td class="red lighten-2 white-text">Schwartz Béla - Közösen Ajkáért Egyesület</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../albertirsa">Albertirsa</a></td><td class="blue darken-2 white-text">Gergely Norbert - CÉL-TVNE</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../albertirsa">Albertirsa</a></td><td class="blue darken-2 white-text">Fazekas László - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../baja">Baja</a></td><td class="purple lighten-3 white-text">Nyitrai Klára - Sikeres Bajáért</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../balassagyarmat">Balassagyarmat</a></td><td>Gyenes Szilárd - SZAB</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../balatonfured">Balatonfüred</a></td><td>---</td><td>---</td><td>---</td></tr>
@@ -116,21 +116,21 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../batonyterenye">Bátonyterenye</a></td><td class="grey lighten-2">Cseresznyés István - JoBBIK-DK-MOMENTUM-LMP-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bekes">Békés</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../berettyoujfalu">Berettyóújfalu</a></td><td class="blue darken-2 white-text">dr. Zákány Zsolt - MMM</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../biatorbagy">Biatorbágy</a></td><td class="blue darken-2 white-text">Makranczi László - Szövetség Biatorbágyért Egyesület</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../biatorbagy">Biatorbágy</a></td><td class="blue darken-2 white-text">Molnár Tibor - BFE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bicske">Bicske</a></td><td>Molnár Dániel - DK-JOBBIK-MMM-MOMENTUM-MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../bonyhad">Bonyhád</a></td><td>Gecséné Dr. Slárku Szilvia - Egységben a Városunkért</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budakalasz">Budakalász</a></td><td>Dr. Göbl Richárd - 2011 Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budakeszi">Budakeszi</a></td><td>Hegyesi Adrien Beáta - Budakörnyék Fejlődéséért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../budaors">Budaörs</a></td><td class="blue darken-2 white-text">Wittinghoff Tamás - Budakörnyék Fejlődéséért Egyesület </td><td>---</td><td>---</td></tr>
-<tr><td><a href="../cegled">Cegléd</a></td><td class="blue darken-2 white-text">Csáky András - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../cegled">Cegléd</a></td><td class="blue darken-2 white-text">Dr. Csáky András - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../celldomolk">Celldömölk</a></td><td>Fehér László - CSÖCE-ECVE</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../csongrad">Csongrád</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../csongrad">Csongrád</a></td><td>Bedő Tamás - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../csorna">Csorna</a></td><td>Kovácsné Varga Ildikó - DK-MOMENTUM-JOBBIK-MSZP-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dabas">Dabas</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../diosd">Diósd</a></td><td>Bogó László - ÉLHETŐBB DIÓSDÉRT EGYESÜLET / Novákovics Ferenc - Független (??)</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dombovar">Dombóvár</a></td><td class="blue darken-2 white-text">Szabó Lóránd - Természetesen Dombóvár </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dorog">Dorog</a></td><td>Dr. Tittmann János - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>Barabás Emőke / Dr. Szalay László</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>Barabás Emőke - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunakeszi">Dunakeszi</a></td><td class="blue darken-2 white-text">Gerner Péter - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../esztergom">Esztergom</a></td><td class="blue darken-2 white-text">Cserép János - Szeretgom</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../fot">Fót</a></td><td>Kohut Ákos - DK-MSZP-MMM-JOBBIK-SZOLIDARITÁS-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
@@ -138,7 +138,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../god">Göd</a></td><td class="purple lighten-3 white-text">Balogh Csaba - DK-JOBBIK-LMP-MMM-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../godollo">Gödöllő</a></td><td class="blue darken-2 white-text">Dr. Gémesi György - GÖDÖLLŐI LOKÁLPATRIÓTA KLUB</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyal">Gyál</a></td><td>Endre Dávid Bence - MSZP-DK-MOMENTUM</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyomaendrod">Gyomaendrőd</a></td><td>Toldi András / Márjalaki József</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyomaendrod">Gyomaendrőd</a></td><td>Toldi Balázs/ Márjalaki József</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyomro">Gyömrő</a></td><td>Horváth István Attila - HEGY</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyongyos">Gyöngyös</a></td><td class="blue darken-2 white-text">Hiesz György - DK-MOMENTUM-MSZP / Kévés Tamás - JOBBIK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyula">Gyula</a></td><td class="blue darken-2 white-text">Galbács Mihály - MMM / Leel-Őssy Gábor - DK</td><td>---</td><td>---</td></tr>
@@ -149,7 +149,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../hajduszoboszlo">Hajdúszoboszló</a></td><td class="blue darken-2 white-text">Holoda Attila - Összefogás Hajdúszoboszlóért-PÁRBESZÉD-MOMENTUM-MSZP-DK-SZOLIDARITÁS-MMM-JOBBIK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../halasztelek">Halásztelek</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hatvan">Hatvan</a></td><td>Palik Józsefné - Együtt Hatvanért Egyesület</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../heves">Heves</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../heves">Heves</a></td><td>Sallai Gábor - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../isaszeg">Isaszeg</a></td><td class="blue darken-2 white-text">Hatvani Miklós - ISASZEGI ÁPRILIS 6. KÖR</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../jaszbereny">Jászberény</a></td><td class="grey lighten-2">Budai Lóránt - Közösen Jászberényért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../kalocsa">Kalocsa</a></td><td class="blue darken-2 white-text">Bolvári Ferdinánd - B-KE</td><td>---</td><td>---</td></tr>
@@ -175,7 +175,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../mako">Makó</a></td><td>Mucsi Tamás - VKKP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../marcali">Marcali</a></td><td class="blue darken-2 white-text">Dr. Sütő László - MOTTE </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../mateszalka">Mátészalka</a></td><td class="blue darken-2 white-text">Vékony Miklós - TESZ Mátészalka</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../mezobereny">Mezőberény</a></td><td>Csollár Norbert / Siklósi István - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../mezobereny">Mezőberény</a></td><td>Csollár Norbert - Független / Siklósi István - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../mezokovesd">Mezőkövesd</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../mezotur">Mezőtúr</a></td><td>Dr. Siposné Varga Ildikó - TEKE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../mohacs">Mohács</a></td><td>Csorbai Ferenc - MSZP </td><td>---</td><td>---</td></tr>
@@ -191,11 +191,11 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../ozd">Ózd</a></td><td class="grey lighten-2">Janiczak Dávid - Ózdiakért és Ózdért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../paks">Paks</a></td><td>Heringes Anita - PDF</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../papa">Pápa</a></td><td class="blue darken-2 white-text">Grőber Attila - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../pecel">Pécel</a></td><td class="blue darken-2 white-text">Szőllősi Ferenc - Független / Halázs Antal György / Karsai András / Papp László</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../pilis">Pilis</a></td><td>Hajnal Csilla / Rabi-Rizmajer-Andrea / Schwarcz Péter</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../pecel">Pécel</a></td><td class="blue darken-2 white-text">Szöllősi Ferenc - 2119 EGYESÜLET / Horváth Tibor - Közösség Pécelért Egyesület</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../pilis">Pilis</a></td><td>Hajnal Csilla / Rabi-Rizmajer-Andrea / Schwarcz Péter / Kerezsán László - DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pilisvorosvar">Pilisvörösvár</a></td><td class="blue darken-2 white-text">Gromon István - VÖRÖSVÁRÉRT KÖZÉLETI EGYESÜLET</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../pomaz">Pomáz</a></td><td class="blue darken-2 white-text">Leidinger István - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../puspokladany">Püspökladány</a></td><td>Balázs Sándor - PÜSPÖKLADÁNY JÖVŐJÉÉRT EGYESÜL-VASÚTBARÁT ÉS ÉRTÉKŐR EGYESÜLET-JOBBIK / Kiss Zsigmond - Mi Püspökladányért</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../puspokladany">Püspökladány</a></td><td>Balázs Sándor - PÜSPÖKLADÁNY JÖVŐJÉÉRT EGYESÜL-VASÚTBARÁT ÉS ÉRTÉKŐR EGYESÜLET-JOBBIK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../rackeve">Ráckeve</a></td><td>Simon Balázs - DK / Vereckei Zoltán - KEVE Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sajoszentpeter">Sajószentpéter</a></td><td>Dr. Faragó Péter - MSZP-DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../sarbogard">Sárbogárd</a></td><td>Borbély Sándor - DK</td><td>---</td><td>---</td></tr>
@@ -215,13 +215,13 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szigetvar">Szigetvár</a></td><td class="blue darken-2 white-text">Dr. Vass Péter - Szigetvárért Tisztességgel Egyesület </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tapolca">Tapolca</a></td><td>Dobó Zoltán - Egységben Tapolczáért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tata">Tata</a></td><td class="blue darken-2 white-text">Dr. Popovics Judit - DK-JOBBIK-MSZP-MOMENTUM</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../tiszafoldvar">Tiszaföldvár</a></td><td>Hegedűs István - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../tiszafoldvar">Tiszaföldvár</a></td><td>Hegedűs István - Független / Soós Antal - Földvári Patrióták</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tiszafured">Tiszafüred</a></td><td class="blue darken-2 white-text">Spisák György - MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tiszakecske">Tiszakécske</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tiszaujvaros">Tiszaújváros</a></td><td>Dr. Fülöp György - Tiszaújvárosi Lokálpatrióták-MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tiszavasvari">Tiszavasvári</a></td><td>Dr. Kiss Krisztián - KÖTE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tokol">Tököl</a></td><td>Farkas Zsuzsanna - CIVIL KONTROLL</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../tolna">Tolna</a></td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../tolna">Tolna</a></td><td>Virányi Mihály / Balogh Zoltán / Hajdu Sándor</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../torokbalint">Törökbálint</a></td><td>Dr. Szentmiklósi-Tóth Tamás - MSZP-MLP-PÁRBESZÉD-SZOLIDARITÁS</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../torokszentmiklos">Törökszentmiklós</a></td><td class="grey lighten-2">Markót Imre - OTTHONUNK SZENTMIKLÓS EGYESÜLET</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ujfeherto">Újfehértó</a></td><td>Nagy Sándor - Független</td><td>---</td><td>---</td></tr>

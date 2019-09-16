@@ -23,7 +23,7 @@ permalink: /bekes
               </thead>
               <tbody>
              <tr>
-                   <td> - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Kálmán Tibor - Fidesz-KDNP-Jobboldali Összefogás Békésért <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>

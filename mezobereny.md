@@ -23,11 +23,11 @@ permalink: /mezobereny
               </thead>
               <tbody>
              <tr>
-                   <td>Juhász István - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>--- </td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Csollár Norbert / Siklósi István - Független</td> 
+			<td>Siklósi István - Független / Csollár Norbert - Független</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

@@ -12,7 +12,7 @@ permalink: /csongrad
 		  <h5>Csongrád</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>A Fidesz jelöltjének kihívója: ---  </strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Bedő Tamás</strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -23,11 +23,11 @@ permalink: /csongrad
               </thead>
               <tbody>
              <tr>
-                   <td>--- - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Csák Ambrus - Független</td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>- </td> 
+			<td>Bedő Tamás - Független</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

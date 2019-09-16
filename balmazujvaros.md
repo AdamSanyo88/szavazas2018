@@ -27,7 +27,7 @@ permalink: /balmazujvaros
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Hegedűs Péter - Független</td> 
+			<td>Hegedüs Péter - Független</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>
@@ -48,9 +48,9 @@ permalink: /balmazujvaros
               </thead>
               <tbody>
              <tr>
-                   <td>Nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td>-</td>
-				   <td>-</td>
+                   <td>Nagy Tamás - Független</td>
+				   <td>44.3%</td>
+				   <td>1,709</td>
 			</tr>
 			<tr>
 			<td>Hegedüs Péter - Független</td> 

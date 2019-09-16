@@ -27,7 +27,7 @@ permalink: /monor
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>---</td> 
+			<td>Nincs jelölt</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

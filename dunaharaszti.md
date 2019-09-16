@@ -12,7 +12,7 @@ permalink: /dunaharaszti
 		  <h5>Dunaharaszti</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>A Fidesz jelöltjének kihívója: Barabás Emőke / Dr. Szalay László </strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Barabás Emőke </strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -23,11 +23,11 @@ permalink: /dunaharaszti
               </thead>
               <tbody>
              <tr>
-                   <td>---</td>
+                   <td>Dr. Szalay László - Független</td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Barabás Emőke / Dr. Szalay László</td> 
+			<td>Barabás Emőke - Független </td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>
@@ -49,7 +49,7 @@ permalink: /dunaharaszti
               </thead>
               <tbody>
              <tr>
-                   <td>nem indult - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>---</td>
 				   <td id="fidesz_mayor">-</td>
 				   <td id="fidesz_mayor2">-</td>
 			</tr>

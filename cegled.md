@@ -12,7 +12,7 @@ permalink: /cegled
 		  <h5>Cegléd</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>A Fidesz jelöltjének kihívója: Csáky András  </strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Dr. Csáky András  </strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -27,7 +27,7 @@ permalink: /cegled
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Csáky András - Független</td> 
+			<td>Dr. Csáky András - Független</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

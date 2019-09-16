@@ -23,11 +23,11 @@ permalink: /maglod
               </thead>
               <tbody>
              <tr>
-                   <td>---</td>
+                   <td>Tabányi Pál - Független</td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Tabányi Pál - Független</td> 
+			<td>---</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

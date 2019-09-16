@@ -27,8 +27,7 @@ permalink: /kerepes
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Vig János - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD
-</td> 
+			<td>Vig János - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>
