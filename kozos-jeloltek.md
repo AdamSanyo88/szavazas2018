@@ -210,7 +210,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szazhalombatta">Százhalombatta</a></td><td class="blue darken-2 white-text">Mánya Zsolt - A Mi Városunk Jövőjéért-DK-MOMENTUM-JOBBIK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szentendre">Szentendre</a></td><td class="blue darken-2 white-text">Fülöp Zsolt - TESZ</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szentes">Szentes</a></td><td class="grey lighten-2">Szabó Zoltán Ferenc - Jövőnk Szentes Egyesület</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../szigethalom">Szigethalom</a></td>Fáki László - ÖSSZE<td></td><td>---</td><td>---</td></tr>
+<tr><td><a href="../szigethalom">Szigethalom</a></td><td>Fáki László - ÖSSZE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szigetszentmiklos">Szigetszentmiklós</a></td><td class="blue darken-2 white-text">Nagy János - DK-MOMENTUM-JOBBIK-MSZP-LMP-MMM </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szigetvar">Szigetvár</a></td><td class="blue darken-2 white-text">Dr. Vass Péter - Szigetvárért Tisztességgel Egyesület </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tapolca">Tapolca</a></td><td>Dobó Zoltán - Egységben Tapolczáért Egyesület</td><td>---</td><td>---</td></tr>
