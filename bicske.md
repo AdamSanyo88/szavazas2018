@@ -27,7 +27,7 @@ permalink: /bicske
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>>Molnár Dániel - DK-JOBBIK-MMM-MOMENTUM-MSZP</td> 
+			<td>Molnár Dániel - DK-JOBBIK-MMM-MOMENTUM-MSZP</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

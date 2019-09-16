@@ -23,7 +23,7 @@ permalink: /budapest23
               </thead>
               <tbody>
              <tr>
-                   <td>--- - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Bese Ferenc - Független</td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>

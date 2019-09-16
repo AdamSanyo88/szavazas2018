@@ -127,7 +127,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../csongrad">Csongrád</a></td><td>Bedő Tamás - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../csorna">Csorna</a></td><td>Kovácsné Varga Ildikó - DK-MOMENTUM-JOBBIK-MSZP-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dabas">Dabas</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../diosd">Diósd</a></td><td>Bogó László - ÉLHETŐBB DIÓSDÉRT EGYESÜLET / Novákovics Ferenc - Független (??)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../diosd">Diósd</a></td><td>Bogó László - Élhetőbb Diósdért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dombovar">Dombóvár</a></td><td class="blue darken-2 white-text">Szabó Lóránd - Természetesen Dombóvár </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dorog">Dorog</a></td><td>Dr. Tittmann János - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>Barabás Emőke - Független</td><td>---</td><td>---</td></tr>

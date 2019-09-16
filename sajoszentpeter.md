@@ -27,7 +27,7 @@ permalink: /sajoszentpeter
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Dr. Faragó Péter- MSZP-DK</td> 
+			<td>Dr. Faragó Péter - MSZP-DK</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>
