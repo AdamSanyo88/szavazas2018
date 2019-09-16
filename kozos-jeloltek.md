@@ -86,7 +86,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szekszard">Szekszárd</a></td><td class="blue darken-2 white-text">Bomba Gábor László - ÉSZ</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td class="blue darken-2 white-text">Radócz Zoltán - MOMENTUM-DK-LMP-JOBBIK-MSZP-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szombathely">Szombathely</a></td><td class="red lighten-2 white-text">Dr. Nemény András - Éljen Szombathely! Egyesület-MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP-MKKP-SZOLIRDARITÁS-MMM</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../tatabanya">Tatabánya</a></td><td class="blue darken-2 white-text">Szűcsné Posztovics Ilona - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../tatabanya">Tatabánya</a></td><td class="blue darken-2 white-text">Szücsné Posztovics Ilona - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../veszprem">Veszprém</a></td><td class="light-blue accent-3 white-text">Katanics Sándor - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td class="light-blue accent-3 white-text">Keresztes Csaba - Tiéd a Város Egyesület-DK-JOBBIK-LMP-MSZP-MOMENTUM</td><td>---</td><td>---</td></tr>
 
