@@ -127,7 +127,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../csongrad">Csongrád</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../csorna">Csorna</a></td><td>Kovácsné Varga Ildikó - DK-MOMENTUM-JOBBIK-MSZP-LMP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dabas">Dabas</a></td><td>---</td><td>---</td><td>---</td></tr>
-<tr><td>Diósd</td><td>Bogó László - ÉLHETŐBB DIÓSDÉRT EGYESÜLET / Novákovics Ferenc - Független (??)</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../diosd">Diósd</a></td><td>Bogó László - ÉLHETŐBB DIÓSDÉRT EGYESÜLET / Novákovics Ferenc - Független (??)</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dombovar">Dombóvár</a></td><td class="blue darken-2 white-text">Szabó Lóránd - Természetesen Dombóvár </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dorog">Dorog</a></td><td>Dr. Tittmann János - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>Barabás Emőke / Dr. Szalay László</td><td>---</td><td>---</td></tr>
@@ -147,7 +147,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../hajdunanas">Hajdúnánás</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajdusamson">Hajdúsámson</a></td><td>Tóth János - ESHE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduszoboszlo">Hajdúszoboszló</a></td><td class="blue darken-2 white-text">Holoda Attila - Összefogás Hajdúszoboszlóért-PÁRBESZÉD-MOMENTUM-MSZP-DK-SZOLIDARITÁS-MMM-JOBBIK</td><td>---</td><td>---</td></tr>
-<tr><td>Halásztelek</td><td>---</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../halasztelek">Halásztelek</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hatvan">Hatvan</a></td><td>Palik Józsefné - Együtt Hatvanért Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../heves">Heves</a></td><td>---</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../isaszeg">Isaszeg</a></td><td class="blue darken-2 white-text">Hatvani Miklós - ISASZEGI ÁPRILIS 6. KÖR</td><td>---</td><td>---</td></tr>
