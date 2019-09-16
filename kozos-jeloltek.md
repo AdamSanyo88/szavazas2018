@@ -87,7 +87,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szolnok">Szolnok</a></td><td class="blue darken-2 white-text">Radócz Zoltán - MOMENTUM-DK-LMP-JOBBIK-MSZP-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../szombathely">Szombathely</a></td><td class="red lighten-2 white-text">Dr. Nemény András - Éljen Szombathely! Egyesület-MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP-MKKP-SZOLIRDARITÁS-MMM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tatabanya">Tatabánya</a></td><td class="blue darken-2 white-text">Szűcsné Posztovics Ilona - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../veszprem">Veszprém</a></td><td class="light-blue accent-3 white-text">Katanics Sándor - DK</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../veszprem">Veszprém</a></td><td class="light-blue accent-3 white-text">Katanics Sándor - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td class="light-blue accent-3 white-text">Keresztes Csaba - Tiéd a Város Egyesület-DK-JOBBIK-LMP-MSZP-MOMENTUM</td><td>---</td><td>---</td></tr>
 
 </tbody>  
@@ -139,7 +139,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../godollo">Gödöllő</a></td><td class="blue darken-2 white-text">Dr. Gémesi György - GÖDÖLLŐI LOKÁLPATRIÓTA KLUB</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyal">Gyál</a></td><td>Endre Dávid Bence - MSZP-DK-MOMENTUM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyomaendrod">Gyomaendrőd</a></td><td>Toldi András / Márjalaki József</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../gyomro">Gyömrő</a></td><td>Gyenes Levente Zoltán - Jó Itt Élni Közösség / Horváth István Attila - HEGY</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../gyomro">Gyömrő</a></td><td>Horváth István Attila - HEGY</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyongyos">Gyöngyös</a></td><td class="blue darken-2 white-text">Hiesz György - DK-MOMENTUM-MSZP / Kévés Tamás - JOBBIK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../gyula">Gyula</a></td><td class="blue darken-2 white-text">Galbács Mihály - MMM / Leel-Őssy Gábor - DK</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../hajduboszormeny">Hajdúböszörmény</a></td><td>Erdős László - DK-MSZP</td><td>---</td><td>---</td></tr>
@@ -225,7 +225,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../torokbalint">Törökbálint</a></td><td>Dr. Szentmiklósi-Tóth Tamás - MSZP-MLP-PÁRBESZÉD-SZOLIDARITÁS</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../torokszentmiklos">Törökszentmiklós</a></td><td class="grey lighten-2">Markót Imre - OTTHONUNK SZENTMIKLÓS EGYESÜLET</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ujfeherto">Újfehértó</a></td><td>Nagy Sándor - Független</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../ullo">Üllő</a></td><td>Kissné Szabó Katalin / Fricskovszky-Tóth Péter</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../ullo">Üllő</a></td><td>Fricskovszky-Tóth Péter - Üllő Te Vagy</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../vac">Vác</a></td><td class="blue darken-2 white-text">Matkovich Ilona - MOMENTUM-DK-Vácért Lokálpatrióta Egyesület-JOBBIK-LMP-Szavad Egyesület-MMM-MSZP-PÁRBESZÉD </td><td>---</td><td>---</td></tr>
 <tr><td><a href="../varpalota">Várpalota</a></td><td class="blue darken-2 white-text">Borsik Ákos - DK-JOBBIK-MSZP-PÁRBESZÉD-MOMENTUM</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../vecses">Vecsés</a></td><td>Dr. Vonnák Iván Péter - MSZP / Pintér Sándor - MOMENTUM-LMP</td><td>---</td><td>---</td></tr>

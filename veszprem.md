@@ -12,7 +12,7 @@ permalink: /veszprem
 		  <h5>Veszprém</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>Az ellenzéki oldal közös jelöltje: Katanics Sándor </strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Katanics Sándor </strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -27,7 +27,7 @@ permalink: /veszprem
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Katanics Sándor - DK</td> 
+			<td>Katanics Sándor - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

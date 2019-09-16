@@ -12,7 +12,7 @@ permalink: /gyomro
 		  <h5>Gyömrő</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>Az ellenzéki oldal közös jelöltje: Gyenes Levente Zoltán / Horváth István Attila</strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Horváth István Attila</strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -27,7 +27,7 @@ permalink: /gyomro
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Gyenes Levente Zoltán - Jó Itt Élni Közösség / Horváth István Attila - HEGY</td> 
+			<td>Horváth István Attila - HEGY</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

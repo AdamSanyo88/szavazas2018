@@ -12,7 +12,7 @@ permalink: /erd
 		  <h5>Érd</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>Az ellenzéki oldal közös jelöltje: Csőzik László</strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Csőzik László</strong></h5>
 <br/>
 <table class="striped">
               <thead>
