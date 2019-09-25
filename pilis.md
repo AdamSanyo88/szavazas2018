@@ -50,13 +50,13 @@ permalink: /pilis
               <tbody>
              <tr>
                    <td>Szabó Márton Elemér - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">32.7%</td>
-				   <td id="fidesz_mayor2">1,014</td>
+				   <td id="fidesz_mayor">26.8%</td>
+				   <td id="fidesz_mayor2">833</td>
 			</tr>
 			<tr>
 			<td>Simó Gábor Csabáné - PILISVÁLLALKOZÓK</td> 
-			<td id="ellenzek_mayor">26.8%</td>
-			<td id="ellenzek_mayor2">833</td>
+			<td id="ellenzek_mayor">32.7%</td>
+			<td id="ellenzek_mayor2">1,014</td>
 			</tr>
               </tbody>
             </table>

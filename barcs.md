@@ -12,7 +12,7 @@ permalink: /barcs
 		  <h5>Barcs</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>A Fidesz jelöltjének kihívója: Anderné Röszler Erika / Horváth József Tibor </strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Anderné Röszler Erika</strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -27,7 +27,7 @@ permalink: /barcs
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Anderné Röszler Erika - BÉKE EGYESÜLET-JOBBIK-DSE-MMM-LMP-MOMENTUM / Horváth József Tibor - Barcsért Egyesület</td> 
+			<td>Anderné Röszler Erika - BÉKE EGYESÜLET-JOBBIK-DSE-MMM-LMP-MOMENTUM</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>
