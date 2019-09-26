@@ -34,7 +34,7 @@ permalink: /salgotarjan
             </table>
 <br/>
 		  
-<h5><strong><a href="static.valasztas.hu/helyi-onkormanyzati-valasztasok/salgotarjan-20160228">2016. februári időközi polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a href="https://static.valasztas.hu/helyi-onkormanyzati-valasztasok/salgotarjan-20160228">2016. februári időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
 
 
@@ -61,7 +61,7 @@ permalink: /salgotarjan
             </table>
 <br/>
 <br/>
-<h5><strong><a id="webURL" href="static.valasztas.hu/dyn/onk14/szavossz/hu/M13/T103/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
+<h5><strong><a id="webURL" href="https://static.valasztas.hu/dyn/onk14/szavossz/hu/M13/T103/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
  <div id="chart_div_onkor_2014" style="width: 100%"></div>
 <br/>
 

@@ -33,7 +33,7 @@ permalink: /budapest15
               </tbody>
             </table>
 <br/>
-<h5><strong><a href="static.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-xv.-kerulet-20180930">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a href="https://static.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-xv.-kerulet-20180930">2018. szeptemberi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
 
 
@@ -59,7 +59,7 @@ permalink: /budapest15
               </tbody>
             </table>
 <br/>
-<h5><strong><a id="webURL" href="static.valasztas.hu/dyn/onk14/szavossz/hu/M01/T015/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
+<h5><strong><a id="webURL" href="https://static.valasztas.hu/dyn/onk14/szavossz/hu/M01/T015/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
  <div id="chart_div_onkor_2014" style="width: 100%"></div>
 <br/>
 
