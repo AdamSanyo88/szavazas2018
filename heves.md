@@ -34,7 +34,7 @@ permalink: /heves
             </table>
 <br/>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M10/T048/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
+<h5><strong><a id="webURL" href="static.valasztas.hu/dyn/onk14/szavossz/hu/M10/T048/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
  <div id="chart_div_onkor_2014" style="width: 100%"></div>
 <br/>
 

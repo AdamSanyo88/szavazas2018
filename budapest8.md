@@ -34,7 +34,7 @@ permalink: /budapest8
             </table>
 <br/>
 <br/>
-<h5><strong><a href="http://www.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-viii.-kerulet-20180708">2018. júliusi időközi polgármester-választás eredménye</a></strong></h5>
+<h5><strong><a href="static.valasztas.hu/helyi-onkormanyzati-valasztasok/budapest-viii.-kerulet-20180708">2018. júliusi időközi polgármester-választás eredménye</a></strong></h5>
 <br/>
 
 
@@ -60,7 +60,7 @@ permalink: /budapest8
               </tbody>
             </table>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M01/T008/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
+<h5><strong><a id="webURL" href="static.valasztas.hu/dyn/onk14/szavossz/hu/M01/T008/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
  <div id="chart_div_onkor_2014" style="width: 100%"></div>
 <br/>
 

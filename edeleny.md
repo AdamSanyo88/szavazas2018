@@ -13,7 +13,7 @@ permalink: /edeleny
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
 <br/>
-<h5><strong><a id="webURL" href="http://www.valasztas.hu/dyn/onk14/szavossz/hu/M05/T075/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
+<h5><strong><a id="webURL" href="static.valasztas.hu/dyn/onk14/szavossz/hu/M05/T075/tjk.html">2014-es polgármester-választás eredménye</a></strong></h5><br/>
  <div id="chart_div_onkor_2014" style="width: 100%"></div>
 <br/>
 
