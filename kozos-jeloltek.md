@@ -221,8 +221,8 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../tiszaujvaros">Tiszaújváros</a></td><td>Dr. Fülöp György - Tiszaújvárosi Lokálpatrióták-MSZP</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tiszavasvari">Tiszavasvári</a></td><td>Dr. Kiss Krisztián - KÖTE</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../tokol">Tököl</a></td><td>Farkas Zsuzsanna - CIVIL KONTROLL</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../tolna">Tolna</a></td><td>Balogh Zoltán</td><td>---</td><td>---</td></tr>
-<tr><td><a href="../torokbalint">Törökbálint</a></td><td>Dr. Szentmiklósi-Tóth Tamás - MSZP-MLP-PÁRBESZÉD-SZOLIDARITÁS</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../tolna">Tolna</a></td><td>Balogh Zoltán - Független</td><td>---</td><td>---</td></tr>
+<tr><td><a href="../torokbalint">Törökbálint</a></td><td>Szőke Péter - Törökbálint Holnap Egyesület</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../torokszentmiklos">Törökszentmiklós</a></td><td class="grey lighten-2">Markót Imre - OTTHONUNK SZENTMIKLÓS EGYESÜLET</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ujfeherto">Újfehértó</a></td><td>Nagy Sándor - Független</td><td>---</td><td>---</td></tr>
 <tr><td><a href="../ullo">Üllő</a></td><td>Fricskovszky-Tóth Péter - Üllő Te Vagy</td><td>---</td><td>---</td></tr>

@@ -12,7 +12,7 @@ permalink: /torokbalint
 		  <h5>Törökbálint</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>A Fidesz jelöltjének kihívója: Dr. Szentmiklósi-Tóth Tamás </strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Szőke Péter </strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -27,7 +27,7 @@ permalink: /torokbalint
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Dr. Szentmiklósi-Tóth Tamás - MSZP-MLP-PÁRBESZÉD-SZOLIDARITÁS</td> 
+			<td>Szőke Péter - Törökbálint Holnap Egyesület</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>
