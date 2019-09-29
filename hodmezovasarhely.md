@@ -27,7 +27,7 @@ permalink: /hodmezovasarhely
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Dr. Márki-Zay Péter - Tiszavásárhelyért Egyesület-MMM</td> 
+			<td>Dr. Márki-Zay Péter - Tiszta Vásárhelyért Egyesület-MMM</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

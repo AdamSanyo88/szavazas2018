@@ -27,7 +27,7 @@ permalink: /batonyterenye
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Cseresznyés István -  JoBBIK-DK-MOMENTUM-LMP-MMM</td> 
+			<td>Cseresznyés István -  JOBBIK-DK-MOMENTUM-LMP-MMM</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>
