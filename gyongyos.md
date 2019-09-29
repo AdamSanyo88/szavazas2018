@@ -12,7 +12,7 @@ permalink: /gyongyos
 		  <h5>Gyöngyös</h5><br/> 
  <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
- <h5><strong>A Fidesz jelöltjének kihívója: Hiesz György / Kévés Tamás</strong></h5>
+ <h5><strong>A Fidesz jelöltjének kihívója: Hiesz György</strong></h5>
 <br/>
 <table class="striped">
               <thead>
@@ -28,7 +28,7 @@ Városom, Szeretlek Egyesület-Fidesz-KDNP <img src="images/fideszkdnp_logo.png"
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>Hiesz György - DK-MOMENTUM-MSZP / Kévés Tamás - JOBBIK</td> 
+			<td>Hiesz György - DK-MOMENTUM-MSZP</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>

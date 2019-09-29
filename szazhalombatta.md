@@ -23,7 +23,7 @@ permalink: /szazhalombatta
               </thead>
               <tbody>
              <tr>
-                   <td>Vezér Mihály - ÉSZKE <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+                   <td>Vezér Mihály - ÉSZKE</td>
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>

@@ -114,7 +114,5 @@ permalink: /ajka
  <div id="chart_div_ep_2019" style="width: 100%"></div> 
  <br/><h5><strong>2018-as országgyűlési választás listás eredményei a településen</strong></h5><br/>
  <div id="chart_div_ogy_2018" style="width: 100%"></div>
-          </div>
-    </div>
-</div>
+ 
 
