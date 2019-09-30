@@ -108,7 +108,7 @@ drawChart = function ( ) {
     };
     if ( $( '#chart_div_onkor_2014' ).length ) {
         var chart = new google.visualization.ColumnChart( document.getElementById( 'chart_div_onkor_2014' ) );
-        chart_4.draw( cdata, options );
+        chart.draw( cdata, options );
     }
     var options_2 = {
         title: '',
@@ -145,8 +145,8 @@ drawChart = function ( ) {
     };
 	
 	  if ( $( '#chart_div_onkor_2019' ).length ) {
-        var chart = new google.visualization.ColumnChart( document.getElementById( 'chart_div_onkor_2019' ) );
-        chart_4.draw( cdata4, options_4 );
+        var chart_4 = new google.visualization.ColumnChart( document.getElementById( 'chart_div_onkor_2019' ) );
+        chart_4.draw( cdata4, options );
     }
     var options_4 = {
         title: '',
