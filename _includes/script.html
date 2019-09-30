@@ -44,6 +44,7 @@ initChart = function() {
                     for ( var j = 0; j < 3; j++ )
                     cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*1000)/1000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(1)+"%"]);
                     cdata.push(["Többi jelölt összesen",(Math.round(parseFloat(lines[i][29])*1000)/1000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(1)+"%"])
+					for ( var j = 0; j < 3; j++ )
 					cdata4.push([lines[i][31+(j*3)],Math.round(parseFloat(lines[i][33+(j*3)])*1000)/1000,lines[i][32+(j*3)],parseFloat(lines[i][33+(j*3)]*100).toFixed(1)+"%"]);
                     cdata4.push(["Többi jelölt összesen",(Math.round(parseFloat(lines[i][40])*1000)/1000),lines[i][41],parseFloat(lines[i][40]*100).toFixed(1)+"%"])
                     var ogycolors=["orange","lightGreen","red"   ,"darkBlue","grey",  "purple","black","lightGrey","pink"];
