@@ -43,6 +43,8 @@ initChart = function() {
                     for ( var j = 0; j < 3; j++ )
                     cdata.push([lines[i][20+(j*3)],Math.round(parseFloat(lines[i][22+(j*3)])*1000)/1000,lines[i][21+(j*3)],parseFloat(lines[i][22+(j*3)]*100).toFixed(1)+"%"]);
                     cdata.push(["Többi jelölt összesen",(Math.round(parseFloat(lines[i][29])*1000)/1000),lines[i][30],parseFloat(lines[i][29]*100).toFixed(1)+"%"])
+					cdata4.push([lines[i][31+(j*3)],Math.round(parseFloat(lines[i][33+(j*3)])*1000)/1000,lines[i][32+(j*3)],parseFloat(lines[i][33+(j*3)]*100).toFixed(1)+"%"]);
+                    cdata4.push(["Többi jelölt összesen",(Math.round(parseFloat(lines[i][40])*1000)/1000),lines[i][41],parseFloat(lines[i][40]*100).toFixed(1)+"%"])
                     var ogycolors=["orange","lightGreen","red"   ,"darkBlue","grey",  "purple","black","lightGrey","pink"];
                     var ogyparts =["Fidesz","LMP"  ,"MSZP-P","DK",       "Jobbik","Momentum","Együtt","MKKP","Egyéb"];
                     var epcolors=["grey", "orange", "purple", "darkGreen", "red", "lightGreen", "darkBlue", "darkRed", "lightGrey"];
@@ -58,6 +60,8 @@ initChart = function() {
             }
 		        cdata.sort( compare );
 		        cdata = google.visualization.arrayToDataTable(cdata);
+				cdata4.sort( compare );
+		        cdata4 = google.visualization.arrayToDataTable(cdata4);
 		        cdata2.sort( compare );
 		        cdata2 = google.visualization.arrayToDataTable(cdata2);
 	 	        cdata3.sort( compare );
@@ -103,7 +107,7 @@ drawChart = function ( ) {
     };
     if ( $( '#chart_div_onkor_2014' ).length ) {
         var chart = new google.visualization.ColumnChart( document.getElementById( 'chart_div_onkor_2014' ) );
-        chart.draw( cdata, options );
+        chart_4.draw( cdata, options );
     }
     var options_2 = {
         title: '',
@@ -138,6 +142,45 @@ drawChart = function ( ) {
 		    legend: { position: "none" },
 		    tooltip: { trigger: "none" }
     };
+	
+	  if ( $( '#chart_div_onkor_2019' ).length ) {
+        var chart = new google.visualization.ColumnChart( document.getElementById( 'chart_div_onkor_2019' ) );
+        chart_4.draw( cdata4, options_4 );
+    }
+    var options_4 = {
+        title: '',
+        chartArea: { width: '80%' },
+		    height: 500,
+		    annotations: {
+            textStyle: {
+                fontSize: "1em",
+                color: '#000',
+                auraColor: 'none'
+            }
+		    },
+        hAxis: {
+            title: '',
+            minValue: 0,
+            textStyle: {
+                bold: false,
+                fontSize: 12,
+                color: '#4d4d4d'
+            },
+            titleTextStyle: {
+                bold: false,
+                fontSize: 12,
+                color: '#4d4d4d'
+            }
+        },
+        vAxis: {
+            format: 'percent',
+		        minValue: 0,
+			      gridlines: { count: 5 }
+        },
+		    legend: { position: "none" },
+		    tooltip: { trigger: "none" }
+    };
+	
     if ( $('#chart_div_ogy_2018').length ) {
         var chart_2 = new google.visualization.ColumnChart(document.getElementById('chart_div_ogy_2018'));
      	  chart_2.draw(cdata2, options_2);

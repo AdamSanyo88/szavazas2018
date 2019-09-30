@@ -27,7 +27,7 @@ permalink: /komarom
 				   <td id="fidesz_mayor">xx%</td>
 			</tr>
 			<tr>
-			<td>dr. Nemes Andrea - DK-JOBBIK-MSZP-MMM-MOMENTUM</td> 
+			<td>dr. Nemes Andrea - KMRM-DK-JOBBIK-MSZP-MMM-MOMENTUM</td> 
 			<td id="ellenzek_mayor">xx%</td>
 			</tr>
               </tbody>
