@@ -18,10 +18,10 @@ permalink: /modszertan
 <p>A modell a Fidesz-KDNP jelöltek alaptámogatottságát számolja ki a 2014-es önkormányzati választás eredményei alapján. Egyéb erőjelezést befolyásoló változók:
 <ul>
 <li><strong>A 2014-es országgyűlési választást követő 2014-es EP-választáson mutatott mozgósítási arány</strong> (Fidesz és ellenzéki pártok aránya)</li>
-<li><strong>Inkumbens hatás</strong> (a hivatalban lévő polgármester mennyivel teljesíti felül a Fidesz helyi támogatottságát</li></ul>
+<li><strong>Inkumbens hatás</strong> (a hivatalban lévő polgármester mennyivel teljesíti felül a Fidesz helyi támogatottságát)</li></ul>
 </p>
-
-<p>A modell az ellenzéki közös jelölt (vagy legesélyesebb jelölt támogatottságát is kiszámolja az alábbi adatokból:
+<br/>
+<p>A modell az ellenzéki közös jelölt (vagy legesélyesebb jelölt) támogatottságát is kiszámolja az alábbi adatokból:
 <ul>
 <li><strong>Az ellenzéki pártok 2019-es EP-választáson mutatott eredményei</strong> (90%-os átszavazási hajlandósággal)</li>
 <li><strong>Inkumbens hatás</strong> (a hivatalban lévő ellenzéki polgármester mennyivel teljesíti felül az ellenzéki pártok szavazatarányát)</li>
@@ -48,9 +48,9 @@ permalink: /modszertan
 <p>Ezeknél a jelölteknél az előrejelzett szavazatarányhoz képest jelentős eltérések is elképzelhetők.</p>
 <br/>
 <h5>Összesített várható eredmények településtípusonként:</h5>
-<h6>Budapest: 14 Fidesz, 9 közös ellenzék. A 23 kerületből 10 egyértelműen billegő kerület (5%-nál kisebb a becsült különbség)</h6>
-<h6>Megyei jogú városok: 20 Fidesz, 3 ellenzék (Pécs, Szeged, Salgótarján). A 23 megyei jogú városból 8-ban várható szoros eredmény.</h6>
-<h6>10000 fő feletti települések (123 település): 88 Fidesz, 35 ellenzéki / egyéb jelölt. A 123 településből 24-ben várható szoros eredmény.</h6>
+<h6><strong>Budapest: 14 Fidesz, 9 közös ellenzék.</strong> A 23 kerületből <strong>10 egyértelműen billegő kerület</strong> (5%-nál kisebb a becsült különbség)</h6>
+<h6><strong>Megyei jogú városok: 20 Fidesz, 3 ellenzék (Pécs, Szeged, Salgótarján).</strong> A 23 megyei jogú városból nyolcban várható szoros eredmény.</h6>
+<h6><strong>10000 fő feletti települések (123 település): 88 Fidesz, 35 ellenzéki / egyéb jelölt.</strong> A 123 településből 24-ben várható szoros eredmény.</h6>
 
 
     
