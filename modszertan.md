@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Módszertan
-permalink: /metodologia
+permalink: /modszertan
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
