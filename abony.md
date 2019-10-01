@@ -25,11 +25,11 @@ permalink: /abony
               <tbody>
              <tr>
                    <td>Dévainé Kazinczy Sára - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">55.1%</td>
 			</tr>
 			<tr>
 			<td>Pető Zsolt - VFE</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">40.1%</td>
 			</tr>
               </tbody>
             </table>
