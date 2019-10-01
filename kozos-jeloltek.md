@@ -23,8 +23,8 @@ permalink: /kozos-jeloltek
                 <tr>
                     <th>Kerület</th>
 					<th>Közös ellenzéki vagy esélyes jelölt</th>
-					<th>Várható szavazatarány</th>
-					<th>Várható ellenzéki egyéni képviselőhelyek száma</th>
+					<th>Várható szavazatarány (ellenzék - Fidesz)</th>
+					<th>Várható egyéni képviselőhelyek száma (ellenzék - Fidesz)</th>
                 </tr>
               </thead>
               <tbody>
@@ -61,8 +61,8 @@ permalink: /kozos-jeloltek
                 <tr>
                     <th>Kerület</th>
 					<th>Közös ellenzéki vagy esélyes jelölt</th>
-					<th>Várható szavazatarány</th>
-					<th>Várható ellenzéki egyéni képviselőhelyek száma</th>
+					<th>Várható szavazatarány (ellenzék - Fidesz)</th>
+					<th>Várható egyéni képviselőhelyek száma (ellenzék - Fidesz)</th>
                 </tr>
               </thead>
               <tbody>
