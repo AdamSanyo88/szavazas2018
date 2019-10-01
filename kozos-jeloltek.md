@@ -144,7 +144,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../gyula">Gyula</a></td><td>Galbács Mihály - MMM</td><td>18.4% - 58.2%</td><td>0 - 10</td></tr>
 <tr><td><a href="../hajduboszormeny">Hajdúböszörmény</a></td><td>Erdős László - DK-MSZP</td><td>26.6% - 61.0%</td><td>0 - 10</td></tr>
 <tr><td><a href="../hajduhadhaz">Hajdúhadház</a></td><td>Dr. Koós László - Független</td><td>23.8% - 76.2%</td><td>0 - 8</td></tr>
-<tr><td><a href="../hajdunanas">Hajdúnánás</a></td><td>0% - 100%</td><td> - </td><td>1 - 7</td></tr>
+<tr><td><a href="../hajdunanas">Hajdúnánás</a></td><td>-</td><td>0% - 100%</td><td>1 - 7</td></tr>
 <tr><td><a href="../hajdusamson">Hajdúsámson</a></td><td>Tóth János - ESHE</td><td>30.7% - 69.3%</td><td>0 - 8</td></tr>
 <tr><td><a href="../hajduszoboszlo">Hajdúszoboszló</a></td><td>Holoda Attila - Összefogás Hajdúszoboszlóért-PÁRBESZÉD-MOMENTUM-MSZP-DK-SZOLIDARITÁS-MMM-JOBBIK</td><td>59.2% -  40.8%</td><td>6 - 2</td></tr>
 <tr><td><a href="../halasztelek">Halásztelek</a></td><td>Szentgyörgyi József - Sikerese Halásztelekért</td><td>54.2% - 39.8%</td><td>6 - 2</td></tr>
@@ -162,7 +162,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kiskunfelegyhaza">Kiskunfélegyháza</a></td><td>Kolossai János - Veled a Városunkért Egyesület</td><td>42.9% - 57.1%</td><td>2 - 8</td></tr>
 <tr><td><a href="../kiskunhalas">Kiskunhalas</a></td><td>Rétfalvi Józsefné - MMM</td><td>32.8% - 60.4%</td><td>0 - 10</td></tr>
 <tr><td><a href="../kiskunmajsa">Kiskunmajsa</a></td><td>Faludi Tamás - EKE</td><td>33.2% - 64.3%</td><td>1 - 7</td></tr>
-<tr><td><a href="../kiskoros">Kiskőrös</a></td><td>---</td><td>0% - 100%</td><td>0 - 8</td></tr>
+<tr><td><a href="../kiskoros">Kiskőrös</a></td><td>-</td><td>0% - 100%</td><td>0 - 8</td></tr>
 <tr><td><a href="../kistarcsa">Kistarcsa</a></td><td>Dőringer Károly - Jobbik</td><td>43.9% - 51.8%</td><td>2 - 6</td></tr>
 <tr><td><a href="../kisujszallas">Kisújszállás</a></td><td>Szarvák Márton - JOBBIK</td><td>26.5% - 59.7%</td><td>0 - 8</td></tr>
 <tr><td><a href="../kisvarda">Kisvárda</a></td><td>Perdiák János - Független</td><td>28.1% - 67.7%</td><td>1 - 7</td></tr>
@@ -175,8 +175,8 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../mako">Makó</a></td><td>Mucsi Tamás - VKKP</td><td>33.2% - 62.8%</td><td>0 - 8</td></tr>
 <tr><td><a href="../marcali">Marcali</a></td><td>Dr. Sütő László - MOTTE </td><td>53.9% - 42.3%</td><td>6 - 2</td></tr>
 <tr><td><a href="../mateszalka">Mátészalka</a></td><td>Vékony Miklós - TESZ Mátészalka</td><td>35.2% - 64.8%</td><td>0 - 8</td></tr>
-<tr><td><a href="../mezobereny">Mezőberény</a></td><td>Csollár Norbert - Független / Siklósi István - Független</td><td> - </td><td>4 - 4</td></tr>
-<tr><td><a href="../mezokovesd">Mezőkövesd</a></td><td> --- </td><td>24.6% (Mi Hazánk) - 75.4% </td><td>0 - 8</td></tr>
+<tr><td><a href="../mezobereny">Mezőberény</a></td><td>Csollár Norbert - Független</td><td>25.6% - 74.4%</td><td>4 - 4</td></tr>
+<tr><td><a href="../mezokovesd">Mezőkövesd</a></td><td> - </td><td>24.6% (Mi Hazánk) - 75.4% </td><td>0 - 8</td></tr>
 <tr><td><a href="../mezotur">Mezőtúr</a></td><td>Dr. Siposné Varga Ildikó - TEKE</td><td>43.0% - 57.0% </td><td>2 - 6</td></tr>
 <tr><td><a href="../mohacs">Mohács</a></td><td>Csorbai Ferenc - MSZP </td><td>100% - 0%</td><td>0 - 8</td></tr>
 <tr><td><a href="../monor">Monor</a></td><td> --- </td><td>0% - 100%</td><td>0 - 8</td></tr>
@@ -199,7 +199,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../rackeve">Ráckeve</a></td><td>Vereckei Zoltán - KEVE Egyesület</td><td>24.6% - 38.2% (Független)</td><td>0 - 8</td></tr>
 <tr><td><a href="../sajoszentpeter">Sajószentpéter</a></td><td>Dr. Faragó Péter - MSZP-DK</td><td>56.7% - 35.7%</td><td>8 - 0</td></tr>
 <tr><td><a href="../sarbogard">Sárbogárd</a></td><td>Borbély Sándor - DK</td><td>28.6% - 71.4%</td><td>0 - 8</td></tr>
-<tr><td><a href="../sarkad">Sarkad</a></td><td> - </td><td>0% - 100%</td><td>0 - 8</td></tr>
+<tr><td><a href="../sarkad">Sarkad</a></td><td> --- </td><td>0% - 100%</td><td>0 - 8</td></tr>
 <tr><td><a href="../sarospatak">Sárospatak</a></td><td>Csetneki József Flórián - Patakért</td><td>37.2% - 62.8%</td><td>1 - 7</td></tr>
 <tr><td><a href="../sarvar">Sárvár</a></td><td>Németh Zsolt - Híd a Jövőnkért Egyesület</td><td>34.1% - 65.9%</td><td>0 - 8</td></tr>
 <tr><td><a href="../satoraljaujhely">Sátoraljaújhely</a></td><td>Iski Dávid László - MSZP-Jobbik</td><td>34.2% - 62.7%</td><td>0 - 8</td></tr>
