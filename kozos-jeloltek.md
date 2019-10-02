@@ -67,10 +67,10 @@ permalink: /kozos-jeloltek
               </thead>
               <tbody>
 <tr><td><a href="../bekescsaba">Békéscsaba</a></td><td>Miklós Attila - MSZP-LMP-MMM / Dancsó Attila - Jobbik-DK-Párbeszéd</td><td class="orange lighten-2 white-text">26.7% (Jobbik) - 54.7%</td><td>0 - 12</td></tr>
-<tr><td><a href="../debrecen">Debrecen</a></td><td class="orange lighten-2 white-text">Varga Zoltán - DK-MSZP-PÁRBESZÉD-SZOLIDARITÁS / Kőszeghy Csanád Ábel - MOMENTUM-JOBBIK-LMP</td><td>20.1% (Momentum) - 61.4%</td><td>1 - 23</td></tr>
+<tr><td><a href="../debrecen">Debrecen</a></td><td>Varga Zoltán - DK-MSZP-PÁRBESZÉD-SZOLIDARITÁS / Kőszeghy Csanád Ábel - MOMENTUM-JOBBIK-LMP</td><td class="orange lighten-2 white-text">20.1% (Momentum) - 61.4%</td><td>1 - 23</td></tr>
 <tr><td><a href="../dunaujvaros">Dunaújváros</a></td><td>Pintér Tamás - RAJTA ÚJVÁROS! EGYESÜLET</td><td class="orange lighten-2 white-text">48.5% - 49.0%</td><td>6 - 4</td></tr>
 <tr><td><a href="../eger">Eger</a></td><td>Mirkóczki Ádám - Egységben a Városért Egyesület</td><td class="orange lighten-2 white-text">43.6% - 46.8%</td><td>4 - 8</td></tr>
-<tr><td><a href="../erd">Érd</a></td><td td>Csőzik László - LMP-JOBBIK-DK-MSZP-CÉL-MOMENTUM-MMM-PÁRBESZÉD-MLP</td class="orange lighten-2 white-text"><td>44.0% - 53.0%</td><td>3 - 9</td></tr>
+<tr><td><a href="../erd">Érd</a></td><td td>Csőzik László - LMP-JOBBIK-DK-MSZP-CÉL-MOMENTUM-MMM-PÁRBESZÉD-MLP</td><td class="orange lighten-2 white-text">44.0% - 53.0%</td><td>3 - 9</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td>Glázer Tímea - DK-MOMENTUM-MSZP-JOBBIK-LMP</td><td class="orange lighten-2 white-text">35.0% - 57.6%</td><td>1 - 14</td></tr>
 <tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td>Dr. Márki-Zay-Péter - Tiszavásárhelyért Egyesület-MMM </td><td class="orange lighten-2 white-text">45.7% - 54.3%</td><td>3 - 7</td></tr>
 <tr><td><a href="../kaposvar">Kaposvár</a></td><td>Horváth Ákos Ervin- Kaposváriakért Egyesület-DK-JOBBIK-LMP-MOMENTUM-MSZP</td><td class="orange lighten-2 white-text">36.5% - 59.8%</td><td>0 - 12</td></tr>
@@ -82,13 +82,13 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td>Fekete Zsolt - SSZE-DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-TVE</td><td>48.6% - 46.7%</td><td>7 - 3</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td>Dr. Varga Norbert - Független</td><td class="orange lighten-2 white-text">39.9% - 58.2%</td><td>2 -10</td></tr>
 <tr><td><a href="../szeged">Szeged</a></td><td>Dr. Botka László - Összefogás Szegedért Egyesület</td><td>52.7% - 38.1%</td><td>15 - 5</td></tr>
-<tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td class="orange lighten-2 white-text">Márton Roland - DK-JOBBIK-LMP-MINDENKI MAGYARORSZÁGA-MOMENTUM-MSZP-PÁRBESZÉD</td><td>36.8% - 57.9%</td><td>1 - 13</td></tr>
+<tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>Márton Roland - DK-JOBBIK-LMP-MINDENKI MAGYARORSZÁGA-MOMENTUM-MSZP-PÁRBESZÉD</td><td class="orange lighten-2 white-text">36.8% - 57.9%</td><td>1 - 13</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>Bomba Gábor László - ÉSZ</td><td class="orange lighten-2 white-text">41.1% - 56.0%</td><td>1 - 9</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td>Radócz Zoltán - MOMENTUM-DK-LMP-JOBBIK-MSZP-MMM</td><td class="orange lighten-2 white-text">43.1% - 51.4%</td><td>3 - 9</td></tr>
 <tr><td><a href="../szombathely">Szombathely</a></td><td>Dr. Nemény András - Éljen Szombathely! Egyesület-MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP-MKKP-SZOLIRDARITÁS-MMM</td><td class="orange lighten-2 white-text">45.1% -  50.5%</td><td>6 - 8</td></tr>
-<tr><td><a href="../tatabanya">Tatabánya</a></td><td class="orange lighten-2 white-text">Szücsné Posztovics Ilona - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>43.7% - 53.8%</td><td>3 - 9</td></tr>
-<tr><td><a href="../veszprem">Veszprém</a></td><td class="orange lighten-2 white-text">Katanics Sándor - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td>43.8% - 56.2%</td><td>2 - 10</td></tr>
-<tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td class="orange lighten-2 white-text">Keresztes Csaba - Tiéd a Város Egyesület-DK-JOBBIK-LMP-MSZP-MOMENTUM</td><td>34.6% - 60.0%</td><td>0 - 12</td></tr>
+<tr><td><a href="../tatabanya">Tatabánya</a></td><td>Szücsné Posztovics Ilona - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td class="orange lighten-2 white-text">43.7% - 53.8%</td><td>3 - 9</td></tr>
+<tr><td><a href="../veszprem">Veszprém</a></td><td>Katanics Sándor - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td class="orange lighten-2 white-text">43.8% - 56.2%</td><td>2 - 10</td></tr>
+<tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td>Keresztes Csaba - Tiéd a Város Egyesület-DK-JOBBIK-LMP-MSZP-MOMENTUM</td><td class="orange lighten-2 white-text">34.6% - 60.0%</td><td>0 - 12</td></tr>
 
 </tbody>  
   </table>
@@ -108,7 +108,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../abony">Abony</a></td><td>Pető Zsolt - VFE</td><td class="orange lighten-2 white-text">40.1% - 55.1%</td><td>1 - 7</td></tr>
 <tr><td><a href="../ajka">Ajka</a></td><td>Schwartz Béla - Közösen Ajkáért Egyesület</td><td>58.2% - 41.8%</td><td>8 - 2</td></tr>
 <tr><td><a href="../albertirsa">Albertirsa</a></td><td>Fazekas László - Független</td><td>63.9% - 27.7%</td><td>8 - 0</td></tr>
-<tr><td><a href="../baja">Baja</a></td><td class="orange lighten-2 white-text">Nyitrai Klára - Sikeres Bajáért</td><td>37.7% - 60.1%</td><td>1 - 9</td></tr>
+<tr><td><a href="../baja">Baja</a></td><td>Nyitrai Klára - Sikeres Bajáért</td><td class="orange lighten-2 white-text">37.7% - 60.1%</td><td>1 - 9</td></tr>
 <tr><td><a href="../balassagyarmat">Balassagyarmat</a></td><td>Gyenes Szilárd - SZAB</td><td class="orange lighten-2 white-text">44.7% - 55.3%</td><td>2 - 6</td></tr>
 <tr><td><a href="../balatonfured">Balatonfüred</a></td><td> - </td><td class="orange lighten-2 white-text">0% - 100%</td><td>0 - 8</td></tr>
 <tr><td><a href="../balmazujvaros">Balmazújváros</a></td><td>Hegedűs Péter - Független </td><td class="orange lighten-2 white-text">47.1% - 52.9%</td><td>2 - 6</td></tr>
@@ -200,9 +200,9 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../sajoszentpeter">Sajószentpéter</a></td><td>Dr. Faragó Péter - MSZP-DK</td><td>56.7% - 35.7%</td><td>8 - 0</td></tr>
 <tr><td><a href="../sarbogard">Sárbogárd</a></td><td>Borbély Sándor - DK</td><td class="orange lighten-2 white-text">28.6% - 71.4%</td><td>0 - 8</td></tr>
 <tr><td><a href="../sarkad">Sarkad</a></td><td> --- </td><td class="orange lighten-2 white-text">0% - 100%</td><td>0 - 8</td></tr>
-<tr><td><a href="../sarospatak">Sárospatak</a></td><td class="orange lighten-2 white-text">Csetneki József Flórián - Patakért</td><td>37.2% - 62.8%</td><td>1 - 7</td></tr>
+<tr><td><a href="../sarospatak">Sárospatak</a></td><td>Csetneki József Flórián - Patakért</td><td class="orange lighten-2 white-text">37.2% - 62.8%</td><td>1 - 7</td></tr>
 <tr><td><a href="../sarvar">Sárvár</a></td><td>Németh Zsolt - Híd a Jövőnkért Egyesület</td><td class="orange lighten-2 white-text">34.1% - 65.9%</td><td>0 - 8</td></tr>
-<tr><td><a href="../satoraljaujhely">Sátoraljaújhely</a></td><td class="orange lighten-2 white-text">Iski Dávid László - MSZP-Jobbik</td><td>34.2% - 62.7%</td><td>0 - 8</td></tr>
+<tr><td><a href="../satoraljaujhely">Sátoraljaújhely</a></td><td>Iski Dávid László - MSZP-Jobbik</td><td class="orange lighten-2 white-text">34.2% - 62.7%</td><td>0 - 8</td></tr>
 <tr><td><a href="../siofok">Siófok</a></td><td>Lengyel Róbert - BSE</td><td>45.8% - 37.2%</td><td>5 - 3</td></tr>
 <tr><td><a href="../solymar">Solymár</a></td><td>Bárány Balázs - Budakörnyék Fejlődéséért Egyesület</td><td class="orange lighten-2 white-text">37.9% - 62.1%</td><td>0 - 8</td></tr>
 <tr><td><a href="../szarvas">Szarvas</a></td><td>Pártai Lucia - Független</td><td class="orange lighten-2 white-text">16.1% - 45.6%</td><td>0 - 8</td></tr>
