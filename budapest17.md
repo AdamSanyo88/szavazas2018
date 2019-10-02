@@ -24,11 +24,11 @@ permalink: /budapest17
               <tbody>
              <tr>
                    <td>Horváth Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">52.6%</td>
 			</tr>
 			<tr>
 			<td>Gy. Németh Erzsébet - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">45.3%</td>
 			</tr>
               </tbody>
             </table>

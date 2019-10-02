@@ -24,11 +24,11 @@ permalink: /budapest20
               <tbody>
              <tr>
                    <td>Szabados Ákos - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">49.5%</td>
 			</tr>
 			<tr>
 			<td>Balog Róbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">50.5%</td>
 			</tr>
               </tbody>
             </table>

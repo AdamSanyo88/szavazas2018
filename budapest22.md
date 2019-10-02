@@ -24,11 +24,11 @@ permalink: /budapest22
               <tbody>
              <tr>
                    <td>Karsay Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">50.3%</td>
 			</tr>
 			<tr>
 			<td>Havasi Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">45.9%</td>
 			</tr>
               </tbody>
             </table>

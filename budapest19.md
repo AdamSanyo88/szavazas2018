@@ -24,11 +24,11 @@ permalink: /budapest19
               <tbody>
              <tr>
                    <td>Dódity Gabriella Etelka - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">34.2%</td>
 			</tr>
 			<tr>
 			<td>Gajda Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">59.5%</td>
 			</tr>
               </tbody>
             </table>

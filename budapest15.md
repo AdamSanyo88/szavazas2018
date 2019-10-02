@@ -24,11 +24,11 @@ permalink: /budapest15
               <tbody>
              <tr>
                    <td>Dr. Pintér Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">40.3%</td>
 			</tr>
 			<tr>
 			<td>Németh Angéla - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">54.3%</td>
 			</tr>
               </tbody>
             </table>

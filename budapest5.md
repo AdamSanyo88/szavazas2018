@@ -24,11 +24,11 @@ permalink: /budapest5
               <tbody>
              <tr>
                    <td>Szentgyörgyvölgyi Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">51.1%</td>
 			</tr>
 			<tr>
 			<td>Tüttő Kata - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">45.4%</td>
 			</tr>
               </tbody>
             </table>

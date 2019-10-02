@@ -24,11 +24,11 @@ permalink: /budapest12
               <tbody>
              <tr>
                    <td>Pokorni Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">54.5%</td>
 			</tr>
 			<tr>
 			<td>Élő Norbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">45.5%</td>
 			</tr>
               </tbody>
             </table>

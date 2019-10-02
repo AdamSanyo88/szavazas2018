@@ -24,11 +24,11 @@ permalink: /szombathely
               <tbody>
              <tr>
                    <td>Dr. Balázsy Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">50.5%</td>
 			</tr>
 			<tr>
 			<td>Dr. Nemény András - Éljen Szombathely! Egyesület-MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP-MKKP-SZOLIRDARITÁS-MMM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">45.1%</td>
 			</tr>
               </tbody>
             </table>

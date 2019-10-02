@@ -24,11 +24,11 @@ permalink: /budapest13
               <tbody>
              <tr>
                    <td>Dr. Bagdy Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">25.9%</td>
 			</tr>
 			<tr>
 			<td>Dr. Tóth József - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">74.1%</td>
 			</tr>
               </tbody>
             </table>

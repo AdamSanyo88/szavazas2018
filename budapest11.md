@@ -24,11 +24,11 @@ permalink: /budapest11
               <tbody>
              <tr>
                    <td>Dr. Hoffmann Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">46.4%</td>
 			</tr>
 			<tr>
 			<td>Dr. László Imre - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">47.0%</td>
 			</tr>
               </tbody>
             </table>

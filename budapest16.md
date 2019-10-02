@@ -24,11 +24,11 @@ permalink: /budapest16
               <tbody>
              <tr>
                    <td>Kovács Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">55.5%</td>
 			</tr>
 			<tr>
 			<td>Nemes Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">41.9%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /budapest7
               <tbody>
              <tr>
                    <td>Vattamány András Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">46.6%</td>
 			</tr>
 			<tr>
 			<td>Niedermüller Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">40.9%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /salgotarjan
               <tbody>
              <tr>
                    <td>Szabó Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">46.7%</td>
 			</tr>
 			<tr>
 			<td>Fekete Zsolt - SSZE-DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-TVE</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">48.6%</td>
 			</tr>
               </tbody>
             </table>

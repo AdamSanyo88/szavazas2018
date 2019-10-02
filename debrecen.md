@@ -24,11 +24,11 @@ permalink: /debrecen
               <tbody>
              <tr>
                    <td>Dr. Papp László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">61.4%</td>
 			</tr>
 			<tr>
-			<td>Varga Zoltán - DK-MSZP-PÁRBESZÉD-SZOLIDARITÁS / Kőszeghy Csanád Ábel - MOMENTUM-JOBBIK-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td>Kőszeghy Csanád Ábel - MOMENTUM-JOBBIK-LMP</td> 
+			<td id="ellenzek_mayor">20.1%</td>
 			</tr>
               </tbody>
             </table>

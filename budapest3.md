@@ -24,11 +24,11 @@ permalink: /budapest3
               <tbody>
              <tr>
                    <td>Bús Balázs - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">50.1%</td>
 			</tr>
 			<tr>
 			<td>Kiss László - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">49.9%</td>
 			</tr>
               </tbody>
             </table>

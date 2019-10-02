@@ -24,11 +24,11 @@ permalink: /bekescsaba
               <tbody>
              <tr>
                    <td>Szarvas Péter - Hajrá Békéscsaba</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">54.7%</td>
 			</tr>
 			<tr>
-			<td>Miklós Attila - MSZP-LMP-MMM / Dancsó Tibor - Jobbik-DK-Párbeszéd</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td>Dancsó Tibor - Jobbik-DK-Párbeszéd</td> 
+			<td id="ellenzek_mayor">26.7%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /budapest23
               <tbody>
              <tr>
                    <td>Bese Ferenc - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">48.4%</td>
 			</tr>
 			<tr>
 			<td>Bereczki Miklós - MOMENTUM-MSZP-PÁRBESZÉD-LMP-JOBBIK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">49.8%</td>
 			</tr>
               </tbody>
             </table>

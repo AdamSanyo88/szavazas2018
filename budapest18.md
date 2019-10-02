@@ -24,11 +24,11 @@ permalink: /budapest18
               <tbody>
              <tr>
                    <td>Ughy Attila Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">48.3%</td>
 			</tr>
 			<tr>
 			<td>Szaniszló Sándor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">46.6%</td>
 			</tr>
               </tbody>
             </table>

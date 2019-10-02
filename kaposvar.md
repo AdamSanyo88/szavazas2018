@@ -24,11 +24,11 @@ permalink: /kaposvar
               <tbody>
              <tr>
                    <td>Szita Károly - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">59.8%</td>
 			</tr>
 			<tr>
 			<td>Horváth Ákos Ervin - Kaposváriakért Egyesület-DK-JOBBIK-LMP-MOMENTUM-MSZP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">36.5%</td>
 			</tr>
               </tbody>
             </table>

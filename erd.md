@@ -24,11 +24,11 @@ permalink: /erd
               <tbody>
              <tr>
                    <td>T. Mészáros András József - FIDESZ-KDNP-ÖSSZEFOGÁS <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">53.0%</td>
 			</tr>
 			<tr>
 			<td>Csőzik László - LMP-JOBBIK-DK-MSZP-CÉL-MOMENTUM-MMM-PÁRBESZÉD-MLP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">44.0%</td>
 			</tr>
               </tbody>
             </table>

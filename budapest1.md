@@ -24,11 +24,11 @@ permalink: /budapest1
               <tbody>
              <tr>
                    <td>Dr. Nagy Gábor Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">52.5%</td>
 			</tr>
 			<tr>
 			<td>V. Naszály Márta - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">45.4%</td>
 			</tr>
               </tbody>
             </table>

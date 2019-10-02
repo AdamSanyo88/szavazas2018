@@ -24,11 +24,11 @@ permalink: /szekesfehervar
               <tbody>
              <tr>
                    <td>Dr. Cser-Palkovics András - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.9%</td>
 			</tr>
 			<tr>
 			<td>Márton Roland - DK-JOBBIK-LMP-MINDENKI MAGYARORSZÁGA-MOMENTUM-MSZP-PÁRBESZÉD</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">36.8%</td>
 			</tr>
               </tbody>
             </table>

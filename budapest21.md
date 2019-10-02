@@ -24,11 +24,11 @@ permalink: /budapest21
               <tbody>
              <tr>
                    <td>Borbély Lénárd László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">48.1%</td>
 			</tr>
 			<tr>
 			<td>Erdősi Éva - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">47.5%</td>
 			</tr>
               </tbody>
             </table>

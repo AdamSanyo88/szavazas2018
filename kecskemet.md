@@ -24,11 +24,11 @@ permalink: /kecskemet
               <tbody>
              <tr>
                    <td>Szemereyné Pataki Klaudia - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.7%</td>
 			</tr>
 			<tr>
 			<td>Lejer Zoltán - SZÖVETSÉG A HÍRÖS VÁROSÉRT</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">38.8%</td>
 			</tr>
               </tbody>
             </table>

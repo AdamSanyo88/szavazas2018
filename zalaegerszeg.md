@@ -24,11 +24,11 @@ permalink: /zalaegerszeg
               <tbody>
              <tr>
                    <td>Balaicz Zoltán - Fidesz-KDNP-Balaicz Zoltán Jelöltje <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">60.0%</td>
 			</tr>
 			<tr>
 			<td>Keresztes Csaba - Tiéd a Város Egyesület-DK-JOBBIK-LMP-MSZP-MOMENTUM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">34.6%</td>
 			</tr>
               </tbody>
             </table>

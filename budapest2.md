@@ -24,11 +24,11 @@ permalink: /budapest2
               <tbody>
              <tr>
                    <td>Dr. Láng Zsolt Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">52.3%</td>
 			</tr>
 			<tr>
 			<td>Őrsi Gergely - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">47.7%</td>
 			</tr>
               </tbody>
             </table>

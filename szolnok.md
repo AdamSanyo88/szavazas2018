@@ -24,11 +24,11 @@ permalink: /szolnok
               <tbody>
              <tr>
                    <td>Szalay Ferenc - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">51.4%</td>
 			</tr>
 			<tr>
 			<td>Radócz Zoltán - MOMENTUM-DK-LMP-JOBBIK-MSZP-MMM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">43.1%</td>
 			</tr>
               </tbody>
             </table>

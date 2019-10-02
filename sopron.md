@@ -24,11 +24,11 @@ permalink: /sopron
               <tbody>
              <tr>
                    <td>Dr. Farkas Ciprián - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">58.2%</td>
 			</tr>
 			<tr>
 			<td>Dr. Varga Norbert - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">39.9%</td>
 			</tr>
               </tbody>
             </table>

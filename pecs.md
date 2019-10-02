@@ -24,11 +24,11 @@ permalink: /pecs
               <tbody>
              <tr>
                    <td>Vári Attila - FIDESZ-KDNP-ÖPE <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">45.1%</td>
 			</tr>
 			<tr>
 			<td>Péterffy Attila - Mindenki Pécsért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">48.2%</td>
 			</tr>
               </tbody>
             </table>

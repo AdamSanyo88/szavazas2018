@@ -24,11 +24,11 @@ permalink: /budapest8
               <tbody>
              <tr>
                    <td>Dr. Sára Botond - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">51.1%</td>
 			</tr>
 			<tr>
 			<td>Pikó András - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">44.2%</td>
 			</tr>
               </tbody>
             </table>

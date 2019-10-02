@@ -24,11 +24,11 @@ permalink: /gyor
               <tbody>
              <tr>
                    <td>Borkai Zsolt - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.6%</td>
 			</tr>
 			<tr>
 			<td>Glázer Tímea - DK-MOMENTUM-MSZP-JOBBIK-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">35.0%</td>
 			</tr>
               </tbody>
             </table>
