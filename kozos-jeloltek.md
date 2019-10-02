@@ -121,13 +121,13 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../bonyhad">Bonyhád</a></td><td>Gecséné Dr. Slárku Szilvia - Egységben a Városunkért</td><td class="orange lighten-2 white-text">30.9% - 57.8%</td><td>1 - 7</td></tr>
 <tr><td><a href="../budakalasz">Budakalász</a></td><td>Dr. Göbl Richárd - 2011 Egyesület</td><td class="orange lighten-2 white-text">40.2% - 58.2%</td><td>1 - 7</td></tr>
 <tr><td><a href="../budakeszi">Budakeszi</a></td><td>Hegyesi Adrien Beáta - Budakörnyék Fejlődéséért Egyesület</td><td class="orange lighten-2 white-text">40.8% - 59.2%</td><td>2 - 6</td></tr>
-<tr><td><a href="../budaors">Budaörs</a></td><td>Wittinghoff Tamás - Budakörnyék Fejlődéséért Egyesület </td><td>70.1% - 29.9%</td><td>10 - 0</td></tr>
+<tr><td><a href="../budaors">Budaörs</a></td><td>Wittinghoff Tamás - Budakörnyék Fejlődéséért Egyesület </td><td class="green lighten-2 white-text">70.1% - 29.9%</td><td>10 - 0</td></tr>
 <tr><td><a href="../cegled">Cegléd</a></td><td>Dr. Csáky András - Független</td><td class="pink lighten-4 white-text">52.2% - 47.8%</td><td>4 - 6</td></tr>
 <tr><td><a href="../celldomolk">Celldömölk</a></td><td>Fehér László - CSÖCE-ECVE</td><td class="orange lighten-2 white-text">46.5% - 53.5%</td><td>4 - 4</td></tr>
 <tr><td><a href="../csongrad">Csongrád</a></td><td>Bedő Tamás - Független</td><td class="pink lighten-4 white-text">50.4% - 49.6%</td><td>4 - 4</td></tr>
 <tr><td><a href="../csorna">Csorna</a></td><td>Kovácsné Varga Ildikó - DK-MOMENTUM-JOBBIK-MSZP-LMP</td><td class="orange lighten-2 white-text">27.4% - 69.4%</td><td>0 - 8</td></tr>
 <tr><td><a href="../dabas">Dabas</a></td><td> - </td><td class="orange lighten-2 white-text">0% - 100%</td><td>0 - 8</td></tr>
-<tr><td><a href="../diosd">Diósd</a></td><td>Bogó László - Élhetőbb Diósdért Egyesület</td><td>42.4% - 30.2%</td><td>5 - 3</td></tr>
+<tr><td><a href="../diosd">Diósd</a></td><td>Bogó László - Élhetőbb Diósdért Egyesület</td><td class="pink lighten-4 white-text">42.4% - 30.2%</td><td>5 - 3</td></tr>
 <tr><td><a href="../dombovar">Dombóvár</a></td><td>Szabó Lóránd - Természetesen Dombóvár </td><td class="orange lighten-2 white-text">43.6% - 50.4%</td><td>3 - 5</td></tr>
 <tr><td><a href="../dorog">Dorog</a></td><td>Dr. Tittmann János - Független</td><td class="pink lighten-4 white-text">100% - 0%</td><td>7 -1</td></tr>
 <tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>Barabás Emőke - Független</td><td class="orange lighten-2 white-text">49.1% - 50.9%</td><td>2 -6</td></tr>
@@ -146,7 +146,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../hajduhadhaz">Hajdúhadház</a></td><td>Dr. Koós László - Független</td><td class="orange lighten-2 white-text">23.8% - 76.2%</td><td>0 - 8</td></tr>
 <tr><td><a href="../hajdunanas">Hajdúnánás</a></td><td>-</td><td class="orange lighten-2 white-text">0% - 100%</td><td>1 - 7</td></tr>
 <tr><td><a href="../hajdusamson">Hajdúsámson</a></td><td>Tóth János - ESHE</td><td class="orange lighten-2 white-text">30.7% - 69.3%</td><td>0 - 8</td></tr>
-<tr><td><a href="../hajduszoboszlo">Hajdúszoboszló</a></td><td class="green lighten-2 white-text">Holoda Attila - Összefogás Hajdúszoboszlóért-PÁRBESZÉD-MOMENTUM-MSZP-DK-SZOLIDARITÁS-MMM-JOBBIK</td><td>59.2% -  40.8%</td><td>6 - 2</td></tr>
+<tr><td><a href="../hajduszoboszlo">Hajdúszoboszló</a></td><td>Holoda Attila - Összefogás Hajdúszoboszlóért-PÁRBESZÉD-MOMENTUM-MSZP-DK-SZOLIDARITÁS-MMM-JOBBIK</td><td class="green lighten-2 white-text">59.2% -  40.8%</td><td>6 - 2</td></tr>
 <tr><td><a href="../halasztelek">Halásztelek</a></td><td>Szentgyörgyi József - Sikerese Halásztelekért</td><td class="pink lighten-4 white-text">54.2% - 39.8%</td><td>6 - 2</td></tr>
 <tr><td><a href="../hatvan">Hatvan</a></td><td>Palik Józsefné - Együtt Hatvanért Egyesület</td><td>33.5% - 38.0% (Független)</td><td>2 - 6</td></tr>
 <tr><td><a href="../heves">Heves</a></td><td>Sallai Gábor - Független</td><td class="orange lighten-2 white-text">35.1% - 64.9%</td><td>1 - 7</td></tr>
@@ -156,8 +156,8 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../kapuvar">Kapuvár</a></td><td>Füzi József - Független</td><td class="orange lighten-2 white-text">23.1% - 76.9%</td><td>0 - 8</td></tr>
 <tr><td><a href="../karcag">Karcag</a></td><td>Dr. Lukács László György - Jobbik</td><td class="orange lighten-2 white-text">25.9% - 74.1%</td><td>0 - 8</td></tr>
 <tr><td><a href="../kazincbarcika">Kazincbarcika</a></td><td>Szitka Péter - MSZP-PÁRBESZÉD-DK-MOMENTUM</td><td class="green lighten-2 white-text">61.8% - 32.0%</td><td>10 - 0</td></tr>
-<tr><td><a href="../kerepes">Kerepes</a></td><td class="green lighten-2 white-text">Vig János - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD
-</td><td>34.7% - 31.1%</td><td>7 - 1</td></tr>
+<tr><td><a href="../kerepes">Kerepes</a></td><td>Vig János - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD
+</td><td class="green lighten-2 white-text">34.7% - 31.1%</td><td>7 - 1</td></tr>
 <tr><td><a href="../keszthely">Keszthely</a></td><td>Czuth Zoltán László - KÉVE</td><td class="orange lighten-2 white-text">38.4% - 61.6%</td><td>0 - 8</td></tr>
 <tr><td><a href="../kiskunfelegyhaza">Kiskunfélegyháza</a></td><td>Kolossai János - Veled a Városunkért Egyesület</td><td class="orange lighten-2 white-text">42.9% - 57.1%</td><td>2 - 8</td></tr>
 <tr><td><a href="../kiskunhalas">Kiskunhalas</a></td><td>Rétfalvi Józsefné - MMM</td><td class="orange lighten-2 white-text">32.8% - 60.4%</td><td>0 - 10</td></tr>
@@ -196,7 +196,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../pilisvorosvar">Pilisvörösvár</a></td><td>Gromon István - VÖRÖSVÁRÉRT KÖZÉLETI EGYESÜLET</td><td class="pink lighten-4 white-text">50.4% - 42.6%</td><td>5 - 3</td></tr>
 <tr><td><a href="../pomaz">Pomáz</a></td><td>Leidinger István - Független</td><td class="orange lighten-2 white-text">48.6% - 51.4%</td><td>3 - 5</td></tr>
 <tr><td><a href="../puspokladany">Püspökladány</a></td><td>Balázs Sándor - PÜSPÖKLADÁNY JÖVŐJÉÉRT EGYESÜL-VASÚTBARÁT ÉS ÉRTÉKŐR EGYESÜLET-JOBBIK</td><td class="orange lighten-2 white-text">19.3% - 53.0%</td><td>1 - 7</td></tr>
-<tr><td><a href="../rackeve">Ráckeve</a></td><td>Vereckei Zoltán - KEVE Egyesület</td><td class="orange lighten-2 white-text">24.6% - 38.2% (Független)</td><td>0 - 8</td></tr>
+<tr><td><a href="../rackeve">Ráckeve</a></td><td>Vereckei Zoltán - KEVE Egyesület</td><td>24.6% - 38.2% (Független)</td><td>0 - 8</td></tr>
 <tr><td><a href="../sajoszentpeter">Sajószentpéter</a></td><td>Dr. Faragó Péter - MSZP-DK</td><td class="green lighten-2 white-text">56.7% - 35.7%</td><td>8 - 0</td></tr>
 <tr><td><a href="../sarbogard">Sárbogárd</a></td><td>Borbély Sándor - DK</td><td class="orange lighten-2 white-text">28.6% - 71.4%</td><td>0 - 8</td></tr>
 <tr><td><a href="../sarkad">Sarkad</a></td><td> --- </td><td class="orange lighten-2 white-text">0% - 100%</td><td>0 - 8</td></tr>
