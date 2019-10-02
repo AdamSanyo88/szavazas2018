@@ -24,11 +24,11 @@ permalink: /komlo
               <tbody>
              <tr>
                    <td>Polics József - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">52.9%</td>
 			</tr>
 			<tr>
 			<td>Ferenczy Tamás - Komló Összeköt Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">47.1%</td>
 			</tr>
               </tbody>
             </table>

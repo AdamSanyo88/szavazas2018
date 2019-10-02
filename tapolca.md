@@ -24,11 +24,11 @@ permalink: /tapolca
               <tbody>
              <tr>
                    <td>Bognár Róbert - Fidesz-KDNP-Szeretem a Városom Egyesület <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">43.8%</td>
 			</tr>
 			<tr>
 			<td>Dobó Zoltán - Egységben Tapolczáért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">46.1%</td>
 			</tr>
               </tbody>
             </table>

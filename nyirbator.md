@@ -24,11 +24,11 @@ permalink: /nyirbator
               <tbody>
              <tr>
                    <td>Dr. Gárdos László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">37.8%</td>
 			</tr>
 			<tr>
 			<td>Máté Antal - NYÍRBÁTOR JÖVŐJÉÉRT EGYESÜLET-MSZP-PÁRBESZÉD-MOMENTUM-ÖSSSZEFOGÁS MEGYÉNKÉRT-DK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">58.4%</td>
 			</tr>
               </tbody>
             </table>

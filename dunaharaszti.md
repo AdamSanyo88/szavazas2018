@@ -24,11 +24,11 @@ permalink: /dunaharaszti
               <tbody>
              <tr>
                    <td>Dr. Szalay László - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">50.9%</td>
 			</tr>
 			<tr>
 			<td>Barabás Emőke - Független </td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">49.1%</td>
 			</tr>
               </tbody>
             </table>

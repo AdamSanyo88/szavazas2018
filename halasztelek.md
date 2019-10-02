@@ -24,11 +24,11 @@ permalink: /halasztelek
               <tbody>
              <tr>
                    <td>Szabó Tibor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">39.8%</td>
 			</tr>
 			<tr>
 			<td>Szentgyörgyi József - Sikerese Halásztelekért</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">54.2%</td>
 			</tr>
               </tbody>
             </table>

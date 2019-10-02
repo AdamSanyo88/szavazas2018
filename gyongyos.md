@@ -25,11 +25,11 @@ permalink: /gyongyos
              <tr>
                    <td>Klausmann Viktor - 
 Városom, Szeretlek Egyesület-Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">37.8%</td>
 			</tr>
 			<tr>
 			<td>Hiesz György - DK-MOMENTUM-MSZP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">51.6%</td>
 			</tr>
               </tbody>
             </table>

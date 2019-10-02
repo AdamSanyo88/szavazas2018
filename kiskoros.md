@@ -24,11 +24,11 @@ permalink: /kiskoros
               <tbody>
              <tr>
                    <td>Domonyi László Mihály - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">100.0%</td>
 			</tr>
 			<tr>
 			<td>Nincs jelölt</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">0.0%</td>
 			</tr>
               </tbody>
             </table>

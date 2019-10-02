@@ -24,11 +24,11 @@ permalink: /kisvarda
               <tbody>
              <tr>
                    <td>Leleszi Tibor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">67.7%</td>
 			</tr>
 			<tr>
 			<td>Perdiák János - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">28.1%</td>
 			</tr>
               </tbody>
             </table>

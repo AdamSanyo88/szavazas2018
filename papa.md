@@ -24,11 +24,11 @@ permalink: /papa
               <tbody>
              <tr>
                    <td>Dr. Áldozó Tamás - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.5%</td>
 			</tr>
 			<tr>
 			<td>Grőber Attila - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">37.6%</td>
 			</tr>
               </tbody>
             </table>

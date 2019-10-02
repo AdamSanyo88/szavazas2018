@@ -24,11 +24,11 @@ permalink: /gardony
               <tbody>
              <tr>
                    <td>Tóth István József- Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">58.6%</td>
 			</tr>
 			<tr>
 			<td>Eötvös Pál Árpád - DK-JOBBIK-LMP-MSZP-MMM-MOMENTUM-PÁRBESZÉD</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">38.5%</td>
 			</tr>
               </tbody>
             </table>

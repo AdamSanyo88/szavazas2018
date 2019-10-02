@@ -24,11 +24,11 @@ permalink: /kiskunmajsa
               <tbody>
              <tr>
                    <td>Patkós Zsolt - FIDESZ-KDNP-Nemzeti Fórum-Élhető Kiskunmajsa Egyesület <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">64.3%</td>
 			</tr>
 			<tr>
 			<td>Faludi Tamás - EKE</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">33.2%</td>
 			</tr>
               </tbody>
             </table>

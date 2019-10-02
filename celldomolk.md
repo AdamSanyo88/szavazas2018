@@ -24,11 +24,11 @@ permalink: /celldomolk
               <tbody>
              <tr>
                    <td>Sebestyén Krisztián - OK!</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">53.5%</td>
 			</tr>
 			<tr>
 			<td>Fehér László - CSÖCE-ECVE</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">46.5%</td>
 			</tr>
               </tbody>
             </table>

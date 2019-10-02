@@ -24,11 +24,11 @@ permalink: /ujfeherto
               <tbody>
              <tr>
                    <td>Dr. Hosszú József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">50.0%</td>
 			</tr>
 			<tr>
 			<td>Nagy Sándor - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">43.4%</td>
 			</tr>
               </tbody>
             </table>

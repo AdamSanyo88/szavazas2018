@@ -24,11 +24,11 @@ permalink: /sajoszentpeter
               <tbody>
              <tr>
                    <td>- - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">35.7%</td>
 			</tr>
 			<tr>
 			<td>Dr. Faragó Péter - MSZP-DK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">56.7%</td>
 			</tr>
               </tbody>
             </table>

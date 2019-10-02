@@ -24,11 +24,11 @@ permalink: /paks
               <tbody>
              <tr>
                    <td>Szabó Péter - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">64.6%</td>
 			</tr>
 			<tr>
 			<td>Heringes Anita - PDF</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">35.4%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /pecel
               <tbody>
              <tr>
                    <td>Szöllősi Ferenc - 2119 EGYESÜLET </td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">45.9%</td>
 			</tr>
 			<tr>
 			<td>Horváth Tibor - Közösség Pécelért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">42.0%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /hajduszoboszlo
               <tbody>
              <tr>
                    <td>Czeglédi Gyula - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">40.8%</td>
 			</tr>
 			<tr>
 			<td>Holoda Attila - Összefogás Hajdúszoboszlóért-PÁRBESZÉD-MOMENTUM-MSZP-DK-SZOLIDARITÁS-MMM-JOBBIK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">59.2%</td>
 			</tr>
               </tbody>
             </table>

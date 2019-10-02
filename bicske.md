@@ -24,11 +24,11 @@ permalink: /bicske
               <tbody>
              <tr>
                    <td>Bálint Istvánné - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">65.2%</td>
 			</tr>
 			<tr>
 			<td>Molnár Dániel - DK-JOBBIK-MMM-MOMENTUM-MSZP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">34.8%</td>
 			</tr>
               </tbody>
             </table>

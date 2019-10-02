@@ -24,11 +24,11 @@ permalink: /budaors
               <tbody>
              <tr>
                    <td>Dr. Czuczor Gergely - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">29.9%</td>
 			</tr>
 			<tr>
 			<td>Wittinghoff Tamás - Budakörnyék Fejlődéséért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">70.1%</td>
 			</tr>
               </tbody>
             </table>

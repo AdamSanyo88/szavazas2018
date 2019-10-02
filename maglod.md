@@ -24,11 +24,11 @@ permalink: /maglod
               <tbody>
              <tr>
                    <td>Tabányi Pál - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">100.0%%</td>
 			</tr>
 			<tr>
 			<td>---</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">---</td>
 			</tr>
               </tbody>
             </table>

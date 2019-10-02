@@ -24,11 +24,11 @@ permalink: /mateszalka
               <tbody>
              <tr>
                    <td>Dr. Hanusi Péter - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">64.8%</td>
 			</tr>
 			<tr>
 			<td>Vékony Miklós - TESZ Mátészalka</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">35.2%</td>
 			</tr>
               </tbody>
             </table>

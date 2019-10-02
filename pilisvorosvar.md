@@ -24,11 +24,11 @@ permalink: /pilisvorosvar
               <tbody>
              <tr>
                    <td>Dr. Manhertz József - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">42.6%</td>
 			</tr>
 			<tr>
 			<td>Gromon István - VÖRÖSVÁRÉRT KÖZÉLETI EGYESÜLET</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">50.4%</td>
 			</tr>
               </tbody>
             </table>

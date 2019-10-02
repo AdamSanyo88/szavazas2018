@@ -24,11 +24,11 @@ permalink: /vecses
               <tbody>
              <tr>
                    <td>Szlahó Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">66.5%</td>
 			</tr>
 			<tr>
-			<td>Dr. Vonnák Iván Péter - MSZP / Pintér Sándor - MOMENTUM-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td>Pintér Sándor - MOMENTUM-LMP</td> 
+			<td id="ellenzek_mayor">16.6%</td>
 			</tr>
               </tbody>
             </table>

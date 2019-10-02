@@ -24,11 +24,11 @@ permalink: /karcag
               <tbody>
              <tr>
                    <td>Dobos László - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">74.1%</td>
 			</tr>
 			<tr>
 			<td>Dr. Lukács László György - Jobbik <img src="images/jobbik_logo.png" style="width:23px;height:30px;"></td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">25.9%</td>
 			</tr>
               </tbody>
             </table>

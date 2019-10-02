@@ -207,7 +207,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../solymar">Solymár</a></td><td>Bárány Balázs - Budakörnyék Fejlődéséért Egyesület</td><td>37.9% - 62.1%</td><td>0 - 8</td></tr>
 <tr><td><a href="../szarvas">Szarvas</a></td><td>Pártai Lucia - Független</td><td>16.1% - 45.6%</td><td>0 - 8</td></tr>
 <tr><td><a href="../szazhalombatta">Százhalombatta</a></td><td>Mánya Zsolt - A Mi Városunk Jövőjéért-DK-MOMENTUM-JOBBIK</td><td>45.6% - 54.4%</td><td>0 - 8</td></tr>
-<tr><td><a href="../szentendre">Szentendre</a></td><td>Fülöp Zsolt - TESZ</td><td>43.2% - 51.5%</td><td>3 - 7</td></tr>  - színezés 
+<tr><td><a href="../szentendre">Szentendre</a></td><td>Fülöp Zsolt - TESZ</td><td>43.2% - 51.5%</td><td>3 - 7</td></tr>
 <tr><td><a href="../szentes">Szentes</a></td><td>Szabó Zoltán Ferenc - Jövőnk Szentes Egyesület</td><td>47.9% - 43.9%</td><td>4 - 6</td></tr>
 <tr><td><a href="../szigethalom">Szigethalom</a></td><td>Fáki László - ÖSSZE</td><td>55.9% - 44.1%</td><td>5 - 3</td></tr>
 <tr><td><a href="../szigetszentmiklos">Szigetszentmiklós</a></td><td>Nagy János - DK-MOMENTUM-JOBBIK-MSZP-LMP-MMM </td><td>40.5% - 49.3%</td><td>3 - 7</td></tr>

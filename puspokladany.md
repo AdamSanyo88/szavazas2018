@@ -24,11 +24,11 @@ permalink: /puspokladany
               <tbody>
              <tr>
                    <td>Vadász Ferenc - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">53.0%</td>
 			</tr>
 			<tr>
 			<td>Balázs Sándor - PÜSPÖKLADÁNY JÖVŐJÉÉRT EGYESÜL-VASÚTBARÁT ÉS ÉRTÉKŐR EGYESÜLET-JOBBIK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">19.3%</td>
 			</tr>
               </tbody>
             </table>

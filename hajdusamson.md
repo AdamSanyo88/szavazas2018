@@ -24,11 +24,11 @@ permalink: /hajdusamson
               <tbody>
              <tr>
                    <td>Antal Szabolcs - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">69.3%</td>
 			</tr>
 			<tr>
 			<td>Tóth János - ESHE</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">30.7%</td>
 			</tr>
               </tbody>
             </table>

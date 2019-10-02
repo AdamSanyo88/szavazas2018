@@ -24,11 +24,11 @@ permalink: /varpalota
               <tbody>
              <tr>
                    <td>Camparani-Talabér Márta - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">49.2%</td>
 			</tr>
 			<tr>
 			<td>Borsik Ákos - DK-JOBBIK-MSZP-PÁRBESZÉD-MOMENTUM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">47.1%</td>
 			</tr>
               </tbody>
             </table>

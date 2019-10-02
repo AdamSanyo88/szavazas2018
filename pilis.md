@@ -24,11 +24,11 @@ permalink: /pilis
               <tbody>
              <tr>
                    <td>Szabó Márton - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">44.0%</td>
 			</tr>
 			<tr>
 			<td>Hajnal Csilla</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">36.7%</td>
 			</tr>
               </tbody>
             </table>

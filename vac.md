@@ -24,11 +24,11 @@ permalink: /vac
               <tbody>
              <tr>
                    <td>Fördős Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">51.8%</td>
 			</tr>
 			<tr>
 			<td>Matkovich Ilona - MOMENTUM-DK-Vácért Lokálpatrióta Egyesület-JOBBIK-LMP-Szavad Egyesület-MMM-MSZP-PÁRBESZÉD</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">38.4%</td>
 			</tr>
               </tbody>
             </table>

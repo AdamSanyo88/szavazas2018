@@ -24,11 +24,11 @@ permalink: /kisujszallas
               <tbody>
              <tr>
                    <td>Kecze István - FIDESZ-KDNP-NAGYKUN POLGÁRI KÖR - <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">59.7%</td>
 			</tr>
 			<tr>
 			<td>Szarvák Márton - JOBBIK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">26.5%</td>
 			</tr>
               </tbody>
             </table>

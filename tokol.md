@@ -24,11 +24,11 @@ permalink: /tokol
               <tbody>
              <tr>
                    <td>Hoffman Pál - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.6%</td>
 			</tr>
 			<tr>
 			<td>Farkas Zsuzsanna - CIVIL KONTROLL</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">39.7%</td>
 			</tr>
               </tbody>
             </table>

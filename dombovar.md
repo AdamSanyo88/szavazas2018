@@ -24,11 +24,11 @@ permalink: /dombovar
               <tbody>
              <tr>
                    <td>Pintér Szilárd - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">50.4%</td>
 			</tr>
 			<tr>
 			<td>Szabó Lóránd - Természetesen Dombóvár</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">43.6%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /gyomro
               <tbody>
              <tr>
                    <td>Dr. Mezey Attila - GYÖMRŐ 2000 KÖR-Fidesz</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">46.9%</td>
 			</tr>
 			<tr>
 			<td>Horváth István Attila - HEGY</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">42.9%</td>
 			</tr>
               </tbody>
             </table>

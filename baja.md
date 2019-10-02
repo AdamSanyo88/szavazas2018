@@ -24,11 +24,11 @@ permalink: /baja
               <tbody>
              <tr>
                    <td>Fercsák Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">60.1%</td>
 			</tr>
 			<tr>
 			<td>Nyitrai Klára - Sikeres Bajáért</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">37.7%</td>
 			</tr>
               </tbody>
             </table>

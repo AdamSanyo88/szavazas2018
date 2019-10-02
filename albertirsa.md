@@ -24,11 +24,11 @@ permalink: /albertirsa
               <tbody>
              <tr>
                    <td>Szőke Szabolcs - Fidesz</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">27.7%</td>
 			</tr>
 			<tr>
 			<td>Fazekas László - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">63.9%</td>
 			</tr>
               </tbody>
             </table>

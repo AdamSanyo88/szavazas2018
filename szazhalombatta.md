@@ -24,11 +24,11 @@ permalink: /szazhalombatta
               <tbody>
              <tr>
                    <td>Vezér Mihály - ÉSZKE</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">54.4%</td>
 			</tr>
 			<tr>
 			<td>Mánya Zsolt - A Mi Városunk Jövőjéért-DK-MOMENTUM-JOBBIK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">45.6%</td>
 			</tr>
               </tbody>
             </table>

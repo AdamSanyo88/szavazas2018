@@ -24,11 +24,11 @@ permalink: /sarvar
               <tbody>
              <tr>
                    <td>Kondora István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">65.9%</td>
 			</tr>
 			<tr>
 			<td>Németh Zsolt - Híd a Jövőnkért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">34.1%</td>
 			</tr>
               </tbody>
             </table>

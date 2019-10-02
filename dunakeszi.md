@@ -24,11 +24,11 @@ permalink: /dunakeszi
               <tbody>
              <tr>
                    <td>Dióssi Csaba - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">55.9%</td>
 			</tr>
 			<tr>
 			<td>Gerner Péter - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-MMM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">44.1%</td>
 			</tr>
               </tbody>
             </table>

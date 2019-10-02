@@ -24,11 +24,11 @@ permalink: /kapuvar
               <tbody>
              <tr>
                    <td>Hámori György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">76.9%</td>
 			</tr>
 			<tr>
 			<td>Füzi József - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">23.1%</td>
 			</tr>
               </tbody>
             </table>

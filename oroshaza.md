@@ -24,11 +24,11 @@ permalink: /oroshaza
               <tbody>
              <tr>
                    <td>Dávid Zoltán - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">55.8%</td>
 			</tr>
 			<tr>
 			<td>Dr. Orosz Ervin - Közösen Orosháza Városáért-JOBBIK-DK-MOMENTUM-MMM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">31.2%</td>
 			</tr>
               </tbody>
             </table>

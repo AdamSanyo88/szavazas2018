@@ -24,11 +24,11 @@ permalink: /hajduboszormeny
               <tbody>
              <tr>
                    <td>Kiss Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">61.0%</td>
 			</tr>
 			<tr>
 			<td>Erdős László - DK-MSZP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">26.6%</td>
 			</tr>
               </tbody>
             </table>

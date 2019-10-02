@@ -24,11 +24,11 @@ permalink: /nagykata
               <tbody>
              <tr>
                    <td>Dorner Gábor - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.7%</td>
 			</tr>
 			<tr>
 			<td>Dr. Csókás András - Ébredj Káta</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">37.8%</td>
 			</tr>
               </tbody>
             </table>

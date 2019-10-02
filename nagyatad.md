@@ -24,11 +24,11 @@ permalink: /nagyatad
               <tbody>
              <tr>
                    <td>Kárpáti László - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">37.7%</td>
 			</tr>
 			<tr>
 			<td>Ormai István - Nagyatádért</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">57.7%</td>
 			</tr>
               </tbody>
             </table>

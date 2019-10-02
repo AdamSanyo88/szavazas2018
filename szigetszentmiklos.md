@@ -24,11 +24,11 @@ permalink: /szigetszentmiklos
               <tbody>
              <tr>
                    <td>Szabó József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">49.3%</td>
 			</tr>
 			<tr>
 			<td>Nagy János - DK-MOMENTUM-JOBBIK-MSZP-LMP-MMM </td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">40.5%</td>
 			</tr>
               </tbody>
             </table>

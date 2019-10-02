@@ -24,11 +24,11 @@ permalink: /balassagyarmat
               <tbody>
              <tr>
                    <td>Csach Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">55.3%</td>
 			</tr>
 			<tr>
 			<td>Gyenes Szilárd - SZAB</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">44.7%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /szigethalom
               <tbody>
              <tr>
                    <td>Molnár Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">44.1%</td>
 			</tr>
 			<tr>
 			<td>Fáki László - ÖSSZE</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">55.9%</td>
 			</tr>
               </tbody>
             </table>

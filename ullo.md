@@ -24,11 +24,11 @@ permalink: /ullo
               <tbody>
              <tr>
                    <td>Kissné Szabó Katalin - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">61.0%</td>
 			</tr>
 			<tr>
 			<td>Fricskovszky-Tóth Péter - Üllő Te Vagy</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">39.0%</td>
 			</tr>
               </tbody>
             </table>

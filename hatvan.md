@@ -24,11 +24,15 @@ permalink: /hatvan
               <tbody>
              <tr>
                    <td>Gál Erzsébet - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">28.6%</td>
 			</tr>
 			<tr>
 			<td>Palik Józsefné - Együtt Hatvanért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">33.5%</td>
+			</tr>
+			<tr>
+			<td>Horváth Richárd - Független</td> 
+			<td id="">38.0%</td>
 			</tr>
               </tbody>
             </table>

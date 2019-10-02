@@ -24,11 +24,11 @@ permalink: /nagykoros
               <tbody>
              <tr>
                    <td>Dr. Czira Szabolcs  - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">59.3%</td>
 			</tr>
 			<tr>
 			<td>Zágráb Nándor - Jobb Nagykőrösért</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">24.8%</td>
 			</tr>
               </tbody>
             </table>

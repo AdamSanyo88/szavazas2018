@@ -24,11 +24,11 @@ permalink: /barcs
               <tbody>
              <tr>
                    <td>Koós Csaba Tibor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">47.5%</td>
 			</tr>
 			<tr>
 			<td>Anderné Röszler Erika - BÉKE EGYESÜLET-JOBBIK-DSE-MMM-LMP-MOMENTUM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">35.9%</td>
 			</tr>
               </tbody>
             </table>

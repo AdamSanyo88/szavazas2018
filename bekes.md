@@ -24,11 +24,11 @@ permalink: /bekes
               <tbody>
              <tr>
                    <td>Kálmán Tibor - Fidesz-KDNP-Jobboldali Összefogás Békésért <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">36.9%</td>
 			</tr>
 			<tr>
-			<td>Molnár Gábor - MSZP / Földesi Mihály - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td>Molnár Gábor - MSZP</td> 
+			<td id="ellenzek_mayor">20.7%</td>
 			</tr>
               </tbody>
             </table>

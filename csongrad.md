@@ -24,11 +24,11 @@ permalink: /csongrad
               <tbody>
              <tr>
                    <td>Csák Ambrus - Független</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">49.6%</td>
 			</tr>
 			<tr>
 			<td>Bedő Tamás - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">50.4%</td>
 			</tr>
               </tbody>
             </table>

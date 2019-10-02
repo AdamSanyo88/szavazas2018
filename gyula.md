@@ -24,11 +24,11 @@ permalink: /gyula
               <tbody>
              <tr>
                    <td>Dr. Görgényi Ernő István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">58.2%</td>
 			</tr>
 			<tr>
 			<td>Galbács Mihály - MMM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">18.4%</td>
 			</tr>
               </tbody>
             </table>

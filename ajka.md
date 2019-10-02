@@ -24,11 +24,11 @@ permalink: /ajka
               <tbody>
              <tr>
                    <td>Baráth Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">41.8%</td>
 			</tr>
 			<tr>
 			<td>Schwartz Béla - Közösen Ajkáért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">58.2%</td>
 			</tr>
               </tbody>
             </table>

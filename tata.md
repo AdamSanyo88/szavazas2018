@@ -24,11 +24,11 @@ permalink: /tata
               <tbody>
              <tr>
                    <td>Michl József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">58.8%</td>
 			</tr>
 			<tr>
 			<td>Dr. Popovics Judit - DK-JOBBIK-MSZP-MOMENTUM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">41.2%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /mezotur
               <tbody>
              <tr>
                    <td>Herczeg Zsolt - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.0%</td>
 			</tr>
 			<tr>
 			<td>Dr. Siposné Varga Ildikó - TEKE</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">43.0%</td>
 			</tr>
               </tbody>
             </table>

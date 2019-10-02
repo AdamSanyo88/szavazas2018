@@ -24,11 +24,11 @@ permalink: /kiskunhalas
               <tbody>
              <tr>
                    <td>Fülöp Róbert - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">60.4%</td>
 			</tr>
 			<tr>
 			<td>Rétfalvi Józsefné - MMM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">32.8%</td>
 			</tr>
               </tbody>
             </table>

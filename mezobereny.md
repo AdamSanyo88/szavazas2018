@@ -24,11 +24,11 @@ permalink: /mezobereny
               <tbody>
              <tr>
                    <td>Siklósi István - Független </td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">74.4%</td>
 			</tr>
 			<tr>
 			<td>Csollár Norbert - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">25.6%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /sarbogard
               <tbody>
              <tr>
                    <td>Dr. Sükösd Tamás - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">71.4%</td>
 			</tr>
 			<tr>
 			<td>Borbély Sándor - DK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">28.6%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /mezokovesd
               <tbody>
              <tr>
                    <td>Dr. Fekete Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">75.4%</td>
 			</tr>
 			<tr>
-			<td>---</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td>Jámbor Márk - Mi Hazánk</td> 
+			<td id="">24.6%</td>
 			</tr>
               </tbody>
             </table>

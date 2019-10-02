@@ -24,11 +24,11 @@ permalink: /fot
               <tbody>
              <tr>
                    <td>Dr. Vass György - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">52.4%</td>
 			</tr>
 			<tr>
 			<td>Kohut Ákos - DK-MSZP-MMM-JOBBIK-SZOLIDARITÁS-PÁRBESZÉD</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">41.1%</td>
 			</tr>
               </tbody>
             </table>

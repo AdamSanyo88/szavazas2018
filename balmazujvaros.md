@@ -24,11 +24,11 @@ permalink: /balmazujvaros
               <tbody>
              <tr>
                    <td>Koroknai Imre - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">52.9%</td>
 			</tr>
 			<tr>
 			<td>Hegedüs Péter - Független</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">47.1%</td>
 			</tr>
               </tbody>
             </table>

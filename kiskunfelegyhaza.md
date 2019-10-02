@@ -24,11 +24,11 @@ permalink: /kiskunfelegyhaza
               <tbody>
              <tr>
                    <td>Csányi József - Nemzeti Fórum</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.1%</td>
 			</tr>
 			<tr>
 			<td>Kolossai János - Veled a Városunkért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">42.9%</td>
 			</tr>
               </tbody>
             </table>

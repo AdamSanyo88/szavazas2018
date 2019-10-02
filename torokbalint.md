@@ -24,11 +24,11 @@ permalink: /torokbalint
               <tbody>
              <tr>
                    <td>Elek Sándor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">50.9%</td>
 			</tr>
 			<tr>
 			<td>Szőke Péter - Törökbálint Holnap Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">42.0%</td>
 			</tr>
               </tbody>
             </table>

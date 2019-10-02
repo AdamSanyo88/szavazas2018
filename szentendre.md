@@ -24,11 +24,11 @@ permalink: /szentendre
               <tbody>
              <tr>
                    <td>Verseghi-Nagy Miklós Zoltán - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">51.5%</td>
 			</tr>
 			<tr>
 			<td>Fülöp Zsolt - TESZ</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">43.2%</td>
 			</tr>
               </tbody>
             </table>

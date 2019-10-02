@@ -24,11 +24,11 @@ permalink: /mosonmagyarovar
               <tbody>
              <tr>
                    <td>Dr. Árvay István - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">62.7%</td>
 			</tr>
 			<tr>
-			<td>Szabó Miklós - Jobbik / Ábrahám Tivadar - DK-MSZP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td>Szabó Miklós - Jobbik</td> 
+			<td id="ellenzek_mayor">14.4%</td>
 			</tr>
               </tbody>
             </table>

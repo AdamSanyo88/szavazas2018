@@ -24,11 +24,11 @@ permalink: /esztergom
               <tbody>
              <tr>
                    <td>Hernádi Ádám - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">51.9%</td>
 			</tr>
 			<tr>
 			<td>Cserép János - Szeretgom</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">42.4%</td>
 			</tr>
               </tbody>
             </table>

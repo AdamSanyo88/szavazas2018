@@ -24,11 +24,11 @@ permalink: /satoraljaujhely
               <tbody>
              <tr>
                    <td>Szamosvölgyi Péter István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">62.7%</td>
 			</tr>
 			<tr>
 			<td>Iski Dávid László - MSZP-Jobbik</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">34.2%</td>
 			</tr>
               </tbody>
             </table>

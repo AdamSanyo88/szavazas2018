@@ -24,11 +24,11 @@ permalink: /tolna
               <tbody>
              <tr>
                    <td>Appelshoffer Ágnes - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">64.2%</td>
 			</tr>
 			<tr>
 			<td>Balogh Zoltán</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">25.3%</td>
 			</tr>
               </tbody>
             </table>

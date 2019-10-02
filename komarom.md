@@ -24,11 +24,11 @@ permalink: /komarom
               <tbody>
              <tr>
                    <td>Dr. Molnár Attila - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">54.1%</td>
 			</tr>
 			<tr>
 			<td>dr. Nemes Andrea - KMRM-DK-JOBBIK-MSZP-MMM-MOMENTUM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">32.9%</td>
 			</tr>
               </tbody>
             </table>

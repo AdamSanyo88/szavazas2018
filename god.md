@@ -24,11 +24,11 @@ permalink: /god
               <tbody>
              <tr>
                    <td>Markó József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">49.0%</td>
 			</tr>
 			<tr>
 			<td>Balogh Csaba - DK-JOBBIK-LMP-MMM-MOMENTUM-PÁRBESZÉD</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">47.8%</td>
 			</tr>
               </tbody>
             </table>

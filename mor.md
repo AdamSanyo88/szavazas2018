@@ -24,11 +24,11 @@ permalink: /mor
               <tbody>
              <tr>
                    <td>Fenyves Péter - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">67.5%</td>
 			</tr>
 			<tr>
 			<td>Brichter Józsefné - MVJE-MMM-JOBBIK-MOMENTUM-MSZP-PÁRBESZÉD-LMP-DK</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">27.4%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /diosd
               <tbody>
              <tr>
                    <td>Albitz Gábor - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">30.2%</td>
 			</tr>
 			<tr>
 			<td>Bogó László - Élhetőbb Diósdért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">42.4%</td>
 			</tr>
               </tbody>
             </table>

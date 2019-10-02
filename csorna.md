@@ -24,11 +24,11 @@ permalink: /csorna
               <tbody>
              <tr>
                    <td>Dr. Bónáné Dr. Németh Katalin Klára - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">69.4%</td>
 			</tr>
 			<tr>
 			<td>Kovácsné Varga Ildikó - DK-MOMENTUM-JOBBIK-MSZP-LMP</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">27.4%</td>
 			</tr>
               </tbody>
             </table>

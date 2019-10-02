@@ -24,11 +24,11 @@ permalink: /bonyhad
               <tbody>
              <tr>
                    <td>Filóné Ferencz Ibolya - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">57.8%</td>
 			</tr>
 			<tr>
 			<td>Gecséné Dr. Slárku Szilvia - Egységben a Városunkért </td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">30.9%</td>
 			</tr>
               </tbody>
             </table>

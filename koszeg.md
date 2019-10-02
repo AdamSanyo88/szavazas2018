@@ -24,11 +24,11 @@ permalink: /koszeg
               <tbody>
              <tr>
                    <td>Básthy Béla - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">58.3%</td>
 			</tr>
 			<tr>
 			<td>Rába Kálmán - MMM</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">29.3%</td>
 			</tr>
               </tbody>
             </table>

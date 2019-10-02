@@ -24,11 +24,11 @@ permalink: /szigetvar
               <tbody>
              <tr>
                    <td>Dr. Simon János - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">44.9%</td>
 			</tr>
 			<tr>
 			<td>Dr. Vass Péter - Szigetvárért Tisztességgel Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">55.1%</td>
 			</tr>
               </tbody>
             </table>

@@ -24,11 +24,11 @@ permalink: /ozd
               <tbody>
              <tr>
                    <td>Eke István - FIDESZ-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">37.2%</td>
 			</tr>
 			<tr>
 			<td>Janiczak Dávid - Ózdiakért és Ózdért Egyesület</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">48.3%</td>
 			</tr>
               </tbody>
             </table>

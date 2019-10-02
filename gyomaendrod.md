@@ -24,11 +24,11 @@ permalink: /gyomaendrod
               <tbody>
              <tr>
                    <td>Márjalaki József</td>
-				   <td id="fidesz_mayor">xx%</td>
+				   <td id="fidesz_mayor">34.4%</td>
 			</tr>
 			<tr>
 			<td>Toldi Balázs</td> 
-			<td id="ellenzek_mayor">xx%</td>
+			<td id="ellenzek_mayor">65.6%</td>
 			</tr>
               </tbody>
             </table>
