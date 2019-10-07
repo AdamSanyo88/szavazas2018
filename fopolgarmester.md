@@ -1,0 +1,57 @@
+---
+layout: page
+title: Főpolgármester-választás
+permalink: /fopolgarmester
+---
+
+<h1 class="page-title">{{ page.title | escape }}</h1>
+
+<div class="section">
+    <div class="row">
+          <div class="col s12">
+		  <h5>Főpolgármester-választás</h5><br/> 
+ <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk (becsült részvételi arány: 55%)</strong></h5><br/> 
+ <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
+ <h5><strong>A Fidesz jelöltjének kihívója: Karácsony Gergely </strong></h5>
+<br/>
+<table class="striped">
+              <thead>
+                <tr>
+                    <th>Jelöltek</th>
+                    <th>Becsült szavazatarány (százalék)</th>
+                </tr>
+              </thead>
+              <tbody>
+             <tr>
+                   <td>Tarlós István - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
+				   <td id="fidesz_mayor">46.4%</td>
+			</tr>
+			<tr>
+			<td>Karácsony Gergely - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td id="ellenzek_mayor">45.8%</td>
+			</tr>
+			<tr>
+			<td>Puzsér Róbert - Állampolgárok a Centrumban Egyesület</td> 
+			<td id="ellenzek_mayor">7.0%</td>
+			</tr>
+			<tr>
+			<td>Berki Krisztián - Független</td> 
+			<td id="ellenzek_mayor">0.8%</td>
+			</tr>
+              </tbody>
+            </table>
+<br/>
+
+
+<p><span id="megjegyzes"></span><br/></p>
+<br/><h5><strong>2019-es EP-választás eredményei Budapesten</strong></h5><br/><br/> 
+ <div id="chart_div_ep_2019" style="width: 100%"></div> 
+ <br/><h5><strong>2018-as országgyűlési választás listás eredményei Budapesten</strong></h5><br/>
+ <div id="chart_div_ogy_2018" style="width: 100%"></div>
+          </div>
+    </div>
+</div>
+
+
+
+
