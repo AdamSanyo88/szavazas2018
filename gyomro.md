@@ -28,7 +28,7 @@ permalink: /gyomro
 			</tr>
 			<tr>
 			<td>Horváth István Attila - HEGY</td> 
-			<td id="ellenzek_mayor">42.9%</td>
+			<td id="ellenzek_mayor">17.4%</td>
 			</tr>
               </tbody>
             </table>

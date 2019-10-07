@@ -139,7 +139,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../godollo">Gödöllő</a></td><td>Dr. Gémesi György - GÖDÖLLŐI LOKÁLPATRIÓTA KLUB</td><td class="pink lighten-4 white-text">39.8% - 29.8%</td><td>6 - 2</td></tr>
 <tr><td><a href="../gyal">Gyál</a></td><td>Endre Dávid Bence - MSZP-DK-MOMENTUM</td><td class="orange lighten-2 white-text">39.9% - 60.1%</td><td>0 - 8</td></tr>
 <tr><td><a href="../gyomaendrod">Gyomaendrőd</a></td><td>Toldi Balázs - Független</td><td class="pink lighten-4 white-text">65.6% - 34.4%</td><td>6 - 2</td></tr>
-<tr><td><a href="../gyomro">Gyömrő</a></td><td>Horváth István Attila - HEGY</td><td class="orange lighten-2 white-text">42.9% - 46.9%</td><td>1 - 7</td></tr>
+<tr><td><a href="../gyomro">Gyömrő</a></td><td>Horváth István Attila - HEGY</td><td class="orange lighten-2 white-text">17.4% - 43.4%</td><td>1 - 7</td></tr>
 <tr><td><a href="../gyongyos">Gyöngyös</a></td><td>Hiesz György - DK-MOMENTUM-MSZP</td><td class="green lighten-2 white-text">51.6% - 37.8%</td><td>9 - 1</td></tr>
 <tr><td><a href="../gyula">Gyula</a></td><td>Galbács Mihály - MMM</td><td class="orange lighten-2 white-text">18.4% - 58.2%</td><td>0 - 10</td></tr>
 <tr><td><a href="../hajduboszormeny">Hajdúböszörmény</a></td><td>Erdős László - DK-MSZP</td><td class="orange lighten-2 white-text">26.6% - 61.0%</td><td>0 - 10</td></tr>
