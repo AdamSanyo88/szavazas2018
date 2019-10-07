@@ -24,11 +24,11 @@ permalink: /hodmezovasarhely
               <tbody>
              <tr>
                    <td>Dr. Grezsa István</td>
-				   <td id="fidesz_mayor">54.3%</td>
+				   <td id="fidesz_mayor">49.7%</td>
 			</tr>
 			<tr>
 			<td>Dr. Márki-Zay Péter - Tiszta Vásárhelyért Egyesület-MMM</td> 
-			<td id="ellenzek_mayor">45.7%</td>
+			<td id="ellenzek_mayor">50.3%</td>
 			</tr>
               </tbody>
             </table>

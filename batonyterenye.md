@@ -24,11 +24,11 @@ permalink: /batonyterenye
               <tbody>
              <tr>
                    <td>Nagy-Majdon József - Fidesz-KDNP <img src="images/fideszkdnp_logo.png" style="width:55px;height:30px;"></td>
-				   <td id="fidesz_mayor">45.5%</td>
+				   <td id="fidesz_mayor">49.0%</td>
 			</tr>
 			<tr>
 			<td>Cseresznyés István -  JOBBIK-DK-MOMENTUM-LMP-MMM</td> 
-			<td id="ellenzek_mayor">41.1%</td>
+			<td id="ellenzek_mayor">44.3%</td>
 			</tr>
               </tbody>
             </table>

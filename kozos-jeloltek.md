@@ -72,7 +72,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../eger">Eger</a></td><td>Mirkóczki Ádám - Egységben a Városért Egyesület</td><td class="orange lighten-2 white-text">43.6% - 46.8%</td><td>4 - 8</td></tr>
 <tr><td><a href="../erd">Érd</a></td><td td>Csőzik László - LMP-JOBBIK-DK-MSZP-CÉL-MOMENTUM-MMM-PÁRBESZÉD-MLP</td><td class="orange lighten-2 white-text">44.0% - 53.0%</td><td>3 - 9</td></tr>
 <tr><td><a href="../gyor">Győr</a></td><td>Glázer Tímea - DK-MOMENTUM-MSZP-JOBBIK-LMP</td><td class="orange lighten-2 white-text">35.0% - 57.6%</td><td>1 - 14</td></tr>
-<tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td>Dr. Márki-Zay-Péter - Tiszavásárhelyért Egyesület-MMM </td><td class="orange lighten-2 white-text">45.7% - 54.3%</td><td>3 - 7</td></tr>
+<tr><td><a href="../hodmezovasarhely">Hódmezővásárhely</a></td><td>Dr. Márki-Zay-Péter - Tiszavásárhelyért Egyesület-MMM </td><td class="green lighten-2 white-text">50.3% - 49.7%</td><td>4 - 6</td></tr>
 <tr><td><a href="../kaposvar">Kaposvár</a></td><td>Horváth Ákos Ervin- Kaposváriakért Egyesület-DK-JOBBIK-LMP-MOMENTUM-MSZP</td><td class="orange lighten-2 white-text">36.5% - 59.8%</td><td>0 - 12</td></tr>
 <tr><td><a href="../kecskemet">Kecskemét</a></td><td>Lejer Zoltán - SZÖVETSÉG A HÍRÖS VÁROSÉRT</td><td class="orange lighten-2 white-text">38.8% - 57.7%</td><td>1 - 14</td></tr>
 <tr><td><a href="../miskolc">Miskolc</a></td><td>Veres Pál - Függetlenek Szíve-MSZP-MOMENTUM-PÁRBESZÉD-JOBBIK-DK-MMM-Velünk a Város</td><td class="orange lighten-2 white-text">44.6% - 48.9%</td><td>9 - 10</td></tr>
@@ -113,7 +113,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../balatonfured">Balatonfüred</a></td><td> - </td><td class="orange lighten-2 white-text">0% - 100%</td><td>0 - 8</td></tr>
 <tr><td><a href="../balmazujvaros">Balmazújváros</a></td><td>Hegedűs Péter - Független </td><td class="orange lighten-2 white-text">47.1% - 52.9%</td><td>2 - 6</td></tr>
 <tr><td><a href="../barcs">Barcs</a></td><td>Anderné Röszler Erika - BÉKE EGYESÜLET-JOBBIK-DSE-MMM-LMP-MOMENTUM</td><td class="orange lighten-2 white-text">35.9% - 47.5%</td><td>2 - 6</td></tr>
-<tr><td><a href="../batonyterenye">Bátonyterenye</a></td><td>Cseresznyés István - JOBBIK-DK-MOMENTUM-LMP-MMM</td><td class="orange lighten-2 white-text">41.1% - 45.5%</td><td>3 - 5</td></tr>
+<tr><td><a href="../batonyterenye">Bátonyterenye</a></td><td>Cseresznyés István - JOBBIK-DK-MOMENTUM-LMP-MMM</td><td class="orange lighten-2 white-text">43.4% - 49.0%</td><td>3 - 5</td></tr>
 <tr><td><a href="../bekes">Békés</a></td><td>Molnár Gábor - MSZP / Földesi Mihály - Független</td><td class="orange lighten-2 white-text">20.7% (MSZP) - 36.9%</td><td>1 - 7</td></tr>
 <tr><td><a href="../berettyoujfalu">Berettyóújfalu</a></td><td>dr. Zákány Zsolt - MMM</td><td class="orange lighten-2 white-text">35.1% - 64.9%</td><td>0 - 8</td></tr>
 <tr><td><a href="../biatorbagy">Biatorbágy</a></td><td>Makranczi László - Szövetség Biatorbágyért Egyesület</td><td class="orange lighten-2 white-text">35.9% - 54.8%</td><td>1 - 7</td></tr>
@@ -133,7 +133,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>Barabás Emőke - Független</td><td class="orange lighten-2 white-text">49.1% - 50.9%</td><td>2 -6</td></tr>
 <tr><td><a href="../dunakeszi">Dunakeszi</a></td><td>Gerner Péter - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-MMM</td><td class="orange lighten-2 white-text">44.1% - 55.9%</td><td>4 - 4</td></tr>
 <tr><td><a href="../esztergom">Esztergom</a></td><td>Cserép János - Szeretgom</td><td class="orange lighten-2 white-text">42.4% - 51.9%</td><td>3 - 9</td></tr>
-<tr><td><a href="../fot">Fót</a></td><td>Kohut Ákos - DK-MSZP-MMM-JOBBIK-SZOLIDARITÁS-PÁRBESZÉD</td><td class="orange lighten-2 white-text">41.1% - 52.4%</td><td>3 - 5</td></tr>
+<tr><td><a href="../fot">Fót</a></td><td>Kohut Ákos - DK-MSZP-MMM-JOBBIK-SZOLIDARITÁS-PÁRBESZÉD</td><td class="green lighten-2 white-text">31.8% - 28.5 (Független)%</td><td>3 - 5</td></tr>
 <tr><td><a href="../gardony">Gárdony</a></td><td>Eötvös Pál Árpád - DK-JOBBIK-LMP-MSZP-MMM-MOMENTUM-PÁRBESZÉD</td><td class="orange lighten-2 white-text">38.5% - 58.6%</td><td>1 - 7</td></tr>
 <tr><td><a href="../god">Göd</a></td><td>Balogh Csaba - DK-JOBBIK-LMP-MMM-MOMENTUM-PÁRBESZÉD</td><td class="orange lighten-2 white-text">47.8% - 49.0%</td><td>2 - 6</td></tr>
 <tr><td><a href="../godollo">Gödöllő</a></td><td>Dr. Gémesi György - GÖDÖLLŐI LOKÁLPATRIÓTA KLUB</td><td class="pink lighten-4 white-text">39.8% - 29.8%</td><td>6 - 2</td></tr>

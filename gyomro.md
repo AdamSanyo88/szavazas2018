@@ -24,7 +24,7 @@ permalink: /gyomro
               <tbody>
              <tr>
                    <td>Dr. Mezey Attila - GYÖMRŐ 2000 KÖR-Fidesz</td>
-				   <td id="fidesz_mayor">46.9%</td>
+				   <td id="fidesz_mayor">43.4%</td>
 			</tr>
 			<tr>
 			<td>Horváth István Attila - HEGY</td> 
