@@ -27,7 +27,7 @@ permalink: /budapest14
 				   <td id="fidesz_mayor">38.9%</td>
 			</tr>
 			<tr>
-			<td>Horváth Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Horváth Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">50.9%</td>
 			</tr>
               </tbody>

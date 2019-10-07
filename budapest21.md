@@ -27,7 +27,7 @@ permalink: /budapest21
 				   <td id="fidesz_mayor">48.1%</td>
 			</tr>
 			<tr>
-			<td>Erdősi Éva - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Erdősi Éva - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">47.5%</td>
 			</tr>
               </tbody>

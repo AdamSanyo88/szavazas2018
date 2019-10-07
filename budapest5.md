@@ -27,7 +27,7 @@ permalink: /budapest5
 				   <td id="fidesz_mayor">51.1%</td>
 			</tr>
 			<tr>
-			<td>Tüttő Kata - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Tüttő Kata - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">45.4%</td>
 			</tr>
               </tbody>

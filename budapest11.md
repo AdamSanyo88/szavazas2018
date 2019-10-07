@@ -27,7 +27,7 @@ permalink: /budapest11
 				   <td id="fidesz_mayor">46.4%</td>
 			</tr>
 			<tr>
-			<td>Dr. László Imre - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Dr. László Imre - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">47.0%</td>
 			</tr>
               </tbody>

@@ -27,7 +27,7 @@ permalink: /budapest8
 				   <td id="fidesz_mayor">51.1%</td>
 			</tr>
 			<tr>
-			<td>Pikó András - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Pikó András - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">44.2%</td>
 			</tr>
               </tbody>

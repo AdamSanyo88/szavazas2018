@@ -27,7 +27,7 @@ permalink: /budapest15
 				   <td id="fidesz_mayor">40.3%</td>
 			</tr>
 			<tr>
-			<td>Németh Angéla - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Németh Angéla - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">54.3%</td>
 			</tr>
               </tbody>

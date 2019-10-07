@@ -27,7 +27,7 @@ permalink: /budapest10
 				   <td id="fidesz_mayor">48.6%</td>
 			</tr>
 			<tr>
-			<td>Somlyódy Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Somlyódy Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">46.6%</td>
 			</tr>
               </tbody>

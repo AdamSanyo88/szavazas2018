@@ -27,7 +27,7 @@ permalink: /budapest6
 				   <td id="fidesz_mayor">48.9%</td>
 			</tr>
 			<tr>
-			<td>Soproni Tamás - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Soproni Tamás - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">51.1%</td>
 			</tr>
               </tbody>

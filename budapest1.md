@@ -27,7 +27,7 @@ permalink: /budapest1
 				   <td id="fidesz_mayor">52.5%</td>
 			</tr>
 			<tr>
-			<td>V. Naszály Márta - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>V. Naszály Márta - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">45.4%</td>
 			</tr>
               </tbody>

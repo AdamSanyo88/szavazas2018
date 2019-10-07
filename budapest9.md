@@ -27,7 +27,7 @@ permalink: /budapest9
 				   <td id="fidesz_mayor">44.6%</td>
 			</tr>
 			<tr>
-			<td>Baranyi Krisztina - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
+			<td>Baranyi Krisztina - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.PNG" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">51.1%</td>
 			</tr>
               </tbody>
