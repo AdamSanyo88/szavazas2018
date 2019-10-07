@@ -49,28 +49,28 @@ permalink: /kozos-jeloltek
                 </tr>
               </thead>
               <tbody>
-<tr><td><a href="../budapest1">I. kerület</a></td><td>V. Naszály Márta - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">45.4% - 52.5%</td><td>3 - 7</td></tr>
-<tr><td><a href="../budapest2">II. kerület</a></td><td>Őrsi Gergely - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">47.7% - 52.3%</td><td>4 - 10</td></tr>
-<tr><td><a href="../budapest3">III. kerület</a></td><td>Kiss László - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td  class="orange lighten-2 white-text">49.9% - 50.1%</td><td>7 - 7</td></tr>
-<tr><td><a href="../budapest4">IV. kerület</a></td><td>Déri Tibor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">45.1% - 48.0%</td><td>5 - 9</td></tr>
-<tr><td><a href="../budapest5">V. kerület</a></td><td>Tüttő Kata - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">45.4% - 51.1%</td><td>2 - 8</td></tr>
-<tr><td><a href="../budapest6">VI. kerülett</a></td><td>Soproni Tamás - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="green lighten-2 white-text">51.1% - 48.9%</td><td>4 - 6</td></tr>
-<tr><td><a href="../budapest7">VII. kerület</a></td><td>Niedermüller Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">40.9% - 46.6%</td><td>5 - 5</td></tr>
-<tr><td><a href="../budapest8">VIII. kerület</a></td><td>Pikó András - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">44.2 - 51.1%</td><td>3 - 9</td></tr>
-<tr><td><a href="../budapest9">IX. kerület</a></td><td>Baranyi Krisztina - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="green lighten-2 white-text">51.1% - 44.6%</td><td>7 - 3</td></tr>
-<tr><td><a href="../budapest10">X. kerület</a></td><td>Somlyódy Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">46.6% - 48.6%</td><td>2 - 10</td></tr>
-<tr><td><a href="../budapest11">XI. kerület</a></td><td>László Imre - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="green lighten-2 white-text">47.0% - 46.4%</td><td>8 - 9</td></tr>
-<tr><td><a href="../budapest12">XII. kerület</a></td><td>Élő Norbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">45.5% - 54.5%</td><td>3 - 9</td></tr>
-<tr><td><a href="../budapest13">XIII. kerület</a></td><td>Tóth József - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="green lighten-2 white-text">74.1% - 25.9%</td><td>15 - 0</td></tr>
-<tr><td><a href="../budapest14">XIV. kerület</a></td><td>Horváth Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="green lighten-2 white-text">50.9% - 38.9%</td><td>12 - 3</td></tr>
-<tr><td><a href="../budapest15">XV. kerület</a></td><td>Németh Angéla - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="green lighten-2 white-text">54.3% - 40.3%</td><td>9 - 3</td></tr>
-<tr><td><a href="../budapest16">XVI. kerület</a></td><td>Nemes Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">41.9% - 55.5%</td><td>2 - 10</td></tr>
-<tr><td><a href="../budapest17">XVII. kerület</a></td><td>Gy. Németh Erzsébet - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">45.3% - 52.6%</td><td>3 - 11</td></tr>
-<tr><td><a href="../budapest18">XVIII. kerület</a></td><td>Szaniszló Sándor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">46.6% - 48.3%</td><td>6 - 8</td></tr>
-<tr><td><a href="../budapest19">XIX. kerület</a></td><td>Gajda Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="green lighten-2 white-text">59.5% - 34.2%</td><td>12 - 0</td></tr>
-<tr><td><a href="../budapest20">XX. kerület</a></td><td>Balog Róbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="green lighten-2 white-text">50.5% - 49.5%</td><td>7 - 5</td></tr>
-<tr><td><a href="../budapest21">XXI. kerület</a></td><td>Erdősi Éva - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">47.5% - 48.1%</td><td>6 - 8</td></tr>
-<tr><td><a href="../budapest22">XXII. kerület</a></td><td>Havasi Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td><td class="orange lighten-2 white-text">45.9% - 50.3%</td><td>2 - 10</td></tr>
+<tr><td><a href="../budapest1">I. kerület</a></td><td>V. Naszály Márta - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.4% - 52.5%</td><td>3 - 7</td></tr>
+<tr><td><a href="../budapest2">II. kerület</a></td><td>Őrsi Gergely - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">47.7% - 52.3%</td><td>4 - 10</td></tr>
+<tr><td><a href="../budapest3">III. kerület</a></td><td>Kiss László - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td  class="orange lighten-2 white-text">49.9% - 50.1%</td><td>7 - 7</td></tr>
+<tr><td><a href="../budapest4">IV. kerület</a></td><td>Déri Tibor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.1% - 48.0%</td><td>5 - 9</td></tr>
+<tr><td><a href="../budapest5">V. kerület</a></td><td>Tüttő Kata - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.4% - 51.1%</td><td>2 - 8</td></tr>
+<tr><td><a href="../budapest6">VI. kerülett</a></td><td>Soproni Tamás - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">51.1% - 48.9%</td><td>4 - 6</td></tr>
+<tr><td><a href="../budapest7">VII. kerület</a></td><td>Niedermüller Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">40.9% - 46.6%</td><td>5 - 5</td></tr>
+<tr><td><a href="../budapest8">VIII. kerület</a></td><td>Pikó András - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">44.2 - 51.1%</td><td>3 - 9</td></tr>
+<tr><td><a href="../budapest9">IX. kerület</a></td><td>Baranyi Krisztina - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">51.1% - 44.6%</td><td>7 - 3</td></tr>
+<tr><td><a href="../budapest10">X. kerület</a></td><td>Somlyódy Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">46.6% - 48.6%</td><td>2 - 10</td></tr>
+<tr><td><a href="../budapest11">XI. kerület</a></td><td>László Imre - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">47.0% - 46.4%</td><td>8 - 9</td></tr>
+<tr><td><a href="../budapest12">XII. kerület</a></td><td>Élő Norbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.5% - 54.5%</td><td>3 - 9</td></tr>
+<tr><td><a href="../budapest13">XIII. kerület</a></td><td>Tóth József - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">74.1% - 25.9%</td><td>15 - 0</td></tr>
+<tr><td><a href="../budapest14">XIV. kerület</a></td><td>Horváth Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">50.9% - 38.9%</td><td>12 - 3</td></tr>
+<tr><td><a href="../budapest15">XV. kerület</a></td><td>Németh Angéla - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">54.3% - 40.3%</td><td>9 - 3</td></tr>
+<tr><td><a href="../budapest16">XVI. kerület</a></td><td>Nemes Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">41.9% - 55.5%</td><td>2 - 10</td></tr>
+<tr><td><a href="../budapest17">XVII. kerület</a></td><td>Gy. Németh Erzsébet - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.3% - 52.6%</td><td>3 - 11</td></tr>
+<tr><td><a href="../budapest18">XVIII. kerület</a></td><td>Szaniszló Sándor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">46.6% - 48.3%</td><td>6 - 8</td></tr>
+<tr><td><a href="../budapest19">XIX. kerület</a></td><td>Gajda Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">59.5% - 34.2%</td><td>12 - 0</td></tr>
+<tr><td><a href="../budapest20">XX. kerület</a></td><td>Balog Róbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">50.5% - 49.5%</td><td>7 - 5</td></tr>
+<tr><td><a href="../budapest21">XXI. kerület</a></td><td>Erdősi Éva - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">47.5% - 48.1%</td><td>6 - 8</td></tr>
+<tr><td><a href="../budapest22">XXII. kerület</a></td><td>Havasi Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.9% - 50.3%</td><td>2 - 10</td></tr>
 <tr><td><a href="../budapest23">XXIII. kerület</a></td><td>Berecki Miklós - MOMENTUM-MSZP-PÁRBESZÉD-LMP-JOBBIK</td><td class="green lighten-2 white-text">49.8% - 48.4%</td><td>6 - 2</td></tr>
 </tbody>  
   </table>	
@@ -107,7 +107,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>Márton Roland - DK-JOBBIK-LMP-MINDENKI MAGYARORSZÁGA-MOMENTUM-MSZP-PÁRBESZÉD</td><td class="orange lighten-2 white-text">36.8% - 57.9%</td><td>1 - 13</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>Bomba Gábor László - ÉSZ</td><td class="orange lighten-2 white-text">41.1% - 56.0%</td><td>1 - 9</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td>Radócz Zoltán - MOMENTUM-DK-LMP-JOBBIK-MSZP-MMM</td><td class="orange lighten-2 white-text">43.1% - 51.4%</td><td>3 - 9</td></tr>
-<tr><td><a href="../szombathely">Szombathely</a></td><td>Dr. Nemény András - Éljen Szombathely! Egyesület-MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP-MKKP-SZOLIRDARITÁS-MMM</td><td class="orange lighten-2 white-text">45.1% -  50.5%</td><td>6 - 8</td></tr>
+<tr><td><a href="../szombathely">Szombathely</a></td><td>Dr. Nemény András - Éljen Szombathely! Egyesület-MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP -MKKP-SZOLIRDARITÁS-MMM</td><td class="orange lighten-2 white-text">45.1% -  50.5%</td><td>6 - 8</td></tr>
 <tr><td><a href="../tatabanya">Tatabánya</a></td><td>Szücsné Posztovics Ilona - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td class="orange lighten-2 white-text">43.7% - 53.8%</td><td>3 - 9</td></tr>
 <tr><td><a href="../veszprem">Veszprém</a></td><td>Katanics Sándor - DK-JOBBIK-LMP-MSZP-MOMENTUM-PÁRBESZÉD</td><td class="orange lighten-2 white-text">43.8% - 56.2%</td><td>2 - 10</td></tr>
 <tr><td><a href="../zalaegerszeg">Zalaegerszeg</a></td><td>Keresztes Csaba - Tiéd a Város Egyesület-DK-JOBBIK-LMP-MSZP-MOMENTUM</td><td class="orange lighten-2 white-text">34.6% - 60.0%</td><td>0 - 12</td></tr>

@@ -27,7 +27,7 @@ permalink: /budapest22
 				   <td id="fidesz_mayor">50.3%</td>
 			</tr>
 			<tr>
-			<td>Havasi Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td>Havasi Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">45.9%</td>
 			</tr>
               </tbody>

@@ -27,7 +27,7 @@ permalink: /budapest20
 				   <td id="fidesz_mayor">49.5%</td>
 			</tr>
 			<tr>
-			<td>Balog Róbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td>Balog Róbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">50.5%</td>
 			</tr>
               </tbody>

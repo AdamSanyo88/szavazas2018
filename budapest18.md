@@ -27,7 +27,7 @@ permalink: /budapest18
 				   <td id="fidesz_mayor">48.3%</td>
 			</tr>
 			<tr>
-			<td>Szaniszló Sándor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td>Szaniszló Sándor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">46.6%</td>
 			</tr>
               </tbody>

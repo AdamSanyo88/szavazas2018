@@ -27,7 +27,7 @@ permalink: /budapest16
 				   <td id="fidesz_mayor">55.5%</td>
 			</tr>
 			<tr>
-			<td>Nemes Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td>Nemes Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">41.9%</td>
 			</tr>
               </tbody>

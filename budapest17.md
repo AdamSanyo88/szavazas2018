@@ -27,7 +27,7 @@ permalink: /budapest17
 				   <td id="fidesz_mayor">52.6%</td>
 			</tr>
 			<tr>
-			<td>Gy. Németh Erzsébet - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td>Gy. Németh Erzsébet - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">45.3%</td>
 			</tr>
               </tbody>

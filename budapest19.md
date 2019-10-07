@@ -27,7 +27,7 @@ permalink: /budapest19
 				   <td id="fidesz_mayor">34.2%</td>
 			</tr>
 			<tr>
-			<td>Gajda Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td>Gajda Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">59.5%</td>
 			</tr>
               </tbody>

@@ -27,7 +27,7 @@ permalink: /budapest4
 				   <td id="fidesz_mayor">48.0%</td>
 			</tr>
 			<tr>
-			<td>Déri Tibor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td>Déri Tibor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">45.1%</td>
 			</tr>
               </tbody>

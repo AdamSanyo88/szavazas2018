@@ -27,7 +27,7 @@ permalink: /budapest2
 				   <td id="fidesz_mayor">52.3%</td>
 			</tr>
 			<tr>
-			<td>Őrsi Gergely - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP</td> 
+			<td>Őrsi Gergely - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP <img src="images/kozos_ellenzek_logo.png" style="width:180px;height:30px;"></td> 
 			<td id="ellenzek_mayor">47.7%</td>
 			</tr>
               </tbody>
