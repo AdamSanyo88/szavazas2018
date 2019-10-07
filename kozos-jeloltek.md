@@ -18,10 +18,11 @@ permalink: /kozos-jeloltek
 <br/>
 
 <h5><a href="../fopolgarmester">Főpolgármester-választás</a> (becsült részvételi arány: 55%)</h5>
-
+<br/>
 <table class="bordered centered">
               <thead>
                 <tr>
+					<th>-</th>
                     <th>Tarlós István</th>
 					<th>Karácsony Gergely</th>
 					<th>Puzsér Róbert</th>
@@ -29,8 +30,8 @@ permalink: /kozos-jeloltek
                 </tr>
               </thead>
               <tbody>
-<tr><td>46.45%</td><td></td><td>45.78%</td><td>6.99%/td><td>0.8%</td></tr>
-<tr><td>344,402</a></td>339,418</td><td>51,817</td><td>5,757</td></tr>
+<tr><td>Százalék</td><td>46.45%</td><td>45.78%</td><td>6.99%</td><td>0.8%</td></tr>
+<tr><td>Szavazat</td><td>344,402</td><td>339,418</td><td>51,817</td><td>5,757</td></tr>
 </tbody>  
   </table>	
 

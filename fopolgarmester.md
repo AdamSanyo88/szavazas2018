@@ -10,7 +10,8 @@ permalink: /fopolgarmester
     <div class="row">
           <div class="col s12">
 		  <h5>Főpolgármester-választás</h5><br/> 
- <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk (becsült részvételi arány: 55%)</strong></h5><br/> 
+ <h5><strong>2019-es polgármester-választás jelöltjei és várható szavazatarányuk</strong></h5>
+ <h6>(becsült részvételi arány: 55%)</h6><br/> 
  <div id="chart_div_onkor_2019" style="width: 100%"></div><br/>
  <h5><strong>A Fidesz jelöltjének kihívója: Karácsony Gergely </strong></h5>
 <br/>
