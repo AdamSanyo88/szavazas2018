@@ -15,6 +15,25 @@ permalink: /kozos-jeloltek
 <p>Az alábbi lista megmutatja, hogy a nagyobb városokban kik a közös ellenzéki jelöltek a 2019-es önkormányzati választáson és hogy milyen esélyei vannak az adott jelöltnek a Fidesz jelöltjével szemben. A 10000 főnél nagyobb településekre vonatkozó előrejelzéseket a fenti térképen is megtalálhatod.</p>
 <p><strong>FONTOS: a jelöltek listája az októberi választásig változhat, a táblázat több forrásból gyűjtött információkat tartalmaz, amelyek nem feltétlenül a végleges állapotokat jelölik!</strong>
 
+<br/>
+
+<h5><a href="../fopolgarmester">Főpolgármester-választás</a> (becsült részvételi arány: 55%)</h5>
+
+<table class="bordered centered">
+              <thead>
+                <tr>
+                    <th>Tarlós István</th>
+					<th>Karácsony Gergely</th>
+					<th>Puzsér Róbert</th>
+					<th>Berki Krisztián</th>
+                </tr>
+              </thead>
+              <tbody>
+<tr><td>46.45%</td><td></td><td>45.78%</td><td>6.99%/td><td>0.8%</td></tr>
+<tr><td>344,402</a></td>339,418</td><td>51,817</td><td>5,757</td></tr>
+</tbody>  
+  </table>	
+
 
 <br/>
 <h5>Budapest kerületei</h5>
