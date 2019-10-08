@@ -24,11 +24,11 @@ permalink: /szeged
               <tbody>
              <tr>
                    <td>Nemesi Pál - Független</td>
-				   <td id="fidesz_mayor">38.1%</td>
+				   <td id="fidesz_mayor">40.3%</td>
 			</tr>
 			<tr>
 			<td>Dr. Botka László - Összefogás Szegedért Egyesület</td> 
-			<td id="ellenzek_mayor">52.7%</td>
+			<td id="ellenzek_mayor">55.7%</td>
 			</tr>
               </tbody>
             </table>

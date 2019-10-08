@@ -103,7 +103,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../pecs">Pécs</a></td><td>Péterffy Attila - Mindenki Pécsért Egyesület</td><td class="green lighten-2 white-text">48.2% - 45.1%</td><td>10 - 8</td></tr>
 <tr><td><a href="../salgotarjan">Salgótarján</a></td><td>Fekete Zsolt - SSZE-DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-TVE</td><td class="green lighten-2 white-text">48.6% - 46.7%</td><td>7 - 3</td></tr>
 <tr><td><a href="../sopron">Sopron</a></td><td>Dr. Varga Norbert - Független</td><td class="orange lighten-2 white-text">39.9% - 58.2%</td><td>2 -10</td></tr>
-<tr><td><a href="../szeged">Szeged</a></td><td>Dr. Botka László - Összefogás Szegedért Egyesület</td><td class="green lighten-2 white-text">52.7% - 38.1%</td><td>15 - 5</td></tr>
+<tr><td><a href="../szeged">Szeged</a></td><td>Dr. Botka László - Összefogás Szegedért Egyesület</td><td class="green lighten-2 white-text">55.7% - 40.3%</td><td>15 - 5</td></tr>
 <tr><td><a href="../szekesfehervar">Székesfehérvár</a></td><td>Márton Roland - DK-JOBBIK-LMP-MINDENKI MAGYARORSZÁGA-MOMENTUM-MSZP-PÁRBESZÉD</td><td class="orange lighten-2 white-text">36.8% - 57.9%</td><td>1 - 13</td></tr>
 <tr><td><a href="../szekszard">Szekszárd</a></td><td>Bomba Gábor László - ÉSZ</td><td class="orange lighten-2 white-text">41.1% - 56.0%</td><td>1 - 9</td></tr>
 <tr><td><a href="../szolnok">Szolnok</a></td><td>Radócz Zoltán - MOMENTUM-DK-LMP-JOBBIK-MSZP-MMM</td><td class="orange lighten-2 white-text">43.1% - 51.4%</td><td>3 - 9</td></tr>
