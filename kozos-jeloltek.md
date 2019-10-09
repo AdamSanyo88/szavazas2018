@@ -18,7 +18,7 @@ permalink: /kozos-jeloltek
 <br/>
 <br/>
 <br/>
-<h5><a href="../fopolgarmester">Főpolgármester-választás</a> (becsült részvételi arány: 55%)</h5>
+<h5><a href="../fopolgarmester">Főpolgármester-választás</a> (becsült részvételi arány: 54%)</h5>
 <br/>
 <table class="bordered centered">
               <thead>
@@ -31,8 +31,8 @@ permalink: /kozos-jeloltek
                 </tr>
               </thead>
               <tbody>
-<tr><td>Százalék</td><td class="orange lighten-2 white-text">46.45%</td><td>45.78%</td><td>6.99%</td><td>0.8%</td></tr>
-<tr><td>Szavazat</td><td class="orange lighten-2 white-text">344,402</td><td>339,418</td><td>51,817</td><td>5,757</td></tr>
+<tr><td>Százalék</td><td>47.14%</td><td class="green lighten-2 white-text">47.79%</td><td>4.49%</td><td>0.58%</td></tr>
+<tr><td>Szavazat</td><td>344,402</td><td class="green lighten-2 white-text">349,168</td><td>32,766</td><td>4,248</td></tr>
 </tbody>  
   </table>	
 
