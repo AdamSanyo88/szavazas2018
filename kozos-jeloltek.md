@@ -63,7 +63,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest12">XII. kerület</a></td><td>Élő Norbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.5% - 54.5%</td><td>3 - 9</td></tr>
 <tr><td><a href="../budapest13">XIII. kerület</a></td><td>Tóth József - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">74.1% - 25.9%</td><td>15 - 0</td></tr>
 <tr><td><a href="../budapest14">XIV. kerület</a></td><td>Horváth Csaba - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">50.9% - 38.9%</td><td>12 - 3</td></tr>
-<tr><td><a href="../budapest15">XV. kerület</a></td><td>Németh Angéla - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">54.3% - 40.3%</td><td>9 - 3</td></tr>
+<tr><td><a href="../budapest15">XV. kerület</a></td><td>Németh Angéla - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">54.3% - 40.3%</td><td>11 - 3</td></tr>
 <tr><td><a href="../budapest16">XVI. kerület</a></td><td>Nemes Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">41.9% - 55.5%</td><td>2 - 10</td></tr>
 <tr><td><a href="../budapest17">XVII. kerület</a></td><td>Gy. Németh Erzsébet - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.3% - 52.6%</td><td>3 - 11</td></tr>
 <tr><td><a href="../budapest18">XVIII. kerület</a></td><td>Szaniszló Sándor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">46.6% - 48.3%</td><td>6 - 8</td></tr>
