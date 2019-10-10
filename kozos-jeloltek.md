@@ -242,7 +242,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../tiszakecske">Tiszakécske</a></td><td> --- </td><td class="orange lighten-2 white-text">0% - 100%</td><td>0 - 8</td></tr>
 <tr><td><a href="../tiszaujvaros">Tiszaújváros</a></td><td>Dr. Fülöp György - Tiszaújvárosi Lokálpatrióták-MSZP</td><td class="green lighten-2 white-text">58.9% - 33.7%</td><td>7 - 1</td></tr>
 <tr><td><a href="../tiszavasvari">Tiszavasvári</a></td><td>Dr. Kiss Krisztián - KÖTE</td><td class="pink lighten-4 white-text">53.8% - 46.2%</td><td>4 - 4</td></tr>
-<tr><td><a href="../tokol">Tököl</a></td><td>Farkas Zsuzsanna - CIVIL KONTROLL</td><td class="orange lighten-2 white-text">39.7% - 57.6%</td><td>2 - 6</td></tr>
+<tr><td><a href="../tokol">Tököl</a></td><td>Farkas Zsuzsanna - CIVIL KONTROLL</td><td class="orange lighten-2 white-text">38.0% - 55.2%</td><td>2 - 6</td></tr>
 <tr><td><a href="../tolna">Tolna</a></td><td>Balogh Zoltán - Független</td><td class="orange lighten-2 white-text">25.3% - 64.2%</td><td>0 - 8</td></tr>
 <tr><td><a href="../torokbalint">Törökbálint</a></td><td>Szőke Péter - Törökbálint Holnap Egyesület</td><td class="orange lighten-2 white-text">42.0% - 50.9%</td><td>2 - 6</td></tr>
 <tr><td><a href="../torokszentmiklos">Törökszentmiklós</a></td><td>Markót Imre - OTTHONUNK SZENTMIKLÓS EGYESÜLET</td><td class="orange lighten-2 white-text">42.4% - 44.2%</td><td>4 - 4</td></tr>
