@@ -155,7 +155,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../dorog">Dorog</a></td><td>Dr. Tittmann János - Független</td><td class="pink lighten-4 white-text">100% - 0%</td><td>7 -1</td></tr>
 <tr><td><a href="../dunaharaszti">Dunaharaszti</a></td><td>Barabás Emőke - Független</td><td class="orange lighten-2 white-text">49.1% - 50.9%</td><td>2 -6</td></tr>
 <tr><td><a href="../dunakeszi">Dunakeszi</a></td><td>Gerner Péter - DK-JOBBIK-LMP-MOMENTUM-MSZP-PÁRBESZÉD-MMM</td><td class="orange lighten-2 white-text">44.1% - 55.9%</td><td>4 - 4</td></tr>
-<tr><td><a href="../esztergom">Esztergom</a></td><td>Cserép János - Szeretgom</td><td class="orange lighten-2 white-text">42.4% - 51.9%</td><td>3 - 9</td></tr>
+<tr><td><a href="../esztergom">Esztergom</a></td><td>Cserép János - Szeretgom</td><td class="orange lighten-2 white-text">42.4% - 51.9%</td><td>3 - 7</td></tr>
 <tr><td><a href="../fot">Fót</a></td><td>Kohut Ákos - DK-MSZP-MMM-JOBBIK-SZOLIDARITÁS-PÁRBESZÉD</td><td class="green lighten-2 white-text">31.8% - 28.5 (Független)%</td><td>3 - 5</td></tr>
 <tr><td><a href="../gardony">Gárdony</a></td><td>Eötvös Pál Árpád - DK-JOBBIK-LMP-MSZP-MMM-MOMENTUM-PÁRBESZÉD</td><td class="orange lighten-2 white-text">38.5% - 58.6%</td><td>1 - 7</td></tr>
 <tr><td><a href="../god">Göd</a></td><td>Balogh Csaba - DK-JOBBIK-LMP-MMM-MOMENTUM-PÁRBESZÉD</td><td class="orange lighten-2 white-text">47.8% - 49.0%</td><td>2 - 6</td></tr>
