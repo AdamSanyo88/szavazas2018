@@ -69,7 +69,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../budapest18">XVIII. kerület</a></td><td>Szaniszló Sándor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">46.6% - 48.3%</td><td>6 - 8</td></tr>
 <tr><td><a href="../budapest19">XIX. kerület</a></td><td>Gajda Péter - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">59.5% - 34.2%</td><td>12 - 0</td></tr>
 <tr><td><a href="../budapest20">XX. kerület</a></td><td>Balog Róbert - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="green lighten-2 white-text">50.5% - 49.5%</td><td>7 - 5</td></tr>
-<tr><td><a href="../budapest21">XXI. kerület</a></td><td>Erdősi Éva - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">47.5% - 48.1%</td><td>6 - 8</td></tr>
+<tr><td><a href="../budapest21">XXI. kerület</a></td><td>Erdősi Éva - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">47.5% - 48.1%</td><td>5 - 7</td></tr>
 <tr><td><a href="../budapest22">XXII. kerület</a></td><td>Havasi Gábor - MOMENTUM-DK-MSZP-PÁRBESZÉD-LMP </td><td class="orange lighten-2 white-text">45.9% - 50.3%</td><td>2 - 10</td></tr>
 <tr><td><a href="../budapest23">XXIII. kerület</a></td><td>Berecki Miklós - MOMENTUM-MSZP-PÁRBESZÉD-LMP-JOBBIK</td><td class="green lighten-2 white-text">49.8% - 48.4%</td><td>6 - 2</td></tr>
 </tbody>  
