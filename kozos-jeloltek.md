@@ -358,7 +358,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../sz4">Jász-Nagykun-Szolnok megye 4.</a></td>
 <td>---</td>
 <td>---</td>
-<td id="sz4">Csányi Tamás (Jobbik)</td>
+<td id="sz4">---</td>
 </tr>	
 <tr><td><a href="../ke1">Komárom-Esztergom megye 1.</a></td>
 <td>---</td>
@@ -483,7 +483,7 @@ permalink: /kozos-jeloltek
 <tr><td><a href="../szb4">Szabolcs-Szatmár-Bereg megye 4.</a></td>
 <td>---</td>
 <td>---</td>
-<td id=szb4">---</td>
+<td id="szb4">---</td>
 </tr>	
 <tr><td><a href="../szb5">Szabolcs-Szatmár-Bereg megye 5.</a></td>
 <td>---</td>
