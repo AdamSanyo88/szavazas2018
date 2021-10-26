@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>10000 fő feletti városok térképe (2019)</title>
+	<title>Magyarország választókerületi térképe (2018)</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,11 +21,11 @@
        var zoomThreshold = 9;  
         var opc = 0.2;
 
-        var oevk2 = L.geoJson(oevks, {style: style, onEachFeature: onMegye});
-		var telepules2 = L.geoJson(telepules, {style: style, onEachFeature: onTelepules3});
+        var oevk2 = L.geoJson(oevks, {style: style, onEachFeature: onEachFeature});
+
 
         var oevk = L.layerGroup([oevk2]);
-		var telepules3 = L.layerGroup([telepules2]);
+
 
         var  mbAttr = 'Térképadatok &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> közreműködők, ' +
 			        '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
@@ -40,7 +40,7 @@
         var mymap = L.map('mapid', {
              center: [47.180086, 19.503736],
              zoom: 7,
-             layers: [oevk,telepules3]
+             layers: [oevk]
         });
 
 
@@ -49,7 +49,7 @@
 
 function style(feature) {
     return {
-        fillColor: getColor(feature.properties.telepules),
+        fillColor: getColor(feature.properties.megye),
         weight: 1,
         opacity: 1,
         color: 'gray',
@@ -61,20 +61,14 @@ function style(feature) {
 
 
 
- function onMegye(feature, layer) {
-///    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
- //   layer.on({
- //       mouseover: buborek
- //   });
- }
 
-function onTelepules3(feature, layer) {
-    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.telepules + '</a></center>', {autoPan: false, keepInView: true, closeButton: false});
-	layer.on({
+
+function onEachFeature(feature, layer) {
+    layer.bindPopup('<center><a target="_parent" href="/' + feature.properties.tid + '">' + feature.properties.megye + 'i ' + feature.properties.mid + '. számú<br />országgyűlési egyéni választókerület</a></center>', {autoPan: false, keepInView: true, closeButton: false});
+    layer.on({
         mouseover: buborek
     });
 }
-
 
 
 mymap.on('zoomend', function () {
@@ -106,164 +100,18 @@ function buborek(e) {
 
 function getColor(t) {
     switch (t) {
-	   case "Budapest": 
+       case "Budapest": 
        case "Bács-Kiskun megye":
        case "Hajdú-Bihar megye": 
        case "Nógrád megye":
        case "Veszprém megye":
-	   case "Békéscsaba":
-	   case "Debrecen":
-	   case "Dunaújváros":
-	   case "Eger":
-	   case "Érd":
-	   case "Győr":
-	   case "Hódmezővásárhely":
-	   case "Kaposvár":
-	   case "Kecskemét":
-	   case "Miskolc":
-	   case "Nyíregyháza":
-	   case "Nagykanizsa":
-	   case "Pécs":
-	   case "Salgótarján":
-	   case "Sopron":
-	   case "Szeged":
-	   case "Székesfehérvár":
-	   case "Szekszárd":
-	   case "Szolnok":
-	   case "Szombathely":
-	   case "Tatabánya":
-	   case "Veszprém":
-	   case "Zalaegerszeg":
-             return '#00f';
+             return '#f33';
              break; 
        case "Baranya megye":
        case "Fejér megye":
        case "Jász-Nagykun-Szolnok megye":
        case "Szabolcs-Szatmár-Bereg megye":
        case "Vas megye":
-case "Albertirsa":
-case "Ajka":
-case "Abony":
-case "Baja":
-case "Balassagyarmat":
-case "Balatonfüred":
-case "Balmazújváros":
-case "Barcs":
-case "Bátonyterenye":
-case "Békés":
-case "Berettyóújfalu":
-case "Biatorbágy":
-case "Bicske":
-case "Bonyhád":
-case "Budakalász":
-case "Budakeszi":
-case "Budaörs":
-case "Cegléd":
-case "Celldömölk":
-case "Csongrád":
-case "Csorna":
-case "Dabas":
-case "Dombóvár":
-case "Dorog":
-case "Dunaharaszti":
-case "Dunakeszi":
-case "Edelény":
-case "Esztergom":
-case "Fót":
-case "Gárdony":
-case "Göd":
-case "Gödöllő":
-case "Gyál":
-case "Gyomaendrőd":
-case "Gyömrő":
-case "Gyöngyös":
-case "Gyula":
-case "Hajdúböszörmény":
-case "Hajdúhadház":
-case "Hajdúnánás":
-case "Hajdúsámson":
-case "Hajdúszoboszló":
-case "Hatvan":
-case "Heves":
-case "Isaszeg":
-case "Jászberény":
-case "Kalocsa":
-case "Kapuvár":
-case "Karcag":
-case "Kazincbarcika":
-case "Kerepes":
-case "Keszthely":
-case "Kiskunfélegyháza":
-case "Kiskunhalas":
-case "Kiskunmajsa":
-case "Kiskőrös":
-case "Kistarcsa":
-case "Kisújszállás":
-case "Kisvárda":
-case "Komárom":
-case "Komló":
-case "Körmend":
-case "Kőszeg":
-case "Lajosmizse":
-case "Maglód":
-case "Makó":
-case "Marcali":
-case "Mátészalka":
-case "Mezőberény":
-case "Mezőkövesd":
-case "Mezőtúr":
-case "Mohács":
-case "Monor":
-case "Mór":
-case "Mosonmagyaróvár":
-case "Nagyatád":
-case "Nagykáta":
-case "Nagykőrös":
-case "Nyírbátor":
-case "Orosháza":
-case "Oroszlány":
-case "Ózd":
-case "Paks":
-case "Pápa":
-case "Pécel":
-case "Pilis":
-case "Pilisvörösvár":
-case "Pomáz":
-case "Püspökladány":
-case "Ráckeve":
-case "Sajószentpéter":
-case "Sárbogárd":
-case "Sarkad":
-case "Sárospatak":
-case "Sárvár":
-case "Sátoraljaújhely":
-case "Siklós":
-case "Siófok":
-case "Solymár":
-case "Szarvas":
-case "Százhalombatta":
-case "Szentendre":
-case "Szentes":
-case "Szigethalom":
-case "Szigetszentmiklós":
-case "Szigetvár":
-case "Tapolca":
-case "Tata":
-case "Tiszaföldvár":
-case "Tiszafüred":
-case "Tiszakécske":
-case "Tiszaújváros":
-case "Tiszavasvári":
-case "Tököl":
-case "Tolna":
-case "Törökbálint":
-case "Törökszentmiklós":
-case "Újfehértó":
-case "Üllő":
-case "Vác":
-case "Várpalota":
-case "Vecsés":
-case "Veresegyház":
              return '#0f3';
              break;
        case "Békés megye":
@@ -271,30 +119,7 @@ case "Veresegyház":
        case "Győr-Moson-Sopron megye":
        case "Pest megye":
        case "Somogy megye":
-	   case "I. kerület":
-	   case "II. kerület":
-	   case "III. kerület":
-	   case "IV. kerület":
-	   case "V. kerület":
-	   case "VI. kerület":
-	   case "VII. kerület":
-	   case "VIII. kerület":
-	   case "IX. kerület":
-	   case "X. kerület":
-	   case "XI. kerület":
-	   case "XII. kerület":
-	   case "XIII. kerület":
-	   case "XIV. kerület":
-	   case "XV. kerület":
-	   case "XVI. kerület":
-	   case "XVII. kerület":
-	   case "XVIII. kerület":
-	   case "XIX. kerület":
-	   case "XX. kerület":
-	   case "XXI. kerület":
-	   case "XXII. kerület":
-	   case "XXIII. kerület":
-             return '#f00';
+             return '#33f';
              break;
        case "Csongrád megye": 
        case "Heves megye": 
