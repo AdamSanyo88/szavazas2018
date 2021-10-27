@@ -14,7 +14,7 @@ permalink: /rolam
 		  <br/>
 		  <p><img src="images/adam.jpg" style="height: 100%; width: 100%; object-fit: contain"></p>
 		  <br/>
-          <p>Sanyó Ádám vagyok és adatelemzőként dolgozom egy multicégnél. 2009 óta politikai és civil aktivistaként tevékenykedem, és a 2019-es önkormányzati kampány lesz a hetedik választási kampány, amelyben részt veszek.</p>
+          <p>Sanyó Ádám vagyok és adatelemzőként dolgozom egy multicégnél. 2009 óta politikai és civil aktivistaként tevékenykedem, és a 2022-es országgyűlési kampány lesz a nyolcadik választási kampány, amelyben részt veszek.</p>
 		  <p>2009-ben Magyarországon az európai parlamenti választásokon voltam aktivista, 2010-ben pedig egy civil szervezetnek gyűjtöttem aláírásokat egy népszavazási kezdeményezéshez.</p>
 		  <p>2012-2016 között Angliában éltem és dolgoztam. 2014-2016 között angol politikai pártok kampányában segítettem, illetve a 2016-os Brexit népszavazásban az EU-párti kampány egyik önkéntes-koordinátora voltam Cambridge-ben.</p>
 		  <br/>
@@ -46,6 +46,8 @@ permalink: /rolam
 <p><a href="https://merce.hu/2018/04/11/a-taktikai-szavazas-lett-a-rendszervaltas-utani-magyar-politika-egyik-legnagyobb-mozgalma/">A taktikai szavazás lett a rendszerváltás utáni magyar politika egyik legnagyobb mozgalma (Mérce.hu)</a></p>
 <br/>
 <p>Böcskei Balázs és Szabó Andrea: Várakozások és valóságok - Parlamenti választás 2018 (Napvilág Kiadó) - több tanulmány is elemzi a taktikai szavazás hatásait</p>
+<br/>
+<p><a href="https://www.szabadeuropa.hu/a/tiz-tizenot-valasztokeruletben-kevesebb-mint-ezer-szavazat-fog-donteni/31519241.html">Tíz-tizenöt választókerületben kevesebb mint ezer szavazat fog dönteni</a> (2021 októberi interjú)</p>
           </div>
 		  </div>
     </div>
