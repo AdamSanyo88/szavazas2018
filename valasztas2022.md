@@ -11,7 +11,7 @@ permalink: /valasztas2022
           <div>
 
 <p>Az alábbi lista és térkép megmutatja, hogy egy választókerületekben kik a közös ellenzéki, és várhatóan kik lesznek a Fidesz jelöltjei, illetve hogy melyik fél a szavazatok hány százalékára számíthat választókerületenként.</p>
-<p>A fenti menüsorban megtekinthető a <a href="../valasztas2018"> korábbi választások eredményei is</a>.</p>
+<p>A fenti menüsorban megtekinthető a <a href="../korabbi-valasztasok"> korábbi választások eredményei is</a>.</p>
 
 <br/>
  <br/>
