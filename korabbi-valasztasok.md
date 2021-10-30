@@ -12,7 +12,7 @@ permalink: /korabbi-valasztasok
 
 <p>Ezen az oldalon megtalálható a 2014-es és 2018-as országgyűlési választások eredményeinek összefoglalója. A táblázatok az egyéni választókerületek összesített eredményét mutatják meg. Ezen kívül a 2018-as választás adatai részletesen (települések szintjén) is kereshetőek.</p>
 
-<p><h6><a href="#OEVK">2014-es és 2018-as választókerületi eredmények</a>&emsp;&#124;</h6>&emsp;<h6><a href="#2018">A 2018-as részletes eredmények</a></h6></p>
+<p><strong><a href="#OEVK">2014-es és 2018-as választókerületi eredmények</a>&emsp;&#124;</strong>&emsp;<strong><a href="#2018">A 2018-as részletes eredmények</a></strong></p>
 
 <br/>
 		  
@@ -34,7 +34,7 @@ permalink: /korabbi-valasztasok
 
 <br/>
 
-<h5>Az alábbi táblázatok és grafikonok az összes település listás szavazatarányát (kiemelve Budapest és a megyei jogú városok adataival) tartalmazzák 2018-ból.</h5>
+<p>Az alábbi táblázatok és grafikonok az összes település listás szavazatarányát (kiemelve Budapest és a megyei jogú városok adataival) tartalmazzák 2018-ból.</p>
 <p>A településkereső a táblázat negyedik oldalán érhető el.</p>
 <br/>
 <br/>
