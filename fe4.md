@@ -10,6 +10,9 @@ permalink: /fe4
     <div class="row">
           <div class="col s12">
 		  <h5>Fejér megye 4-es választókerület (Dunaújváros)</h5>
+		  <br/>
+		  <iframe src="https://app.tisztaszavazas.hu/egyedi-lekerdezesek/22-becsles-18-eredmenyei-alapjan?embedded=true&vk_id=5eee96968ecde10023631b90&hide_table=true" width="100%" height="600" style="border: 0;"></iframe>
+		  <br/>
 <br/><h5><strong>2018-as egyéni eredmények</strong></h5><br/><img src="images/vk_charts/egyeni_fe4.png" style="height: 100%; width: 100%; object-fit: contain"><br/><table class="striped">
               <thead>
                 <tr>
