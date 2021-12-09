@@ -27,7 +27,7 @@ permalink: /modszertan
 </ul>
 <p>Az MKKP és a Mi Hazánk esetében csak a 2019-es EP választás adatait használja a modell, és mindkét párt esetében a várható szavazatarány 75%-ával számol (25% MKKP és Mi Hazánk szavazó az ellenzékre vagy a Fideszre szavaz, de ez az arány még változhat a közvélemény-kutatások adatai alapján).
 <br/>
-<p>A modell jelenleg nem veszi figyelembe sem a Fidesz jelöltjének személyét, sem az ellenzéki kihívó személyét. A jelölt személye javíthatja vagy ronthatja az adott pártszövetség várható szavazatarányát egyes kerületekben.</p>
+<p>A modell 42 újrainduló Fidesz jelöltnek további 1-5%-nyi plusz szavazatarányt ad (vagyis az adott jelölt várhatóan ennyivel teljesíti majd túl a Fidesz listás eredményét), mert ezek a jelöltek a 2014-es és 2018-as választáson is jobban szerepeltek a Fidesz listájánál. Ellenzéki jelöltekre (akik 2018 után újraindulnak a mandátumért) ugyanez a módosító jelenleg nem érvényesül.</p>
 <br/>
 <p>A modell a választásokhoz közeledve az alábbi extra adatokkal dolgozhat majd:</p>
 <ul>
