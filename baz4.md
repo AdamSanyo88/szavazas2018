@@ -10,6 +10,9 @@ permalink: /baz4
     <div class="row">
           <div class="col s12">
 		  <h5>Borsod-Abaúj-Zemplén megye 4-es választókerület (Kazincbarcika)</h5>
+		  <br/>
+		  <iframe src="https://app.tisztaszavazas.hu/egyedi-lekerdezesek/oekv-kulonbseg/5eee82a88ecde100236309e0?embedded=true&hide_table=true" width="100%" height="600" style="border: 0;"></iframe>
+		  <br/>
 <br/><h5><strong>2018-as egyéni eredmények</strong></h5><br/><img src="images/vk_charts/egyeni_baz4.png" style="height: 100%; width: 100%; object-fit: contain"><br/><table class="striped">
               <thead>
                 <tr>
