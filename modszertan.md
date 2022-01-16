@@ -29,6 +29,25 @@ permalink: /modszertan
 <br/>
 <p>A modell 42 újrainduló Fidesz jelöltnek további 1-5%-nyi plusz szavazatarányt ad (vagyis az adott jelölt várhatóan ennyivel teljesíti majd túl a Fidesz listás eredményét), mert ezek a jelöltek a 2014-es és 2018-as választáson is jobban szerepeltek a Fidesz listájánál. Ellenzéki jelöltekre (akik 2018 után újraindulnak a mandátumért) ugyanez a módosító jelenleg nem érvényesül.</p>
 <br/>
+<p>A modell 2022 januárjától két további módosítót használ a Fidesz és az ellenzék szavazatarányainak módosítására: megye típusa és OEVK típusa.</p>
+<p>Az OEVK típusoknál az alábbi módosítót kapja a Fidesz várható szavazataránya:</p>
+<ul>
+<li>Budapest: 0.93
+<li>Megyei jogú városok: 0.98
+<li>Megyei jogú városok kisebb településekkel vegyítve: 1.00
+<li>Vegyes választókerületek (kisebb városok és több tucat kistelepülés): 1.04
+<li>Egyértelműen falusias választókerületek (egy kisebb város sok kistelepüléssel vegyítve): 1.06
+</ul>
+<br/>
+<p>A megyék esetében az alábbi módosítókat kapja a Fidesz szavazataránya 0.97 és 1.03-as skálán mozogva:
+<ul>
+<li>0.97-es szorzó: Békés, Csongrád-Csanád, Pest, Komárom-Esztergom megye
+<li>1.02-es szorzó: Borsod-Abaúj-Zemplén és Zala megye
+<li>1.03-as szorzó: Heves, Nógrád, Szabolcs-Szatmár-Bereg, és Tolna megye
+</ul>
+</br>
+<p><strong>Az alábbi szorzók változhatnak annak függvényében, hogy milyen OEVK-szintű elemzések jelennek meg</strong>. A jelenlegi modell a 2021 végén megjelent <a href="https://hvg.hu/360/20211229_Median_Az_emberek_ketharmada_Orban_maradasara_szamit">Medián kutatás adatait</a>, valamint a 2021 márciusában megjelent nagymintás kutatás adatai alapján készült</p>.
+
 <p>A modell a választásokhoz közeledve az alábbi extra adatokkal dolgozhat majd:</p>
 <ul>
 <li>Demográfiai adatok (és azok befolyása a választási hajlandóságra) választókerületenként</li>
