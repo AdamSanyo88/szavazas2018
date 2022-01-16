@@ -27,23 +27,23 @@ permalink: /modszertan
 </ul>
 <p>Az MKKP és a Mi Hazánk esetében csak a 2019-es EP választás adatait használja a modell, és mindkét párt esetében a várható szavazatarány 75%-ával számol (25% MKKP és Mi Hazánk szavazó az ellenzékre vagy a Fideszre szavaz, de ez az arány még változhat a közvélemény-kutatások adatai alapján).
 <br/>
-<p>A modell 42 újrainduló Fidesz jelöltnek további 1-5%-nyi plusz szavazatarányt ad (vagyis az adott jelölt várhatóan ennyivel teljesíti majd túl a Fidesz listás eredményét), mert ezek a jelöltek a 2014-es és 2018-as választáson is jobban szerepeltek a Fidesz listájánál. Ellenzéki jelöltekre (akik 2018 után újraindulnak a mandátumért) ugyanez a módosító jelenleg nem érvényesül.</p>
+<p>A modell 42 újrainduló Fidesz jelöltnek további 1-5%-nyi plusz szavazatarányt ad (vagyis az adott jelölt várhatóan ennyivel teljesíti majd túl a Fidesz listás eredményét), mert ezek a jelöltek a 2014-es és 2018-as választáson is jobban szerepeltek a Fidesz listájánál. Ellenzéki jelöltekre (akik 2018-ban nyertek és újraindulnak a mandátumért) ugyanez a módosító jelenleg nem érvényesül.</p>
 <br/>
-<p>A modell 2022 januárjától két további módosítót használ a Fidesz és az ellenzék szavazatarányainak módosítására: megye típusa és OEVK típusa.</p>
+<p><strong>A modell 2022 januárjától két további módosítót használ a Fidesz és az ellenzék szavazatarányainak módosítására: megye típusa és OEVK típusa.</strong></p>
 <p>Az OEVK típusoknál az alábbi módosítót kapja a Fidesz várható szavazataránya:</p>
 <ul>
-<li>Budapest: 0.93
-<li>Megyei jogú városok: 0.98
-<li>Megyei jogú városok kisebb településekkel vegyítve: 1.00
-<li>Vegyes választókerületek (kisebb városok és több tucat kistelepülés): 1.04
-<li>Egyértelműen falusias választókerületek (egy kisebb város sok kistelepüléssel vegyítve): 1.06
+<li>Budapest: 0.93</li>
+<li>Megyei jogú városok: 0.98</li>
+<li>Megyei jogú városok kisebb településekkel vegyítve: 1.00</li>
+<li>Vegyes választókerületek (kisebb városok és több tucat kistelepülés): 1.04</li>
+<li>Egyértelműen falusias választókerületek (egy kisebb város sok kistelepüléssel vegyítve): 1.06</li>
 </ul>
 <br/>
 <p>A megyék esetében az alábbi módosítókat kapja a Fidesz szavazataránya 0.97 és 1.03-as skálán mozogva:
 <ul>
-<li>0.97-es szorzó: Békés, Csongrád-Csanád, Pest, Komárom-Esztergom megye
-<li>1.02-es szorzó: Borsod-Abaúj-Zemplén és Zala megye
-<li>1.03-as szorzó: Heves, Nógrád, Szabolcs-Szatmár-Bereg, és Tolna megye
+<li>0.97-es szorzó: Békés, Csongrád-Csanád, Pest, Komárom-Esztergom megye</li>
+<li>1.02-es szorzó: Borsod-Abaúj-Zemplén és Zala megye</li>
+<li>1.03-as szorzó: Heves, Nógrád, Szabolcs-Szatmár-Bereg, és Tolna megye</li>
 </ul>
 </br>
 <p><strong>Az alábbi szorzók változhatnak annak függvényében, hogy milyen OEVK-szintű elemzések jelennek meg</strong>. A jelenlegi modell a 2021 végén megjelent <a href="https://hvg.hu/360/20211229_Median_Az_emberek_ketharmada_Orban_maradasara_szamit">Medián kutatás adatait</a>, valamint a 2021 márciusában megjelent nagymintás kutatás adatai alapján készült</p>.
