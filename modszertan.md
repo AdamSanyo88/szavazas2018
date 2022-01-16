@@ -39,14 +39,14 @@ permalink: /modszertan
 <li>Egyértelműen falusias választókerületek (egy kisebb város sok kistelepüléssel vegyítve): 1.06</li>
 </ul>
 <br/>
-<p>A megyék esetében az alábbi módosítókat kapja a Fidesz szavazataránya 0.97 és 1.03-as skálán mozogva:
+<p>A megyék esetében az alábbi módosítókat kapja a Fidesz szavazataránya 0.97 és 1.03-as skálán mozogva:</p>
 <ul>
 <li>0.97-es szorzó: Békés, Csongrád-Csanád, Pest, Komárom-Esztergom megye</li>
 <li>1.02-es szorzó: Borsod-Abaúj-Zemplén és Zala megye</li>
 <li>1.03-as szorzó: Heves, Nógrád, Szabolcs-Szatmár-Bereg, és Tolna megye</li>
 </ul>
 <br/>
-<p><strong>Az alábbi szorzók változhatnak annak függvényében, hogy milyen OEVK-szintű elemzések jelennek meg</strong>. A jelenlegi modell a 2021 végén megjelent <a href="https://hvg.hu/360/20211229_Median_Az_emberek_ketharmada_Orban_maradasara_szamit">Medián kutatás adatait</a>, valamint a 2021 márciusában megjelent nagymintás kutatás adatai alapján készült</p>.
+<p><strong>Az alábbi szorzók változhatnak annak függvényében, hogy milyen OEVK-szintű elemzések jelennek meg</strong>. A jelenlegi modell a 2021 végén megjelent <a href="https://hvg.hu/360/20211229_Median_Az_emberek_ketharmada_Orban_maradasara_szamit">Medián kutatás adatait</a>, valamint a 2021 márciusában megjelent nagymintás kutatás adatai alapján készült.</p>
 
 <p>A modell a választásokhoz közeledve az alábbi extra adatokkal dolgozhat majd:</p>
 <ul>
