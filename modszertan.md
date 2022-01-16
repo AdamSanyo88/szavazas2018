@@ -45,7 +45,7 @@ permalink: /modszertan
 <li>1.02-es szorzó: Borsod-Abaúj-Zemplén és Zala megye</li>
 <li>1.03-as szorzó: Heves, Nógrád, Szabolcs-Szatmár-Bereg, és Tolna megye</li>
 </ul>
-</br>
+<br/>
 <p><strong>Az alábbi szorzók változhatnak annak függvényében, hogy milyen OEVK-szintű elemzések jelennek meg</strong>. A jelenlegi modell a 2021 végén megjelent <a href="https://hvg.hu/360/20211229_Median_Az_emberek_ketharmada_Orban_maradasara_szamit">Medián kutatás adatait</a>, valamint a 2021 márciusában megjelent nagymintás kutatás adatai alapján készült</p>.
 
 <p>A modell a választásokhoz közeledve az alábbi extra adatokkal dolgozhat majd:</p>
