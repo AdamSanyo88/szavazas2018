@@ -25,9 +25,9 @@ permalink: /modszertan
 <li>EP választás: 30%</li>
 <li>Önkormányzati választás: 15%</li>
 </ul>
-<p>Az MKKP és a Mi Hazánk esetében csak a 2019-es EP választás adatait használja a modell. Az MKKP esetében 20-50% közötti átszavazási hajlandósággal számol a modell az ellenzéki jelölt irányába (Budapesten és szoros körzetek esetében 50%-os, megyei jogú városok esetében 40%-os, egyéb körzetekben 20-30%-os átszavazás a feltételezett). A Mi Hazánk esetében egységesen 20%-os átszavazási hajlandóság feltételezett a Fidesz jelöltjének irányába.</p>
+<p>Az MKKP és a Mi Hazánk esetében csak a 2019-es EP választás adatait használja a modell. Az MKKP esetében 20-50% közötti átszavazási hajlandósággal számol a modell az ellenzéki jelölt irányába (Budapesten és szoros körzetek esetében 50%-os, megyei jogú városok esetében 40%-os, egyéb körzetekben 20-30%-os átszavazás a feltételezett). A Mi Hazánk esetében egységesen 10%-os átszavazási hajlandóság feltételezett a Fidesz jelöltjének irányába.</p>
 <br/>
-<p>A modell 42 újrainduló Fidesz jelöltnek további 1-5%-nyi plusz szavazatarányt ad (vagyis az adott jelölt várhatóan ennyivel teljesíti majd túl a Fidesz listás eredményét), mert ezek a jelöltek a 2014-es és 2018-as választáson is jobban szerepeltek a Fidesz listájánál. Ellenzéki jelöltekre (akik 2018-ban nyertek és újraindulnak a mandátumért) ugyanez a módosító jelenleg nem érvényesül.</p>
+<p>A modell 42 újrainduló Fidesz jelöltnek további 1-5%-nyi plusz szavazatot ad (vagyis az adott jelölt várhatóan ennyivel teljesíti majd túl a Fidesz listás eredményét), mert ezek a jelöltek a 2014-es és 2018-as választáson is jobban szerepeltek a Fidesz listájánál. Ellenzéki jelöltekre (akik 2018-ban nyertek, és újraindulnak a mandátumért) ugyanez a módosító jelenleg nem érvényesül.</p>
 <br/>
 <p><strong>A modell 2022 januárjától két további módosítót használ a Fidesz és az ellenzék szavazatarányainak módosítására: megye típusa és OEVK típusa.</strong></p>
 <p>Az OEVK típusoknál az alábbi módosítót kapja a Fidesz várható szavazataránya:</p>
