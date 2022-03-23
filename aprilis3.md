@@ -11,9 +11,6 @@ permalink: /aprilis3
           <div>
 
 
- <div class="container">
-     <div class="row">
-<div class="col s12">
 
 <p>Az alábbi térkép megmutatja, hogy az adott választókerületben az eddig feldolgozott szavazatok alapján jobban vagy rosszabbul áll-e az adott jelölt a választókerületben. Minél narancssárgább a térkép, annál inkább a Fidesz áll jobban az előzetesen becsült eredményekhez képest, és minél kékebb, annál inkább az ellenzék. A térkép melletti diagram pedig a várható mandátumok számát mutatja.</p>
 <br/>
@@ -22,9 +19,8 @@ permalink: /aprilis3
 
 <iframe title="Eltérés a feldolgozott szavazókörök és a becsült végeredmény különbsége között OEVK szinten" aria-label="Map" id="datawrapper-chart-nYgxp" src="https://datawrapper.dwcdn.net/nYgxp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="553"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
-</div>
-
-<div class="col l5">
+<br/>
+<br/>
 
 <h5>Jelenlegi állás</h5>
 <iframe title="Egyéni mandátumok összesítése" aria-label="Split Bars" id="datawrapper-chart-gS1RO" src="https://datawrapper.dwcdn.net/gS1RO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="169"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
