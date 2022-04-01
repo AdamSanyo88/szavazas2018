@@ -25,7 +25,7 @@ permalink: /modszertan
 <li>EP választás: 30%</li>
 <li>Önkormányzati választás: 15%</li>
 </ul>
-<p>Az MKKP és a Mi Hazánk esetében csak a 2019-es EP választás adatait használja a modell. Az MKKP esetében 20-50% közötti átszavazási hajlandósággal számol a modell az ellenzéki jelölt irányába (Budapesten és szoros körzetek esetében 50%-os, megyei jogú városok esetében 40%-os, egyéb körzetekben 20-30%-os átszavazás a feltételezett). A Mi Hazánk esetében 30%-os átszavazás a feltételezett az ellenzéki jelölt irányába ott, ahol a Jobbik jelöltje indul, más jelölteknél pedig csak 10%.</p>
+<p>Az MKKP és a Mi Hazánk esetében csak a 2019-es EP választás adatait használja a modell. Az MKKP esetében 20-50% közötti átszavazási hajlandósággal számol a modell az ellenzéki jelölt irányába (Budapesten és szoros körzetek esetében 50%-os, megyei jogú városok esetében 40%-os, egyéb körzetekben 20-30%-os átszavazás a feltételezett). A Mi Hazánk esetében 20%-os átszavazás a feltételezett az ellenzéki jelölt irányába ott, ahol a Jobbik jelöltje indul, más jelölteknél pedig csak 10%.</p>
 <br/>
 <p>A modell 42 újrainduló Fidesz jelöltnek további 1-5%-nyi plusz szavazatot ad (vagyis az adott jelölt várhatóan ennyivel teljesíti majd túl a Fidesz listás eredményét), mert ezek a jelöltek a 2014-es és 2018-as választáson is jobban szerepeltek a Fidesz listájánál. Ellenzéki jelöltekre (akik 2018-ban nyertek, és újraindulnak a mandátumért) ugyanez a módosító jelenleg nem érvényesül.</p>
 <br/>
