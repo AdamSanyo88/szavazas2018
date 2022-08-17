@@ -12,7 +12,7 @@ permalink: /rolam
 <div class="card-content">
           <span class="center card-title">Ki készíti az előrejelzéseket?</span>
 		  <br/>
-		  <p><img src="images/adam_2.jpg" style="height: 100%; width: 100%; object-fit: contain"></p>
+		  <p><img src="images/adam_2.png" style="height: 100%; width: 100%; object-fit: contain"></p>
 		  <br/>
           <p>Sanyó Ádám vagyok és adatelemzőként dolgozom egy multicégnél. 2009 óta politikai és civil aktivistaként tevékenykedem, és a 2022-es országgyűlési kampány lesz a nyolcadik választási kampány, amelyben részt veszek.</p>
 		  <p>2009-ben Magyarországon az európai parlamenti választásokon voltam aktivista, 2010-ben pedig egy civil szervezetnek gyűjtöttem aláírásokat egy népszavazási kezdeményezéshez.</p>
