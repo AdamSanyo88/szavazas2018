@@ -81,7 +81,19 @@ layout: default
     }
 
         // Perform D'Hondt calculations based on the provided data
-        // (Use the JavaScript code for D'Hondt calculation provided earlier)
+   // Function to perform D'Hondt calculations
+    function calculate() {
+        // Retrieve the total seats as it's predefined
+        const totalSeats = 21;
+        const minimumVoteShare = parseFloat(document.getElementById('minVoteShare').value);
+
+        const parties = [];
+        for (let i = 1; i <= 10; i++) {
+            const votes = parseInt(document.getElementById('party' + i).value);
+            if (!isNaN(votes)) {
+                parties.push({ name: `Party ${i}`, votes });
+            }
+        }
         
         // After performing D'Hondt calculations, get the allocated seats
         const allocatedSeats = [/* Insert your D'Hondt calculation result here */];
