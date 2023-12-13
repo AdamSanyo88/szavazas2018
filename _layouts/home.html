@@ -41,63 +41,79 @@ layout: default
         <br/>
 			<div class="col s8">
   <h4>Mandátumkalkulátor</h4>
-  <script>
-    // Function to perform D'Hondt calculations
-  function calculate() {
-    const totalSeats = 21; // Assuming predefined total seats
-    const minimumVoteShare = 5; // Assuming predefined
-
-    const parties = [];
-    for (let i = 1; i <= 10; i++) {
-        const partyElement = document.getElementById('party' + i);
-        if (partyElement) {
-            const votes = parseInt(partyElement.value);
-            if (!isNaN(votes)) {
-                parties.push({ name: `Party ${i}`, votes });
-            }
-        }
-    }
-
-  
-        // After performing D'Hondt calculations, get the allocated seats
-      //  const allocatedSeats = [/* Insert your D'Hondt calculation result here */];
-
-        // Display the results
-        displayResult(parties, allocatedSeats);
-    }
-
-    // Function to display the result
-    function displayResult(parties, allocatedSeats) {
-        let result = '<strong>Seat Allocation:</strong><br>';
-        for (let i = 0; i < parties.length; i++) {
-            const partyName = parties[i].name;
-            const seats = allocatedSeats[i] || 0;
-            result += `${partyName}: ${seats} seats<br>`;
-        }
-        document.getElementById('result').innerHTML = result;
-    }
-</script>
-  <form id="voteForm">
    
-        <div id="partyInputs">
-            <h3>Enter Votes for Parties:</h3>
-            <!-- Input fields for party votes -->
-            <label for="party1">Party 1:</label>
-            <input type="number" id="party1" placeholder="Votes for Party 1"><br>
+    
+    <div id="partyInputs">
+        <h3>Enter Votes for Parties:</h3>
+        <!-- Input fields for party votes -->
+        <label for="party1">Party 1:</label>
+        <input type="number" id="party1" placeholder="Votes for Party 1"><br>
 
-            <!-- Add more party inputs as needed (up to 10) -->
-            <!-- Example for Party 2 -->
-            <label for="party2">Party 2:</label>
-            <input type="number" id="party2" placeholder="Votes for Party 2"><br>
-            <!-- Repeat this structure for Party 3, Party 4, ... Party 10 -->
-        </div>
-        <br>
-        <button type="button" onclick="calculate()">Számolás</button><br><br>
-    </form>
+        <!-- Add more party inputs as needed (up to 10) -->
+        <!-- Example for Party 2 -->
+        <label for="party2">Party 2:</label>
+        <input type="number" id="party2" placeholder="Votes for Party 2"><br>
+        <!-- Repeat this structure for Party 3, Party 4, ... Party 10 -->
+    </div>
+    <br>
+    <button type="button" onclick="calculate()">Calculate</button><br><br>
 
     <div id="result">
         <!-- Result will be displayed here -->
     </div>
+
+    <script>
+        function calculate() {
+            const totalSeats = parseInt(document.getElementById('totalSeats').innerText);
+            const minVoteShare = parseFloat(document.getElementById('minVoteShare').innerText);
+
+            const parties = [];
+            for (let i = 1; i <= 10; i++) {
+                const votes = parseInt(document.getElementById('party' + i).value);
+                if (!isNaN(votes)) {
+                    parties.push({ name: `Party ${i}`, votes });
+                }
+            }
+
+            // Perform D'Hondt calculations
+            const allocatedSeats = allocateSeats(parties, totalSeats);
+            displayResult(parties, allocatedSeats);
+        }
+
+        function allocateSeats(parties, totalSeats) {
+            const seats = Array(parties.length).fill(0); // Initialize seats for each party
+
+            for (let seat = 1; seat <= totalSeats; seat++) {
+                let maxQuotient = 0;
+                let maxIndex = -1;
+
+                for (let i = 0; i < parties.length; i++) {
+                    const quotient = parties[i].votes / (seats[i] + 1);
+                    if (quotient > maxQuotient) {
+                        maxQuotient = quotient;
+                        maxIndex = i;
+                    }
+                }
+
+                if (maxIndex !== -1) {
+                    seats[maxIndex]++;
+                }
+            }
+
+            return seats;
+        }
+
+        function displayResult(parties, allocatedSeats) {
+            let result = '<strong>Seat Allocation:</strong><br>';
+            for (let i = 0; i < parties.length; i++) {
+                const partyName = parties[i].name;
+                const seats = allocatedSeats[i] || 0;
+                result += `${partyName}: ${seats} seats<br>`;
+            }
+            document.getElementById('result').innerHTML = result;
+        }
+    </script>
+  
 
  
 
