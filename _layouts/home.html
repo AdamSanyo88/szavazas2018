@@ -42,7 +42,7 @@ layout: default
 			<div class="col s8">
   <h4>Mandátumkalkulátor</h4>
   <form id="voteForm">
-        <label for="totalSeats">Total Seats: 21</label>
+        <label for="totalSeats">Total Seats</label>
         <input type="number" id="totalSeats" placeholder="Total Seats"><br><br>
 
         <label for="minVoteShare">Minimum Vote Share Required (%)</label>
@@ -68,26 +68,27 @@ layout: default
         <!-- Result will be displayed here -->
     </div>
 
-    <script>
-        // Function to perform D'Hondt calculations
-        function calculate() {
-            const totalSeats = parseInt(document.getElementById('totalSeats').value);
-            const minimumVoteShare = parseFloat(document.getElementById('minVoteShare').value);
+ <script>
+    // Function to perform D'Hondt calculations
+    function calculate() {
+        const totalSeats = parseInt(document.getElementById('totalSeats').value);
+        const minimumVoteShare = parseFloat(document.getElementById('minVoteShare').value);
 
-            const parties = [];
-            for (let i = 1; i <= 10; i++) {
-                const votes = parseInt(document.getElementById('party' + i).value);
-                if (!isNaN(votes)) {
-                    parties.push({ name: `Party ${i}`, votes });
-                }
+        const parties = [];
+        for (let i = 1; i <= 10; i++) {
+            const votes = parseInt(document.getElementById('party' + i).value);
+            if (!isNaN(votes)) {
+                parties.push({ name: `Party ${i}`, votes });
             }
-
-            // Perform D'Hondt calculations based on the provided data
-            // (Use the JavaScript code for D'Hondt calculation provided earlier)
-            // Ensure you include the calculate() and displayResult() functions here or in a linked script file
         }
 
-      // Display the results
+        // Perform D'Hondt calculations based on the provided data
+        // (Use the JavaScript code for D'Hondt calculation provided earlier)
+        
+        // After performing D'Hondt calculations, get the allocated seats
+        const allocatedSeats = [/* Insert your D'Hondt calculation result here */];
+
+        // Display the results
         displayResult(parties, allocatedSeats);
     }
 
@@ -100,7 +101,9 @@ layout: default
             result += `${partyName}: ${seats} seats<br>`;
         }
         document.getElementById('result').innerHTML = result;
-    </script>
+    }
+</script>
+
 
   
 </div>
