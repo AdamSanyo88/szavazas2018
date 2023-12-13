@@ -44,32 +44,32 @@ layout: default
    
     
     <div id="partyInputs">
-        <h3>Add meg a pártok szavazatarányát (%-ban)</h3>
+        <h5>Add meg a pártok szavazatarányát (%-ban)</h5>
         <!-- Input fields for party votes -->
         <label for="party1"><h5>Fidesz-KDNP</h5></label>
-        <input type="number" id="party1" placeholder="Votes for Party 1"><br>
+        <input type="number" id="Fidesz-KDNP"><br>
         <label for="party2"><h5>DK</h5></label>
-        <input type="number" id="party2" placeholder="Votes for Party 2"><br>
+        <input type="number" id="DK"<br>
 		 <label for="party2"><h5>Momentum</h5></label>
-        <input type="number" id="party3" placeholder="Votes for Party 2"><br>
+        <input type="number" id="Momentum"<br>
 		 <label for="party2"><h5>Mi Hazánk</h5></label>
-        <input type="number" id="party4" placeholder="Votes for Party 2"><br>
+        <input type="number" id="Mi Hazánk"<br>
 		 <label for="party2"><h5>MKKP</h5></label>
-        <input type="number" id="party5" placeholder="Votes for Party 2"><br>
+        <input type="number" id="MKKP"<br>
 		 <label for="party2"><h5>MSZP</h5></label>
-        <input type="number" id="party6" placeholder="Votes for Party 2"><br>
+        <input type="number" id="MSZP"<br>
 		 <label for="party2"><h5>Jobbik</h5></label>
-        <input type="number" id="party7" placeholder="Votes for Party 2"><br>
+        <input type="number" id="Jobbik"<br>
 		 <label for="party2"><h5>LMP</h8></label>
-        <input type="number" id="party8" placeholder="Votes for Party 2"><br>
+        <input type="number" id="LMP"<br>
 		<label for="party2"><h5>Párbeszéd</h8></label>
-        <input type="number" id="party9" placeholder="Votes for Party 2"><br>
+        <input type="number" id="Párbeszéd"<br>
 		<label for="party2"><h5>Nép Pártján</h8></label>
-        <input type="number" id="party10" placeholder="Votes for Party 2"><br>
+        <input type="number" id="Nép Pártján"<br>
 		<label for="party2"><h5>Egyéb pártok</h8></label>
-        <input type="number" id="party11" placeholder="Votes for Party 2"><br>
+        <input type="number" id="Egyéb pártok"<br>
 
-        <!-- Repeat this structure for Party 3, Party 4, ... Party 10 -->
+       
     </div>
     <br>
     <button type="button" onclick="calculate()">Számolás</button><br><br>
@@ -120,7 +120,7 @@ layout: default
         }
 
         function displayResult(parties, allocatedSeats) {
-            let result = '<strong>Seat Allocation:</strong><br>';
+            let result = '<strong>Mandátumok száma:</strong><br>';
             for (let i = 0; i < parties.length; i++) {
                 const partyName = parties[i].name;
                 const seats = allocatedSeats[i] || 0;
