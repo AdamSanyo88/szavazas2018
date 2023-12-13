@@ -42,12 +42,7 @@ layout: default
 			<div class="col s8">
   <h4>Mandátumkalkulátor</h4>
   <form id="voteForm">
-        <label for="totalSeats">Total Seats</label>
-        <input type="number" id="totalSeats" placeholder="Total Seats"><br><br>
-
-        <label for="minVoteShare">Minimum Vote Share Required (%)</label>
-        <input type="number" id="minVoteShare" placeholder="Minimum Vote Share"><br><br>
-
+   
         <div id="partyInputs">
             <h3>Enter Votes for Parties:</h3>
             <!-- Input fields for party votes -->
@@ -70,17 +65,20 @@ layout: default
 
  <script>
     // Function to perform D'Hondt calculations
-    function calculate() {
-        const totalSeats = parseInt(document.getElementById('totalSeats').value);
-        const minimumVoteShare = parseFloat(document.getElementById('minVoteShare').value);
+  function calculate() {
+    const totalSeats = 21; // Assuming predefined total seats
+    const minimumVoteShare = 5; // Assuming predefined
 
-        const parties = [];
-        for (let i = 1; i <= 10; i++) {
-            const votes = parseInt(document.getElementById('party' + i).value);
+    const parties = [];
+    for (let i = 1; i <= 10; i++) {
+        const partyElement = document.getElementById('party' + i);
+        if (partyElement) {
+            const votes = parseInt(partyElement.value);
             if (!isNaN(votes)) {
                 parties.push({ name: `Party ${i}`, votes });
             }
         }
+    }
 
         // Perform D'Hondt calculations based on the provided data
         // (Use the JavaScript code for D'Hondt calculation provided earlier)
