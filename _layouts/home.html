@@ -121,7 +121,7 @@ layout: default
 
         function displayResult(parties, allocatedSeats) {
             let result = '<strong>Mandátumok száma:</strong><br>';
-            for (let i = 0; i < parties.length; i++) {
+            for (let i = 1; i <= parties.length; i++) {
                 const partyName = document.getElementById('party' + i).previousElementSibling.firstChild.innerHTML;
                 const seats = allocatedSeats[i] || 0;
                 result += `${partyName}: ${seats} seats<br>`;
