@@ -68,7 +68,7 @@ layout: default
             const minVoteShare = 5
 
             const parties = [];
-            for (let i = 1; i <= 10; i++) {
+            for (let i = 1; i <= 2; i++) {
                 const votes = parseInt(document.getElementById('party' + i).value);
                 if (!isNaN(votes)) {
                     parties.push({ name: `Party ${i}`, votes });
