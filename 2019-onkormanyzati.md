@@ -42,22 +42,22 @@ permalink: /2019-onkormanyzati
 <br/>
 
 <h5 id="MJ_ker">Megyei jogú városok polgármesteri eredményei</h5>
-
+<iframe title="Megyei jogú városok polgármesteri eredménye (Fidesz és ellenzéki jelölt szavazataránya)" aria-label="Range Plot" id="datawrapper-chart-3pSQf" src="https://datawrapper.dwcdn.net/3pSQf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="609" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 <br/>
 <br/>
 
 <h5 id="MJ_ker">Megyei jogú városok egyéni választókerületi eredményei</h5>
-
+<iframe title="Megyei jogú városok egyéni választókerületi eredménye (az ellenzék és a Fidesz jelöltjének eredményei)" aria-label="Range Plot" id="datawrapper-chart-hSZ8I" src="https://datawrapper.dwcdn.net/hSZ8I/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="7672" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 <br/>
 <br/>
 
 <h5 id="MJ_kozgyules">Egyes megyei jogú városok közgyüléseinek összetétele</h5>
-
+<iframe title="Megyei jogú városok közgyűlési összetétele" aria-label="Multiple Pies" id="datawrapper-chart-bmbbZ" src="https://datawrapper.dwcdn.net/bmbbZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2419" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 <br/>
 <br/>
 
 <h5 id="megyei_lista">Megyei közgyűlések összetétele (a megyei lista alapján)</h5>
-
+<iframe title="Megyei közgyűlések összetétele" aria-label="Multiple Pies" id="datawrapper-chart-7eH4G" src="https://datawrapper.dwcdn.net/7eH4G/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1746" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 <br/>
 <br/>
 
