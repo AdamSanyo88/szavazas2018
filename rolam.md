@@ -3,7 +3,13 @@ layout: page
 title: Rólam
 permalink: /rolam
 ---
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-45281172-4');
+</script>
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
  <div class="row">
