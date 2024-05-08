@@ -22,7 +22,7 @@ permalink: /modszertan
 <br/>
 
 <p>A modell a különböző pártok támogatottságát és a Fidesz országos támogatottságát Tóka Gábor előrejelzéseiból számolja. Részletek az aktuális országos támogatottság adatairól a <a href="https://www.facebook.com/valasztasi.kalauz">Vox Populi  Facebook oldalon elérhetők</a>.</p>
-<p>A jelenlegi modell a Medián 2022 április 26-30. között készített adataiból és a 2022-es országgyűlési választáson elért településtípusonként elért szavazatányból végez számítást. A részletes adatok (a HVG360 előfizetőinek) <a href="https://hvg.hu/360/20240508_hvg-median-magyar-peter-tisza-orban-viktor-fidesz-ellenzek-dobrev-klara">ebben a cikkben olvashatók</a>.</p>
+<p>A jelenlegi modell a Medián 2024. április 26-30-a között készített adataiból és a 2022-es országgyűlési választáson elért településtípusonként elért szavazatarányból végez számítást. A részletes adatok (a HVG360 előfizetőinek) <a href="https://hvg.hu/360/20240508_hvg-median-magyar-peter-tisza-orban-viktor-fidesz-ellenzek-dobrev-klara">ebben a cikkben olvashatók</a>.</p>
 <p>A jelenlegi feltételezés szerint a 2024-es választásokon minimálisan fog csak eltérni a választói részvétel településtípus szerint, ezért az ott elért relatív szavazatarányok helytállóak.</p>
 <br/>
 <p>A pártok szorzószámai:</p>
