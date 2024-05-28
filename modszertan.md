@@ -25,9 +25,9 @@ permalink: /modszertan
 <p>A jelenlegi modell a Medián 2024. április 26-30-a között készített adataiból és a 2022-es országgyűlési választáson elért településtípusonként elért szavazatarányból végez számítást. A részletes adatok (a HVG360 előfizetőinek) <a href="https://hvg.hu/360/20240508_hvg-median-magyar-peter-tisza-orban-viktor-fidesz-ellenzek-dobrev-klara">ebben a cikkben olvashatók</a>.</p>
 <p>A jelenlegi feltételezés szerint a 2024-es választásokon minimálisan fog csak eltérni a választói részvétel településtípus szerint, ezért az ott elért relatív szavazatarányok helytállóak.</p>
 <br/>
-<p>A pártok szorzószámai:</p>
+<p>A pártok szorzószámai településtípusonként az országos szavazatarányhoz képest (leggyengébb és legerősebb településtípusok):</p>
 <ul>
-<li><strong>Fidesz:</strong> 0.75 (Főváros) - 1.2 (Községek)</li>
+<li><strong>Fidesz:</strong> 0.75 (Budapest) - 1.2 (Községek)</li>
 <li><strong>MSZP-DK-Párbeszéd:</strong> 0.75 (Községek) - 1.3 (Budapest)</li>
 <li><strong>Tisza Párt:</strong> 0.8 (Községek) - 1.15 (Megyei jogú városok)</li>
 <li><strong>Mi Hazánk:</strong> 0.7 (Budapest) - 1.1 (Községek)</li>
