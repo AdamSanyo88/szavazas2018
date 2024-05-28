@@ -35,6 +35,6 @@ permalink: /modszertan
 
 <br/>
 <p>A modell jelenleg nem számol a különböző pártok különböző mozgósítási sikerességével, mivel ezzel kapcsolatban nem áll rendelkezésre elég adat.</p>
-<p>A modell nem feltételezi, hogy egy fővárosi listára szavazó másra szavazna az EP-választáson (tehát nem számol szavazatmegosztással).</p>
+<p>A modell feltételezi, hogy Vitézy Dávid 4 százalékponntal erősíti az LMP budapesti listáját és Karácsony Gergely 5 százalékponttal a Párbeszéd-DK-MSZP budapesti listáját (ezt a feltételezést a Medián 2024. május 17-22 közti kutatása is megerősíti).</p>
 
     
