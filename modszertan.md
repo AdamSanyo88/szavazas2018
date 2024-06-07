@@ -43,11 +43,11 @@ permalink: /modszertan
 <p>Szentkirályi Alexandra visszalépését követően a modell az alábbi szavazási hajlandósággal számol a különböző budapesti listára szavazók esetében:</p>
 <ul>
 <li><strong>Fidesz:</strong> Vitézy 98% - Karácsony 2%</li>
-<li><strong>MSZP-DK-Párbeszéd:</strong>Vitézy 2% - Karácsony 98%</li>
-<li><strong>Tisza Párt:</strong>Vitézy 37% - Karácsony 63%</li>
-<li><strong>Momentum:</strong>Vitézy 15% - Karácsony 85%</li>
-<li><strong>LMP:</strong>Vitézy 90% - Karácsony 10%</li>
-<li><strong>MKKP:</strong>Vitézy 25% - Karácsony 75%</li>
+<li><strong>MSZP-DK-Párbeszéd:</strong> Vitézy 2% - Karácsony 98%</li>
+<li><strong>Tisza Párt:</strong> Vitézy 37% - Karácsony 63%</li>
+<li><strong>Momentum:</strong> Vitézy 15% - Karácsony 85%</li>
+<li><strong>LMP:</strong> Vitézy 90% - Karácsony 10%</li>
+<li><strong>MKKP:</strong> Vitézy 25% - Karácsony 75%</li>
 </ul>
 
 <p>Fontos, hogy mivel egyetlen kutatás készült csak (és az is csak a Tisza Párt szavazóit vizsgálta) a főpolgármester-jelölteket érintő másodlagos preferenciákról, ezért az előrejelzés ebben az esetben nagyon bizonytalan.</p>
