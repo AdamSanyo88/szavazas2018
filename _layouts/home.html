@@ -13,40 +13,38 @@ layout: default
   <div class="section no-pad-bot" id="index-banner">
    <div class="container">
      <div class="row">
-<div class="col l3"><a href="../"><img src="images/2019_logo_2_200x200.png"></a>
-<a href="../"><h5><span style="color: black;">taktikaiszavazas.hu</span></a></h5>
+<div class="col l3">
+  <a href="../"><img src="images/2019_logo_2_200x200.png"></a>
+  <a href="../"><h5><span style="color: black;">taktikaiszavazas.hu</span></h5></a>
 </div>
+
 <div class="col l7 offset-l1 center">
-      <h3 class="header center">Választás 2026</h3>
-	 <h5 class="header center">2026. április 12.</h5>
-    </div>
-     <div id="valasztas-countdown" class="header center"></div>
+  <h3 class="header center">Választás 2026</h3>
+  <h5 class="header center">2026. április 12.</h5>
+
+  <!-- COUNTDOWN -->
+  <h5 id="valasztas-countdown" class="header center"></h5>
 </div>
 
 <script>
   (function () {
-    // Célidőpont – a böngésző helyi ideje szerint (Budapest esetén oké)
     const targetDate = new Date("2026-04-12T00:00:00");
-
     const now = new Date();
     let diff = targetDate - now;
 
     const countdownEl = document.getElementById("valasztas-countdown");
 
-    // Ha már lejárt a dátum
     if (diff <= 0) {
       countdownEl.textContent = "A választás napja elérkezett.";
       return;
     }
 
-    // Különbontás nap-óra-perc formátumra
     const minutesTotal = Math.floor(diff / (1000 * 60));
     const days = Math.floor(minutesTotal / (60 * 24));
     const hours = Math.floor((minutesTotal - days * 24 * 60) / 60);
     const minutes = minutesTotal % 60;
 
     countdownEl.textContent =
-      "Hátralévő idő: " +
       days + " nap " +
       hours + " óra " +
       minutes + " perc";
@@ -60,7 +58,7 @@ layout: default
 	  
 	
       <div class="row">
-<div class="col l8 offset-r1">
+<div class="col l10">
 <iframe title="Választókerületi becslés" aria-label="Choropleth map" id="datawrapper-chart-QBFHb" src="https://datawrapper.dwcdn.net/QBFHb/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="529" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 </div>
