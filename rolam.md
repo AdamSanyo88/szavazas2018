@@ -20,7 +20,7 @@ permalink: /rolam
 		  <br/>
 		  <p><img src="images/adam_2.png" style="height: 100%; width: 100%; object-fit: contain"></p>
 		  <br/>
-          <p>Sanyó Ádám vagyok és adatelemzőként dolgozom egy multicégnél. 2009 óta politikai és civil aktivistaként tevékenykedem, és a 2022-es országgyűlési kampány lesz a nyolcadik választási kampány, amelyben részt veszek.</p>
+          <p>Sanyó Ádám vagyok és adatelemzőként dolgozom egy multicégnél. 2009 óta politikai és civil aktivistaként tevékenykedem, és a 2026-os országgyűlési kampány lesz a tizedik választási kampány, amelyet figyelemmel kísérek.</p>
 		  <p>2009-ben Magyarországon az európai parlamenti választásokon voltam aktivista, 2010-ben pedig egy civil szervezetnek gyűjtöttem aláírásokat egy népszavazási kezdeményezéshez.</p>
 		  <p>2012-2016 között Angliában éltem és dolgoztam. 2014-2016 között angol politikai pártok kampányában segítettem, illetve a 2016-os Brexit népszavazásban az EU-párti kampány egyik önkéntes-koordinátora voltam Cambridge-ben.</p>
 		  <br/>
