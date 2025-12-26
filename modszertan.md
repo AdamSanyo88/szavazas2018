@@ -22,7 +22,7 @@ permalink: /modszertan
 
 <p>A választókerületi modell öt részből épül fel:</p>
 <p>1. Az EP választások egyéni választókerületre (OEVK) vetített eredményei.</p>
-<p>2. A pártok országos támogatottsága az összes pártválasztó vonatkozó adatok alapján (ezt Tóka Gábor, <a href="https://www.facebook.com/valasztasi.kalauz">Vox Populi választási kalauz</a> oldala rendszeresen publikálja.</p>
+<p>2. A pártok országos támogatottsága az összes pártválasztó vonatkozó adatok alapján (ezt Tóka Gábor, <a href="https://www.facebook.com/valasztasi.kalauz">Vox Populi választási kalauz</a> oldala rendszeresen publikálja).</p>
 <p>3. A 13 újrainduló ellenzéki jelölt várható szavazataránya az átrajzolt OEVK-kban maradt szavazószámok alapján.</p>
 <p>4. A Fidesz szavazatarányának várható regionális mozgására adott szorzó (0.98 - 1.02 között).</p>
 <p>5. A Fidesz "erős jelöltjeinek" adott szorzó (1.01 - 1.05 között).</p>
