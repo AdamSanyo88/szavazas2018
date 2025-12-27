@@ -18,6 +18,8 @@ permalink: /modszertan
 		  <h5>A 2026-os országgyűlési választáshoz használt becslés módszertana</h5> 
 
 <br/>
+<p><strong>Utolsó frissítés: 2025. december 26.</strong>
+<br/>
 <p><strong>Bemeneti adatok</strong></p>
 
 <p>A választókerületi modell öt részből épül fel:</p>
