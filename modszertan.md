@@ -18,7 +18,7 @@ permalink: /modszertan
 		  <h5>A 2026-os országgyűlési választáshoz használt becslés módszertana</h5> 
 
 <br/>
-<p><strong>Utolsó frissítés: 2025. december 26.</strong>
+<p><strong>Utolsó frissítés: 2026. január 27.</strong>
 <br/>
 <p><strong>Bemeneti adatok</strong></p>
 
@@ -37,7 +37,7 @@ permalink: /modszertan
 <br/>
 <p><strong>2. A pártok országos támogatottsága</strong></p>
 <p>Mivel a biztos pártválasztókra vonatkozó adatok egy feltételezett mozgósítási aránnyal számolnak, ezért bizonytalanok a jövőre vonatkozóan. Ez okból a teljes népesség adatai alapján készül a modell, ami a várható belföldi szavazatszámokból kalkulál országos támogatottságot.</p>
-<p>A modell jelenleg 72%-os országos részvétellel kalkulál, választókerülettől függetlenül. Ezen felül 250 ezer listás szavazatot kap a Fidesz, 50 ezret a Tisza, és 10 ezret a Mi Hazánk a határon túli levélszavazatokból (ez csak a listás szavazatok számítását befolyásolja a D'Hondt-mátrixban).</p>
+<p>A modell jelenleg 74%-os országos részvétellel kalkulál, amely súlyozva van az adott választókerület korábbi részvételi mintázatához (például kiemelkedően magas, 85% körüli részvétel várható a Budapest 4-es körzetében, és jóval alacsonyabb, 63%-os, Borsod-Abaúj Zempén megye 3-as körzetében). Ezen felül 250 ezer listás szavazatot kap a Fidesz, 50 ezret a Tisza, és 10 ezret a Mi Hazánk a határon túli levélszavazatokból (ez csak a listás szavazatok számítását befolyásolja a D'Hondt-mátrixban).</p>
 <p>Az országos szavazatszámokra vonatkozó adatok 1-2 hetente frissítve lesznek, és ekkor kerül újra publikálásra egy becslés.</p>
 <br/>
 <p><strong>3. Újrainduló ellenzéki képviselők (Budapest és Szeged 1-es körzetben)</strong></p>
