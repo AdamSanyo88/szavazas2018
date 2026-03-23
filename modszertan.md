@@ -18,7 +18,7 @@ permalink: /modszertan
 		  <h5>A 2026-os országgyűlési választáshoz használt becslés módszertana</h5> 
 
 <br/>
-<p><strong>Utolsó frissítés: 2026. január 27.</strong>
+<p><strong>Utolsó frissítés: 2026. március 23.</strong>
 <br/>
 <p><strong>Bemeneti adatok</strong></p>
 
@@ -37,7 +37,7 @@ permalink: /modszertan
 <br/>
 <p><strong>2. A pártok országos támogatottsága</strong></p>
 <p>Mivel a biztos pártválasztókra vonatkozó adatok egy feltételezett mozgósítási aránnyal számolnak, ezért bizonytalanok a jövőre vonatkozóan. Ez okból a teljes népesség adatai alapján készül a modell, ami a várható belföldi szavazatszámokból kalkulál országos támogatottságot.</p>
-<p>A modell jelenleg 74%-os országos részvétellel kalkulál, amely súlyozva van az adott választókerület korábbi részvételi mintázatához (például kiemelkedően magas, 85% körüli részvétel várható a Budapest 4-es körzetében, és jóval alacsonyabb, 63%-os, Borsod-Abaúj Zempén megye 3-as körzetében). Ezen felül 250 ezer listás szavazatot kap a Fidesz, 50 ezret a Tisza, és 10 ezret a Mi Hazánk a határon túli levélszavazatokból (ez csak a listás szavazatok számítását befolyásolja a D'Hondt-mátrixban).</p>
+<p>A modell jelenleg 74%-os országos részvétellel kalkulál, amely súlyozva van az adott választókerület korábbi részvételi mintázatához (például kiemelkedően magas, 85% körüli részvétel várható a Budapest 4-es körzetében, és jóval alacsonyabb, 63%-os, Borsod-Abaúj Zempén megye 3-as körzetében). Ezen felül 273 ezer listás szavazatot kap a Fidesz, 42 ezret a Tisza, és 10 ezret a három kisebb párt (ez csak a listás szavazatok számítását befolyásolja a D'Hondt-mátrixban).</p>
 <p>Az országos szavazatszámokra vonatkozó adatok 1-2 hetente frissítve lesznek, és ekkor kerül újra publikálásra egy becslés.</p>
 <br/>
 <p><strong>3. Újrainduló ellenzéki képviselők (Budapest és Szeged 1-es körzetben)</strong></p>
@@ -59,5 +59,7 @@ permalink: /modszertan
 <p>A Fidesz a korábbi választásokon átlagosan 1%-kal kapott több egyéni szavazatot a listás szavazatoknál (ez nagyjából 25-28 ezer szavazatot jelent). Ennek az eloszlása azonban egyenlőtlen volt. A modell ezen része azt becsli meg, hogy a korábban a Fidesz listát felülteljesítő egyéni képviselő hány százalékkal fog több szavazatot kapni a Fidesz listájánál.</p>
 <p>A szorzók 1.01 és 1.05 között mozognak és összesen 30 újrainduló fideszes képviselőt érintenek.</p>
 <br/>
+<p><strong>6. A kisebb pártok és egyéb jelöltek megléte</strong>
+<p>Jelenlegi feltételezések szerint az MKKP szavazóinak 20%-a átszavazat a Tisza egyéni jelöltjére, ahol pedig nincs MKKP jelölt, ott ez az arány 60%. Az egyéb független jelöltek - korábbi választásokon elért eredményeik alapján - 0.5-2%-nyi szavazatra számíthatnak. A modell külön kezeli néhány ismertebb egyéni jelölt eredményét, mint Simonka György, Czeglédy Csaba, Mirkóczki Ádám, és Jakab Péter, ők arányaiban magasabb szavazatarányra számíthatnak.</p>
 <p><strong>Egyéb megjegyzések</strong></p>
 <p>A modell a későbbiekben még módosulhat, különösen akkor, ha több információ derül ki az egyéni jelöltekről, illetve a kisebb pártok (DK, Mi Hazánk, és MKKP) átszavazási hajlandóságáról - vagyis hogy egyéni szavazatukat milyen arányban adják a Tisza és a Fidesz jelöltjeire.</p>
