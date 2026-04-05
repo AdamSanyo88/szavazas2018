@@ -28,14 +28,14 @@ layout: default
 
 <script>
   (function () {
-    const targetDate = new Date("2026-04-12T01:00:00");
+    const targetDate = new Date("2026-04-12T04:00:00Z");
     const now = new Date();
     let diff = targetDate - now;
 
     const countdownEl = document.getElementById("valasztas-countdown");
 
     if (diff <= 0) {
-      countdownEl.textContent = "A választás napja elérkezett.";
+      countdownEl.textContent = "A választás napja elérkezett";
       return;
     }
 
